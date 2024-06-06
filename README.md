@@ -31,7 +31,7 @@ chemprop_train \
     --features_path Data/UniTox-GNN.npz \
     --no_features_scaling \
     --split_type ${SPLIT_TYPE} \
-    --target_columns cardio_toxicity_${TARGET_TYPE} dermatologic_toxicity_${TARGET_TYPE} hematotoxicity_${TARGET_TYPE} infertility_${TARGET_TYPE} liver_toxicity_${TARGET_TYPE} ototoxicity_${TARGET_TYPE} pulmonary_toxicity_${TARGET_TYPE} renal_toxicity_${TARGET_TYPE} \
+    --target_columns cardio_toxicity_${TARGET_TYPE} dermatological_toxicity_${TARGET_TYPE} hematological_${TARGET_TYPE} infertility_${TARGET_TYPE} liver_toxicity_${TARGET_TYPE} ototoxicity_${TARGET_TYPE} pulmonary_toxicity_${TARGET_TYPE} renal_toxicity_${TARGET_TYPE} \
     --show_individual_scores \
     --save_dir Models/chemprop_rdkit_${TARGET_TYPE}_${SPLIT_TYPE} \
     --num_folds 10 \
