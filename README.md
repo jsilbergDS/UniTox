@@ -1,7 +1,13 @@
 # UniTox
 
+UniTox is a unified dataset of 2,418 FDA-approved drugs with toxicity summaries and ratings produced by GPT-4o based on FDA drug labels for eight toxicity types: cardiotoxicity, liver toxicity, renal toxicity, pulmonary toxicity, hematological toxicity, dermatologic toxicity, ototoxicity, and infertility. The dataset is available as a CSV file in `Data/UniTox.csv`.
+
+Please note that these toxicity ratings are produce by an AI model and should not be used in place of expert medical advice.
+
 
 ## GNN Training
+
+We trained a graph neural network model called [Chemprop-RDKit](https://github.com/chemprop/chemprop) on a subset of 1,349 small molecule drugs in UniTox to predict the toxicity ratings. Commands for reproducing these results are below.
 
 First, compute RDKit fingerprints for the drugs using chemfunc version 1.0.4.
 
