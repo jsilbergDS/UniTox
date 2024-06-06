@@ -1,0 +1,1349 @@
+,Trade Name,Generic/Proper Name(s),Active Ingredient(s),Cardiotoxicity,Label Section ,DICT _ Concern,Keywords,DIC Severity Level,split
+0,Hyaluronic Acid,HYALURONIC ACID,HYALURONIC ACID,,no,no,,,train
+1,ZYPREXA Relprevv,OLANZAPINE PAMOATE,Olanzapine pamoate,Arrhythmia,wp,less,"tachycardia, bradycardia",mild,test
+2,Tigan,TRIMETHOBENZAMIDE HYDROCHLORIDE,Trimethobenzamide Hydrochloride,,no,no,,,test
+3,BICILLIN L-A,PENICILLIN G BENZATHINE,PENICILLIN G BENZATHINE,Arrhythmia,ar,less,Cardiac arrest,severe,test
+4,INVEGA HAFYERA,PALIPERIDONE PALMITATE,paliperidone palmitate,Arrhythmia,wp,most,QT Prolongation,moderate,train
+5,Aveed,TESTOSTERONE UNDECANOATE,TESTOSTERONE UNDECANOATE,Heart Damage,wp,most,major adverse cardiovascular events (MACE),severe,train
+6,ARISTADA,ARIPIPRAZOLE LAUROXIL,aripiprazole lauroxil,Mixed,wp,less,hypotension/ tachycardia,mild,test
+7,Signifor LAR,PASIREOTIDE,PASIREOTIDE,Arrhythmia,wp,most,QT prolongation ,moderate,train
+8,TRIPTODUR,TRIPTORELIN,triptorelin,Heart Damage,ar,less,Hypertension,mild,test
+9,VIVITROL,NALTREXONE,naltrexone,Mixed,ar,less,cardiac failure,severe,test
+10,Apretude,CABOTEGRAVIR,CABOTEGRAVIR SODIUM,,CLINICAL PHARMACOLOGY,no,QT interval is not prolonged ,,test
+11,Fulvestrant,FULVESTRANT,Fulvestrant,,no,no,,,test
+12,AQUASOL A,VITAMIN A PALMITATE,VITAMIN A PALMITATE,,sp,ambiguous,hypotension(Pediatric Use),mild,train
+13,BAL,DIMERCAPROL,Dimercaprol,Mixed,ar,less,tachycardia/blood pressure,mild,train
+14,Trelstar,TRIPTORELIN PAMOATE,TRIPTORELIN PAMOATE,Mixed,wp,most,sudden cardiac death/prolong the QT interval ,severe,test
+15,carboprost tromethamine,CARBOPROST TROMETHAMINE,CARBOPROST TROMETHAMINE,Mixed,ar,less,Tachycardia/Hypertension,,train
+16,Hydroxocobalamin,HYDROXOCOBALAMIN,HYDROXOCOBALAMIN ACETATE,,no,no,,,test
+17,Cyanocobalamin,CYANOCOBALAMIN,Cyanocobalamin,Heart Damage,ar,less,congestive heart failure,severe,train
+18,Estradiol Valerate,ESTRADIOL VALERATE,ESTRADIOL VALERATE,Heart Damage,bw,most,myocardial infarction,severe,test
+19,Testosterone Cypionate,TESTOSTERONE CYPIONATE,TESTOSTERONE CYPIONATE,Heart Damage,wp,most,major adverse cardiovascular events,severe,test
+20,Streptomycin,STREPTOMYCIN,STREPTOMYCIN SULFATE,,no,no,,,test
+21,Medroxyprogesterone Acetate,MEDROXYPROGESTERONE ACETATE,MEDROXYPROGESTERONE ACETATE,Arrhythmia,ar,less,Tachycardia,mild,test
+22,Haloperidol Decanoate,HALOPERIDOL DECANOATE,HALOPERIDOL DECANOATE,Mixed,bw,most,sudden death/Torsades de Pointes,severe,train
+23,Depo-Estradiol,ESTRADIOL CYPIONATE,ESTRADIOL CYPIONATE,Heart Damage,bw,most,myocardial infarction,severe,test
+24,Haloperidol,HALOPERIDOL LACTATE,Haloperidol Lactate,Mixed,bw,most,sudden death/Torsades de Pointes,severe,train
+25,ziprasidone mesylate,ZIPRASIDONE MESYLATE,ZIPRASIDONE MESYLATE,Arrhythmia,wp,less,change in QTc from baseline,mild,test
+26,PENICILLIN G PROCAINE,PENICILLIN G PROCAINE,PENICILLIN G PROCAINE,,no,no,,,test
+27,Nandrolone Decanoate,NANDROLONE DECANOATE,Nandrolone Decanoate,,sp,ambiguous,Caution is required for patients with cardiac disease,,train
+28,Bleomycin,BLEOMYCIN,BLEOMYCIN SULFATE,Heart Damage,wp,less,hypotension,mild,train
+29,Polymyxin B,POLYMYXIN B,POLYMYXIN B SULFATE,,no,no,,,test
+30,Magnesium Sulfate,MAGNESIUM SULFATE,MAGNESIUM SULFATE HEPTAHYDRATE,,sp,ambiguous,serious changes in cardiac conduction  in digitalized patients(Drug  Interactions),,train
+31,Premarin,CONJUGATED ESTROGENS,"ESTROGENS, CONJUGATED",Heart Damage,ar,less,Myocardial infarction,severe,test
+32,CAPASTAT SULFATE,CAPREOMYCIN,capreomycin sulfate,,no,no,,,test
+33,INFED,IRON DEXTRAN,IRON DEXTRAN,Mixed,ar,less,patients with pre-existing cardiovascular disease/cardiac arrest,,test
+34,Solu-Cortef,HYDROCORTISONE SODIUM SUCCINATE,HYDROCORTISONE SODIUM SUCCINATE,Heart Damage,wp,less,elevation of blood pressure,mild,train
+35,Calcium Disodium Versenate,EDETATE CALCIUM DISODIUM,EDETATE CALCIUM DISODIUM,Mixed,wp,less,cardiac rhythm irregularities,mild,train
+36,Oxytocin,OXYTOCIN,OXYTOCIN,Arrhythmia,ar,less,Premature ventricular contractions,mild,train
+37,Penicillin G Sodium,PENICILLIN G SODIUM,PENICILLIN G SODIUM,Heart Damage,ar,less,congestive heart failure ,severe,test
+38,Phentolamine Mesylate,PHENTOLAMINE MESYLATE,Phentolamine Mesylate,Mixed,wp,most,Myocardial infarction/cardiac arrhythmias,severe,test
+39,Colistimethate Sodium,COLISTIMETHATE SODIUM,Colistimethate Sodium,,no,no,,,test
+40,Orphenadrine Citrate,ORPHENADRINE CITRATE,Orphenadrine Citrate,Arrhythmia,ar,less,"tachycardia, palpitation",mild,train
+41,Midazolam,MIDAZOLAM HYDROCHLORIDE,Midazolam Hydrochloride,Arrhythmia,wp,most,cardiac arrest,severe,test
+42,Metoclopramide,METOCLOPRAMIDE HYDROCHLORIDE,METOCLOPRAMIDE HYDROCHLORIDE,Mixed,ar,less,cardiac arrhythmias,mild,test
+43,Penicillin G Potassium,PENICILLIN G POTASSIUM,PENICILLIN G POTASSIUM,Mixed,ar,less,hypotension/tachycardia,mild,test
+44,pentamidine isethionate,PENTAMIDINE ISETHIONATE,PENTAMIDINE ISETHIONATE,Mixed,wp,less,"cardiac
+arrhythmias/hypotension",mild,test
+45,Diphenhydramine Hydrochloride,DIPHENHYDRAMINE HYDROCHLORIDE,DIPHENHYDRAMINE HYDROCHLORIDE,Mixed,ar,less,tachycardia,mild,test
+46,PROCAINAMIDE HYDROCHLORIDE,PROCAINAMIDE HYDROCHLORIDE,PROCAINAMIDE HYDROCHLORIDE,Arrhythmia,bw,most,cardiac arrest,severe,train
+47,Leucovorin Calcium,LEUCOVORIN CALCIUM,LEUCOVORIN CALCIUM,,no,no,,,train
+48,Cefuroxime sodium,CEFUROXIME SODIUM,cefuroxime sodium,,no,no,,,test
+49,PROCHLORPERAZINE EDISYLATE,PROCHLORPERAZINE EDISYLATE,PROCHLORPERAZINE EDISYLATE,Arrhythmia,ar,less,tachycardia,mild,test
+50,Cefazolin,CEFAZOLIN,CEFAZOLIN SODIUM,,no,no,,,test
+51,Droperidol,DROPERIDOL,DROPERIDOL,Arrhythmia,bw,most,fatal QT prolongation,severe,test
+52,Ketamine Hydrochloride,KETAMINE HYDROCHLORIDE,KETAMINE HYDROCHLORIDE,Mixed,ar,less,hypotension /bradycardia,mild,train
+53,ONDANSETRON,ONDANSETRON,ONDANSETRON HYDROCHLORIDE,Arrhythmia,wp,most,Torsade de Pointes,moderate,train
+54,Pentobarbital Sodium,PENTOBARBITAL SODIUM,Pentobarbital Sodium,Mixed,wp,less ,acute myocardial infarction/cardiac rhythm,mild,train
+55,Amikacin Sulfate,AMIKACIN SULFATE,AMIKACIN SULFATE,,no,no,,,train
+56,THIAMINE HYDROCHLORIDE,THIAMINE HYDROCHLORIDE,THIAMINE HYDROCHLORIDE,,no,no,,,test
+57,Methylprednisolone Sodium Succinate,METHYLPREDNISOLONE SODIUM SUCCINATE,METHYLPREDNISOLONE SODIUM SUCCINATE,Heart Damage,wp,less,elevation of blood pressure,mild,test
+58,Dimenhydrinate,DIMENHYDRINATE,DIMENHYDRINATE,Arrhythmia,ar,less,tachycardia,mild,train
+59,Methylergonovine Maleate,METHYLERGONOVINE MALEATE,Methylergonovine Maleate,Mixed,ar,less,acute myocardial infarction/ventricular tachycardia,severe,test
+60,SUCCINYLCHOLINE CHLORIDE,SUCCINYLCHOLINE CHLORIDE,SUCCINYLCHOLINE CHLORIDE,Arrhythmia,bw,most,"cardiac arrest, and death",severe,train
+61,Tobramycin,TOBRAMYCIN SULFATE,Tobramycin Sulfate,,no,no,,,test
+62,Aztreonam,AZTREONAM,AZTREONAM,Mixed,ar,less,transient ECG changes (ventricular bigeminy and PVC)/hypotension,mild,test
+63,Oxacillin,OXACILLIN,OXACILLIN SODIUM,Heart Damage,ar,less," hypotension, vascular collapse",mild,test
+64,Hydralazine Hydrochloride,HYDRALAZINE HYDROCHLORIDE,Hydralazine Hydrochloride,Heart Damage,wp,most,myocardial infarction,severe,train
+65,Colistimethate,COLISTIMETHATE SODIUM,colistimethate,,no,no,,,train
+66,Succinylcholine Chloride,SUCCINYLCHOLINE CHLORIDE,SUCCINYLCHOLINE CHLORIDE DIHYDRATE,Arrhythmia,bw,most,"cardiac arrest, and death",severe,test
+67,Fosphenytoin,FOSPHENYTOIN SODIUM,FOSPHENYTOIN SODIUM,Mixed,bw,most,severe hypotension and cardiac arrhythmias,moderate,test
+68,PYRIDOXINE HCI,PYRIDOXINE HCI,PYRIDOXINE HYDROCHLORIDE,,no,no,,,train
+69,Nafcillin,NAFCILLIN,NAFCILLIN SODIUM,,sp,ambiguous,Allergic reactions: hypotension,mild,test
+70,Cefotetan,CEFOTETAN,CEFOTETAN,,no,no,,,test
+71,Ertapenem,ERTAPENEM SODIUM,ERTAPENEM SODIUM,Mixed,ar,less,heart failure/ tachycardia,severe,train
+72,Bumetanide,BUMETANIDE,bumetanide,Arrhythmia,ar,less,electrocardiogram changes,mild,test
+73,Cefotetan,CEFOTETAN DISODIUM,CEFOTETAN DISODIUM,,no,no,,,test
+74,ENLON,EDROPHONIUM CHLORIDE,edrophonium chloride,Arrhythmia,wp,most,cardiac and respiratory arrest ,severe,train
+75,Pipracil,PIPERACILLIN SODIUM,Piperacillin Sodium,,no,no,,,test
+76,Cefizox,CEFTIZOXIME SODIUM,ceftizoxime sodium,,no,no,,,test
+77,Cortrosyn,CORTROSYN,Cosyntropin,Mixed,ar,less ,tachycardia/hypertension,mild,train
+78,Brevital Sodium,METHOHEXITAL SODIUM,METHOHEXITAL SODIUM,Mixed,ar,less,tachycardia/peripheral vascular collapse,mild,test
+79,LINCOMYCIN,LINCOMYCIN HYDROCHLORIDE,LINCOMYCIN HYDROCHLORIDE,,sp,ambiguous,cardio-respiratory arrest,severe,train
+80,DEMEROL,MEPERIDINE HYDROCHLORIDE,MEPERIDINE HYDROCHLORIDE,Heart Damage,wp,less,hypotension,mild,test
+81,Glucagon,GLUCAGON,glucagon,,sp,ambiguous,"increase blood pressure, and
+pulse rate in patients with cardiac disease",,train
+82,Protopam Chloride,PRALIDOXIME CHLORIDE,PRALIDOXIME CHLORIDE,Mixed,ar,less,tachycardia/ increased systolic and diastolic blood pressure,mild,train
+83,GlucaGen,GLUCAGON HYDROCHLORIDE,GLUCAGON HYDROCHLORIDE,,sp,ambiguous,"increase blood pressure, and
+pulse rate in patients with cardiac disease",,test
+84,Nalbuphine Hydrochloride,NALBUPHINE HYDROCHLORIDE,Nalbuphine Hydrochloride,Mixed,wp,less,severe hypotension/ bradycardia,mild,test
+85,Deferoxamine mesylate,DEFEROXAMINE MESYLATE,DEFEROXAMINE MESYLATE,Mixed,ar,less,tachycardia/hypotension,mild,test
+86,Hydromorphone Hydrochloride,HYDROMORPHONE HYDROCHLORIDE,Hydromorphone Hydrochloride,Mixed,wp,less,hypotension /Tachycardia,mild,test
+87,Sterile Water,STERILE WATER FOR INJECTION,WATER,,no,no,,,train
+88,Revex,NALMEFENE HYDROCHLORIDE,nalmefene hydrochloride,Mixed,ar,less,Tachycardia/Hypertension,mild,train
+89,Purified Cortrophin Gel,REPOSITORY CORTICOTROPIN,CORTICOTROPIN,Heart Damage,ar,less,Congestive heart failure,severe,train
+90,Miacalcin,CALCITONIN SALMON,CALCITONIN SALMON,Heart Damage,ar,less,hypertension,mild,test
+91,Makena,HYDROXYPROGESTERONE CAPROATE,HYDROXYPROGESTERONE CAPROATE,Heart Damage,wp,less,hypertension,mild,train
+92,FLUPHENAZINE DECANOATE,FLUPHENAZINE DECANOATE,FLUPHENAZINE DECANOATE,Heart Damage,bw,most,death,severe,train
+93,Lupron Depot-PED,LEUPROLIDE ACETATE,LEUPROLIDE ACETATE,Mixed,ar,less,bradycardia/hypertension,mild,train
+94,Miochol E,ACETYLCHOLINE CHLORIDE,ACETYLCHOLINE CHLORIDE,Mixed,ar,less,bradycardia/hypotension,mild,train
+95,TISSUEBLUE,BRILLIANT BLUE G,BRILLIANT BLUE G,,no,no,,,train
+96,MEMBRANEBLUE,TRYPAN BLUE,TRYPAN BLUE,,no,no,,,test
+97,Steritalc 2g; Steritalc 3g; Steritalc 4g,TALC,TALC,Arrhythmia,ar,less,arrhythmia,mild,test
+98,Novocaine,PROCAINE HYDROCHLORIDE,Procaine Hydrochloride,Mixed,ar,less,cardiac arrest/ depression of the myocardium,severe,train
+99,PRIALT,ZICONOTIDE ACETATE,ziconotide acetate,Heart Damage,ar,less,hypotension,mild,test
+100,Indium DTPA In 111,INDIUM IN-111 PENTETATE DISODIUM,Indium In-111 Pentetate Disodium,,no,no,,,test
+101,Spinraza,NUSINERSEN,Nusinersen,,no,no,,,test
+102,OMNIPAQUE,IOHEXOL,Iohexol,Mixed,bw,most,cardiac arrest/hypotenson,severe,test
+103,Cytarabine,CYTARABINE,cytarabine,Heart Damage,wp,less,cardiomegaly ,mild,test
+104,ParaGard T 380A,COPPER,COPPER,,no,no,,,test
+105,Conray,IOTHALAMATE MEGLUMINE,IOTHALAMATE MEGLUMINE,Mixed,wp,most,cardiac arrest/myocardial infarction,severe,train
+106,ISOVUE 200; ISOVUE 250; ISOVUE 300; ISOVUE 370,IOPAMIDOL,IOPAMIDOL,Mixed,wp,most,cardiac arrest/myocardial infarction,severe,test
+107,Visipaque,IODIXANOL,Iodixanol,Mixed,bw,most,cardiac arrest/myocardial infarction,severe,train
+108,PROSTIN VR PEDIATRIC,ALPROSTADIL,ALPROSTADIL,Mixed,ar,less,cardiac arrest/hypotension,severe,test
+109,Nouress,CYSTEINE HYDROCHLORIDE,CYSTEINE HYDROCHLORIDE,,no,no,,,test
+110,Gallium Ga-68 PSMA-11,GALLIUM GA-68 GOZETOTIDE,GALLIUM GA-68 GOZETOTIDE,,no,no,,,train
+111,Amidate,ETOMIDATE,Etomidate,Mixed,ar,Less, hypotension/ tachycardia,Mild,test
+112,Vasopressin,VASOPRESSIN,"VASOPRESSIN, UNSPECIFIED",Arrhythmia,wp,less,A decrease in cardiac index,mild,test
+113,Ga-68-DOTATOC,EDOTREOTIDE GALLIUM GA-68,EDOTREOTIDE GALLIUM GA-68,,no,no,,,test
+114,Photofrin,PORFIMER SODIUM,PORFIMER SODIUM,Mixed,ar,less,myocardial infarction/ supraventricular tachycardia.,severe,train
+115,Omegaven,FISH OIL,Fish oil,,sp,ambiguous, hypersensitivity reaction:tachycardia/ hypotension,mild,test
+116,AMONDYS 45,CASIMERSEN,casimersen,,no,no,,,train
+117,Kit for the Preparation of Technetium Tc 99m Medronate,TECHNETIUM TC 99M MEDRONATE,TECHNETIUM TC-99M MEDRONATE,,no,no,,,train
+118,Nulibry,FOSDENOPTERIN HYDROBROMIDE,fosdenopterin hydrobromide,,CLINICAL PHARMACOLOGY,no, QT study not been conducted,,test
+119,acetylcysteine,ACETYLCYSTEINE,ACETYLCYSTEINE,,sp,ambiguous,Hypotension,mild,test
+120,Onpattro,PATISIRAN,patisiran sodium,Arrhythmia,ar,less,atrioventricular (AV) heart block,mild,train
+121,Xerava,ERAVACYCLINE,ERAVACYCLINE DIHYDROCHLORIDE,Arrhythmia,ar,less,palpitations,mild,train
+122,ALIQOPA,COPANLISIB,COPANLISIB,Heart Damage,wp,less,hypertension,mild,test
+123,GANITE,GALLIUM NITRATE,GALLIUM NITRATE,Heart Damage,ar,less,decrease in blood pressure,mild,train
+124,Kimyrsa,ORITAVANCIN DIPHOSPHATE,oritavancin diphosphate,Arrhythmia,ar,less,Tachycardia,mild,test
+125,Rifadin IV NOVAPLUS,RIFAMPIN,RIFAMPIN,,sp,ambiguous,hypersensitivity reactions: chest pain/palpitations,,test
+126,Triferic AVNU,FERRIC PYROPHOSPHATE CITRATE,FERRIC PYROPHOSPHATE CITRATE,Heart Damage,ar,less,hypotension,mild,train
+127,Ephedrine Sulfate,EPHEDRINE SULFATE,Ephedrine Sulfate,Mixed,ar,less,Tachycardia/reactive hypertension,mild,train
+128,Ethamolin,ETHANOLAMINE OLEATE,Ethanolamine Oleate,,sp,ambiguous,patients with concomitant cardiorespiratory disease,,train
+129,Fetroja,CEFIDEROCOL SULFATE TOSYLATE,Cefiderocol sulfate tosylate,Mixed,ar,less,congestive heart failure/atrial fibrillation,severe,train
+130,Neuraceq,FLORBETABEN F 18,FLORBETABEN F-18,,no,no,,,test
+131,CERIANNA,FLUOROESTRADIOL F 18,FLUOROESTRADIOL F-18,,no,no,,,test
+132,TAUVID,FLORTAUCIPIR F-18,Flortaucipir F-18,,no,no,,,test
+133,Viltepso,VILTOLARSEN,viltolarsen,Heart Damage,ar,less,Ejection fraction decreased,severe,test
+134,RADICAVA,EDARAVONE,EDARAVONE,,sp,ambiguous,hypersensitivity reactions:decreased blood pressure,,test
+135,Zulresso,BREXANOLONE,BREXANOLONE,Arrhythmia,ar,less,Tachycardia,mild,train
+136,COPPER,CUPRIC CHLORIDE,CUPRIC CHLORIDE,,no,no,,,test
+137,Xofigo,RADIUM RA 223 DICHLORIDE,RADIUM RA-223 DICHLORIDE,,no,no,,,train
+138,Magnevist,GADOPENTETATE DIMEGLUMINE,GADOPENTETATE DIMEGLUMINE,Mixed,ar,less,tachycardia/hypertension,mild,train
+139,Rapivab,PERAMIVIR,peramivir,,CLINICAL PHARMACOLOGY,no, not prolong the QTc interval,,test
+140,MANGANESE,MANGANESE CHLORIDE,MANGANESE CHLORIDE,,no,no,,,test
+141,Azedra,IOBENGUANE I-131,IOBENGUANE I-131,Mixed,ar,less,palpitations/hypotension,mild,test
+142,Cyanokit,HYDROXOCOBALAMIN,Hydroxocobalamin,Heart Damage,wp,less,Elevations in blood pressure,mild,test
+143,Cisplatin,CISPLATIN,cisplatin,Heart Damage,ar,less,myocardial infarction,severe,test
+144,Orbactiv,ORITAVANCIN,ORITAVANCIN,Arrhythmia,ar,less,tachycardia,mild,train
+145,Ascor,ASCORBIC ACID,ASCORBIC ACID,,no,no,,,train
+146,Dopram,DOXAPRAM HYDROCHLORIDE,DOXAPRAM HYDROCHLORIDE,Arrhythmia,wp,most,various dysrhythmias,moderate,train
+147,AdreView,IOBENGUANE I-123,Iobenguane I-123,,sp,ambiguous,"may increase release of norepinephrine from chromaffin granules and
+produce a transient episode of hypertension,",,train
+148,DAPZURA RT,DAPTOMYCIN,DAPTOMYCIN,Mixed,ar,less,supraventricular arrhythmia/Hypotension,moderate,test
+149,Sodium Acetate,SODIUM ACETATE,SODIUM ACETATE ANHYDROUS,,sp,ambiguous,caution used in patients with cardiac failure,,test
+150,REZIPRES,EPHEDRINE HYDROCHLORIDE,EPHEDRINE HYDROCHLORIDE,Mixed,ar,less,Tachycardia/hypertension,mild,train
+151,Detectnet,COPPER CU 64 DOTATATE,COPPER OXODOTREOTIDE CU-64,,no,no,,,test
+152,NETSPOT,68GA-DOTATATE,DOTATATE,,no,no,,,train
+153,OLINVYK,OLICERIDINE,OLICERIDINE,Mixed,wp,most,QTc interval prolongation/severe hypotension,severe,test
+154,Potassium Acetate,POTASSIUM ACETATE,POTASSIUM ACETATE,Arrhythmia,wp,most,"death by cardiac depression,
+arrhythmias or arrest. ",severe,test
+155,Calcium Chloride,CALCIUM CHLORIDE,CALCIUM CHLORIDE,,no,no,,,test
+156,Choline C 11,CHOLINE C-11,CHOLINE C-11,,no,no,,,train
+157,Ethyol,AMIFOSTINE,AMIFOSTINE,Mixed,wp,most,myocardial infarction/supraventricular tachycardia,severe,train
+158,Sodium Nitrite,SODIUM NITRITE,Sodium Nitrite,Heart Damage,bw,most,hypotension/,mild,train
+159,Giapreza,ANGIOTENSIN II,ANGIOTENSIN II,Arrhythmia,ar,less,Tachycardia ,mild,train
+160,KINEVAC,SINCALIDE,Sincalide,Heart Damage,ar,less,hypertension,mild,test
+161,Zemdri (plazomicin),PLAZOMICIN,PLAZOMICIN,Heart Damage,ar,less,Hypertension,mild,test
+162,DEFITELIO,DEFIBROTIDE SODIUM,DEFIBROTIDE SODIUM,Heart Damage,ar,less,hypotension,mild,train
+163,Vizamyl,FLUTEMETAMOL F-18,Flutemetamol F-18,Heart Damage,ar,less,Increased blood pressure ,mild,test
+164,Chromium,CHROMIC CHLORIDE,CHROMIC CHLORIDE,,no,no,,,train
+165,IXEMPRA,IXABEPILONE,IXABEPILONE,Mixed,wp,most,"myocardial ischemia/ventricular
+dysfunction",severe,test
+166,Dextrose,DEXTROSE,DEXTROSE,,sp,ambiguous,used with care in patients with cardiac decompensation,,train
+167,ARGATROBAN,ARGATROBAN,ARGATROBAN,Arrhythmia,ar,less,cardiac arrest,mild,train
+168,IC-Green,INDOCYANINE GREEN,indocyanine green,,no,no,,,train
+169,YONDELIS,TRABECTEDIN,Trabectedin,Heart Damage,wp,most,cardiac failure,severe,train
+170,Sodium Thiosulfate,SODIUM THIOSULFATE,Sodium Thiosulfate,Heart Damage,ar,less,Hypotension,mild,train
+171,EOVIST,GADOXETATE DISODIUM,GADOXETATE DISODIUM,Mixed,ar,less,Tachycardia/Blood pressure increased,mild,train
+172,Corlopam,FENOLDOPAM MESYLATE,FENOLDOPAM MESYLATE,Arrhythmia,wp,less,dose-related tachycardia ,mild,train
+173,Technescan HDP,TECHNETIUM TC 99M OXIDRONATE,OXIDRONATE DISODIUM,,no,no,,,test
+174,Selenious Acid,SELENIOUS ACID,SELENIUM,,no,no,,,train
+175,VENOFER (IRON SUCROSE),VENOFER (IRON SUCROSE),IRON SUCROSE,Heart Damage,wp,less,hypotension,mild,test
+176,R-Gene,ARGININE HYDROCHLORIDE,ARGININE HYDROCHLORIDE,,no,no,,,test
+177,Beleodaq,BELINOSTAT,BELINOSTAT,Mixed,ar,less,Prolonged QT/Hypotension,moderate,test
+178,CardioGen-82,RUBIDIUM CHLORIDE RB-82,RUBIDIUM CHLORIDE RB-82,Mixed,wp,most,myocardial infarction/arrhythmia,severe,train
+179,BRIDION,SUGAMMADEX,SUGAMMADEX SODIUM,Arrhythmia,wp,most,cardiac arrest,severe,test
+180,Veletri,EPOPROSTENOL,epoprostenol,Mixed,ar,less,tachycardia/hypotension,mild,test
+181,Calcium Gluconate,CALCIUM GLUCONATE,CALCIUM GLUCONATE MONOHYDRATE,Arrhythmia,wp,most,cardiac arrest,severe,train
+182,DEFINITY RT,PERFLUTREN,PERFLUTREN,Mixed,bw,most,serious cardiopulmonary reactions/hypertension,severe,test
+183,Ferrlecit,SODIUM FERRIC GLUCONATE COMPLEX,SODIUM FERRIC GLUCONATE COMPLEX,Heart Damage,wp,less,hypotension,mild,test
+184,NEUROLITE,BICISATE DIHYDROCHLORIDE,BICISATE DIHYDROCHLORIDE,Heart Damage,ar,less,cardiac failure,severe,test
+185,Halaven,ERIBULIN MESYLATE,ERIBULIN MESYLATE,Arrhythmia,wp,most,QT prolongation,Moderate,train
+186,Exondys 51,ETEPLIRSEN,eteplirsen,,sp,ambiguous,Hypersensitivity reaction:tachycardia,mild,test
+187,Monoferric,FERRIC DERISOMALTOSE,FERRIC DERISOMALTOSE,Arrhythmia,ar,less,Tachycardia,mild,train
+188,Lutathera,LUTETIUM LU 177 DOTATATE,LUTETIUM OXODOTREOTIDE LU-177,Arrhythmia,ar,less,Atrial fibrillation,mild,train
+189,Folotyn,PRALATREXATE,PRALATREXATE,Arrhythmia,ar,less,Tachycardia,mild,train
+190,GALLIUM CITRATE GA-67,GALLIUM CITRATE GA-67,GALLIUM CHLORIDE GA-67,,no,no,,,train
+191,ChiRhoStim; ChiRhoStim 40,HUMAN SECRETIN,SECRETIN HUMAN,,no,no,,,test
+192,Alimta,PEMETREXED DISODIUM,Pemetrexed disodium heptahydrate,Arrhythmia,ar,less,arrhythmia,mild,train
+193,Corvert,IBUTILIDE FUMARATE,IBUTILIDE FUMARATE,Arrhythmia,wp,most,Torsades de pointes,severe,test
+194,ERAXIS,ANIDULAFUNGIN,ANIDULAFUNGIN,Arrhythmia,ar,less, sinus arrhythmia,mild,train
+195,ILLUCCIX,KIT FOR THE PREPARATION OF GALLIUM GA 68 GOZETOTIDE INJECTION,GOZETOTIDE,,no,no,,,train
+196,BELRAPZO,BENDAMUSTINE HYDROCHLORIDE,BENDAMUSTINE HYDROCHLORIDE,Mixed,ar,less,congestive heart failure (some fatal)/palpitation,severe,test
+197,Foscavir,FOSCARNET SODIUM,foscarnet sodium,Arrhythmia,wp,most,prolongation of the QT interval,severe,train
+198,Zinc Sulfate,ZINC SULFATE,ZINC SULFATE,,no,no,,,test
+199,Hextend,HETASTARCH,HETASTARCH,Heart Damage,ar,less, congestive heart failure,severe,test
+200,OMNISCAN,GADODIAMIDE,gadodiamide,Mixed,ar,less,Cardiac failure/rare arrhythmia ,severe,train
+201,Barhemsys,AMISULPRIDE,Amisulpride,Arrhythmia,wp,most,Prolongation of the QT interval,severe,train
+202,Choletec,MEBROFENIN,MEBROFENIN,,no,no,,,train
+203,Teflaro,CEFTAROLINE FOSAMIL,CEFTAROLINE FOSAMIL,Arrhythmia,ar,less,"Bradycardia, Palpitations",mild,train
+204,Dopamine Hydrochloride,DOPAMINE HYDROCHLORIDE,DOPAMINE HYDROCHLORIDE,Mixed,wp,most,Ventricular Arrhythmias/Hypotension,moderate,train
+205,VAPRISOL DEXTROSE IN PLASTIC CONTAINER,CONIVAPTAN HYDROCHLORIDE,conivaptan hydrochloride,Heart Damage,wp,less,hypotension,mild,train
+206,Technetium Tc 99m Medronate,TECHNETIUM TC 99M MEDRONATE,MEDRONIC ACID,,sp,ambiguous,hypersensitivity reactions : hypotension,mild,train
+207,Quadramet,SAMARIUM SM 153 LEXIDRONAM,SAMARIUM SM-153 LEXIDRONAM PENTASODIUM,Mixed,ar,less,Arrhythmias/Hypertension,mild,test
+208,KYPROLIS,CARFILZOMIB,CARFILZOMIB,Mixed,wp,most,Cardiac failure/arrythmias,severe,test
+209,PARSABIV,ETELCALCETIDE,ETELCALCETIDE HYDROCHLORIDE,Mixed,wp,most,Congestive heart failure/QT Interval Prolongation ,severe,test
+210,Amyvid,FLORBETAPIR F 18,FLORBETAPIR F-18,Heart Damage,ar,less,Blood pressure increased,mild,test
+211,CYCLOPHOSPHAMIDE,CYCLOPHOSPHAMIDE,CYCLOPHOSPHAMIDE ANHYDROUS,Mixed,wp,most,Congestive heart failure/QT Interval Prolongation ,severe,test
+212,Vancomycin,VANCOMYCIN,VANCOMYCIN,Mixed,ar,less,Cardiac arrest/ chest pain,severe,test
+213,AGGRASTAT,TIROFIBAN,TIROFIBAN HYDROCHLORIDE,Arrhythmia,ar,less,Bradycardia,mild,test
+214,KENGREAL,CANGRELOR,CANGRELOR,,no,no,,,test
+215,Injectafer,FERRIC CARBOXYMALTOSE; FERRIC CARBOXYMALTOSE INJECTION,FERRIC CARBOXYMALTOSE,Heart Damage,wp,less,hypertension ,mild,test
+216,Torisel,TEMSIROLIMUS,TEMSIROLIMUS,Heart Damage,ar,less,pericardial effusion,severe,train
+217,Zanosar,STREPTOZOCIN,STREPTOZOCIN,,no,no,,,test
+218,Ultiva,REMIFENTANIL HYDROCHLORIDE,Remifentanil Hydrochloride,Mixed,wp,less,Bradycardia/Hypotension,mild,train
+219,KHAPZORY,LEVOLEUCOVORIN,LEVOLEUCOVORIN DISODIUM,,no,no,,,train
+220,Kit for the Preparation of Technetium Tc99m Pyrophosphate,TECHNETIUM TC99M PYROPHOSPHATE,TECHNETIUM TC-99M PYROPHOSPHATE,,no,no,"diagnosis of acute
+myocardial infarction",,test
+221,INDIUM IN 111 CHLORIDE,INDIUM IN 111 CHLORIDE,INDIUM CHLORIDE IN-111,,no,no,,,train
+222,Totect,DEXRAZOXANE HYDROCHLORIDE,DEXRAZOXANE HYDROCHLORIDE,,sp,ambiguous,Monitor cardiac function before and periodically during therapy,,test
+223,ETOPOPHOS,ETOPOSIDE PHOSPHATE,etoposide phosphate,,no,no,,,train
+224,Jevtana,CABAZITAXEL,cabazitaxel,,sp,ambiguous,combination :ventricular fibrillation,mild,train
+225,Gallium,GALLIUM CITRATE GA-67,GALLIUM CITRATE GA-67,,no,no,,,test
+226,Cytalux,PAFOLACIANINE INJECTION,PAFOLACIANINE SODIUM,,no,no,,,test
+227,Cosela,TRILACICLIB,trilaciclib dihydrochloride,,CLINICAL PHARMACOLOGY,no, not prolong QT interval,,train
+228,Sodium Chloride,SODIUM CHLORIDE,SODIUM CHLORIDE,,sp,ambiguous,used with great care in patients with congestive heart failure,,train
+229,MultiHance,GADOBENATE DIMEGLUMINE,gadobenate dimeglumine,Arrhythmia,wp,most,QTc prolongation,moderate,test
+230,DaTscan,IOFLUPANE I-123,ioflupane I-123,,no,no,,,test
+231,Myoview,TETROFOSMIN,Tetrofosmin,Mixed,ar,less,angina/ventricular tachycardia,moderate,test
+232,Thallous Chloride Tl 201,THALLOUS CHLORIDE TL-201,THALLOUS CHLORIDE TL-201,,sp,ambiguous,care should be taken in patients with myocardial infarction or ischemia,,train
+233,Drax Exametazime,KIT FOR THE PREPARATION OF TECHNETIUM TC 99M EXAMETAZIME FOR LEUKOCYTE LABELING,TECHNETIUM TC-99M EXAMETAZIME,Heart Damage,ar,less,blood pressure increase,mild,train
+234,Nipent,PENTOSTATIN,PENTOSTATIN,Mixed,ar,less,Angina Pectoris/Arrhythmia,moderate,test
+235,PYLARIFY,PIFLUFOLASTAT F-18,PIFLUFOLASTAT F-18,,no,no,,,test
+236,Axumin,FLUCICLOVINE F-18,Fluciclovine F-18,,no,no,,,train
+237,Acetaminophen,ACETAMINOPHEN,ACETAMINOPHEN,Heart Damage,ar,less,"hypertension, hypotension",mild,test
+238,Pepaxto,MELPHALAN FLUFENAMIDE,melphalan flufenamide hydrochloride,,no,no,,,test
+239,DALVANCE,DALBAVANCIN,DALBAVANCIN HYDROCHLORIDE,,CLINICAL PHARMACOLOGY,no,no  QT,,train
+240,Glofil-125,SODIUM IOTHALAMATE I-125 INJECTION,IOTHALAMATE SODIUM I-125,,no,no,,,train
+241,LEXISCAN(R) (REGADENOSON),LEXISCAN(R) (REGADENOSON),REGADENOSON,Mixed,wp,most,Fatal myocardial infarction/ventricular arrhythmias,severe,train
+242,ZEPZELCA,LURBINECTEDIN,LURBINECTEDIN,,CLINICAL PHARMACOLOGY,no,No large mean increase in QTc,,train
+243,Fluorodopa F18,FLUORODOPA F18,FLUORODOPA F-18,,no,no,,,test
+244,BYFAVO,REMIMAZOLAM BESYLATE,remimazolam besylate,Mixed,bw,most,Bradycardia/Hypotension,mild,train
+245,NutriLipid I.V. Fat Emulsion,SOYBEAN OIL,SOYBEAN OIL,,sp,ambiguous,Hypersensitivity Reactions :tachycardia,mild,test
+246,Pemfexy,PEMETREXED,PEMETREXED MONOHYDRATE,Arrhythmia,ar,less,supraventricular arrhythmia,moderate,test
+247,Ellence,EPIRUBICIN HYDROCHLORIDE,EPIRUBICIN HYDROCHLORIDE,Mixed,bw,most,"cardiomyopathy/ventricular
+tachycardia",severe,train
+248,Sodium Citrate,ANTICOAGULANT SODIUM CITRATE SOLUTION,SODIUM CITRATE,,no,no,,,train
+249,Ultratag RBC,TECHNETIUM TC 99M-LABELED RED BLOOD CELLS,STANNOUS CHLORIDE,,no,no,,,test
+250,Gadavist,GADOBUTROL,GADOBUTROL,Arrhythmia,ar,less,Cardiac arrest,severe,train
+251,Cleviprex,CLEVIPIDINE,CLEVIDIPINE,Mixed,wp,less,hypotension/reflex tachycardia,mild,test
+252,Alfentanil Hydrochloride,ALFENTANIL HYDROCHLORIDE,Alfentanil Hydrochloride,Arrhythmia,wp,less,bradycardia,mild,train
+253,PRECEDEX,DEXMEDETOMIDINE HYDROCHLORIDE,DEXMEDETOMIDINE HYDROCHLORIDE,Mixed,wp,most,sinus arrest/Hypotension,moderate,test
+254,Visudyne,VERTEPORFIN FOR INJECTION,VERTEPORFIN,Mixed,ar,less,Atrial fibrillation/hypertension,mild,train
+255,Korsuva,DIFELIKEFALIN,DIFELIKEFALIN ACETATE,Heart Damage,overdosage,less ,hypertension,mild,train
+256,Asclera,POLIDOCANOL,POLIDOCANOL,Heart Damage,wp,most,myocardial infarction,severe,train
+257,VIBATIV,TELAVANCIN HYDROCHLORIDE,telavancin hydrochloride,Arrhythmia,wp,most,"prolonged the QTc
+interval",severe,train
+258,Levothyroxine Sodium,LEVOTHYROXINE SODIUM ANHYDROUS,LEVOTHYROXINE SODIUM ANHYDROUS,Mixed,wp,most,congestive heart failure and death/arrhythmias,severe,train
+259,ATROPINE SULFATE; Atropine Sulfate,ATROPINE SULFATE,ATROPINE SULFATE,Arrhythmia,wp,less,tachycardia,mild,test
+260,Vyondys 53,GOLODIRSEN,golodirsen,Arrhythmia,ar,less,tachycardia,mild,test
+261,Cytovene IV,GANCICLOVIR SODIUM,ganciclovir sodium,Arrhythmia,ar,less,cardiac arrest,severe,test
+262,THAM,TROMETHAMINE,TROMETHAMINE,,no,no,,,test
+263,ProHance,GADOTERIDOL,gadoteridol,Mixed,ar,less,Angina pectoris/palpitations,moderate,test
+264,PROPOFOL,PROPOFOL,PROPOFOL,Mixed,wp,most,ECG changes and/or cardiac failure,severe,test
+265,Levoleucovorin,LEVOLEUCOVORIN,LEVOLEUCOVORIN CALCIUM PENTAHYDRATE,,no,no,,,train
+266,CASPOFUNGIN ACETATE,CASPOFUNGIN ACETATE,CASPOFUNGIN ACETATE,Mixed,ar,less,myocardial infarction/arrhythmia,mild,test
+267,ESMOLOL HYDROCHLORIDE,ESMOLOL HYDROCHLORIDE,ESMOLOL HYDROCHLORIDE,Mixed,wp,most,heart failure/Bradycardia,severe,test
+268,Ifosfamide,IFOSFAMIDE,IFOSFAMIDE,Mixed,wp,most,fatal cardiomyopathy/ventricular arrhythmias,severe,train
+269,Daunorubicin Hydrochloride,DAUNORUBICIN HYDROCHLORIDE,DAUNORUBICIN HYDROCHLORIDE,Heart Damage,bw,most,fatal congestive heart failure,severe,train
+270,Pancuronium Bromide,PANCURONIUM BROMIDE,PANCURONIUM BROMIDE,,sp,ambiguous,hypersensitivity reactions:tachycardia,mild,test
+271,mitoXANTRONE,MITOXANTRONE,MITOXANTRONE HYDROCHLORIDE,Heart Damage,bw,most,Congestive heart failure,severe,test
+272,Carmustine,CARMUSTINE,CARMUSTINE,Mixed,ar,less,Tachycardia/chest pain,mild,test
+273,GEMCITABINE,GEMCITABINE,GEMCITABINE HYDROCHLORIDE,Mixed,ar,less,myocardial infarction/arrhythmia,severe,train
+274,CAFFEINE CITRATE,CAFFEINE CITRATE,CAFFEINE CITRATE,Mixed,wp,most,increase heart rate/ left ventricular outpu,severe,test
+275,BIVALIRUDIN,BIVALIRUDIN,BIVALIRUDIN,Heart Damage,ar,less,cardiac tamponade,severe,test
+276,VinCRIStine Sulfate,VINCRISTINE SULFATE,VINCRISTINE SULFATE,Heart Damage,ar,less,Hypertension ,mild,train
+277,Arsenic Trioxide,ARSENIC TRIOXIDE,ARSENIC TRIOXIDE,Arrhythmia,bw,most,torsade de pointes,moderate,test
+278,Micafungin,MICAFUNGIN SODIUM,MICAFUNGIN,Mixed,ar,less,cardiac arrest/myocardial infarction,severe,train
+279,Cefoxitin,CEFOXITIN,cefoxitin sodium,Heart Damage,ar,less,Hypotension,mild,test
+280,Sodium Tetradecyl Sulfate,SODIUM TETRADECYL SULFATE,SODIUM TETRADECYL SULFATE,Heart Damage,wp,most,myocardial infarction,severe,train
+281,Paclitaxel,PACLITAXEL,paclitaxel,Mixed,wp,less,bradycardia/hypertension,mild,test
+282,Mesna,MESNA,mesna,Mixed,ar,less,hypotension/tachycardia,mild,train
+283,Eptifibatide,EPTIFIBATIDE,Eptifibatide,Heart Damage,ar,less,hypotension,mild,train
+284,Technetium Tc 99m Sestamibi,TECHNETIUM TC 99M SESTAMIBI,TETRAKIS(2-METHOXYISOBUTYLISOCYANIDE)COPPER(I) TETRAFLUOROBORATE,Mixed,wp,most,myocardial infarction/arrhythmia,severe,test
+285,Ibuprofen Lysine,IBUPROFEN LYSINE,IBUPROFEN LYSINE,Mixed,ar,less,Tachycardia/cardiac failure,severe,train
+286,Vinblastine Sulfate,VINBLASTINE SULFATE,VINBLASTINE SULFATE,Heart Damage,ar,less,Hypertension,mild,train
+287,Indium In 111 Oxyquinoline,INDIUM IN-111 OXYQUINOLINE,INDIUM IN-111 OXYQUINOLINE,,no,no,,,train
+288,Esomeprazole Sodium,ESOMEPRAZOLE SODIUM,Esomeprazole Sodium,,no,no,,,train
+289,CLARISCAN,GADOTERATE MEGLUMINE,gadoterate meglumine,Mixed,ar,less,"arrhythmia/hypotension, hypertension",mild,test
+290,Adenosine,ADENOSINE,Adenosine,Arrhythmia,wp,most,thirddegree heart block,severe,train
+291,NICARDIPINE HYDROCHLORIDE,NICARDIPINE HYDROCHLORIDE,NICARDIPINE HYDROCHLORIDE,Heart Damage,wp,most,angina,moderate,test
+292,Ethacrynic Sodium,ETHACRYNIC SODIUM,ETHACRYNATE SODIUM,,sp,ambiguous,hypotension(drug interaction),,train
+293,LMD in Dextrose; LMD in Sodium Chloride,DEXTRAN 40,DEXTRAN 40,Arrhythmia,wp,most,cardiac and respiratory arrest,severe,test
+294,Azithromycin,AZITHROMYCIN,AZITHROMYCIN MONOHYDRATE,Arrhythmia,wp,most, torsades de pointes,moderate,test
+295,CIDOFOVIR DIHYDRATE,CIDOFOVIR DIHYDRATE,CIDOFOVIR,Mixed,ar,less,congestive heart failure/tachycardia,severe,test
+296,AMPICILLIN,AMPICILLIN SODIUM,AMPICILLIN SODIUM,,no,no,,,train
+297,Linezolid,LINEZOLID,LINEZOLID,,sp,ambiguous,patients with uncontrolled hypertension,,train
+298,Micafungin,MICAFUNGIN SODIUM,MICAFUNGIN SODIUM,Mixed,ar,less,cardiac arrest/myocardial infarction,severe,test
+299,Norepinephrine Bitartrate,NOREPINEPHRINE BITARTRATE,NOREPINEPHRINE BITARTRATE,Mixed,ar,less,rise in blood pressure/arrhythmias,mild,train
+300,CEFEPIME,CEFEPIME,CEFEPIME HYDROCHLORIDE,,no,no,,,test
+301,Rocuronium,ROCURONIUM,ROCURONIUM BROMIDE,Arrhythmia,ar,less,arrhythmia,mild,test
+302,ENALAPRILAT,ENALAPRILAT,ENALAPRILAT,Heart Damage,wp,less,Hypotension,mild,train
+303,Busulfan,BUSULFAN,Busulfan,Mixed,ar,less,left-sided heart failure/Arrhythmia,severe,train
+304,Calcitriol,CALCITRIOL,Calcitriol,Mixed,ar,less,cardiac arrhythmias/hypertension,mild,train
+305,Meropenem,MEROPENEM,MEROPENEM,Mixed,ar,less,heart failure/tachycardia,severe,test
+306,Clindamycin,CLINDAMYCIN PHOSPHATE,Clindamycin Phosphate,Mixed,ar,less,Cardiopulmonary arrest/hypotension,severe,test
+307,Sodium Nitroprusside,SODIUM NITROPRUSSIDE,Sodium Nitroprusside,Heart Damage,bw,most,decreases in blood pressure,mild,test
+308,Fosaprepitant,FOSAPREPITANT DIMEGLUMINE,FOSAPREPITANT DIMEGLUMINE,,no,no,hypersensitivity reactions:hypotension,,test
+309,Romidepsin,ROMIDEPSIN,ROMIDEPSIN,Arrhythmia,wp,less,changes in ECGs,mild,test
+310,Ferumoxytol,FERUMOXYTOL,FERUMOXYTOL NON-STOICHIOMETRIC MAGNETITE,Heart Damage,wp,less,hypotension,mild,train
+311,Aminophylline,AMINOPHYLLINE,Aminophylline Dihydrate,Arrhythmia,ar,less,cardiac arrhythmias,mild,train
+312,PARAPLATIN,CARBOPLATIN,CARBOPLATIN,Heart Damage,ar,less,hypertension,mild,test
+313,Gemcitabine,GEMCITABINE,GEMCITABINE,Mixed,ar,less,myocardial infarction/arrhythmia,severe,train
+314,Azathioprine Sodium,AZATHIOPRINE SODIUM,AZATHIOPRINE SODIUM,,no,no,,,train
+315,Ammonia N 13,AMMONIA N-13,AMMONIA N-13,,no,no,,,train
+316,Kit for the Preparation of Technetium Tc99m Mertiatide,BETIATIDE,Betiatide,Mixed,ar,less ,tachycardia/ hypertension,mild,train
+317,TAZICEF,CEFTAZIDIME,CEFTAZIDIME,,no,no,,,test
+318,Sodium Fluoride F 18,SODIUM FLUORIDE F 18,SODIUM FLUORIDE F-18,,no,no,,,test
+319,Milrinone Lactate,MILRINONE LACTATE,Milrinone Lactate,Arrhythmia,wp,most, ventricular arrhythmias,moderate,train
+320,NEOSTIGMINE METHYLSULFATE,NEOSTIGMINE METHYLSULFATE,NEOSTIGMINE METHYLSULFATE,Arrhythmia,wp,less,bradycardia,mild,train
+321,Amiodarone Hydrochloride,AMIODARONE HYDROCHLORIDE,AMIODARONE HYDROCHLORIDE,Mixed,wp,less,bradycardia/Hypotension,mild,test
+322,TECHNETIUM TC 99M SESTAMIBI,TECHNETIUM TC 99M SESTAMIBI,TECHNETIUM TC-99M SESTAMIBI,Mixed,ar,less,hypotension/arrhythmia,mild,train
+323,acyclovir,ACYCLOVIR,ACYCLOVIR SODIUM,Heart Damage,ar,less,Hypertension,mild,test
+324,Pamidronate Disodium,PAMIDRONATE DISODIUM,PAMIDRONATE DISODIUM,Heart Damage,ar,less,Hypertension,mild,test
+325,Chloramphenicol Sodium Succinate,CHLORAMPHENICOL SODIUM SUCCINATE,CHLORAMPHENICOL SODIUM SUCCINATE,,no,no,,,test
+326,Zinc Chloride,ZINC CHLORIDE,ZINC CHLORIDE,Arrhythmia,overdosage,less,tachycardia,mild,test
+327,Fomepizole,FOMEPIZOLE,Fomepizole,Mixed,ar,less,tachycardia/hypotension,,train
+328,DOXOrubicin Hydrochloride,DOXORUBICIN HYDROCHLORIDE,DOXORUBICIN HYDROCHLORIDE,Mixed,bw,most,Cardiomyopathy/Arrhythmias,severe,test
+329,Cisatracurium Besylate,CISATRACURIUM BESYLATE,CISATRACURIUM BESYLATE,Mixed,ar,less,Bradycardia/Hypotension,mild,test
+330,Amphotericin B,AMPHOTERICIN B,AMPHOTERICIN B,Mixed,ar,less,cardiac arrest/cardiomegaly,severe,test
+331,Topotecan,TOPOTECAN,TOPOTECAN,,no,no,,,train
+332,Dacarbazine,DACARBAZINE,DACARBAZINE,,no,no,,,train
+333,VECURONIUM BROMIDE,VECURONIUM BROMIDE,VECURONIUM BROMIDE,,sp,ambiguous,hypersensitivity reactions:tachycardia,,test
+334,LEVOLEUCOVORIN,LEVOLEUCOVORIN,Levoleucovorin Calcium,,no,no,,,test
+335,DECITABINE,DECITABINE,DECITABINE,Mixed,ar,less,Cardiac failure congestive/Tachycardia,mild,train
+336,Tigecycline,TIGECYCLINE,TIGECYCLINE,,no,no,,,test
+337,Zoledronic Acid,ZOLEDRONIC ACID,Zoledronic Acid,,sp,ambiguous,patients with underlying risk,,test
+338,Tranexamic Acid,TRANEXAMIC ACID,Tranexamic Acid,,sp,ambiguous,Hypotension(injection is too rapid),mild,test
+339,Etoposide,ETOPOSIDE,ETOPOSIDE,,no,no,,,test
+340,fosaprepitant,FOSAPREPITANT,FOSAPREPITANT,,sp,ambiguous,hypersensitivity reaction:hypotension,mild,train
+341,DOCETAXEL,DOCETAXEL ANHYDROUS,DOCETAXEL ANHYDROUS,Mixed,ar,less,heart failure/sinus tachycardia,mild,test
+342,Dipyridamole,DIPYRIDAMOLE,Dipyridamole,Mixed,wp,most,myocardial infarction/ventricular tachycardia,severe,train
+343,Sotradecol,TETRADECYL HYDROGEN SULFATE (ESTER),TETRADECYL HYDROGEN SULFATE (ESTER),Heart Damage,wp,most,myocardial infarction,severe,train
+344,Nelarabine,NELARABINE,NELARABINE,,no,no,,,train
+345,Idarubicin Hydrochloride,IDARUBICIN HYDROCHLORIDE,IDARUBICIN HYDROCHLORIDE,Mixed,bw,most,congestive heart failure/arrhythmias,severe,test
+346,Valproate Sodium,VALPROATE SODIUM,VALPROATE SODIUM,Mixed,ar,less,Tachycardia/hypertension,mild,test
+347,STRONTIUM CHLORIDE Sr-89,STRONTIUM CHLORIDE SR-89,STRONTIUM CHLORIDE SR-89,,no,no,,,train
+348,epoprostenol,EPOPROSTENOL,EPOPROSTENOL SODIUM,Mixed,ar,less,tachycardia/hypotension,mild,test
+349,SODIUM ACETATE,SODIUM ACETATE,SODIUM ACETATE,,sp,ambiguous,used with care in patients with cardiac decompensation,,test
+350,Acetazolamide,ACETAZOLAMIDE,ACETAZOLAMIDE SODIUM,,no,no,,,test
+351,Allopurinol,ALLOPURINOL,ALLOPURINOL SODIUM,Mixed,ar,less,heart failure/ventricular fibrillation,severe,test
+352,Flumazenil,FLUMAZENIL,FLUMAZENIL,Arrhythmia,wp,most,ventricular dysrhythmia,moderate,train
+353,Atracurium Besylate,ATRACURIUM BESYLATE,ATRACURIUM BESYLATE,Mixed,ar,less,tachycardia/Hypotension,mild,train
+354,Clindamycin in 5 Percent Dextrose,CLINDAMYCIN IN 5 PERCENT DEXTROSE,CLINDAMYCIN,,sp,ambiguous,hypotension(injection is too rapid),mild,train
+355,Doxercalciferol,DOXERCALCIFEROL,DOXERCALCIFEROL,,sp,ambiguous,hypersensitivity reaction:hypotension/cardiopulmonary arrest,mild,train
+356,Erythromycin Lactobionate,ERYTHROMYCIN LACTOBIONATE,ERYTHROMYCIN LACTOBIONATE,Arrhythmia,wp,most,prolonged QT intervals,severe,test
+357,Granisetron Hydrochloride,GRANISETRON HYDROCHLORIDE,Granisetron Hydrochloride,Arrhythmia,wp,most,QT prolongation,moderate,train
+358,Dantrolene,DANTROLENE,DANTROLENE SODIUM,,sp,ambiguous,Cardiovascular collapse  (receiving dantrolene in combination with calcium channel blockers),,train
+359,Vinorelbine,VINORELBINE,vinorelbine tartrate,Mixed,ar,less,tachycardia/myocardial infarction,mild,test
+360,Fludarabine Phosphate,FLUDARABINE PHOSPHATE,FLUDARABINE PHOSPHATE,Mixed,ar,less,heart failure/arrhythmia,severe,test
+361,Melphalan,MELPHALAN HYDROCHLORIDE,MELPHALAN HYDROCHLORIDE,,sp,ambiguous,tachycardia/hypotension(Hypersensitivity),,train
+362,dactinomycin,DACTINOMYCIN,DACTINOMYCIN,,no,no,,,test
+363,Fludeoxyglucose F 18,FLUDEOXYGLUCOSE F-18,Fludeoxyglucose F-18,,no,no,,,test
+364,DOBUTAMINE,DOBUTAMINE,DOBUTAMINE HYDROCHLORIDE,Mixed,wp,less,Increase in Heart Rate or Blood Pressure,mild,test
+365,Indomethacin,INDOMETHACIN,INDOMETHACIN SODIUM,Mixed,ar,less,bradycardia/hypertension,mild,train
+366,PROTAMINE SULFATE,PROTAMINE SULFATE,PROTAMINE SULFATE,Heart Damage,bw,most,cardiocascular collapse,severe,train
+367,oxaliplatin,OXALIPLATIN,OXALIPLATIN,Arrhythmia,wp,most,fatal torsade de pointes,severe,train
+368,Irinotecan Hydrochloride,IRINOTECAN HYDROCHLORIDE,IRINOTECAN HYDROCHLORIDE,Mixed,ar,less,Myocardial ischemic/dysrhythmias,severe,test
+369,Ceftriaxone,CEFTRIAXONE,CEFTRIAXONE SODIUM,,no,no,,,test
+370,Hypaque Sodium,DIATRIZOATE SODIUM,Diatrizoate Sodium,Mixed,wp,most,myocardial infarction/cardiac arrest,severe,test
+371,Etesevimab,ETESEVIMAB,Etesevimab,Arrhythmia,wp,less,arrhythmia,mild,train
+372,Neutrexin,TRIMETREXATE GLUCURONATE,trimetrexate glucuronate,,no,no,,,train
+373,Feridex,FERUMOXIDES,ferumoxides,Mixed,ar,less,hypotension/arrhythmias,mild,train
+374,Endrate,"EDETATE DISODIUM, ANHYDROUS","Edetate disodium, anhydrous",,sp,ambiguous,Caution is dictated in the use of this drug in patients with limited cardiac reserve ,,test
+375,Kinlytic,UROKINASE,UROKINASE,,sp,ambiguous,infusion reactions:n tachycardia ,mild,train
+376,Bamlanivimab,BAMLANIVIMAB,Bamlanivimab,Arrhythmia,wp,less,arrhythmia,mild,train
+377,RadioGenix System,TECHNETIUM TC 99M GENERATOR,TECHNETIUM TC-99M SODIUM PERTECHNETATE,,no,no,,,test
+378,TEMODAR,TEMOZOLOMIDE,Temozolomide,,no,no,,,train
+379,Briviact,BRIVARACETAM,brivaracetam,,CLINICAL PHARMACOLOGY,no, not prolong QT interval,,train
+380,SIVEXTRO,TEDIZOLID PHOSPHATE,tedizolid phosphate,Arrhythmia,ar,less,tachycardia,mild,train
+381,Baxdela,DELAFLOXACIN MEGLUMINE,delafloxacin meglumine,Mixed,ar,less,sinus tachycardia/ hypertension,moderate,train
+382,NOXAFIL,POSACONAZOLE,POSACONAZOLE; posaconazole,Arrhythmia,wp,most,torsades de pointes,severe,test
+383,UPTRAVI; UPTRAVI Titration Pack,SELEXIPAG,SELEXIPAG,,CLINICAL PHARMACOLOGY,no, not prolong QT interval,,train
+384,Vimpat,LACOSAMIDE,LACOSAMIDE,Arrhythmia,wp,most,Ventricular Tachyarrhythmia,severe,train
+385,PREVYMIS,LETERMOVIR,LETERMOVIR,Arrhythmia,ar,less,"tachycardia, atrial fibrillation",mild,test
+386,NUZYRA,OMADACYCLINE,omadacycline,Mixed,ar,less,tachycardia/Hypertension,mild,test
+387,Trovan,TROVAFLOXACIN MESYLATE,trovafloxacin mesylate,Heart Damage,wp,most,Life-threatening hypotension,severe,train
+388,Kit for the Prepartion of Technetium Tc99m Sulfur Colloid,TECHNETIUM TC 99M SULFUR COLLOID,TECHNETIUM TC-99M SULFUR COLLOID,Mixed,ar,less,hypotension/fatal cardiopulmonary arrest,severe,train
+389,Heparin Sodium,HEPARIN SODIUM,HEPARIN SODIUM,,no,no,,,test
+390,VELCADE,BORTEZOMIB,bortezomib,Mixed,wp,most,congestive heart failure/QT-interval prolongation,severe,train
+391,AZACITIDINE,AZACITIDINE,AZACITIDINE,Mixed,ar,less,cardiac failure/ cardio respiratory arrest,severe,train
+392,Octreotide Acetate,OCTREOTIDE ACETATE,OCTREOTIDE ACETATE,Arrhythmia,wp,most,higher degree atrioventricular blocks,severe,train
+393,RIMSO-50,DIMETHYL SULFOXIDE,Dimethyl Sulfoxide,,no,no,,,test
+394,Cysview,HEXAMINOLEVULINATE HYDROCHLORIDE,HEXAMINOLEVULINATE HYDROCHLORIDE,,no,no,,,test
+395,Cystografin Dilute,DIATRIZOATE MEGLUMINE,diatrizoate meglumine,,no,no,,,train
+396,Valstar,VALRUBICIN,VALRUBICIN,,no,no,,,train
+397,CRESEMBA,ISAVUCONAZONIUM SULFATE,ISAVUCONAZONIUM SULFATE,Arrhythmia,ar,less,supraventricular tachycardia,mild,test
+398,Aptivus,TIPRANAVIR,TIPRANAVIR,,no,no,"tachycardia, ventricular extrasystoles, cardiac arrest",,test
+399,Metopirone,METYRAPONE,METYRAPONE,Heart Damage,ar,less,Hypotension,mild,train
+400,Ravicti,GLYCEROL PHENYLBUTYRATE,GLYCEROL PHENYLBUTYRATE,,CLINICAL PHARMACOLOGY,no,QTcI) for RAVICTI was below 10 ms,,train
+401,OPSUMIT,MACITENTAN,macitentan,Heart Damage,ar,less,hypotension,mild,test
+402,ONGLYZA,SAXAGLIPTIN,saxagliptin hydrochloride,Heart Damage,wp,most, heart failure,severe,test
+403,DIFICID; Dificid,FIDAXOMICIN,FIDAXOMICIN,,no,no,,,train
+404,Wakix,PITOLISANT HYDROCHLORIDE,PITOLISANT HYDROCHLORIDE,Arrhythmia,wp,most,QT Interval Prolongation,moderate,train
+405,Xadago,SAFINAMIDE MESYLATE,SAFINAMIDE MESYLATE,Heart Damage,wp,less,hypertension,mild,test
+406,Turalio,PEXIDARTINIB,PEXIDARTINIB HYDROCHLORIDE,Heart Damage,ar,less,Hypertension,mild,test
+407,CAPRELSA,VANDETANIB,VANDETANIB,Mixed,bw,most,prolong the QT interval/Heart failure,severe,train
+408,Zydelig,IDELALISIB,IDELALISIB,,CLINICAL PHARMACOLOGY,no, not prolong the QT/QTc interval,,test
+409,Benznidazole,BENZNIDAZOLE,BENZNIDAZOLE,,no,no,,,test
+410,Dipentum,OLSALAZINE SODIUM,OLSALAZINE SODIUM,Mixed,ar,less,myocarditis,severe,test
+411,PEMAZYRE,PEMIGATINIB,PEMIGATINIB,,sp,ambiguous,patients with electrocardiogram QT prolonged,,train
+412,Isturisa,OSILODROSTAT,OSILODROSTAT PHOSPHATE,Arrhythmia,wp,most,QT interval prolongation,moderate,train
+413,Prograf,TACROLIMUS,anhydrous tacrolimus,Heart Damage,wp,less,Myocardial Hypertrophy,mild,test
+414,ONGENTYS,OPICAPONE,OPICAPONE,Heart Damage,wp,less,hypotension,mild,test
+415,Priftin,RIFAPENTINE,RIFAPENTINE,Mixed,ar,less,tachycardia/pericarditis,mild,train
+416,Matulane,PROCARBAZINE HYDROCHLORIDE,PROCARBAZINE HYDROCHLORIDE,Mixed,ar,less,Hypotension/tachycardia,mild,test
+417,Katerzia,AMLODIPINE,Amlodipine Benzoate,Heart Damage,wp,most,acute myocardial infarction,severe,test
+418,FACTIVE,GEMIFLOXACIN MESYLATE,GEMIFLOXACIN MESYLATE,Arrhythmia,wp,most,prolong the QT interval,severe,test
+419,Juxtapid,LOMITAPIDE MESYLATE,LOMITAPIDE MESYLATE,Mixed,ar,less,Angina pectoris/Palpitations ,moderate,train
+420,Dibenzyline,PHENOXYBENZAMINE HYDROCHLORIDE,PHENOXYBENZAMINE HYDROCHLORIDE,,sp,ambiguous,tachycardia(Drug Interactions),,train
+421,NUBEQA,DAROLUTAMIDE,DAROLUTAMIDE,Mixed,ar,less,cardiac failure/arrest,severe,train
+422,Lynparza,OLAPARIB,OLAPARIB,,no,no,,,test
+423,Sovaldi,SOFOSBUVIR,SOFOSBUVIR,,sp,ambiguous,"requiring pacemaker
+intervention(Coadministered with Amiodarone)",,train
+424,Edarbi,AZILSARTAN KAMEDOXOMIL,Azilsartan kamedoxomil,,sp,ambiguous,Hypotens ionin Volume- or Salt-Depleted Patients,,train
+425,PYtest,"UREA, C-14",Urea C-14,,CLINICAL PHARMACOLOGY,no, not prolong the QT/QTc interval,,train
+426,Pranactin-Citric,UREA C-13,UREA C-13,,no,no,,,train
+427,Odomzo,SONIDEGIB,SONIDEGIB PHOSPHATE,,CLINICAL PHARMACOLOGY,no, not prolong the QT/QTc interval,,test
+428,TEPMETKO,TEPOTINIB HYDROCHLORIDE,Tepotinib Hydrochloride,,CLINICAL PHARMACOLOGY,no, not prolong the QT/QTc interval,,test
+429,Keveyis,DICHLORPHENAMIDE,DICHLORPHENAMIDE,Heart Damage,ar,less,cardiac failure,severe,train
+430,Fanapt,ILOPERIDONE,ILOPERIDONE,Mixed,wp,most,QTc prolongation/hypotension,moderate,train
+431,Agrylin,ANAGRELIDE HYDROCHLORIDE,ANAGRELIDE HYDROCHLORIDE ANHYDROUS,Mixed,wp,most,increases the QTc interval /Hypertension,mild,test
+432,Livmarli,MARALIXIBAT CHLORIDE,maralixibat chloride,,no,no,,,train
+433,Lucemyra,LOFEXIDINE HYDROCHLORIDE,LOFEXIDINE HYDROCHLORIDE,Mixed,wp,most,prolongs the QT interval/hypotension,severe,test
+434,SYMPROIC,NALDEMEDINE,naldemedine tosylate,,CLINICAL PHARMACOLOGY,no, not prolong the QT/QTc interval,,test
+435,Otezla,APREMILAST,APREMILAST,,no,no,,,train
+436,Invirase,SAQUINAVIR MESYLATE,SAQUINAVIR MESYLATE,Mixed,wp,most, Torsade de pointes,severe,test
+437,Inrebic,FEDRATINIB HYDROCHLORIDE,FEDRATINIB HYDROCHLORIDE,Heart Damage,wp,most,myocardial infarction,severe,test
+438,Idhifa,ENASIDENIB MESYLATE,ENASIDENIB MESYLATE,Heart Damage,wp,most,pericardial effusion,severe,train
+439,VIIBRYD,VILAZODONE HYDROCHLORIDE,VILAZODONE HYDROCHLORIDE,Arrhythmia,ar,less,Palpitations,mild,train
+440,Hepsera,ADEFOVIR DIPIVOXIL,adefovir dipivoxil,,no,no,,,train
+441,ANZEMET,DOLASETRON MESYLATE,DOLASETRON MESYLATE,Arrhythmia,wp,most,prolongs the QT interval,severe,test
+442,TABRECTA,CAPMATINIB,CAPMATINIB,,CLINICAL PHARMACOLOGY,no, not prolong the QT/QTc interval,,test
+443,JANUVIA,SITAGLIPTIN,SITAGLIPTIN PHOSPHATE,Heart Damage,wp,most,heart failure,severe,train
+444,Corlanor,IVABRADINE,IVABRADINE HYDROCHLORIDE,Arrhythmia,wp,most,heart block,moderate,test
+445,Radiogardase,PRUSSIAN BLUE INSOLUBLE CAPSULES,FERRIC FERROCYANIDE,,no,no,,,train
+446,Trintellix,VORTIOXETINE,VORTIOXETINE HYDROBROMIDE,,CLINICAL PHARMACOLOGY,ambiguous,QTc was below 10 ms,,train
+447,TAVALISSE,FOSTAMATINIB,FOSTAMATINIB,Heart Damage,wp,most,increases the QTc interval /Hypertension,mild,train
+448,Alinia,NITAZOXANIDE,NITAZOXANIDE,,no,no,,,test
+449,Vyvanse,LISDEXAMFETAMINE DIMESYLATE,LISDEXAMFETAMINE DIMESYLATE,Mixed,wp,most,Sudden death/myocardial infarction/Heart rate,severe,train
+450,Hetlioz; Hetlioz LQ,TASIMELTEON,TASIMELTEON,,no,no,,,test
+451,Pradaxa,DABIGATRAN ETEXILATE MESYLATE,DABIGATRAN ETEXILATE MESYLATE,Heart Damage,wp,most,myocardial infarction,severe,train
+452,TPOXX,TECOVIRIMAT MONOHYDRATE,TECOVIRIMAT MONOHYDRATE,,CLINICAL PHARMACOLOGY,no, not prolong the QT/QTc interval,,test
+453,IRESSA,GEFITINIB,GEFITINIB,,no,no,,,test
+454,Mycapssa,OCTREOTIDE,Octreotide,Arrhythmia,wp,most,QT prolongation,moderate,train
+455,Orenitram,TREPROSTINIL,treprostinil,,CLINICAL PHARMACOLOGY,ambiguous,"not been evaluated in a
+thorough QTc study.",,train
+456,Ruzurgi,AMIFAMPRIDINE,Amifampridine,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,test
+457,Adempas,RIOCIGUAT,RIOCIGUAT,Heart Damage,wp,less,Hypotension,mild,train
+458,MAYZENT,SIPONIMOD,SIPONIMOD,Mixed,wp,less,atrioventricular conduction delays /Hypertension,mild,test
+459,Savella,MILNACIPRAN HYDROCHLORIDE,MILNACIPRAN HYDROCHLORIDE; milnacipran hydrochloride,Mixed,wp,less,Elevated Heart Rate/Elevated Blood Pressure,mild,test
+460,Sapropterin Dihydrochloride,SAPROPTERIN DIHYDROCHLORIDE,SAPROPTERIN DIHYDROCHLORIDE,Heart Damage,ar,less,myocardial infarction,severe,test
+461,BELVIQ XR; Belviq,LORCASERIN HYDROCHLORIDE HEMIHYDRATE,LORCASERIN HYDROCHLORIDE HEMIHYDRATE,Mixed,wp,most,Regurgitant cardiac valvular disease/Heart Rate Decreases,severe,train
+462,SPRYCEL,DASATINIB,dasatinib,Mixed,wp,most,cardiac ischemic events/QT Prolongation,severe,train
+463,SOLOSEC,SECNIDAZOLE,SECNIDAZOLE,,CLINICAL PHARMACOLOGY,no,no clinically relevant increase in the QTc,,test
+464,DURLAZA,ACETYLSALICYLIC ACID,Aspirin,,no,no,reduce the risk of death and myocardial infarction,,test
+465,Diacomit,STIRIPENTOL,Stiripentol,,no,no,,,train
+466,PROCYSBI,CYSTEAMINE BITARTRATE,Cysteamine bitartrate,,sp,ambiguous,Benign Intracranial Hypertension,,train
+467,Auryxia,FERRIC CITRATE,TETRAFERRIC TRICITRATE DECAHYDRATE,,no,no,,,train
+468,Synthroid,LEVOTHYROXINE SODIUM,LEVOTHYROXINE,Mixed,ar,less,myocardial infarction/ cardiac arrest,severe,train
+469,TIBSOVO,IVOSIDENIB,ivosidenib,Arrhythmia,wp,most,QT (QTc) prolongation,severe,test
+470,MYTESI,CROFELEMER,CROFELEMER,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,train
+471,Livtencity,MARIBAVIR,MARIBAVIR,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,test
+472,ALECENSA,ALECTINIB HYDROCHLORIDE,ALECTINIB HYDROCHLORIDE,Arrhythmia,wp,less,bradycardia,mild,train
+473,Xcopri; Xcopri Maintenance Pack; Xcopri Titration Pack,CENOBAMATE,CENOBAMATE,Arrhythmia,wp,most,QT Shortening,moderate,train
+474,Cevimeline,CEVIMELINE,CEVIMELINE HYDROCHLORIDE,Mixed,wp,less,"tachycardia, bradycardia/ hypotension, hypertension",mild,train
+475,Orgovyx,RELUGOLIX,RELUGOLIX,Arrhythmia,wp,most,prolong the QT/QTc interval,severe,train
+476,Rayaldee,CALCIFEDIOL,CALCIFEDIOL,Heart Damage,ar,less,congestive heart failure,severe,test
+477,Tetracycline Hydrochloride,TETRACYCLINE HYDROCHLORIDE,TETRACYCLINE HYDROCHLORIDE,,sp,ambiguous,Intracranial hypertension,,test
+478,AUSTEDO; Austedo,DEUTETRABENAZINE,DEUTETRABENAZINE,Arrhythmia,wp,most, prolong the QT interval,severe,test
+479,SIRTURO,BEDAQUILINE FUMARATE,Bedaquiline Fumarate,Arrhythmia,bw,most, QT Prolongation,moderate,test
+480,Lorbrena,LORLATINIB,LORLATINIB,Mixed,wp,most,3 degree atrioventricular (AV) block/Hypertension ,severe,train
+481,QELBREE,VILOXAZINE HYDROCHLORIDE,VILOXAZINE HYDROCHLORIDE,Mixed,wp,less,Increase in Heart Rate or Blood Pressure,mild,test
+482,Trecator,ETHIONAMIDE,ETHIONAMIDE,,no,no,,,test
+483,TAVNEOS,AVACOPAN,AVACOPAN,Heart Damage,ar,less,Hypertension,,test
+484,XELJANZ; XELJANZ XR,TOFACITINIB,TOFACITINIB CITRATE,Heart Damage,bw,most,myocardial infarction,severe,test
+485,Moxidectin,MOXIDECTIN,MOXIDECTIN,Heart Damage,wp,less,symptomatic orthostatic hypotension,mild,test
+486,Desvenlafaxine,DESVENLAFAXINE,DESVENLAFAXINE,Heart Damage,wp,less, increases in blood pressure ,mild,train
+487,NUPLAZID,PIMAVANSERIN TARTRATE,pimavanserin tartrate,Arrhythmia,wp,most,QT Interval Prolongation,moderate,test
+488,Venclexta,VENETOCLAX,Venetoclax,,CLINICAL PHARMACOLOGY,no,no large effect on QTc interval ,,test
+489,SLYND,DROSPIRENONE,DROSPIRENONE,,no,no,,,train
+490,Linzess,LINACLOTIDE,LINACLOTIDE,,sp,ambiguous,hypotension and electrolyte abnormalities (hypokalemia and hyponatremia),mild,test
+491,Myrbetriq,MIRABEGRON,MIRABEGRON,Heart Damage,wp,less,increase blood pressure,mild,train
+492,STEGLATRO,ERTUGLIFLOZIN,ERTUGLIFLOZIN PIDOLATE,,CLINICAL PHARMACOLOGY,no,not prolong QTc,,train
+493,RAZADYNE,GALANTAMINE HYDROBROMIDE,galantamine hydrobromide,Arrhythmia,wp,most,heart block,moderate,train
+494,Daypro,OXAPROZIN,OXAPROZIN,Heart Damage,bw,most,myocardial infarction,severe,test
+495,Stivarga,REGORAFENIB,REGORAFENIB MONOHYDRATE,Heart Damage,wp,most, myocardial ischemia and infarction,severe,train
+496,ACCRUFER,FERRIC MALTOL,FERRIC MALTOL,,no,no,,,test
+497,LAMPIT,NIFURTIMOX,NIFURTIMOX,,sp,ambiguous,Hypersensitivity reaction:hypotension,,test
+498,PEXEVA,PAROXETINE MESYLATE,PAROXETINE MESYLATE,Mixed,ar,less,tachycardia/angina pectoris,mild,train
+499,GEMTESA,VIBEGRON,vibegron,,CLINICAL PHARMACOLOGY,no,not prolong QTc,,test
+500,ZYPITAMAG,PITAVASTATIN MAGNESIUM,PITAVASTATIN,,no,no,,,test
+501,BREXAFEMME,IBREXAFUNGERP,IBREXAFUNGERP CITRATE,,CLINICAL PHARMACOLOGY,no,not prolong QTc,,train
+502,HIPREX,METHENAMINE HIPPURATE,METHENAMINE HIPPURATE,,no,no,,,train
+503,Tybost,COBICISTAT,COBICISTAT,,no,no,,,train
+504,VERQUVO,VERICIGUAT,VERICIGUAT,Heart Damage,ar,less,Hypotension,mild,test
+505,Rozlytrek,ENTRECTINIB,ENTRECTINIB,Mixed,wp,most,congestive heart failure /QT Interval Prolongation,severe,train
+506,XIFAXAN,RIFAXIMIN,RIFAXIMIN,,no,no,,,test
+507,PIZENSY,LACTITOL,LACTITOL,Heart Damage,ar,less,Increased blood pressure,mild,train
+508,Avandia,ROSIGLITAZONE MALEATE,ROSIGLITAZONE MALEATE,Heart Damage,bw,most,congestive heart failure,severe,test
+509,EMFLAZA,DEFLAZACORT,DEFLAZACORT,Heart Damage,wp,less,elevation of blood pressure,mild,train
+510,Ketek,TELITHROMYCIN,telithromycin,Arrhythmia,wp,most,torsades de pointes,severe,train
+511,Daurismo,GLASDEGIB,GLASDEGIB,Arrhythmia,wp,most,QTc prolongation,moderate,train
+512,ORFADIN,NITISINONE,NITISINONE,,no,no,,,train
+513,ZYKADIA,CERITINIB,CERITINIB,Arrhythmia,wp,most,QTc interval prolongation,moderate,test
+514,Vumerity,DIROXIMEL FUMARATE,diroximel fumarate,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,train
+515,Multaq,DRONEDARONE,Dronedarone,Mixed,bw,most,Class IV heart failure/atrial fibrillatio n,severe,test
+516,Cenestin,"SYNTHETIC CONJUGATED ESTROGENS, A","ESTROGENS, CONJUGATED SYNTHETIC A",Heart Damage,bw,most,myocardial infarction and strok,severe,test
+517,Quazepam,QUAZEPAM,QUAZEPAM,,no,no,,,train
+518,Northera,DROXIDOPA,DROXIDOPA,Heart Damage,bw,most,supine hypertension,mild,test
+519,Boniva,IBANDRONATE SODIUM,IBANDRONATE SODIUM,Heart Damage,ar,less,Hypertension,mild,train
+520,Livalo,PITAVASTATIN CALCIUM,pitavastatin calcium,,CLINICAL PHARMACOLOGY,no,not prolongation of the QTc interval ,,test
+521,Olumiant,BARICITINIB,baricitinib,Heart Damage,bw,most, sudden cardiovascular death,severe,train
+522,Zokinvy,LONAFARNIB,LONAFARNIB,Heart Damage,ar,less,Hypertension,mild,test
+523,ZONTIVITY,VORAPAXAR,VORAPAXAR SULFATE,,CLINICAL PHARMACOLOGY,no,no effect on the QTc interval,,test
+524,RYDAPT,RYDAPT,MIDOSTAURIN,Mixed,ar,less,Cardiac failure/QT prolongation,severe,train
+525,CALQUENCE,ACALABRUTINIB,ACALABRUTINIB,Arrhythmia,wp,less,atrial fibrillation/atrial flutter,mild,test
+526,citalopram,CITALOPRAM,CITALOPRAM HYDROBROMIDE,Arrhythmia,wp,most,QT-Prolongation and Torsade de Pointes,severe,test
+527,Alunbrig,BRIGATINIB,brigatinib,Mixed,wp,less,Bradycardia/Hypertension,mild,test
+528,FARYDAK,PANOBINOSTAT,PANOBINOSTAT LACTATE,Mixed,bw,most,cardiac ischemic events/severe arrhythmias,severe,train
+529,ZEJULA,NIRAPARIB,niraparib,Heart Damage,wp,less,Hypertension,mild,test
+530,Jardiance,EMPAGLIFLOZIN,empagliflozin,,no,no,,,train
+531,Fycompa,PERAMPANEL,PERAMPANEL,,sp,ambiguous,Multiorgan hypersensitivity:myocarditis,,train
+532,BRILINTA,TICAGRELOR,TICAGRELOR,Arrhythmia,wp,most, ventricular pauses,moderate,test
+533,DOPTELET,AVATROMBOPAG MALEATE,AVATROMBOPAG MALEATE,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,train
+534,Ibrance,PALBOCICLIB,PALBOCICLIB,,CLINICAL PHARMACOLOGY,no, no  effect on QTc ,,test
+535,Gilenya,FINGOLIMOD HCL,FINGOLIMOD HYDROCHLORIDE,Mixed,wp,most, third-degree AV block/Increased Blood Pressure ,severe,train
+536,TYKERB,LAPATINIB,LAPATINIB DITOSYLATE,Mixed,wp,most,decrease LVEF/QT Prolongation,moderate,train
+537,Cholbam,CHOLIC ACID,CHOLIC ACID,,no,no,,,test
+538,amiloride hydrocloride,AMILORIDE HYDROCLORIDE,AMILORIDE HYDROCHLORIDE,Mixed,ar,less,Angina pectoris/Arrhythmia,mild,train
+539,VEMLIDY,TENOFOVIR ALAFENAMIDE,TENOFOVIR ALAFENAMIDE FUMARATE,,CLINICAL PHARMACOLOGY,no,not affect the QT/QTc interval,,train
+540,UKONIQ,UMBRALISIB,umbralisib tosylate,,CLINICAL PHARMACOLOGY,no,,,train
+541,TABLOID,THIOGUANINE,THIOGUANINE,,no,no,,,train
+542,azithromycin,AZITHROMYCIN,azithromycin,Mixed,ar,less,Arrhythmias/chest pain,mild,train
+543,Vraylar,CARIPRAZINE,CARIPRAZINE,Heart Damage,wp,less,hypotension ,mild,test
+544,Tasigna,NILOTINIB,NILOTINIB,Arrhythmia,bw,most,prolongs the QT interval,moderate,test
+545,Revlimid,LENALIDOMIDE,LENALIDOMIDE,Heart Damage,bw,most, myocardial infarction ,severe,test
+546,Toviaz,FESOTERODINE FUMARATE,FESOTERODINE FUMARATE,Mixed,ar,less,angina/QT prolongation on ECG,severe,test
+547,Lenvima,LENVATINIB,LENVATINIB,Mixed,wp,most,cardiomyopathy/QT Interval Prolongation,severe,test
+548,PURINETHOL,MERCAPTOPURINE,MERCAPTOPURINE,,no,no,,,test
+549,Aplenzin,BUPROPION HYDROBROMIDE,BUPROPION HYDROBROMIDE,Heart Damage,wp,less,hypertension,mild,test
+550,Chemet,SUCCIMER,SUCCIMER,Arrhythmia,ar,less,Arrhythmia,mild,train
+551,Aemcolo,RIFAMYCIN,Rifamycin,,no,no,,,test
+552,COMETRIQ,CABOZANTINIB,cabozantinib s-malate,Heart Damage,wp,less,Hypertension ,mild,test
+553,Stendra,AVANAFIL,AVANAFIL,Heart Damage,ar,less,angina,moderate,train
+554,Cerdelga,ELIGLUSTAT,eliglustat,Arrhythmia,wp,most," increases in ECG intervals (PR, QTc, and QRS)",moderate,test
+555,Krintafel,TAFENOQUINE SUCCINATE,TAFENOQUINE SUCCINATE,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,train
+556,Kerendia,FINERENONE,FINERENONE,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,train
+557,ESBRIET,PIRFENIDONE,PIRFENIDONE,,CLINICAL PHARMACOLOGY,no,"no evidence that ESBRIET
+prolonged the QTc interval",,test
+558,LOKELMA,SODIUM ZIRCONIUM CYCLOSILICATE,SODIUM ZIRCONIUM CYCLOSILICATE,,no,no,,,train
+559,Pomalyst,POMALIDOMIDE,POMALIDOMIDE,Heart Damage,bw,most,myocardial infarction,severe,train
+560,Galafold,MIGALASTAT HYDROCHLORIDE,MIGALASTAT HYDROCHLORIDE,,CLINICAL PHARMACOLOGY,no,not prolong the QT interval,,test
+561,DYANAVEL XR; Dyanavel XR,AMPHETAMINE,AMPHETAMINE,Mixed,wp,most,myocardial infarction/Heart Rate Increases,severe,test
+562,Tasmar,TOLCAPONE,Tolcapone,Mixed,ar,less,heart failure/tachycardia,severe,train
+563,RETEVMO,SELPERCATINIB,selpercatinib,Mixed,wp,most,QT Interval Prolongation/Hypertension,moderate,test
+564,XTAMPZA ER,OXYCODONE,OXYCODONE,Heart Damage,wp,less,hypotension ,mild,train
+565,INLYTA,AXITINIB,AXITINIB,Heart Damage,wp,most,cardiac failure ,severe,train
+566,Thiola EC,TIOPRONIN,TIOPRONIN,Heart Damage,ar,less,congestive heart failure,severe,train
+567,SCEMBLIX,ASCIMINIB,ASCIMINIB HYDROCHLORIDE,Mixed,wp,most,"cardiac failure/QTc prolongation,",severe,train
+568,Mekinist,TRAMETINIB,TRAMETINIB DIMETHYL SULFOXIDE,Heart Damage,wp,most, cardiac failure,severe,train
+569,FIBRICOR,FENOFIBRIC ACID,Fenofibric Acid,,no,no,,,train
+570,KISQALI,RIBOCICLIB,RIBOCICLIB SUCCINATE,Arrhythmia,wp,most, prolong the QT interval,severe,train
+571,GOCOVRI,AMANTADINE,AMANTADINE,Heart Damage,wp,less,hypotension,mild,test
+572,Aptiom,ESLICARBAZEPINE ACETATE,ESLICARBAZEPINE ACETATE,,sp,ambiguous,Multiorgan hypersensitivity:myocarditis,,test
+573,Tafinlar,DABRAFENIB,DABRAFENIB MESYLATE,Heart Damage,wp,most,cardiomyopathy,severe,test
+574,Osphena,OSPEMIFENE,OSPEMIFENE,Heart Damage,wp,most, myocardial infarction,severe,test
+575,Enablex,DARIFENACIN,DARIFENACIN,Arrhythmia,ar,less,palpitations,mild,train
+576,Trimethoprim,TRIMETHOPRIM,TRIMETHOPRIM,,no,no,,,train
+577,BRUKINSA,ZANUBRUTINIB,ZANUBRUTINIB,Arrhythmia,wp,less,Atrial fibrillation,mild,test
+578,UBRELVY,UBROGEPANT,UBROGEPANT,,CLINICAL PHARMACOLOGY,no,not prolong the QT interval,,train
+579,TRUSELTIQ,INFIGRATINIB,INFIGRATINIB,,CLINICAL PHARMACOLOGY,no,not prolong the QT interval,,test
+580,Nexavar,SORAFENIB,SORAFENIB,Mixed,wp,most,cardiac ischemia/infarction/QT Prolongation,severe,train
+581,QINLOCK,RIPRETINIB,Ripretinib,Heart Damage,wp,most,cardiac failure,severe,test
+582,Primsol,TRIMETHOPRIM HYDROCHLORIDE,TRIMETHOPRIM HYDROCHLORIDE,,no,no,,,test
+583,Nerlynx,NERATINIB,NERATINIB MALEATE,,CLINICAL PHARMACOLOGY,no,not prolong the QT interval,,train
+584,XARELTO; Xarelto,RIVAROXABAN,rivaroxaban,,no,no,,,train
+585,Afinitor; Afinitor Disperz,EVEROLIMUS,EVEROLIMUS,Mixed,ar,less,congestive cardiac failure /Tachycardia ,severe,test
+586,Viramune,NEVIRAPINE,NEVIRAPINE,,no,no,,,train
+587,VIRACEPT,NELFINAVIR MESYLATE,NELFINAVIR MESYLATE,Arrhythmia,ar,less,torsades de pointes,moderate,train
+588,Iclusig,PONATINIB HYDROCHLORIDE,ponatinib hydrochloride,Mixed,bw,most,fatal myocardial infarction/cardiac arrhythmias,severe,test
+589,Xenical,ORLISTAT,ORLISTAT,,no,no,,,test
+590,HYCAMTIN,TOPOTECAN,TOPOTECAN HYDROCHLORIDE,,no,no,,,test
+591,Xtandi,ENZALUTAMIDE,ENZALUTAMIDE,Heart Damage,wp,most,ischemic heart disease,severe,train
+592,SUNOSI,SOLRIAMFETOL,SOLRIAMFETOL,Mixed,wp,less,Blood Pressure Heart Rate Increases,mild,train
+593,ELMIRON,PENTOSAN POLYSULFATE SODIUM,PENTOSAN POLYSULFATE SODIUM,,no,no,,,train
+594,PIFELTRO,DORAVIRINE,doravirine,,CLINICAL PHARMACOLOGY,no,not prolong the QT interval,,train
+595,Plaquenil,HYDROXYCHLOROQUINE SULFATE,HYDROXYCHLOROQUINE SULFATE,Mixed,wp,most,Cardiomyopathy/QT prolongation,severe,test
+596,BRAFTOVI,ENCORAFENIB,ENCORAFENIB,Arrhythmia,wp,most,QTc interval prolongation ,moderate,test
+597,ENJUVIA,"SYNTHETIC CONJUGATED ESTROGENS, B","ESTROGENS, CONJUGATED SYNTHETIC B",Heart Damage,bw,most,myocardial infarction,severe,train
+598,Firdapse,AMIFAMPRIDINE PHOSPHATE,amifampridine phosphate,Heart Damage,ar,less,Hypertension,mild,test
+599,Xermelo,TELOTRISTAT ETHYL,telotristat ethyl,,CLINICAL PHARMACOLOGY,no,not prolong the QT interval,,test
+600,FOTIVDA,TIVOZANIB,tivozanib hydrochloride,Heart Damage,wp,most,fatal Cardiac Failure,severe,train
+601,BALVERSA,ERDAFITINIB,Erdafitinib,Heart Damage,ar,less,acute myocardial infarction.,severe,test
+602,Orladeyo,BEROTRALSTAT HYDROCHLORIDE,Berotralstat hydrochloride,Arrhythmia,wp,less,QT Prolongation with Higher-Than-Recommended Dosages,moderate,train
+603,FARXIGA,DAPAGLIFLOZIN,DAPAGLIFLOZIN PROPANEDIOL,,CLINICAL PHARMACOLOGY,no,not prolong the QT interval,,train
+604,Velphoro,SUCROFERRIC OXYHYDROXIDE,FERRIC OXYHYDROXIDE,,no,no,,,test
+605,Macrilen,MACIMORELIN ACETATE,MACIMORELIN,Arrhythmia,wp,most,QTc interval prolongation ,moderate,train
+606,BOSULIF,BOSUTINIB MONOHYDRATE,BOSUTINIB MONOHYDRATE,Heart Damage,wp,most,cardiac failure,severe,test
+607,Rezurock,BELUMOSUDIL,BELUMOSUDIL,Heart Damage,ar,less,hypertension,mild,train
+608,JAKAFI,RUXOLITINIB,RUXOLITINIB,Heart Damage,wp,most,"cardiovascular death/myocardial infarction,",severe,test
+609,VERMOX,MEBENDAZOLE,mebendazole,,no,no,,,test
+610,PARNATE,TRANYLCYPROMINE SULFATE,TRANYLCYPROMINE SULFATE,Heart Damage,wp,less,Hypertension,mild,train
+611,WELIREG,BELZUTIFAN,BELZUTIFAN,Heart Damage,ar,less,Hypertension,mild,train
+612,Trulance Immediate release,PLECANATIDE,Plecanatide,,no,no,,,train
+613,Xyrem,SODIUM OXYBATE,SODIUM OXYBATE,,no,no,,,test
+614,Qulipta,ATOGEPANT,ATOGEPANT,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,test
+615,Gleostine,LOMUSTINE,LOMUSTINE,,no,no,,,train
+616,Incruse Ellipta,UMECLIDINIUM,UMECLIDINIUM BROMIDE,Arrhythmia,ar,less,supraventricular tachycardia,moderate,train
+617,Cefditoren Pivoxil,CEFDITOREN PIVOXIL,CEFDITOREN PIVOXIL,,no,no,,,train
+618,Lysodren,MITOTANE,mitotane,,no,no,,,train
+619,DIURIL,CHLOROTHIAZIDE,CHLOROTHIAZIDE,Heart Damage,ar,less,Hypotension,mild,train
+620,CRIXIVAN,INDINAVIR SULFATE,INDINAVIR SULFATE,Heart Damage,ar,less,myocardial infarction,severe,test
+621,EVRYSDI,RISDIPLAM,RISDIPLAM,,no,no,,,train
+622,Reyvow,LASMIDITAN,lasmiditan,Mixed,ar,less,palpitations/increase blood pressure,mild,train
+623,Horizant,GABAPENTIN ENACARBIL,gabapentin enacarbil,,CLINICAL PHARMACOLOGY,no, not prolong QT interval,,test
+624,Emcyt,ESTRAMUSTINE PHOSPHATE SODIUM,ESTRAMUSTINE PHOSPHATE SODIUM,Heart Damage,wp,most,myocardial infarction,severe,test
+625,Nucynta ER,TAPENTADOL HYDROCHLORIDE,TAPENTADOL HYDROCHLORIDE,Heart Damage,wp,less,hypotension,mild,train
+626,CAPLYTA,LUMATEPERONE,LUMATEPERONE,Heart Damage,wp,less,hypotension,mild,train
+627,KOSELUGO,SELUMETINIB,SELUMETINIB,Heart Damage,wp,most,Cardiomyopathy,severe,train
+628,TAZVERIK,TAZEMETOSTAT,tazemetostat hydrobromide,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,test
+629,Mulpleta,LUSUTROMBOPAG,LUSUTROMBOPAG,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,train
+630,Vascepa,ICOSAPENT ETHYL,ICOSAPENT ETHYL,Arrhythmia,wp,less,atrial fibrillation/atrial flutter,mild,test
+631,Cotellic,COBIMETINIB,COBIMETINIB FUMARATE,Heart Damage,wp,most,Cardiomyopathy,severe,train
+632,MOVANTIK,NALOXEGOL OXALATE,NALOXEGOL OXALATE,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,train
+633,Cedax,CEFTIBUTEN DIHYDRATE,Ceftibuten dihydrate,,no,no,,,test
+634,COPIKTRA,DUVELISIB,DUVELISIB,,CLINICAL PHARMACOLOGY,no,QTc interval were not observed,,test
+635,Verzenio,ABEMACICLIB,abemaciclib,,sp,ambiguous,cardiac failure(drug Combination ),severe,test
+636,Lithium,LITHIUM,Lithium Citrate,Mixed,wp,most,myocarditis/prolonged QT interval,severe,train
+637,INGREZZA,VALBENAZINE,VALBENAZINE TOSYLATE,Arrhythmia,wp,most,prolong the QT interval,severe,train
+638,Xospata,GILTERITINIB,GILTERITINIB FUMARATE,Arrhythmia,wp,most,prolong the QT interval,severe,train
+639,PONVORY,PONESIMOD,Ponesimod,Mixed,wp,less,Atrioventricular Conduction Delays/Increased Blood Pressure,mild,test
+640,Orilissa,ELAGOLIX,ELAGOLIX SODIUM,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,test
+641,ZOLINZA,VORINOSTAT,VORINOSTAT,Heart Damage,ar,less,myocardial infarction,severe,test
+642,Varubi,ROLAPITANT,ROLAPITANT HYDROCHLORIDE,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,train
+643,IMPAVIDO,MILTEFOSINE,MILTEFOSINE,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,train
+644,Xalkori,CRIZOTINIB,CRIZOTINIB,Arrhythmia,wp,most,QT Interval Prolongation,moderate,train
+645,Ayvakit,AVAPRITINIB,avapritinib,Heart Damage,ar,less,cardiac failure,severe,test
+646,Vizimpro,DACOMITINIB,DACOMITINIB,,CLINICAL PHARMACOLOGY,no, no large effect on QTc,,train
+647,IBSRELA,TENAPANOR HYDROCHLORIDE,TENAPANOR HYDROCHLORIDE,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,train
+648,Xofluza,BALOXAVIR MARBOXIL,BALOXAVIR MARBOXIL,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,train
+649,Thalomid,THALIDOMIDE,THALIDOMIDE,Mixed,wp,most,myocardial infarction/Bradycardia,severe,train
+650,MOTEGRITY,PRUCALOPRIDE,PRUCALOPRIDE SUCCINATE,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,train
+651,PROMACTA,ELTROMBOPAG OLAMINE,ELTROMBOPAG OLAMINE,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,test
+652,ERLEADA,APALUTAMIDE,Apalutamide,Heart Damage,wp,most,"ischemic cardiovascular
+events",severe,test
+653,Lithostat,ACETOHYDROXAMIC ACID,ACETOHYDROXAMIC ACID,Arrhythmia,ar,less,Palpitations,mild,train
+654,Rinvoq,UPADACITINIB,upadacitinib,Heart Damage,bw,most,sudden cardiovascular death,severe,train
+655,Sular,NISOLDIPINE,NISOLDIPINE,Mixed,ar,less,"congestive heart failure/supraventricular
+tachycardia",severe,test
+656,Mavenclad,CLADRIBINE,Cladribine,Heart Damage,wp,most,"life-threatening acute
+ cardiac failure ",severe,train
+657,EGATEN,TRICLABENDAZOLE,TRICLABENDAZOLE,Arrhythmia,wp,most,prolongation of the mean QTc interval,severe,train
+658,Peganone,ETHOTOIN,ETHOTOIN,,no,no,,,test
+659,NINLARO,IXAZOMIB,ixazomib citrate,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,test
+660,Viberzi,ELUXADOLINE,ELUXADOLINE,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,test
+661,BAFIERTAM,MONOMETHYL FUMARATE,monomethyl fumarate,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,train
+662,Zelnorm,TEGASEROD,tegaserod,,sp,ambiguous,patients has  increased risk of developing an adverse cardiovascular event,,train
+663,ISENTRESS,ISENTRESS,RALTEGRAVIR POTASSIUM,,CLINICAL PHARMACOLOGY,no, not prolong QT interval,,train
+664,Ofev,NINTEDANIB,NINTEDANIB ESYLATE,Heart Damage,wp,most,Myocardial infarction ,severe,test
+665,Prilosec,OMEPRAZOLE MAGNESIUM,OMEPRAZOLE MAGNESIUM,Mixed,ar,less,Chest pain or angina/ tachycardia,moderate,train
+666,Gilotrif,AFATINIB,AFATINIB,,CLINICAL PHARMACOLOGY,no,No large changes in the mean QTc interval,,test
+667,Rubraca,RUCAPARIB,rucaparib camsylate,Mixed,ar,less,ischemic cardiovascular events,severe,test
+668,OXBRYTA,VOXELOTOR,Voxelotor,,CLINICAL PHARMACOLOGY,no, not prolong QT interval,,train
+669,ELIQUIS,APIXABAN,APIXABAN,Heart Damage,ar,less,hypotension,mild,train
+670,Tradjenta,LINAGLIPTIN,LINAGLIPTIN,Heart Damage,wp,most,heart failure,severe,train
+671,ZEPOSIA; ZEPOSIA 7-Day Starter Pack; ZEPOSIA Starter Kit,OZANIMOD HYDROCHLORIDE,OZANIMOD HYDROCHLORIDE,Mixed,wp,less,Atrioventricular Conduction Delays/Increased Blood Pressure,mild,test
+672,Cystadane,BETAINE,BETAINE,,no,no,,,train
+673,RIDAURA,AURANOFIN,AURANOFIN,,no,no,,,test
+674,TAGRISSO,OSIMERTINIB,OSIMERTINIB,Mixed,wp,most,cardiomyopathy/QTc Interval Prolongation,severe,test
+675,EXKIVITY,MOBOCERTINIB,Mobocertinib,Mixed,bw,most,life-threatening heart rate-corrected QT (QTc) prolongation/cardiomyopathy,severe,test
+676,Darvon-N,PROPOXYPHENE NAPSYLATE,propoxyphene napsylate,Heart Damage,wp,less,hypotension,mild,train
+677,ADDYI,FLIBANSERIN,Flibanserin,Heart Damage,wp,less,hypotension,mild,test
+678,Fetzima,LEVOMILNACIPRAN HYDROCHLORIDE,LEVOMILNACIPRAN HYDROCHLORIDE; levomilnacipran hydrochloride,Mixed,wp,less,Increased heart rate/Elevated Blood Pressure,mild,test
+679,Seysara,SARECYCLINE HYDROCHLORIDE,SARECYCLINE HYDROCHLORIDE,,sp,ambiguous,Intracranial hypertension,,train
+680,Marplan,ISOCARBOXAZID,ISOCARBOXAZID,Heart Damage,wp,less,Hypotension,mild,test
+681,PREZISTA,DARUNAVIR,darunavir ethanolate,,CLINICAL PHARMACOLOGY,no, not affect the QT/QTc interval,,test
+682,SAVAYSA,EDOXABAN TOSYLATE,EDOXABAN TOSYLATE,,CLINICAL PHARMACOLOGY,no, not affect the QT/QTc interval,,train
+683,XPOVIO,SELINEXOR,selinexor,Heart Damage,ar,less,cardiac failure,severe,train
+684,Fexinidazole,FEXINIDAZOLE,FEXINIDAZOLE,Arrhythmia,wp,most,prolong the QT interval,severe,train
+685,Pretomanid,PRETOMANID,Pretomanid,,sp,ambiguous,QT prolongation  with the combination,,train
+686,Rukobia,FOSTEMSAVIR TROMETHAMINE,FOSTEMSAVIR TROMETHAMINE,Arrhythmia,ar,less,QTc Prolongation with Higher than Recommended Dosages,moderate,train
+687,XURIDEN,URIDINE TRIACETATE,uridine triacetate,,no,no,,,test
+688,BYLVAY,ODEVIXIBAT,odevixibat,,no,no,,,test
+689,LUPKYNIS,VOCLOSPORIN,VOCLOSPORIN,Mixed,wp,most,prolongs the QTc interval/Hypertension,moderate,test
+690,DOJOLVI,TRIHEPTANOIN,TRIHEPTANOIN,,no,no,,,test
+691,Cesamet,NABILONE,NABILONE,Mixed,wp,less,tachycardia/hypotension,mild,test
+692,Rexulti,BREXPIPRAZOLE,brexpiprazole,Heart Damage,wp,less,Hypotension,mild,test
+693,NOURIANZ,ISTRADEFYLLINE,istradefylline,,CLINICAL PHARMACOLOGY,no, not affect the QT/QTc interval,,test
+694,FINTEPLA,FENFLURAMINE,FENFLURAMINE,Heart Damage,bw,most,valvular heart disease,severe,train
+695,Recorlev,LEVOKETOCONAZOLE,LEVOKETOCONAZOLE,Arrhythmia,bw,most,life-threatening ventricular dysrhythmias ,severe,train
+696,LUMAKRAS,SOTORASIB,SOTORASIB,Mixed,ar,less,cardiac arrest /cardiac failure,severe,test
+697,Nardil,PHENELZINE SULFATE,PHENELZINE SULFATE,Heart Damage,wp,less,changes in blood pressure,mild,test
+698,Arakoda,TAFENOQUINE,TAFENOQUINE,,CLINICAL PHARMACOLOGY,ambiguous, mean increase in the QTcF interval less than 20 msec.,,train
+699,ERIVEDGE,VISMODEGIB,VISMODEGIB,,CLINICAL PHARMACOLOGY,no, not prolong QT interval,,test
+700,ENTERO Vu 24%,BARIUM SULFATE,BARIUM SULFATE,,sp,ambiguous,Hypersensitivity Reactions:hypotension ,mild,test
+701,TUKYSA,TUCATINIB,Tucatinib,,CLINICAL PHARMACOLOGY,ambiguous,"No large mean increase in QTc (i.e., > 20 ms)",,train
+702,EDURANT,RILPIVIRINE HYDROCHLORIDE,rilpivirine hydrochloride,,CLINICAL PHARMACOLOGY,no,QTcF interval below the threshold of clinical concern,,test
+703,Cotempla XR-ODT,METHYLPHENIDATE,METHYLPHENIDATE,Mixed,wp,most,Sudden death/Heart rate increases,severe,test
+704,ZELBORAF,VEMURAFENIB,VEMURAFENIB,Arrhythmia,wp,most,QT prolongation,moderate,train
+705,Kalydeco,IVACAFTOR,ivacaftor,,no,no,,,test
+706,Imbruvica,IBRUTINIB,IBRUTINIB,Mixed,wp,most,Cardiac Failure/Cardiac Arrhythmias,severe,train
+707,Gavreto,PRALSETINIB,PRALSETINIB,Heart Damage,wp,less,Hypertension,mild,test
+708,Tivicay; Tivicay PD,DOLUTEGRAVIR SODIUM,DOLUTEGRAVIR SODIUM,,CLINICAL PHARMACOLOGY,no, not prolong QT interval,,train
+709,VELTASSA,PATIROMER,patiromer,,no,no,,,train
+710,Nexletol,BEMPEDOIC ACID,Bempedoic Acid,Arrhythmia,ar,less,Atrial Fibrillation,mild,train
+711,Aubagio,TERIFLUNOMIDE,TERIFLUNOMIDE,Heart Damage,wp,less,Increased Blood Pressure,mild,train
+712,Epidiolex,CANNABIDIOL,CANNABIDIOL,,no,no,,,train
+713,LEUKERAN,CHLORAMBUCIL,CHLORAMBUCIL,,no,no,,,test
+714,MEKTOVI,BINIMETINIB,BINIMETINIB,Heart Damage,wp,most,Cardiomyopathy,severe,test
+715,Zorvolex,DICLOFENAC,DICLOFENAC,Heart Damage,bw,most,myocardial infarction ,severe,test
+716,NURTEC ODT,RIMEGEPANT SULFATE,RIMEGEPANT SULFATE,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,test
+717,Conjupri,LEVAMLODIPINE,LEVAMLODIPINE MALEATE,Heart Damage,wp,most, myocardial infarction,severe,train
+718,Codeine sulfate,CODEINE SULFATE,CODEINE SULFATE,Heart Damage,wp,less,hypotension ,mild,train
+719,Nalfon,FENOPROFEN CALCIUM,FENOPROFEN CALCIUM,Heart Damage,bw,most,myocardial infarction ,,train
+720,INVOKANA,CANAGLIFLOZIN,canagliflozin,,CLINICAL PHARMACOLOGY,no,No meaningful changes in QTc interval ,,train
+721,Endari,GLUTAMINE,Glutamine,,no,no,,,train
+722,BELVIQ XR Extended Release Extended Release,LORCASERIN HYDROCHLORIDE,LORCASERIN HYDROCHLORIDE ANHYDROUS,Mixed,wp,most,Regurgitant cardiac valvular disease/Heart Rate Decreas es,severe,test
+723,Daliresp,ROFLUMILAST,roflumilast,Arrhythmia,ar,less,atrial fibrillation,mild,test
+724,DAYVIGO,LEMBOREXANT,LEMBOREXANT,,CLINICAL PHARMACOLOGY,no,not prolong the QTcF interval,,test
+725,Celontin,METHSUXIMIDE,METHSUXIMIDE,,no,no,,,train
+726,Levocarnitine,LEVOCARNITINE,LEVOCARNITINE,,no,no,,,train
+727,PIQRAY,ALPELISIB,ALPELISIB,,sp,ambiguous,hypersensitivity reactions:tachycardia,mild,test
+728,BELSOMRA,SUVOREXANT,suvorexant,Arrhythmia,ar,less,tachycardia,mild,train
+729,Ocaliva,OBETICHOLIC ACID,Obeticholic Acid,,CLINICAL PHARMACOLOGY,no,not prolong the QTcF interval,,train
+730,Talzenna,TALAZOPARIB,TALAZOPARIB TOSYLATE,,CLINICAL PHARMACOLOGY,ambiguous,"no large QTc prolongation (i.e., >20 ms)",,train
+731,Karbinal ER,CARBINOXAMINE MALEATE,CARBINOXAMINE MALEATE,Mixed,ar,less,tachycardia/Hypotension,mild,test
+732,E.E.S; E.E.S 400,ERYTHROMYCIN ETHYLSUCCINATE,Erythromycin Ethylsuccinate,Arrhythmia,wp,most,torsades de pointes,moderate,test
+733,Fluphenazine Hydrochloride,FLUPHENAZINE HYDROCHLORIDE,FLUPHENAZINE HYDROCHLORIDE,,sp,ambiguous,cardiovascular death in  elderly patients,severe,train
+734,Bupropion Hydrochloride (XL),BUPROPION HYDROCHLORIDE,BUPROPION HYDROCHLORIDE,Heart Damage,wp,less,hypertension,mild,test
+735,Desvenlafaxine Succinate,DESVENLAFAXINE SUCCINATE,DESVENLAFAXINE SUCCINATE,Heart Damage,wp,less,Elevated Blood Pressure,mild,test
+736,Tetrabenazine,TETRABENAZINE,TETRABENAZINE,Mixed,wp,most,QTc Prolongation/Hypotension,moderate,test
+737,Naltrexone Hydrochloride,NALTREXONE HYDROCHLORIDE,NALTREXONE HYDROCHLORIDE,Mixed,ar,less,tachycardia/ increased blood pressure,mild,train
+738,Cefuroxime axetil,CEFUROXIME AXETIL,CEFUROXIME AXETIL,Mixed,ar,less,chest pain/tachycardia ,moderate,train
+739,Pyrimethamine,PYRIMETHAMINE,PYRIMETHAMINE,Arrhythmia,ar,less,disorders of cardiac rhythm,mild,test
+740,Alprazolam,ALPRAZOLAM,ALPRAZOLAM,Mixed,ar,less ,hypotension/Tachycardia,mild,test
+741,ATORVASTATIN CALCIUM,ATORVASTATIN CALCIUM,ATORVASTATIN CALCIUM PROPYLENE GLYCOL SOLVATE,,no,no,,,train
+742,Isradipine,ISRADIPINE,ISRADIPINE,Heart Damage,wp,less,symptomatic hypotension,mild,test
+743,Atovaquone,ATOVAQUONE,ATOVAQUONE,,no,no,,,train
+744,Calcium Acetate,CALCIUM ACETATE,CALCIUM ACETATE,,no,no,,,train
+745,Indomethacin,INDOMETHACIN,INDOMETHACIN,Heart Damage,bw,most,myocardial infarction,severe,test
+746,Sucralfate,SUCRALFATE,SUCRALFATE,,no,no,,,train
+747,Bosentan,BOSENTAN,BOSENTAN ANHYDROUS,Mixed,ar,less,Palpitations/Hypotension,mild,test
+748,Desmopressin Acetate,DESMOPRESSIN ACETATE,DESMOPRESSIN ACETATE,,sp,ambiguous,possible rise in blood pressure in patients with coronary artery insufficiency,,test
+749,Glipizide,GLIPIZIDE,GLIPIZIDE,,sp,ambiguous,cardiovascular mortality with Sulfonylureas,severe,test
+750,COLESTIPOL HYDROCHLORIDE,COLESTIPOL HYDROCHLORIDE,COLESTIPOL HYDROCHLORIDE,Mixed,ar,less,angina/tachycardia ,moderate,train
+751,Felbamate,FELBAMATE,FELBAMATE,Mixed,ar,less,tachycardia/cardiac failure,severe,test
+752,HYDROXYUREA,HYDROXYUREA,HYDROXYUREA,,no,no,,,test
+753,Loxapine,LOXAPINE,LOXAPINE SUCCINATE,Mixed,ar,less,Tachycardia/hypotension,severe,test
+754,METHYLPREDNISOLONE,METHYLPREDNISOLONE,METHYLPREDNISOLONE,,sp,ambiguous,Hypertension(Fluid and Electrolyte Disturbances),mild,test
+755,PIOGLITAZONE,PIOGLITAZONE,PIOGLITAZONE,Heart Damage,bw,most,CONGESTIVE HEART FAILURE,severe,train
+756,acyclovir,ACYCLOVIR,ACYCLOVIR,,no,no,,,test
+757,Morphine Sulfate Extended Release,MORPHINE SULFATE,MORPHINE SULFATE,Heart Damage,wp,less,hypotension,mild,train
+758,Paroxetine,PAROXETINE,PAROXETINE HYDROCHLORIDE HEMIHYDRATE,Mixed,ar,less,tachycardia/ hypertension,mild,train
+759,Prazosin Hydrochloride,PRAZOSIN HYDROCHLORIDE,PRAZOSIN HYDROCHLORIDE,Mixed,wp,less,syncope /tachycardia,mild,train
+760,ZOLPIDEM TARTRATE,ZOLPIDEM TARTRATE,ZOLPIDEM TARTRATE,Mixed,ar,less,tachycardia/angina pectoris,mild,train
+761,Mycophenolic Acid,MYCOPHENOLIC ACID,MYCOPHENOLATE SODIUM,Mixed,ar,less,tachycardia/ Hypertension,mild,train
+762,Triamterene,TRIAMTERENE CAPSULES,TRIAMTERENE,,no,no,,,test
+763,RIZATRIPTAN BENZOATE,RIZATRIPTAN BENZOATE,RIZATRIPTAN BENZOATE,Mixed,wp,most,acute myocardial infarction/Arrhythmi,severe,test
+764,Tacrolimus,TACROLIMUS; TACROLIMUS CAPSULES,TACROLIMUS,Mixed,wp,most,prolong the QT/QTc interval /Myocardial Hypertrophy ,moderate,test
+765,ibuprofen,IBUPROFEN,IBUPROFEN,Heart Damage,bw,most,myocardial infarction,severe,test
+766,Hydrocortisone,HYDROCORTISONE,HYDROCORTISONE,,sp,ambiguous,Hypertension(Fluid and Electrolyte Disturbances),mild,train
+767,Rufinamide,RUFINAMIDE,RUFINAMIDE,Arrhythmia,wp,less,QT Shortening,mild,test
+768,Cimetidine,CIMETIDINE HYDROCHLORIDE,CIMETIDINE HYDROCHLORIDE,Arrhythmia,ar,less,tachycardia,mild,train
+769,Clonidine hydrochloride,CLONIDINE HYDROCHLORIDE,CLONIDINE HYDROCHLORIDE,Arrhythmia,wp,less,atrioventricular (AV) block,mild,test
+770,methazolamide,METHAZOLAMIDE,METHAZOLAMIDE,,no,no,,,test
+771,Metoprolol Succinate,METOPROLOL SUCCINATE,METOPROLOL TARTRATE,Heart Damage,bw,most,myocardial infarction,severe,test
+772,Sirolimus,SIROLIMUS,SIROLIMUS,Mixed,ar,less,Pericardial effusion/tachycardia,severe,train
+773,Torsemide,TORSEMIDE,TORSEMIDE,Mixed,ar,less,atrial fibrillation/hypotension,mild,train
+774,Oxcarbazepine,OXCARBAZEPINE,OXCARBAZEPINE,Mixed,ar,less,cardiac failure/tachycardia,severe,test
+775,"Ergocalciferol Capsules,","ERGOCALCIFEROL CAPSULES,",ERGOCALCIFEROL,,sp,ambiguous,hypertension(Impairment of renal function),mild,train
+776,Clindamycin Palmitate Hydrochloride,CLINDAMYCIN PALMITATE HYDROCHLORIDE,CLINDAMYCIN PALMITATE HYDROCHLORIDE,,no,no,,,train
+777,meloxicam,MELOXICAM,MELOXICAM,Heart Damage,bw,most,myocardial infarction,severe,test
+778,PredniSONE,PREDNISONE,PREDNISONE,,sp,ambiguous,Hypertension(Fluid and Electrolyte Disturbances),,test
+779,METHITEST,METHYLTESTOSTERONE,METHYLTESTOSTERONE,Heart Damage,ar,less,Myocardial infarction,severe,test
+780,Glycopyrrolate,GLYCOPYRROLATE,GLYCOPYRROLATE,Arrhythmia,ar,less,tachycardia,mild,test
+781,deferasirox,DEFERASIROX,DEFERASIROX,,CLINICAL PHARMACOLOGY,no, not prolong QT interval,,test
+782,Isoniazid,ISONIAZID,ISONIAZID,,no,no,,,train
+783,FLUDROCORTISONE ACETATE,FLUDROCORTISONE ACETATE,FLUDROCORTISONE ACETATE,Heart Damage,ar,less,cardiac enlargemen/congestive heart failure,severe,train
+784,VERAPAMIL HYDROCHLORIDE,VERAPAMIL HYDROCHLORIDE,VERAPAMIL HYDROCHLORIDE,Mixed,wp,most,Heart failure/Atrioventricular block,severe,test
+785,Zileuton,ZILEUTON,ZILEUTON,,no,no,,,train
+786,Propantheline Bromide,PROPANTHELINE BROMIDE,PROPANTHELINE BROMIDE,Arrhythmia,ar,less,tachycardia,mild,test
+787,Sertraline,SERTRALINE,SERTRALINE HYDROCHLORIDE,Arrhythmia,wp,most,"QTc prolongation and Torsade de
+Pointes (TdP)",moderate,test
+788,Bisoprolol Fumarate,BISOPROLOL FUMARATE,BISOPROLOL FUMARATE,Heart Damage,wp,most, cardiac failure,severe,train
+789,Vardenafil Hydrochloride,VARDENAFIL HYDROCHLORIDE,VARDENAFIL,Arrhythmia,wp,most,Congenital or Acquired QT Prolongation,moderate,test
+790,Aminocaproic acid,AMINOCAPROIC ACID,AMINOCAPROIC ACID,Heart Damage,wp,less,cardiac and hepatic lesions ,mild,train
+791,Telmisartan,TELMISARTAN,TELMISARTAN,Heart Damage,wp,less,hypotension,mild,test
+792,LAMOTRIGINE,LAMOTRIGINE,LAMOTRIGINE,Mixed,ar,less, hypertension/palpitations,mild,train
+793,Fenofibrate,FENOFIBRATE,FENOFIBRATE,,no,no,no effect on coronary heart disease,,test
+794,montelukast sodium,MONTELUKAST SODIUM,MONTELUKAST SODIUM,Arrhythmia,ar,less,palpitations,mild,train
+795,Metolazone,METOLAZONE,METOLAZONE,Mixed,ar,less,palpitations/Chest pain,mild,train
+796,Disulfiram,DISULFIRAM,DISULFIRAM,,no,no,,,test
+797,Megestrol Acetate,MEGESTROL ACETATE,MEGESTROL ACETATE,Mixed,ar,less,cardiomyopathy/ palpitation,severe,test
+798,METOPROLOL SUCCINATE,METOPROLOL SUCCINATE,METOPROLOL SUCCINATE,Heart Damage,bw,most,myocardial infarction,severe,train
+799,acarbose,ACARBOSE,ACARBOSE,,no,no,,,test
+800,Clindamycin Hydrochloride,CLINDAMYCIN HYDROCHLORIDE,CLINDAMYCIN HYDROCHLORIDE,,no,no,,,train
+801,Jencycla,NORETHINDRONE,NORETHINDRONE,,no,no,,,train
+802,GLYBURIDE,GLYBURIDE,GLYBURIDE,,sp,ambiguous,cardiovascular mortality with Sulfonylureas,,test
+803,Estropipate,ESTROPIPATE,ESTROPIPATE,Heart Damage,bw,most,myocardial infarction,severe,train
+804,Levocetirizine Dihydrochloride,LEVOCETIRIZINE DIHYDROCHLORIDE,LEVOCETIRIZINE DIHYDROCHLORIDE,Arrhythmia,ar,less,tachycardia,mild,train
+805,colchicine,COLCHICINE,COLCHICINE,,no,no,,,test
+806,PENTOXIFYLLINE,PENTOXIFYLLINE,PENTOXIFYLLINE,Mixed,ar,less,Angina/Arrhythmia,moderate,train
+807,zaleplon,ZALEPLON,ZALEPLON,Mixed,ar,less,tachycardia/ angina pectoris,mild,test
+808,METHSCOPOLAMINE BROMIDE,METHSCOPOLAMINE BROMIDE,METHSCOPOLAMINE BROMIDE,Arrhythmia,ar,less,tachycardia,mild,test
+809,KETOCONAZOLE,KETOCONAZOLE,KETOCONAZOLE,Arrhythmia,bw,most,"life-threatening ventricular
+dysrhythmias ",severe,train
+810,CANDESARTAN CILEXETIL,CANDESARTAN CILEXETIL,CANDESARTAN CILEXETIL,Heart Damage,wp,less,symptomatic hypotension,mild,test
+811,Esomeprazole magnesium,ESOMEPRAZOLE MAGNESIUM,ESOMEPRAZOLE MAGNESIUM,Mixed,ar,less,tachycardia/hypertension,mild,test
+812,Quinidine Gluconate,QUINIDINE GLUCONATE,QUINIDINE GLUCONATE,Arrhythmia,ar,Less,arrhythmia,severe,test
+813,Amoxapine,AMOXAPINE,AMOXAPINE,Mixed,ar,less,tachycardia/hypertension,mild,train
+814,PROMETHAZINE HYDROCHLORIDE,PROMETHAZINE HYDROCHLORIDE,PROMETHAZINE HYDROCHLORIDE,Mixed,ar,less,tachycardia/ Increased or decreased blood pressure,mild,train
+815,Labetalol Hydrochloride,LABETALOL HYDROCHLORIDE,LABETALOL,Heart Damage,wp,most,Congestive heart failure,severe,test
+816,Dofetilide,DOFETILIDE,DOFETILIDE,Arrhythmia,bw,most,arrhythmia,mild,train
+817,Modafinil,MODAFINIL,MODAFINIL,,sp,ambiguous,Hypersensitivity Reactions:myocarditis,severe,train
+818,Famciclovir,FAMCICLOVIR,FAMCICLOVIR,Arrhythmia,ar,less,Palpitations,mild,test
+819,Albuterol,ALBUTEROL,Albuterol,Mixed,wp,most,prolongation of the QTc interval/hypertension,moderate,test
+820,Ethambutol Hydrochloride,ETHAMBUTOL HYDROCHLORIDE,ETHAMBUTOL HYDROCHLORIDE,,sp,ambiguous,Hypersensitivity syndrome:myocarditis,severe,train
+821,GEMFIBROZIL,GEMFIBROZIL,GEMFIBROZIL,Arrhythmia,ar,less,extrasystoles,mild,test
+822,Melphalan,"MELPHALAN USP, 2 MG",MELPHALAN,Arrhythmia,ar,less,Cardiac arrest,severe,train
+823,Diazepam,DIAZEPAM,DIAZEPAM,Heart Damage,ar,less,hypotension,mild,test
+824,Bosentan,BOSENTAN,BOSENTAN,Mixed,ar,less ,Palpitations/Hypotension,mild,train
+825,Moexipril Hydrochloride,MOEXIPRIL HYDROCHLORIDE,MOEXIPRIL HYDROCHLORIDE,Heart Damage,wp,less,hypotension,mild,test
+826,Chlorthalidone,CHLORTHALIDONE,CHLORTHALIDONE,Heart Damage,ar,less,hypotension,mild,train
+827,Fluvastatin,FLUVASTATIN,FLUVASTATIN SODIUM,Mixed,ar,less,Atrial fibrillation/Hypertension,mild,test
+828,Probenecid,PROBENECID,PROBENECID,,no,no,,,test
+829,Guanfacine,GUANFACINE,GUANFACINE HYDROCHLORIDE,Mixed,wp,less,decreases in blood pressure/heart rate,mild,test
+830,almotriptan,ALMOTRIPTAN,almotriptan malate,Mixed,wp,most,acute myocardial infarction/cardiac rhythm,severe,train
+831,Colesevelam,COLESEVELAM,COLESEVELAM HYDROCHLORIDE,,no,no,,,test
+832,NIZATIDINE,NIZATIDINE,NIZATIDINE,Arrhythmia,ar,less,ventricular tachycardia ,moderate,test
+833,TENOFOVIR DISOPROXIL FUMARATE,TENOFOVIR DISOPROXIL FUMARATE,TENOFOVIR DISOPROXIL FUMARATE,,no,no,,,test
+834,Cartia XT,DILTIAZEM HYDROCHLORIDE,DILTIAZEM HYDROCHLORIDE,Mixed,wp,most,third-degree AV block/hypotension,moderate,test
+835,Felodipine,FELODIPINE,FELODIPINE,Heart Damage,wp,less,hypotension,mild,train
+836,Risedronate Sodium,RISEDRONATE SODIUM,RISEDRONATE SODIUM,Arrhythmia,ar,less,Hypertension,mild,test
+837,Cephalexin,CEPHALEXIN,CEPHALEXIN,,no,no,,,train
+838,Diazoxide,DIAZOXIDE,DIAZOXIDE,Mixed,ar,less,Tachycardia//Chest pain,mild,train
+839,Ritonavir,RITONAVIR,RITONAVIR,Mixed,wp,most,cardiomyopathy/third degree atrioventricular block,severe,test
+840,Acetazolamide,ACETAZOLAMIDE,ACETAZOLAMIDE,,no,no,,,test
+841,Lorazepam,LORAZEPAM,LORAZEPAM,,sp,ambiguous,"hypotension may occur but are usually not clinically
+significant",mild,test
+842,Lurasidone Hydrochloride,LURASIDONE HYDROCHLORIDE,LURASIDONE HYDROCHLORIDE,Heart Damage,wp,less,hypotension,mild,test
+843,Dutasteride,DUTASTERIDE,DUTASTERIDE,Heart Damage,ar,less,cardiac failure ,severe,train
+844,Exemestane,EXEMESTANE,Exemestane,Heart Damage,ar,less,"myocardial infarction, angina, and myocardial ischemia",severe,test
+845,Fosinopril sodium,FOSINOPIRL SODIUM; FOSINOPRIL SODIUM,FOSINOPRIL SODIUM,Heart Damage,wp,less,hypotension,mild,train
+846,Sodium Phenylbutyrate,SODIUM PHENYLBUTYRATE,SODIUM PHENYLBUTYRATE,Arrhythmia,ar,less,arrhythmia,mild,test
+847,Hydrocodone Bitartrate,HYDROCODONE BITARTRATE,HYDROCODONE BITARTRATE,Mixed,wp,most,QTc Prolongation/Hypotension,moderate,test
+848,ENTECAVIR,ENTECAVIR,ENTECAVIR ANHYDROUS,,no,no,,,test
+849,cilostazol,CILOSTAZOL,CILOSTAZOL,Mixed,wp,most,tachyarrhythmia/ hypotension,moderate,test
+850,OLANZAPINE,OLANZAPINE,OLANZAPINE,Mixed,wp,less,hypotension /tachycardia,mild,train
+851,Disopyramide Phosphate,DISOPYRAMIDE PHOSPHATE,DISOPYRAMIDE PHOSPHATE,Mixed,wp,most,congestive heart failure/Q-T Prolongation,severe,train
+852,Danazol,DANAZOL,DANAZOL,Mixed,wp,less,cardiac or renal dysfunction,mild,test
+853,Benazepril Hydrochloride,BENAZEPRIL HYDROCHLORIDE,BENAZEPRIL HYDROCHLORIDE,Heart Damage,wp,less,symptomatic hypotension,mild,train
+854,doxycycline,DOXYCYCLINE,DOXYCYCLINE,,sp,ambiguous,Hypersensitivity Reactions:pericarditis,severe,test
+855,Ergomar Sublingual,ERGOTAMINE TARTRATE,Ergotamine Tartrate,Mixed,ar,less,tachycardia/ischemia,mild,train
+856,Azathioprine,AZATHIOPRINE,AZATHIOPRINE,,no,no,,,train
+857,Chlorhexidine gluconate,CHLORHEXIDINE GLUCONATE,CHLORHEXIDINE GLUCONATE,,sp,ambiguous,allergic symptoms:rapid heart rate,mild,train
+858,Carbidopa,CARBIDOPA,CARBIDOPA,Mixed,ar,less,myocardial infarction/palpitation,severe,test
+859,montelukast sodium,MONTELUKAST SODIUM,MONTELUKAST,Arrhythmia,ar,less,palpitations,mild,test
+860,Chlordiazepoxide Hydrochloride,CHLORDIAZEPOXIDE HYDROCHLORIDE,CHLORDIAZEPOXIDE HYDROCHLORIDE,,no,no,,,test
+861,Maraviroc,MARAVIROC,MARAVIROC,Heart Damage,wp,most,myocardial ischemia and/or infarction,severe,test
+862,Imipramine Pamoate,IMIPRAMINE PAMOATE,IMIPRAMINE PAMOATE,Mixed,ar,less,tachycardia,mild,test
+863,Flecainide Acetate,FLECAINIDE ACETATE,FLECAINIDE ACETATE,Mixed,bw,most,cardiac arrest/HEART FAILURE,severe,train
+864,Amantadine HCl,AMANTADINE HYDROCHLORIDE,AMANTADINE HYDROCHLORIDE,Mixed,wp,less,tachycardia/hyper- or hypotension,mild,test
+865,Ethacrynic acid,ETHACRYNIC ACID,ETHACRYNIC ACID,Heart Damage,wp,less,acute hypotensive episode,mild,train
+866,eletriptan hydrobromide,ELETRIPTAN HYDROBROMIDE,ELETRIPTAN HYDROBROMIDE,Mixed,wp,most,acute myocardial infarction/ventricular tachycardia,severe,test
+867,Hydroxyzine Pamoate,HYDROXYZINE PAMOATE,HYDROXYZINE PAMOATE,Arrhythmia,wp,most,QT prolongation ,moderate,train
+868,Erythrocin Stearate,ERYTHROMYCIN STEARATE,ERYTHROMYCIN STEARATE,Arrhythmia,wp,most,QT prolongation ,moderate,train
+869,ISOSORBIDE MONONITRATE,ISOSORBIDE MONONITRATE,ISOSORBIDE MONONITRATE,Heart Damage,wp,less,hypotension,mild,train
+870,Nabumetone,NABUMETONE,NABUMETONE,Heart Damage,bw,most,myocardial infarction,severe,train
+871,Sunitinib malate,SUNITINIB MALATE,SUNITINIB MALATE,Mixed,wp,most,cardiomyopathy/QT Interval Prolongation,severe,test
+872,Cabergoline,CABERGOLINE,CABERGOLINE,Heart Damage,wp,most,cardiac valvulopathy,severe,train
+873,RASAGILINE,RASAGILINE,RASAGILINE MESYLATE,Heart Damage,wp,less,hypertension,mild,test
+874,ACITRETIN,ACITRETIN,ACITRETIN,Heart Damage,ar,less,Acute myocardial infarctio,severe,test
+875,Oxybutynin Chloride,OXYBUTYNIN CHLORIDE,OXYBUTYNIN CHLORIDE,Mixed,wp,most,congestive heart failure/cardiac arrhythmias,severe,train
+876,Risperidone,RISPERIDONE,RISPERIDONE,Arrhythmia,ar,less,sinus tachycardia,mild,train
+877,Diclofenac Potassium,DICLOFENAC POTASSIUM,DICLOFENAC POTASSIUM,Heart Damage,bw,most,myocardial infarction,severe,train
+878,Ramipril,RAMIPRIL,RAMIPRIL,Heart Damage,wp,less,hypotension,mild,train
+879,PRYIDOSTIGMINE BROMIDE,PYRIDOSTIGMINE BROMIDE,PYRIDOSTIGMINE BROMIDE,,no,no,,,train
+880,Solifenacin Succinate,SOLIFENACIN SUCCIATE; SOLIFENACIN SUCCINATE,SOLIFENACIN SUCCINATE,Arrhythmia,ar,less,QT prolongation,moderate,train
+881,Omeprazole,OMEPRAZOLE,OMEPRAZOLE,Mixed,ar,less,angina/tachycardia,moderate,test
+882,QUININE SULFATE,QUININE SULFATE,QUININE SULFATE,Arrhythmia,wp,most,QT prolongation,moderate,train
+883,Didanosine,DIDANOSINE,DIDANOSINE,,sp,ambiguous,non-cirrhotic portal hypertension ,,test
+884,Memantine Hydrochloride,MEMANTINE HYDROCHLORIDE,MEMANTINE HYDROCHLORIDE,Heart Damage,ar,less,cardiac failure congestive,severe,test
+885,Pioglitazone,PIOGLITAZONE,PIOGLITAZONE HYDROCHLORIDE,Heart Damage,bw,most,congestive heart failure,severe,train
+886,Zenzedi,DEXTROAMPHETAMINE SULFATE,Dextroamphetamine Sulfate,Heart Damage,bw,most,SUDDEN DEATH/myocardial infarction,severe,test
+887,Nebivolol,NEBIVOLOL,NEBIVOLOL HYDROCHLORIDE,Arrhythmia,ar,less,bradycardia,mild,train
+888,voriconazole,VORICONAZOLE,VORICONAZOLE,Arrhythmia,wp,most,QT Prolongation &Torsade de Pointes,severe,test
+889,Rimantadine Hydrochloride,RIMANTADINE HYDROCHLORIDE,RIMANTADINE HYDROCHLORIDE,Mixed,ar,less,cardiac failure/tachycardia,severe,train
+890,Efavirenz,EFAVIRENZ,EFAVIRENZ,Arrhythmia,wp,most,QTc prolongation,moderate,train
+891,CELECOXIB,CELECOXIB,CELECOXIB,Heart Damage,bw,most,myocardial infarction,severe,train
+892,Cefadroxil,CEFADROXIL HEMIHYDRATE,CEFADROXIL HEMIHYDRATE,,no,no,,,train
+893,Sumatriptan Succinate,SUMATRIPTAN SUCCINATE,SUMATRIPTAN SUCCINATE,Mixed,wp,most,acute myocardial infarction/ventricular tachycardia,severe,train
+894,Haloperidol,HALOPERIDOL,HALOPERIDOL,Arrhythmia,wp,most,sudden death/Torsades de Pointes,severe,test
+895,Clozapine,CLOZAPINE,CLOZAPINE,Mixed,bw,most,Cardiomyopathy/QT Interval Prolongation:,severe,test
+896,Erlotinib,ERLOTINIB,ERLOTINIB,,sp,ambiguous,myocardial infarction( combination),severe,test
+897,Azithromycin,AZITHROMYCIN,AZITHROMYCIN ANHYDROUS,Arrhythmia,wp,most,Prolonged QT interval,moderate,test
+898,Abacavir,ABACAVIR,ABACAVIR SULFATE,Heart Damage,wp,most,myocardial infarction,severe,test
+899,QUINIDINE SULFATE,QUINIDINE SULFATE TABLET,QUINIDINE SULFATE,Arrhythmia,wp,most,prolongs the QT interval,moderate,train
+900,Irbesartan,IRBESARTAN,IRBESARTAN,,sp,ambiguous,symptomatic hypotension,mild,train
+901,Prednisolone Sodium Phosphate,PREDNISOLONE SODIUM PHOSPHATE,PREDNISOLONE SODIUM PHOSPHATE,Heart Damage,wp,less,elevation of blood pressure,mild,train
+902,Fosamprenavir Calcium,FOSAMPRENAVIR CALCIUM,FOSAMPRENAVIR CALCIUM,Heart Damage,ar,less,Myocardial infarction,severe,test
+903,Isosorbide Dinitrate,ISOSORBIDE DINITRATE,ISOSORBIDE DINITRATE,Heart Damage,wp,less,hypotension,mild,train
+904,Nifedipine,NIFEDIPINE,NIFEDIPINE,Mixed,ar,less,cardiac arrest/hypotension,severe,train
+905,Fluoxetine,FLUOXETINE HYDROCHLORIDE,FLUOXETINE HYDROCHLORIDE,Arrhythmia,wp,most,QT Prolongation,moderate,test
+906,PROCHLORPERAZINE MALEATE,PROCHLORPERAZINE MALEATE,PROCHLORPERAZINE MALEATE,Mixed,ar,less,hypotension/cardiac arrest,mild,test
+907,Ampicillin,AMPICILLIN,AMPICILLIN TRIHYDRATE,,no,no,,,train
+908,Ambrisentan,AMBRISENTAN,AMBRISENTAN,Heart Damage,ar,less,hypotension,severe,test
+909,Mycophenolic Acid,MYCOPHENILIC ACID,MYCOPHENOLIC ACID,Mixed,ar,less,Tachycardia/hypotension,mild,test
+910,Risedronate Sodium,RISEDRONATE SODIUM,RISEDRONATE SODIUM HEMI-PENTAHYDRATE,Heart Damage,ar,less,Hypertension,mild,train
+911,Colchicine,COLCHICINE,COLCHICEINE,,no,no,,,test
+912,Sotalol Hydrochloride,SOTALOL HYDROCHLORIDE,SOTALOL HYDROCHLORIDE,Mixed,bw,most," life-threatening ventricular
+tachycardia /Heart Failure",severe,train
+913,Meclizine Hydrochloride,MECLIZINE HYDROCHLORIDE,MECLIZINE HYDROCHLORIDE,,no,no,,,test
+914,TRIENTINE HYDROCHLORIDE,TRIENTINE HYDROCHLORIDE,TRIENTINE HYDROCHLORIDE,,no,no,,,test
+915,Baclofen,BACLOFEN,BACLOFEN,Mixed,ar,less,palpitation/chest pain,mild,test
+916,Bethanechol Chloride,BETHANECHOL CHLORIDE,BETHANECHOL CHLORIDE,Mixed,ar,less,all in blood pressure with reflex tachycardia,mild,train
+917,Clarithromycin,CLARITHROMYCIN,CLARITHROMYCIN,Arrhythmia,wp,most,prolongation of the QT interval,moderate,test
+918,CHLORZOXAZONE,CHLORZOXAZONE,CHLORZOXAZONE,,no,no,,,train
+919,PRIMAQUINE PHOSPHATE,PRIMAQUINE PHOSPHATE,PRIMAQUINE PHOSPHATE,Arrhythmia,ar,less,QT interval prolongation,moderate,test
+920,Venlafaxine Hydrochloride,VENLAFAXINE HYDROCHLORIDE,VENLAFAXINE,Heart Damage,wp,less,hypertension,mild,test
+921,vigabatrin,VIGABATRIN,VIGABATRIN,,no,no,no indication of a QT/QTc prolonging effect,,test
+922,Penicillamine,PENICILLAMINE,PENICILLAMINE,,no,no,,,train
+923,Sevelamer Hydrochloride,SEVELAMER HYDROCHLORIDE,SEVELAMER HYDROCHLORIDE,,no,no,,,test
+924,Metaproterenol Sulfate,METAPROTERENOL SULFATE,METAPROTERENOL SULFATE,Mixed,wp,less,ECG/blood pressure changes,mild,train
+925,VALGANCICLOVIR HYDROCHLORIDE,VALGANCICLOVIR,VALGANCICLOVIR,Mixed,ar,less,arrhythmia/hypotension,mild,test
+926,Liothyronine sodium,LIOTHYRONINE SODIUM,LIOTHYRONINE SODIUM,Mixed,ar,less,arrhythmias/heart failure,severe,train
+927,Prasugrel,PRASUGREL,PRASUGREL HYDROCHLORIDE,Mixed,ar,less,Atrial fibrillation/Hypotension,mild,train
+928,emtricitabine,EMTRICITABINE,EMTRICITABINE,,no,no,,,train
+929,Valacyclovir Hydrochloride,VALACYCLOVIR,VALACYCLOVIR HYDROCHLORIDE,,no,no,,,train
+930,GAVILAX,GAVILAX,POLYETHYLENE GLYCOL 3350,,no,no,,,test
+931,Desloratadine,DESLORATADINE,DESLORATADINE,,CLINICAL PHARMACOLOGY,no,No clinically relevant adverse events,,test
+932,PERPHENAZINE,PERPHENAZINE,PERPHENAZINE,Mixed,ar,less,cardiac arrest/hypotension,severe,train
+933,DIMETHYL FUMARATE,DIMETHYL FUMARATE,DIMETHYL FUMARATE,,CLINICAL PHARMACOLOGY,no, not caused QT interval prolongation,,train
+934,Bromocriptine Mesylate,BROMOCRIPTINE MESYLATE,BROMOCRIPTINE MESYLATE,Heart Damage,wp,most,myocardial infarction,severe,test
+935,Nadolol,NADOLOL,NADOLOL,Mixed,ar,less,Cardiac failure/rhythm,severe,test
+936,Propranolol Hydrochloride,PROPRANOLOL HYDROCHLORIDE,PROPRANOLOL HYDROCHLORIDE,Mixed,wp,most,myocardial infarction/bradycardia,severe,train
+937,Risedronate Sodium,RISEDRONATE SODIUM,RISEDRONATE SODIUM MONOHYDRATE,Heart Damage,ar,less,Hypertension,mild,test
+938,Albendazole,ALBENDAZOLE,ALBENDAZOLE,,no,no,,,train
+939,Indapamide,INDAPAMIDE,INDAPAMIDE,Mixed,ar,less,hypotension/Palpitations,mild,test
+940,Ezetimibe,EZETIMIBE,EZETIMIBE,,no,no,,,test
+941,Abiraterone Acetate,ABIRATERONE ACETATE,ABIRATERONE ACETATE,Mixed,ar,less,Arrhythmia/Cardiac failure,severe,test
+942,Claravis,ISOTRETINOIN,ISOTRETINOIN,Arrhythmia,ar,less,tachycardia,mild,test
+943,Potassium Citrate,POTASSIUM CITRATE,POTASSIUM CITRATE,,sp,ambiguous,patient with heart failure,severe,train
+944,LISINOPRIL,LISINOPRIL,LISINOPRIL,Heart Damage,wp,less,hypotension,mild,train
+945,Tiagabine Hydrochloride,TIAGABINE,TIAGABINE HYDROCHLORIDE,Mixed,ar,less,myocardial infarct/tachycardia,severe,train
+946,ERLOTINIB HYDROCHLORIDE,ERLOTINIB HYDROCHLORIDE,ERLOTINIB HYDROCHLORIDE,,sp,ambiguous,myocardial infarction/ischemia(with other drugs),,test
+947,omega-3-acid ethyl esters,OMEGA-3-ACID ETHYL ESTERS,OMEGA-3-ACID ETHYL ESTERS,,sp,ambiguous,recurrent AF or flutter,,test
+948,ropinirole hydrochloride,ROPINIROLE HYDROCHLORIDE,ROPINIROLE HYDROCHLORIDE,Heart Damage,wp,most,pericarditis,severe,test
+949,Terazosin,TERAZOSIN,TERAZOSIN HYDROCHLORIDE,Heart Damage,wp,less,lowering of blood pressure,mild,train
+950,frovatriptan succinate,FROVATRIPTAN SUCCINATE,FROVATRIPTAN SUCCINATE,Mixed,wp,most,acute myocardial infarction/Arrhythmias,severe,test
+951,SILODOSIN,SILODOSIN,SILODOSIN,Heart Damage,wp,less,hypotension,mild,train
+952,Darifenacin,DARIFENACIN,DARIFENACIN HYDROBROMIDE,Mixed,ar,less,palpitations /hypertension,mild,test
+953,Dicyclomine hydrochloride,DICYCLOMINE HYDROCHLORIDE,DICYCLOMINE HYDROCHLORIDE,Arrhythmia,ar,less,tachyarrhythmias,mild,train
+954,CEFDINIR,CEFDINIR,CEFDINIR,Heart Damage,ar,less,cardiac failure,severe,train
+955,Temazepam,TEMAZEPAM,TEMAZEPAM,Arrhythmia,ar,less,palpitations,mild,test
+956,Propoxyphene,PROPOXYPHENE HYDROCHLORIDE,PROPOXYPHENE HYDROCHLORIDE,Heart Damage,wp,less,hypotension,mild,train
+957,moxifloxacin hydrochloride,MOXIFLOXACIN HYDROCHLORIDE,MOXIFLOXACIN HYDROCHLORIDE,Arrhythmia,wp,most,prolong the QT interval,moderate,train
+958,Oxycodone Hydrochloride,OXYCODONE HYDROCHLORIDE,OXYCODONE HYDROCHLORIDE,Heart Damage,wp,less,hypotension,mild,test
+959,THEOPHYLLINE,THEOPHYLLINE,THEOPHYLLINE,Arrhythmia,ar,less,cardiac arrhythmias,mild,test
+960,Phentermine Resin ER,PHENTERMINE RESIN,PHENTERMINE,Mixed,ar,less,regurgitant cardiac valvular disease/tachycardia,severe,test
+961,SILDENAFIL CITRATE,SILDENAFIL,SILDENAFIL CITRATE,Mixed,ar,less,heart failure/tachycardia,severe,train
+962,stavudine,STAVUDINE,STAVUDINE,,no,no,,,train
+963,Imipramine Hydrochloride,IMIPRAMINE HYDROCHLORIDE,IMIPRAMINE HYDROCHLORIDE,Mixed,ar,less,myocardial infarction/ arrhythmias,severe,test
+964,Ranitidine,RANITIDINE,RANITIDINE HYDROCHLORIDE,Arrhythmia,ar,less,tachycardia,mild,train
+965,Pindolol,PINDOLOL,PINDOLOL,Mixed,ar,less,hypotension/ tachycardia ,mild,test
+966,Dalfampridine,DALFAMPRIDINE,DALFAMPRIDINE,,CLINICAL PHARMACOLOGY,no,not prolong the QTc interval,,train
+967,Nevirapine,NEVIRAPINE,NEVIRAPINE HEMIHYDRATE,,no,no,,,train
+968,Tizanidine,TIZANIDINE,TIZANIDINE HYDROCHLORIDE,Heart Damage,wp,less,hypotension,mild,train
+969,POLMON,DEXCHLORPHENIRAMINE MALEATE,DEXCHLORPHENIRAMINE MALEATE,,sp,ambiguous,patients with Cardiovascular disease,,train
+970,Acebutolol Hydrochloride,ACEBUTOLOL HYDROCHLORIDE,ACEBUTOLOL HYDROCHLORIDE,Mixed,ar,less,bradycardia/ heart failure,severe,train
+971,Trihexyphenidyl Hydrochloride,TRIHEXYPHENIDYL HYDROCHLORIDE,TRIHEXYPHENIDYL HYDROCHLORIDE,Arrhythmia,ar,less,"Paradoxical sinus
+bradycardia",mild,train
+972,simvastatin,SIMVASTATIN,SIMVASTATIN,Arrhythmia,ar,less,Atrial fibrillation,mild,test
+973,Miglustat,MIGLUSTAT,MIGLUSTAT,,no,no,,,train
+974,Ranolazine,RANOLAZINE,RANOLAZINE,Arrhythmia,wp,most,prolongs the QTc interval,moderate,test
+975,Bexarotene,BEXAROTENE,BEXAROTENE,Mixed,ar,less,right heart failure/tachycardi,severe,test
+976,Ticlopidine Hydrochloride,TICLOPIDINE HYDROCHLORIDE,TICLOPIDINE HYDROCHLORIDE,,no,no,,,train
+977,Bicalutamide,BICALUTAMIDE,BICALUTAMIDE,Mixed,ar,less,Congestive Heart Failure/Heart Arrest,severe,test
+978,Atorvastatin calcium,ATORVASTATIN CALCIUM,ATORVASTATIN,,no,no,,,test
+979,Mirtazapine,MIRTAZAPINE,MIRTAZAPINE,Arrhythmia,wp,most,prolongation of the QTc interval,moderate,train
+980,Sevelamer Carbonate,SEVELAMER CARBONATE,SEVELAMER CARBONATE,,no,no,,,train
+981,Chlorpromazine Hydrochloride,CHLORPROMAZINE HYDROCHLORIDE,CHLORPROMAZINE HYDROCHLORIDE,Mixed,ar,less,hypotension/tachycardia,mild,train
+982,Lactulose,LACTULOSE,LACTULOSE,,no,no,,,test
+983,Naproxen Sodium,NAPROXEN SODIUM,NAPROXEN SODIUM,Heart Damage,bw,most,myocardial infarction ,severe,test
+984,Norethindrone Acetate,NORETHINDRONE,NORETHINDRONE ACETATE,,sp,ambiguous,Patients with risk factors for arterial vascular disease,,train
+985,Prednisolone,PREDNISOLONE,PREDNISOLONE,Heart Damage,wp,less,elevation of blood pressure,mild,test
+986,Tramadol Hydrochloride,TRAMADOL HYDROCHLORIDE,TRAMADOL HYDROCHLORIDE,Heart Damage,wp,less,Hypotension,mild,test
+987,Lovastatin,LOVASTATIN,LOVASTATIN,,no,no,,,test
+988,Androxy,FLUOXYMESTERONE,fluoxymesterone,,sp,ambiguous,patients with a history of myocardial infarction,,test
+989,Rivastigmine Tartrate,RIVASTIGMINE TARTRATE,RIVASTIGMINE TARTRATE,Arrhythmia,ar,less,Tachycardia,mild,test
+990,Meprobamate,MEPROBAMATE,MEPROBAMATE,Mixed,ar,less, tachycardia/ hypotensive crisis,mild,train
+991,Captopril,CAPTOPRIL,CAPTOPRIL,Heart Damage,wp,less,hypotension,mild,test
+992,FLAVOXATE HYDROCHLORIDE,FLAVOXATE HYDROCHLORIDE,FLAVOXATE HYDROCHLORIDE,Arrhythmia,ar,less,Tachycardia,mild,test
+993,Methamphetamine Hydrochloride,METHAMPHETAMINE HYDROCHLORIDE,METHAMPHETAMINE HYDROCHLORIDE,Mixed,bw,most,SUDDEN DEATH/myocardial infarction/increase in heart rate,severe,train
+994,Cefixime,CEFIXIME,CEFIXIME,,no,no,,,test
+995,Seromycin,CYCLOSERINE,CYCLOSERINE,Heart Damage,ar,less,congestive heart failure ,severe,test
+996,Meclofenamate Sodium,MECLOFENAMATE SODIUM,MECLOFENAMATE SODIUM,Heart Damage,bw,most,myocardial infarction,severe,train
+997,Folic acid,FOLIC ACID,FOLIC ACID,,no,no,,,test
+998,Nitrofurantoin,NITROFURANTOIN,NITROFURANTOIN,Arrhythmia,ar,less,Changes in EKG,mild,test
+999,mycophenolate mofetil,MYCOPHENOLATE MOFETIL,MYCOPHENOLATE MOFETIL,Mixed,ar,less,Tachycardia/Hypertension,mild,test
+1000,ketoprofen,KETOPROFEN,KETOPROFEN,Heart Damage,bw,most,myocardial infarction,severe,train
+1001,Duloxetine,DULOXETINE,DULOXETINE HYDROCHLORIDE,Heart Damage,wp,less,Increases in Blood Pressure,mild,train
+1002,Ramelteon,RAMELTEON,RAMELTEON,,no,no,,,train
+1003,Fluconazole,FLUCONAZOLE,FLUCONAZOLE,Arrhythmia,wp,most,"prolongation of the QT
+interval",moderate,test
+1004,CYCLOPHOSPHAMIDE,CYCLOPHOSPHAMIDE,CYCLOPHOSPHAMIDE,Mixed,wp,most,congestive heart failure/arrythmias,severe,train
+1005,Imatinib Mesylate,IMATINIB MESYLATE,IMATINIB MESYLATE,Heart Damage,wp,most,Congestive Heart Failure/left ventricular dysfunction,severe,train
+1006,Ivermectin,IVERMECTIN,IVERMECTIN,Mixed,ar,less,hypotension /Tachycardia,mild,train
+1007,Ranitidine,RANITIDINE,RANITIDINE,Arrhythmia,ar,less,"tachycardia,bradycardia",mild,test
+1008,Cortisone Acetate,CORTISONE ACETATE,CORTISONE ACETATE,Heart Damage,wp,less,elevation of blood pressure,mild,test
+1009,Amlodipine Besylate,AMLODIPINE BESYLATE,AMLODIPINE BESYLATE,Heart Damage,wp,most,acute myocardial infarction,severe,train
+1010,Paromomycin Sulfate,PAROMOMYCIN SULFATE,PAROMOMYCIN SULFATE,,no,no,,,train
+1011,Rosuvastatin Calcium,ROSUVASTATIN CALCIUM,ROSUVASTATIN CALCIUM,,no,no,,,train
+1012,Paliperidone,PALIPERIDONE,PALIPERIDONE,Arrhythmia,wp,most,QT Prolongation,moderate,train
+1013,Aripiprazole,ARIPIPRAZOLE,ARIPIPRAZOLE,Heart Damage,wp,less,orthostatic hypotension,mild,train
+1014,Varenicline,VARENICLINE TARTRATE,VARENICLINE TARTRATE,Mixed,ar,less,myocardial infarction/tachycardia,severe,train
+1015,Valsartan,VALSARTAN,VALSARTAN,Heart Damage,wp,less,hypotension,mild,train
+1016,Amoxicillin,AMOXICILLIN,AMOXICILLIN,,no,no,,,train
+1017,Cimetidine,CIMETIDINE,CIMETIDINE,Arrhythmia,ar,less,tachycardia,mild,test
+1018,Dexamethasone,DEXAMETHASONE,DEXAMETHASONE,Heart Damage,wp,less,elevation of blood pressure,mild,test
+1019,Amiloride Hydrochloride,AMILORIDE HYDROCHLORIDE,AMILORIDE HYDROCHLORIDE ANHYDROUS,Mixed,ar,less,Angina pectoris/Arrhythmia,moderate,test
+1020,Furosemide,FUROSEMIDE,FUROSEMIDE,Heart Damage,ar,less,hypotension,mild,test
+1021,LETROZOLE,LETROZOLE,LETROZOLE,Heart Damage,ar,less,Myocardial infarction,severe,train
+1022,Riluzole,RILUZOLE,RILUZOLE,Heart Damage,ar,less,hypertention,mild,test
+1023,Dronabinol,DRONABINOL,Dronabinol,Mixed,ar,less,tachycardia/hypotension,mild,train
+1024,Oxandrolone,OXANDROLONE,OXANDROLONE,,no,no,,,test
+1025,FOSFOMYCIN TROMETHAMINE,FOSFOMYCIN TROMETHAMINE,FOSFOMYCIN TROMETHAMINE,,no,no,,,train
+1026,Tamoxifen Citrate,TAMOXIFEN CITRATE,TAMOXIFEN CITRATE,Heart Damage,ar,less,Hypertension,mild,train
+1027,Venlafaxine Hydrochloride,VENLAFAXINE HYDROCHLORIDE,VENLAFAXINE HYDROCHLORIDE,Heart Damage,wp,less,hypertension ,mild,train
+1028,Diflunisal,DIFLUNISAL,DIFLUNISAL,Heart Damage,bw,most,myocardial infarction,severe,test
+1029,Loratadine,LORATADINE,LORATADINE,,no,no,,,train
+1030,Metformin Hydrochloride,METFORMIN HYDROCHLORIDE,METFORMIN HYDROCHLORIDE,Mixed,bw,most,resistant bradyarrhythmias/hypotension,mild,test
+1031,Loperamide Hydrochloride,LOPERAMIDE HYDROCHLORIDE,LOPERAMIDE HYDROCHLORIDE,Arrhythmia,bw,most,Torsades de Pointes,severe,test
+1032,Eulexin,FLUTAMIDE,FLUTAMIDE,Heart Damage,ar,less,hypertension ,mild,train
+1033,Hydroxyzine hydrochloride,HYDROXYZINE HYDROCHLORIDE,HYDROXYZINE DIHYDROCHLORIDE,Arrhythmia,wp,most,QT Prolongation/Torsade de Pointes (TdP),severe,train
+1034,Lubiprostone,LUBIPROSTONE,LUBIPROSTONE,Heart Damage,wp,less,hypotension ,mild,test
+1035,Flurazepam Hydrochloride,FLURAZEPAM HYDROCHLORIDE,FLURAZEPAM HYDROCHLORIDE,Mixed,ar,less,palpitations/ chest pains,mild,train
+1036,Alfuzosin Hydrochloride,ALFUZOSIN HYDROCHLORIDE,ALFUZOSIN HYDROCHLORIDE,Heart Damage,wp,less,hypotension,mild,test
+1037,Tadalafil,TADALAFIL,TADALAFIL,Mixed,ar,less,angina pectoris/tachycardia,moderate,test
+1038,Digoxin,DIGOXIN,DIGOXIN,Arrhythmia,wp,most, third degree heart block,moderate,test
+1039,Thiothixene,THIOTHIXENE,THIOTHIXENE,Mixed,ar,less,Tachycardia/hypotension,mild,train
+1040,Ursodiol,URSODIOL,URSODIOL,,no,no,,,train
+1041,Propylthiouracil,PROPYLTHIOURACIL,PROPYLTHIOURACIL,,no,no,,,train
+1042,Vancomycin Hydrochloride,VANCOMYCIN HYDROCHLORIDE,vancomycin hydrochloride,,no,no,,,train
+1043,Selegiline Hydrochloride,SELEGILINE HYDROCHLORIDE,SELEGILINE HYDROCHLORIDE,Mixed,ar,less,"arrhythmia/new or increased angina
+pectoris",mild,train
+1044,Trifluoperazine Hydrochloride,TRIFLUOPERAZINE HYDROCHLORIDE,TRIFLUOPERAZINE HYDROCHLORIDE,Arrhythmia,ar,less,EKG changes,mild,test
+1045,olmesartan medoxomil,OLMESARTAN MEDOXOMIL,OLMESARTAN MEDOXOMIL,,sp,ambiguous,Hypotension,mild,test
+1046,GLIMEPIRIDE,GLIMEPIRIDE,GLIMEPIRIDE,,sp,ambiguous,Increased Risk of cardiovascular mortality,severe,train
+1047,Oxazepam,OXAZEPAM,OXAZEPAM,,sp,ambiguous,patients in whom a drop in blood pressure,,test
+1048,Levofloxacin,LEVOFLOXACIN,LEVOFLOXACIN,Arrhythmia,wp,most,Prolongation of the QT interval,moderate,train
+1049,Trazodone Hydrochloride,TRAZODONE HYDROCHLORIDE,TRAZODONE HYDROCHLORIDE,Mixed,wp,most,prolongs the QT/QTc interval/Hypotension,moderate,train
+1050,Cefdinir,CEFDINIR,CEFDINIR MONOHYDRATE,Heart Damage,ar,less,cardiac failure,severe,train
+1051,Chloroquine Phosphate,CHLOROQUINE PHOSPHATE,CHLOROQUINE PHOSPHATE,Mixed,wp,most,"cardiomyopathy/QT interval
+prolongation",severe,train
+1052,Amphetamine Sulfate,AMPHETAMINE SULFATE,AMPHETAMINE SULFATE,Mixed,bw,most,SUDDEN DEATH/myocardial infarction/increase in heart rate,severe,test
+1053,gabapentin,GABAPENTIN,GABAPENTIN,,sp,ambiguous,hypotension(Anaphylaxis and Angioedema),mild,train
+1054,Tizanidine Hydrochloride,TIZANIDINE HYDROCHLORIDE,Tizanidine,Heart Damage,wp,less,hypotension,mild,train
+1055,Cefaclor,CEFACLOR,CEFACLOR,,sp,ambiguous,hypersensitivity reactions: hypotension,,train
+1056,Eplerenone,EPLERENONE,EPLERENONE,Heart Damage,ar,less,angina pectoris/MI,severe,train
+1057,Phendimetrazine Tartrate,PHENDIMETRAZINE TARTRATE,PHENDIMETRAZINE TARTRATE,Mixed,ar,less,tachycardia/ ischemic events,severe,train
+1058,Propafenone,PROPAFENONE HYDROCHLORIDE,PROPAFENONE,Mixed,wp,most, Conges tive Heart Failure/Torsade de Pointes,severe,train
+1059,PANTOPRAZOLE SODIUM,PANTOPRAZOLE,PANTOPRAZOLE SODIUM,,no,no,,,test
+1060,CAPECITABINE,CAPECITABINE,CAPECITABINE,Mixed,wp,most,myocardial infarction/dysrhythmias,severe,test
+1061,Alvimopan,ALVIMOPAN,ALVIMOPAN,Heart Damage,bw,most,myocardial infarction,severe,test
+1062,Paricalcitol,PARICALCITOL,PARICALCITOL,Heart Damage,ar,less,Hypertension,mild,test
+1063,Repaglinide,REPAGLINIDE,REPAGLINIDE,Heart Damage,ar,less,ischemia,severe,test
+1064,Potassium Chloride,POTASSIUM CHLORIDE,POTASSIUM CHLORIDE,,sp,ambiguous,cardiac arrest (patients with impaired mechanisms for excreting potassium),severe,train
+1065,Cetirizine Hydrochloride,CETIRIZINE HYDROCHLORIDE,CETIRIZINE HYDROCHLORIDE,Mixed,ar,less,cardiac failure/tachycardia,severe,test
+1066,PRAZIQUANTEL,PRAZIQUANTEL,PRAZIQUANTEL,Arrhythmia,wp,most,ventricular fibrillation,moderate,train
+1067,divalproex sodium,DIVALPROEX SODIUM,DIVALPROEX SODIUM,Mixed,ar,less,Tachycardia/ hypertension,mild,test
+1068,Clorazepate Dipotassium,CLORAZEPATE DIPOTASSIUM,CLORAZEPATE DIPOTASSIUM,,no,no,,,test
+1069,Allopurinol,ALLOPURINOL,ALLOPURINOL,Mixed,ar,less,Pericarditis/bradycardia,severe,test
+1070,Phenytoin,PHENYTOIN,PHENYTOIN,Arrhythmia,wp,most,cardiac arrest,severe,train
+1071,Warfarin Sodium,WARFARIN SODIUM,WARFARIN SODIUM,,no,no,,,test
+1072,valproic acid,VALPROIC ACID,VALPROIC ACID,Mixed,ar,less,Tachycardia/hypertension,mild,train
+1073,MEXILETINE HYDROCHLORIDE,MEXILETINE HYDROCHLORIDE,MEXILETINE HYDROCHLORIDE,Arrhythmia,bw,most,cardiac arrest,severe,train
+1074,Mefloquine Hydrochloride,MEFLOQUINE HYDROCHLORIDE,MEFLOQUINE HYDROCHLORIDE,Arrhythmia,wp,most, prolongation of the QTc interval,moderate,test
+1075,Oxymorphone hydrochloride,OXYMORPHONE HYDROCHLORIDE,OXYMORPHONE HYDROCHLORIDE,Heart Damage,wp,less,hypotension,mild,train
+1076,Levonorgestrel,LEVONORGESTREL,LEVONORGESTREL,,no,no,,,train
+1077,Escitalopram,ESCITALOPRAM,ESCITALOPRAM OXALATE,Mixed,ar,less,cardiac failure/ventricular arrhythmia,severe,test
+1078,Tolterodine Tartrate,TOLTERODINE TARTRATE,TOLTERODINE TARTRATE,Arrhythmia,ar,less,Tachycardia,mild,test
+1079,cephalexin,CEPHALEXIN,CEPHALEXIN ANHYDROUS,,no,no,,,test
+1080,ETHOSUXIMIDE,ETHOSUXIMIDE,ETHOSUXIMIDE,,no,no,,,train
+1081,Famotidine,FAMOTIDINE,FAMOTIDINE,Arrhythmia,ar,less,Prolonged QT interval,moderate,train
+1082,Clonazepam,CLONAZEPAM,CLONAZEPAM,Mixed,ar,less,Palpitations/chest pain,mild,train
+1083,BENZONATATE,BENZONATATE,BENZONATATE,,no,no,,,test
+1084,Vardenafil Hydrochloride,VARDENAFIL HYDROCHLORIDE,VARDENAFIL HYDROCHLORIDE,Arrhythmia,wp,most,increases in QTc interval,moderate,test
+1085,Fluvoxamine Maleate,FLUVOXAMINE MALEATE,FLUVOXAMINE MALEATE,Arrhythmia,ar,less,ventricular tachycardia,mild,test
+1086,Carglumic Acid,CARGLUMIC ACID,CARGLUMIC ACID,,CLINICAL PHARMACOLOGY,no,lack of clinically relevant QT prolongation effect,,test
+1087,Flurbiprofen,FLURBIPROFEN,FLURBIPROFEN,Heart Damage,bw,most,myocardial infarction,severe,test
+1088,Azithromycin,AZITHROMYCIN,AZITHROMYCIN DIHYDRATE,Arrhythmia,wp,most,QT Prolongation,moderate,train
+1089,Paser,AMINOSALICYLIC ACID,AMINOSALICYLIC ACID,Heart Damage,ar,less,pericarditis,severe,train
+1090,Midodrine Hydrochloride,MIDODRINE HYDROCHLORIDE,MIDODRINE HYDROCHLORIDE,Heart Damage,bw,most,"marked elevation
+of supine blood pressure",mild,train
+1091,Entecavir,ENTECAVIR,ENTECAVIR,,no,no,,,test
+1092,MINOXIDIL,MINOXIDIL,MINOXIDIL,Heart Damage,bw,most,myocardial lesions,severe,train
+1093,Acamprosate Calcium,ACAMPROSATE CALCIUM,ACAMPROSATE CALCIUM,Mixed,ar,less,heart failure/tachycardia,severe,test
+1094,Naproxen,NAPROXEN,NAPROXEN,Heart Damage,bw,most,myocardial infarction,severe,test
+1095,Atomoxetine Hydrochloride,ATOMOXETINE HYDROCHLORIDE,ATOMOXETINE HYDROCHLORIDE,Mixed,wp,most,SUDDEN DEATH/myocardial infarction/increase in heart rate,severe,test
+1096,Nimodipine,NIMODIPINE,NIMODIPINE,Arrhythmia,ar,less,palpitations,severe,train
+1097,Finasteride,FINASTERIDE,FINASTERIDE,Heart Damage,ar,less,Hypotension,mild,test
+1098,Methyldopa,METHYLDOPA,METHYLDOPA,Mixed,ar,less,congestive heart failure,severe,test
+1099,PREGABALIN,PREGABALIN,PREGABALIN,Arrhythmia,wp,most,PR interval prolongation,moderate,train
+1100,Methimazole,METHIMAZOLE,METHIMAZOLE,,no,no,,,train
+1101,Atenolol,ATENOLOL,ATENOLOL,Heart Damage,wp,most,cardiac failure,severe,test
+1102,Thioridazine Hydrochloride,THIORIDAZINE HYDROCHLORIDE,THIORIDAZINE HYDROCHLORIDE,Arrhythmia,bw,most,prolong the QTc interval,severe,train
+1103,Cefprozil,CEFPROZIL,CEFPROZIL,,no,no,,,train
+1104,ESTRADIOL,ESTRADIOL,ESTRADIOL,Heart Damage,bw,most,myocardial infarction,severe,train
+1105,Mesalamine,MESALAMINE,MESALAMINE,,sp,ambiguous,Hypersensitivity Reactions:myocarditis,severe,train
+1106,Valganciclovir,VALGANCICLOVIR,VALGANCICLOVIR HYDROCHLORIDE,Mixed,ar,less,arrhythmia/hypotension,mild,train
+1107,ATAZANAVIR,ATAZANAVIR,ATAZANAVIR SULFATE,Arrhythmia,wp,most,prolong the PR interval,moderate,test
+1108,Dicloxacillin Sodium,DICLOXACILLIN SODIUM,DICLOXACILLIN SODIUM,,sp,ambiguous,patients with cardiospasm,moderate,train
+1109,Progesterone,PROGESTERONE,PROGESTERONE,Heart Damage,bw,most, myocardial infarction,severe,train
+1110,Raloxifene Hydrochloride,RALOXIFENE HYDROCHLORIDE,RALOXIFENE HYDROCHLORIDE,,sp,ambiguous,"death due to stroke women
+with documented coronary heart disease",severe,train
+1111,Ketorolac Tromethamine,KETOROLAC TROMETHAMINE,KETOROLAC TROMETHAMINE,Heart Damage,bw,most, myocardial infarction,severe,test
+1112,Fenofibric acid,FENOFIBRIC ACID,CHOLINE FENOFIBRATE,,no,no,coronary heart disease( not been established),,test
+1113,Ciprofloxacin,CIPROFLOXACIN,CIPROFLOXACIN HYDROCHLORIDE,Arrhythmia,wp,most,prolongation of the QT interval,moderate,train
+1114,Zidovudine,ZIDOVUDINE,ZIDOVUDINE,Mixed,ar,less,ECG abnormality/ left ventricular dilation,severe,test
+1115,METHYLPHENIDATE HYDROCHLORIDE,METHYLPHENIDATE HYDROCHLORIDE,METHYLPHENIDATE HYDROCHLORIDE,Mixed,wp,most,myocardial infarction/Heart Rate Increases,severe,train
+1116,Cholestyramine,CHOLESTYRAMINE,Cholestyramine,,no,no,,,train
+1117,Ondansetron,ONDANSETRON,ONDANSETRON,Mixed,wp,most,Myocardial ischemia/QT interval prolongation ,severe,test
+1118,Oseltamivir phosphate,OSELTAMIVIR PHOSPHATE,OSELTAMIVIR PHOSPHATE,Arrhythmia,ar,less,Arrhythmia,mild,test
+1119,Entacapone,ENTACAPONE,ENTACAPONE,,sp,ambiguous,"Ventricular tachycardia  in an
+interaction study ",moderate,train
+1120,Ribavirin,RIBAVIRIN,RIBAVIRIN,,sp,ambiguous," myocardial infarctions in patients with anemia
+caused  by ribavirin",severe,test
+1121,Vecamyl,MECAMYLAMINE HYDROCHLORIDE,MECAMYLAMINE HYDROCHLORIDE,Heart Damage,ar,less, postural hypotension,mild,train
+1122,Lanthanum carbonate,LANTHANUM CARBONATE,LANTHANUM CARBONATE,,no,no,,,train
+1123,Atorvastatin calcium,ATORVASTATIN CALCIUM,ATORVASTATIN CALCIUM TRIHYDRATE,,no,no,,,test
+1124,Zonisamide,ZONISAMIDE,ZONISAMIDE,Mixed,ar,less,tachycardia/ heart failure,mild,test
+1125,Levetiracetam,LEVETIRACETAM,LEVETIRACETAM,Heart Damage,ar,less,increased diastolic blood pressure,mild,test
+1126,Protriptyline hydrochloride,PROTRIPTYLINE HYDROCHLORIDE,PROTRIPTYLINE HYDROCHLORIDE,Mixed,ar,less,tachycardia/hypotension,mild,test
+1127,BENZPHETAMINE HYDROCHLORIDE,BENZPHETAMINE HYDROCHLORIDE,BENZPHETAMINE HYDROCHLORIDE,Mixed,ar,less,tachycardia/elevated blood pressure,severe,test
+1128,Nateglinide,NATEGLINIDE,NATEGLINIDE,,no,no,,,test
+1129,Phenytek,EXTENDED PHENYTOIN SODIUM; PHENYTOIN SODIUM,PHENYTOIN SODIUM,Arrhythmia,wp,most,cardiac arrest ,severe,test
+1130,Rosuvastatin,ROSUVASTATIN,ROSUVASTATIN,,no,no,,,train
+1131,Eletriptan Hydrobromide,ELETRIPTAN HYDROBROMIDE,ELETRIPTAN HYDROBROMIDE MONOHYDRATE,Mixed,wp,most,myocardial infarction/ventricular tachycardia,severe,test
+1132,Sulfasalazine,SULFASALAZINE,SULFASALAZINE,Heart Damage,ar,less,myocarditis,severe,train
+1133,DOXEPIN HYDROCHLORIDE,DOXEPIN HYDROCHLORIDE,DOXEPIN HYDROCHLORIDE,Mixed,ar,less,tachycardia/hypertension  ,mild,train
+1134,Losartan Potassium,LOSARTAN POTASSIUM,LOSARTAN POTASSIUM,Arrhythmia,ar,less,Palpitations,mild,test
+1135,Donepezil Hydrochloride,DONEPEZIL HYDROCHLORIDE,DONEPEZIL HYDROCHLORIDE,Arrhythmia,wp,less,bradycardia or heart block,mild,train
+1136,Pravastatin Sodium,PRAVASTATIN SODIUM,PRAVASTATIN SODIUM,Heart Damage,ar,less ,Angina Pectoris,moderate,train
+1137,Sildenafil,SILDENAFIL,SILDENAFIL,Heart Damage,wp,less,Hypotension,mild,train
+1138,Rabeprazole sodium,RABEPRAZOLE SODIUM,RABEPRAZOLE SODIUM,,CLINICAL PHARMACOLOGY,no,no systemic effects ,,test
+1139,Methotrexate Sodium,METHOTREXATE SODIUM,METHOTREXATE SODIUM,Heart Damage,ar,less,pericarditis,severe,test
+1140,PAROXETINE,PAROXETINE HYDROCHLORIDE,PAROXETINE HYDROCHLORIDE ANHYDROUS,Mixed,ar,less,myocardial infarct/tachycardia,mild,test
+1141,Pramipexole Dihydrochloride,PRAMIPEXOLE DIHYDROCHLORIDE,PRAMIPEXOLE DIHYDROCHLORIDE,Heart Damage,wp,less,hypotension,mild,train
+1142,Ursodiol,URSOSIOL,URSADIOL,,no,no,,,train
+1143,MENEST,ESTERIFIED ESTROGENS,"ESTROGENS, ESTERIFIED",Heart Damage,bw,most,myocardial infarction,severe,test
+1144,Estazolam,ESTAZOLAM,ESTAZOLAM,Arrhythmia,ar,less,palpitation,mild,train
+1145,esomeprazole magnesium,ESOMEPRAZOLE MAGNESIUM,ESOMEPRAZOLE MAGNESIUM DIHYDRATE,Mixed,ar,less,tachycardia/hypertension,mild,test
+1146,Mefenamic Acid,MEFENAMIC ACID,MEFENAMIC ACID,Heart Damage,bw,most,fatal,severe,train
+1147,Propafenone Hydrochloride,PROPAFENONE HYDROCHLORIDE,PROPAFENONE HYDROCHLORIDE,Mixed,bw,most,cardiac arrest/heart failure,severe,test
+1148,CARBAMAZEPINE,CARBAMAZEPINE,CARBAMAZEPINE,Arrhythmia,wp,most,third-degree AV  block,moderate,test
+1149,QUINAPRIL,QUINAPRIL,QUINAPRIL HYDROCHLORIDE,,sp,ambiguous,"myocardial infarction( patients with
+CHF or hypertension)",severe,train
+1150,Ultramicrosize Griseofulvin,ULTRAMICROSIZE GRISEOFULVIN,GRISEOFULVIN,,no,no,,,test
+1151,Mifepristone,MIFEPRISTONE,MIFEPRISTONE,Mixed,ar,less,tachycardia/hypotension,mild,train
+1152,Guanfacine Extended-Release,GUANFACINE,GUANFACINE,Mixed,wp,less,decreases in blood pressure/heart rate,mild,train
+1153,Itraconazole,ITRACONAZOLE,ITRACONAZOLE,Mixed,ar,less,left ventricular failure/tachycardia,severe,train
+1154,Anastrozole,ANASTROZOLE,ANASTROZOLE,Heart Damage,ar,less,angina pectoris ,moderate,test
+1155,Cyproheptadine Hydrochloride,CYPROHEPTADINE HYDROCHLORIDE,CYPROHEPTADINE,Mixed,ar,less,tachycardia/Hypotension,mild,test
+1156,Alendronate,ALENDRONATE SODIUM,ALENDRONATE SODIUM,,no,no,,,test
+1157,CEFPODOXIME PROXETIL,CEFPODOXIME PROXETIL,CEFPODOXIME PROXETIL,Mixed,ar,less,congestive heart failure/palpitations,severe,test
+1158,Lamivudine,LAMIVUDINE,LAMIVUDINE,,no,no,,,train
+1159,Quetiapine Fumarate,QUETIAPINE FUMARATE,QUETIAPINE FUMARATE,Mixed,wp,less,tachycardia/hypotension ,mild,test
+1160,FEXOFENADINE HYDROCHLORIDE,FEXOFENADINE HYDROCHLORIDE,FEXOFENADINE HYDROCHLORIDE,,no,no,,,train
+1161,Clobazam,CLOBAZAM,CLOBAZAM,,CLINICAL PHARMACOLOGY,no, not prolong the QTc interval ,,test
+1162,Etodolac,ETODOLAC,ETODOLAC,Heart Damage,bw,most,myocardial infarction,severe,train
+1163,Clomipramine Hydrochloride,CLOMIPRAMINE HYDROCHLORIDE CAPSULES,CLOMIPRAMINE HYDROCHLORIDE,Arrhythmia,wp,less,modest tachycardia,mild,train
+1164,Pyrazinamide,PYRAZINAMIDE,PYRAZINAMIDE,,no,no,,,train
+1165,Zolmitriptan,ZOLMITRIPTAN,ZOLMITRIPTAN,Mixed,wp,most,acute myocardial infarction/Arrhythmias,severe,test
+1166,Alosetron Hydrochloride,ALOSETRON HYDROCHLORIDE,ALOSETRON HYDROCHLORIDE,Mixed,ar,less,Tachyarrhythmias/increased blood pressure ,mild,test
+1167,Deferiprone,DEFERIPRONE,DEFERIPRONE,Mixed,ar,less,cardiac failure/atrial fibrillation,severe,train
+1168,Sodium Iodide I-131,SODIUM IODIDE I-131,SODIUM IODIDE I-131,Mixed,ar,less,chest pain/tachycardia,mild,train
+1169,SODIUM IODIDE I 123,SODIUM IODIDE I 123,SODIUM IODIDE I-123,,no,no,,,test
+1170,Demeclocycline Hydrochloride,DEMECLOCYCLINE HYDROCHLORIDE,DEMECLOCYCLINE HYDROCHLORIDE,,sp,ambiguous,pericarditis(Hypersensitivity reactions),severe,train
+1171,Cefadroxil,CEFADROXIL,CEFADROXIL,,no,no,,,test
+1172,Nefazodone Hydrochloride,NEFAZODONE HYDROCHLORIDE,NEFAZODONE HYDROCHLORIDE,Heart Damage,wp,less,decrease in blood pressure,mild,train
+1173,spironolactone,SPIRONOLACTONE,SPIRONOLACTONE,Heart Damage,wp,less,hypotension,mild,train
+1174,AMITRIPTYLINE HYDROCHLORIDE,AMITRIPTYLINE HYDROCHLORIDE,AMITRIPTYLINE HYDROCHLORIDE,Mixed,wp,most,Myocardial infarction/sinus tachycardia,severe,train
+1175,Trimipramine Maleate,TRIMIPRAMINE MALEATE,TRIMIPRAMINE MALEATE,Mixed,ar,less, myocardial infarction/arrhythmias,severe,train
+1176,Niacor,NIACIN,niacin,Mixed,ar,less,Atrial fibrillation/hypotension ,mild,train
+1177,toremifene citrate,TOREMIFENE CITRATE,TOREMIFENE CITRATE,Arrhythmia,bw,most,QT PROLONGATION,moderate,train
+1178,METHADONE HYDROCHLORIDE,METHADONE HYDROCHLORIDE,METHADONE HYDROCHLORIDE,Mixed,bw,most,QT interval prolongation/Hypotension,moderate,train
+1179,Tolvaptan,TOLVAPTAN,TOLVAPTAN,Mixed,ar,less,Intracardiac thrombus/ventricular fibrillation,severe,test
+1180,Carisoprodol,CARISOPRODOL,CARISOPRODOL,Mixed,ar,less,Tachycardia/postural hypotension,mild,train
+1181,ziprasidone hydrochloride,ZIPRASIDONE HCL,ZIPRASIDONE HYDROCHLORIDE,Mixed,wp,most,QT Prolongation/Hypotension,moderate,train
+1182,Buspirone Hydrochloride,BUSPIRONE HYDROCHLORIDE,BUSPIRONE HYDROCHLORIDE,Mixed,ar,less,tachycardia/cardiomyopathy,mild,test
+1183,DESIPRAMINE HYDROCHLORIDE,DESIPRAMINE HYDROCHLORIDE,DESIPRAMINE HYDROCHLORIDE,Mixed,ar,less,myocardial infarction/arrhythmias,severe,train
+1184,Balsalazide Disodium,BALSALAZIDE DISODIUM,BALSALAZIDE DISODIUM,Heart Damage,ar,less,myocarditis,severe,test
+1185,Rifabutin,RIFABUTIN,RIFABUTIN,Arrhythmia,ar,less,non-specific T wave changes on electrocardiogram,mild,train
+1186,Trandolapril,TRANDOLAPRIL,TRANDOLAPRIL,Heart Damage,wp,less,hypotension,mild,train
+1187,Metaxalone,METAXALONE,METAXALONE,,no,no,,,train
+1188,APREPITANT,APREPITANT,APREPITANT,Arrhythmia,ar,less,palpitations,mild,test
+1189,CINACALCET,CINACALCET,CINACALCET HYDROCHLORIDE,Arrhythmia,wp,most,QT prolongation,moderate,train
+1190,Triazolam,TRIAZOLAM,TRIAZOLAM,,no,no,,,test
+1191,Pimozide,PIMOZIDE,PIMOZIDE,Arrhythmia,ar,less,Electrocardiographic changes,moderate,train
+1192,Labetalol Hydrochloride,LABETALOL HYDROCHLORIDE,LABETALOL HYDROCHLORIDE,Heart Damage,wp,most,congestive heart failure,severe,test
+1193,TROSPIUM CHLORIDE,TROSPIUM CHLORIDE,TROSPIUM CHLORIDE,Mixed,ar,less,supraventricular tachycardia/chest pain,moderate,train
+1194,Molindone Hydrochloride,MOLINDONE HYDROCHLORIDE,MOLINDONE HYDROCHLORIDE,Mixed,ar,less, T wave changes /hypotension,mild,train
+1195,Clomiphene Citrate,CLOMIPHENE CITRATE,CLOMIPHENE CITRATE,Mixed,ar,less,Arrhythmia/ chest pain,severe,test
+1196,Doxycycline Hyclate,DOXYCYCLINE HYCLATE,DOXYCYCLINE HYCLATE,,sp,ambiguous,?? Intracranial hypertension,,test
+1197,DIETHYLPROPION HYDROCHLORIDE ER,DIETHYLPROPION HYDROCHLORIDE ER,DIETHYLPROPION HYDROCHLORIDE,Heart Damage,wp,most,Valvular heart disease,severe,train
+1198,Perindopril Erbumine,PERINDOPRIL ERBUMINE,PERINDOPRIL ERBUMINE,Heart Damage,wp,less,hypotension,mild,test
+1199,Clemastine Fumarate,CLEMASTINE FUMARATE,CLEMASTINE FUMARATE,Mixed,ar,less,tachycardia/Hypotension,mild,train
+1200,SULINDAC,SULINDAC,SULINDAC,Heart Damage,bw,most,myocardial infarction ,severe,test
+1201,Dexmethylphenidate Hydrochloride,DEXMETHYLPHENIDATE HYDROCHLORIDE,DEXMETHYLPHENIDATE HYDROCHLORIDE,Mixed,wp,most,myocardial infarction/Heart Rate Increases,severe,train
+1202,Penicillin V Potassium,PENICILLIN V POTASSIUM,PENICILLIN V POTASSIUM,,sp,ambiguous,not be relied upon in patients with cardiospasm ,,train
+1203,Metronidazole,METRONIDAZOLE,METRONIDAZOLE,,sp,ambiguous,QT prolongation with drug interactions,moderate,test
+1204,Piroxicam,PIROXICAM,PIROXICAM,Heart Damage,bw,most, myocardial infarction,severe,train
+1205,Primidone,PRIMIDONE,PRIMIDONE,,no,no,,,train
+1206,Methocarbamol,METHOCARBAMOL,METHOCARBAMOL,Mixed,ar,less,Bradycardia/Hypotension,mild,train
+1207,Tamsulosin hydrochloride,TAMSULOSIN HYDROCHLORIDE,TAMSULOSIN HYDROCHLORIDE,,sp,ambiguous,postural hypotension,mild,test
+1208,Naratriptan,NARATRIPTAN,NARATRIPTAN HYDROCHLORIDE,Mixed,wp,most, acute myocardial infarction/ventricular tachycardia,severe,test
+1209,Febuxostat,FEBUXOSTAT,FEBUXOSTAT,,sp,ambiguous,CV death patients with a history of CV disease,severe,test
+1210,CYCLOBENZAPRINE HYDROCHLORIDE,CYCLOBENZAPRINE HYDROCHLORIDE,CYCLOBENZAPRINE HYDROCHLORIDE,Mixed,ar,less,arrhythmia/Hypotension,mild,train
+1211,Miglitol,MIGLITOL,MIGLITOL,,no,no,,,train
+1212,SULFADIAZINE,SULFADIAZINE,SULFADIAZINE,,sp,ambiguous,allergic myocarditis(Allergic Reactions),severe,test
+1213,Lansoprazole,LANSOPRAZOLE,LANSOPRAZOLE,Mixed,ar,less,arrhythmia/myocardial infarction,severe,train
+1214,CARVEDILOL,CARVEDILOL,CARVEDILOL,Mixed,wp,most,worsening heart failure/Bradycardia,severe,test
+1215,Phentermine Hydrochloride,PHENTERMINE HYDROCHLORIDE,PHENTERMINE HYDROCHLORIDE,,sp,ambiguous,"cardiac valvular disease combination of phentermine with fenfluramine or
+dexfenfluramine",severe,train
+1216,Hydrochlorothiazide,HYDROCHLOROTHIAZIDE,HYDROCHLOROTHIAZIDE,Heart Damage,ar,less,Hypotension,mild,train
+1217,Theophylline (Anhydrous),THEOPHYLLINE,THEOPHYLLINE ANHYDROUS,Arrhythmia,ar,less,cardiac arrhythmias,mild,test
+1218,Topiramate,TOPIRAMATE,TOPIRAMATE,,sp,ambiguous,cardiac arrhythmias,mild,test
+1219,Chenodal,CHENODIOL,CHENODIOL,,no,no,,,test
+1220,Misoprostol,MISOPROSTOL,MISOPROSTOL,Mixed,ar,less,arrhythmia/myocardial infarction (some fatal),severe,test
+1221,Citalopram,CITALOPRAM,CITALOPRAM,Mixed,ar,less,bradycardia/angina pectoris,moderate,train
+1222,etravirine,ETRAVIRINE,ETRAVIRINE,Mixed,ar,less,myocardial infarction/atrial fibrillation,severe,test
+1223,Clopidogrel,CLOPIDOGREL,CLOPIDOGREL BISULFATE,Heart Damage,ar,less,hypotension,mild,test
+1224,Neomycin Sulfate,NEOMYCIN SULFATE,NEOMYCIN SULFATE,,no,no,,,train
+1225,Levorphanol Tartrate,LEVORPHANOL TARTRATE,LEVORPHANOL TARTRATE,Heart Damage,wp,less,hypotension ,mild,test
+1226,Tinidazole,TINIDAZOLE,TINIDAZOLE,Arrhythmia,ar,less,palpitations,mild,test
+1227,TOLMETIN SODIUM,TOLMETIN SODIUM,TOLMETIN SODIUM,Heart Damage,bw,most," myocardial 
+infarction (MI) ",severe,train
+1228,Terbinafine,TERBINAFINE HYDROCHLORIDE,TERBINAFINE HYDROCHLORIDE,,sp,ambiguous,hypersensitivity reactions:myocarditis,,test
+1229,Nortriptyline Hydrochloride,NORTRIPTYLINE HYDROCHLORIDE,NORTRIPTYLINE HYDROCHLORIDE,Arrhythmia,wp,most,Brugada syndrom,severe,train
+1230,Minocycline hydrochloride,MINOCYCLINE HYDROCHLORIDE,MINOCYCLINE HYDROCHLORIDE,,sp,ambiguous,"myocarditis, pericarditis(Hypersensitivity Reactions)",severe,train
+1231,molnupiravir,MOLNUPIRAVIR,MOLNUPIRAVIR,,no,no,,,test
+1232,Seconal Sodium,SECOBARBITAL SODIUM,secobarbital sodium,Mixed,ar,less,Bradycardia/hypotension,mild,test
+1233,ISMOTIC,ISOSORBIDE,isosorbide,,no,no,,,test
+1234,SOTALOL,SOTALOL,sotalol,Mixed,wp,most,torsade de pointes/Conges tive Heart Failure,moderate,test
+1235,Maxaquin,LOMEFLOXACIN HYDROCHLORIDE,lomefloxacin hydrochloride,Arrhythmia,wp,most,torsade de pointes,moderate,test
+1236,TOLAZAMIDE,TOLAZAMIDE,tolazamide,,sp,ambiguous,similarities chemical:cardiovascular mortality,,test
+1237,Terramycin,OXYTETRACYCLINE HYDROCHLORIDE,Oxytetracycline Hydrochloride,,sp,ambiguous,pericarditis(Hypersensitivity reactions),severe,test
+1238,Renese,POLYTHIAZIDE,polythiazide,Heart Damage,ar,less,hypotension ,mild,train
+1239,PERMAX,PERGOLIDE,pergolide,Heart Damage,bw,most,valve replacement,severe,test
+1240,VITRAKVI,LAROTRECTINIB,LAROTRECTINIB,,CLINICAL PHARMACOLOGY,no, does not prolong QTc intervals,,test
+1241,SODIUM POLYSTYRENE SULFONATE,SODIUM POLYSTYRENE SULFONATE,SODIUM POLYSTYRENE SULFONATE,Arrhythmia,wp,most, lengthened Q-T interval,moderate,train
+1242,Relistor,METHYLNALTREXONE BROMIDE,METHYLNALTREXONE BROMIDE,Mixed,ar,less,cardiac arrest/myocardial infarctions,severe,test
+1243,Eszopiclone,ESZOPICLONE,ESZOPICLONE,Heart Damage,ar,less,hypertension,mild,train
+1244,VASOPRESSIN,VASOPRESSIN,VASOPRESSIN,Mixed,wp,less,decrease in cardiac index ,mild,train
+1245,Naloxone Hydrochloride,NALOXONE HYDROCHLORIDE,NALOXONE HYDROCHLORIDE,Mixed,ar,less,cardiac arrest or failure,severe,train
+1246,PHYTONADIONE,PHYTONADIONE,PHYTONADIONE,Mixed,ar,less," Tachycardia, hypotension",severe,train
+1247,Dehydrated Alcohol,ALCOHOL,ALCOHOL,Mixed,wp,most,heart failure/Ventricular Arrhythmia,severe,train
+1248,Compro,PROCHLORPERAZINE,PROCHLORPERAZINE,Arrhythmia,ar,less,hypotension / cardiac arrest,severe,test
+1249,Cetrotide,CETRORELIX ACETATE,CETRORELIX ACETATE,,sp,ambiguous,hypersensitivity reactions:hypotension,mild,test
+1250,LEQVIO,INCLISIRAN,INCLISIRAN SODIUM,,CLINICAL PHARMACOLOGY,no,does not prolong the QT,,test
+1251,Empaveli,PEGCETACOPLAN,Pegcetacoplan,Heart Damage,ar,less,hypertension,mild,train
+1252,FIRMAGON,DEGARELIX,DEGARELIX,Arrhythmia,wp,most, prolong the QT interval,moderate,test
+1253,Mozobil,PLERIXAFOR,PLERIXAFOR,,sp,ambiguous,hypersensitivity reactionshypotension,mild,train
+1254,OXLUMO,LUMASIRAN,LUMASIRAN,,no,no,,,train
+1255,Vantas,HISTRELIN ACETATE,HISTRELIN ACETATE,Mixed,wp,most,sudden cardiac death/prolong QT/QTc Interval,severe,train
+1256,Vyleesi,BREMELANOTIDE,bremelanotide acetate,Mixed,wp,less,Increase in Blood Pressure/ Reduction in Heart Rate,mild,train
+1257,Imcivree,SETMELANOTIDE,SETMELANOTIDE,,no,no,,,train
+1258,Lanreotide Acetate,LANREOTIDE ACETATE,LANREOTIDE ACETATE,Mixed,wp,less,sinus bradycardia/hypertension,mild,test
+1259,Tymlos,ABALOPARATIDE,ABALOPARATIDE,Mixed,wp,less,hypotension/tachycardia,mild,train
+1260,Zegalogue,DASIGLUCAGON,DASIGLUCAGON,Mixed,ar,less,bradycardia/hypertension,mild,train
+1261,Byetta,EXENATIDE,exenatide,,no,no,,,test
+1262,Tegsedi,INOTERSEN,INOTERSEN SODIUM,Arrhythmia,ar,less,Arrhythmia,mild,test
+1263,Saxenda,LIRAGLUTIDE,LIRAGLUTIDE,Arrhythmia,wp,less,Heart Rate Increase,mild,train
+1264,XYOSTED,TESTOSTERONE ENANTHATE,TESTOSTERONE ENANTHATE,Heart Damage,bw,most,cardiovascular death,severe,train
+1265,VOXZOGO 0.4mg; VOXZOGO 0.56mg; VOXZOGO 1.2mg,VOSORITIDE,VOSORITIDE,Heart Damage,wp,less,decreases in blood pressure,mild,test
+1266,SymlinPen,PRAMLINTIDE ACETATE,pramlintide acetate,,no,no,,,train
+1267,ZOLADEX,GOSERELIN,goserelin acetate,Mixed,wp,most,sudden cardiac death/prolong QT/QTc Interval,severe,train
+1268,SYNRIBO,OMACETAXINE MEPESUCCINATE,OMACETAXINE MEPESUCCINATE,Mixed,ar,less,angina pectoris/arrhythmia,severe,train
+1269,GIVLAARI,GIVOSIRAN SODIUM,givosiran sodium,,CLINICAL PHARMACOLOGY,no,No large mean increase in QTc ,,train
+1270,Copaxone,GLATIRAMER ACETATE,GLATIRAMER ACETATE,Mixed,ar,less,Tachycardia/Hypertension,mild,train
+1271,WEGOVY,SEMAGLUTIDE,SEMAGLUTIDE,Arrhythmia,wp,less,Heart Rate Increase,mild,test
+1272,Nexplanon,ETONOGESTREL,etonogestrel,Heart Damage,wp,most,myocardial infarctions,severe,train
+1273,FUZEON,ENFUVIRTIDE,Enfuvirtide,Heart Damage,ar,less,unstable angina pectoris,moderate,test
+1274,Kynamro,MIPOMERSEN SODIUM,MIPOMERSEN SODIUM,,no,no,,,test
+1275,Fragmin,DALTEPARIN SODIUM,DALTEPARIN SODIUM,,no,no,,,test
+1276,Forteo,TERIPARATIDE,Teriparatide,Heart Damage,wp,less,hypotension,mild,test
+1277,KYBELLA,DEOXYCHOLIC ACID,DEOXYCHOLIC ACID,Heart Damage,ar,less,Hypertension,mild,test
+1278,Fondaparinux Sodium,FONDAPARINUX SODIUM,FONDAPARINUX SODIUM,,no,no,,,train
+1279,Terbutaline Sulfate,TERBUTALINE SULFATE,terbutaline sulfate,Mixed,bw,most,myocardial ischemia/cardiac arrhythmias,severe,train
+1280,Fyremadel,GANIRELIX ACETATE,ganirelix acetate,,no,no,,,test
+1281,MEPIVACAINE HYDROCHLORIDE,MEPIVACAINE HYDROCHLORIDE,Mepivacaine Hydrochloride,,sp,ambiguous,"used with extreme caution for patients with heart block,",,train
+1282,Isosulfan Blue,ISOSULFAN BLUE,ISOSULFAN BLUE,,no,no,,,train
+1283,ICATIBANT,ICATIBANT,ICATIBANT ACETATE,,no,no,,,train
+1284,Innohep,TINZAPARIN SODIUM,tinzaparin sodium,Heart Damage,ar,less,"hypotension, hypertension",mild,test
+1285,KYNMOBI,APOMORPHINE HYDROCHLORIDE,apomorphine hydrochloride,Mixed,wp,most,QT Prolongation/Hypotension,moderate,test
+1286,Dsuvia,SUFENTANIL,SUFENTANIL,Mixed,wp,less,hypotension/bradycardia,mild,test
+1287,nitroglycerin,NITROGLYCERIN,NITROGLYCERIN,Heart Damage,wp,most,angina pectoris,moderate,test
+1288,Asenapine,ASENAPINE MALEATE,ASENAPINE MALEATE,Mixed,wp,most,QT Prolongation/Hypotension,moderate,test
+1289,Buprenorphine,BUPRENORPHINE,BUPRENORPHINE HYDROCHLORIDE,Heart Damage,wp,less,hypotension,mild,train
+1290,Citanest Plain,PRILOCAINE HYDROCHLORIDE,PRILOCAINE HYDROCHLORIDE,Mixed,ar,less,bradycardia/hypotension,mild,train
+1291,,Etoricoxib,,Heart Damage,Withdraw,most,thrombotic events,,test
+1292,,Rofecoxib,,Heart Damage,Withdraw,most,myocardial infarction,,test
+1293,,Benfluorex,,Heart Damage,Withdraw,most,valvular heart disease,,test
+1294,,Chlorphentermine,,Heart Damage,Withdraw,most,pulmonary heart disease,,train
+1295,,Dexfenfluramine,,Heart Damage,Withdraw,most,valvular heart disease,,test
+1296,,Fenfluramine,,Heart Damage,Withdraw,most,valvular heart disease,,test
+1297,,Levomethadyl acetate,,Arrhythmia,Withdraw,most,"QT prolongation, TdP",,test
+1298,,Phentermine,,Heart Damage,Withdraw,most,valvular heart disease,,test
+1299,,Propoxyphene,,Arrhythmia,Withdraw,most,"QT prolongation, TdP",,test
+1300,,Sertindole,,Arrhythmia,Withdraw,most,"QT prolongation, TdP, sudden cardiac death",,test
+1301,,Sibutramine,,Heart Damage,Withdraw,most,Myocardial infarction,,train
+1302,,Cisapride,,Arrhythmia,Withdraw,most,"ventricular arrhythmia, QT prolongation, TdP, cardiac arrest",,test
+1303,,Tegaserod,,Heart Damage,Withdraw,most,ischemia,,train
+1304,,Terodiline,,Arrhythmia,Withdraw,most,"ventricular tachycardia, cardiac death",,train
+1305,,Astemizole,,Arrhythmia,Withdraw,most,"long QT syndrome, TdP",,test
+1306,,Terfenadine,,Arrhythmia,Withdraw,most,"QT prolongation, TdP",,train
+1307,,Grepafloxacin,,Arrhythmia,Withdraw,most,QT prolongation,,test
+1308,,Sparfloxacin,,Arrhythmia,Withdraw,most,QT prolongation,,train
+1309,,Buflomedil,,Arrhythmia,Withdraw,most,"QT prolongation, cardiac arrest",,test
+1310,,Dofetilide,,Arrhythmia,Withdraw,most,"QT prolongation, TdP",,train
+1311,,Encainide,,Arrhythmia,Withdraw,most,"QT prolongation, TdP",,test
+1312,,Lidoflazine,,Arrhythmia,Withdraw,most,QT prolongation,,train
+1313,,Mibefradil,,Arrhythmia,Withdraw,most,QT prolongation,,test
+1314,,Orciprenaline,,Arrhythmia,Withdraw,most,"tachycardia, palpitations",,test
+1315,,Prenylamine,,Arrhythmia,Withdraw,most,"QT prolongation, sudden cardiac death, ventricular tachycardia, TdP",,train
+1316,,Probucol,,Arrhythmia,Withdraw,most,"QT prolongation, arrhythmias",,train
+1317,,Clobutinol,,Arrhythmia,Withdraw,most,QT prolongation,,train
