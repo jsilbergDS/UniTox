@@ -27,7 +27,7 @@ chemprop_train \
     --split_type ${SPLIT_TYPE} \
     --target_columns cardio_toxicity_${TARGET_TYPE} dermatologic_toxicity_${TARGET_TYPE} hematotoxicity_${TARGET_TYPE} infertility_${TARGET_TYPE} liver_toxicity_${TARGET_TYPE} ototoxicity_${TARGET_TYPE} pulmonary_toxicity_${TARGET_TYPE} renal_toxicity_${TARGET_TYPE} \
     --show_individual_scores \
-    --save_dir chemprop_rdkit_${TARGET_TYPE}_${SPLIT_TYPE} \
+    --save_dir Models/chemprop_rdkit_${TARGET_TYPE}_${SPLIT_TYPE} \
     --num_folds 10 \
     --quiet
 done
