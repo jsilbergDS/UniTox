@@ -17,7 +17,7 @@ chemfunc save_fingerprints \
     --save_path Data/UniTox-GNN.npz
 ```
 
-Now, train the Chemprop-RDKit model in four settings: (random (cv) or scaffold split) x (ternary or binary rating).
+Now, train the Chemprop-RDKit model (Chemprop version 1.6.1) in four settings: (random [cv] or scaffold split) x (ternary or binary rating).
 
 ```bash
 for SPLIT_TYPE in cv scaffold_balanced
