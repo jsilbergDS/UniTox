@@ -39,3 +39,40 @@ chemprop_train \
 done
 done
 ```
+
+Now, train random forest and SVM models on Morgan fingerprints or Morgan fingerprints + RDKit descriptors.
+
+```bash
+for SPLIT_TYPE in cv scaffold_balanced
+do
+for TARGET_TYPE in confident_ternary_rating_0_1 binary_rating_0_1
+do
+for MODEL_TYPE in random_forest svm
+do
+for FEATURES_TYPE in morgan morgan_rdkit
+do
+
+if [ "$FEATURES_TYPE" = "morgan_rdkit" ]; then
+    FEATURES_STRING="--features_path Data/UniTox-GNN.npz"
+else
+    FEATURES_STRING=""
+fi
+
+sklearn_train \
+    --model_type ${MODEL_TYPE} \
+    --data_path Data/UniTox-GNN.csv \
+    --dataset_type classification \
+    --smiles_column smiles \
+    --no_features_scaling ${FEATURES_STRING} \
+    --split_type ${SPLIT_TYPE} \
+    --target_columns cardio_toxicity_${TARGET_TYPE} dermatological_toxicity_${TARGET_TYPE} hematological_${TARGET_TYPE} infertility_${TARGET_TYPE} liver_toxicity_${TARGET_TYPE} ototoxicity_${TARGET_TYPE} pulmonary_toxicity_${TARGET_TYPE} renal_toxicity_${TARGET_TYPE} \
+    --single_task \
+    --show_individual_scores \
+    --save_dir Models/${MODEL_TYPE}_${FEATURES_TYPE}_${TARGET_TYPE}_${SPLIT_TYPE} \
+    --num_folds 10 \
+    --quiet
+done
+done
+done
+done
+```
