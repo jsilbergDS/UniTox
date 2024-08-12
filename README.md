@@ -47,8 +47,6 @@ for SPLIT_TYPE in cv scaffold_balanced
 do
 for TARGET_TYPE in confident_ternary_rating_0_1 binary_rating_0_1
 do
-for MODEL_TYPE in random_forest svm
-do
 for FEATURES_TYPE in morgan morgan_rdkit
 do
 
@@ -59,7 +57,7 @@ else
 fi
 
 sklearn_train \
-    --model_type ${MODEL_TYPE} \
+    --model_type random_forest \
     --data_path Data/UniTox-GNN.csv \
     --dataset_type classification \
     --smiles_column smiles \
@@ -71,7 +69,6 @@ sklearn_train \
     --save_dir Models/${MODEL_TYPE}_${FEATURES_TYPE}_${TARGET_TYPE}_${SPLIT_TYPE} \
     --num_folds 10 \
     --quiet
-done
 done
 done
 done
