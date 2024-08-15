@@ -12,14 +12,17 @@ We trained a graph neural network model called [Chemprop-RDKit](https://github.c
 First, install the slightly modified version of Chemprop v1.6.1 that supports more flexibility in sklearn models.
 
 ```bash
-conda create -y -n unitox-gnn python=3.12
-conda activate unitox-gnn
+conda create -y -n unitox python=3.12
+conda activate unitox
 
 git clone git@github.com:jsilbergDS/chemprop-unitox.git
 git checkout v1.6.1-unitox
 pip install -e .
 pip install chemfunc==1.0.9
+pip install numpy==1.26.1
 ```
+
+**Note:** If you get the issue `ImportError: libXrender.so.1: cannot open shared object file: No such file or directory`, run `conda install -c conda-forge xorg-libxrender`.
 
 Next, compute Morgan and RDKit fingerprints for the drugs using chemfunc version.
 
@@ -34,7 +37,7 @@ chemfunc save_fingerprints \
 done
 ```
 
-Now, train the Chemprop-RDKit model in four settings: (random [cv] or scaffold split) x (ternary or binary rating).
+Now, train the Chemprop models.
 
 ```bash
 for SPLIT_TYPE in cv scaffold_balanced
@@ -45,15 +48,68 @@ chemprop_train \
     --data_path Data/UniTox-GNN.csv \
     --dataset_type classification \
     --smiles_column smiles \
-    --features_path Data/UniTox-GNN.npz \
+    --split_type ${SPLIT_TYPE} \
+    --target_columns cardio_toxicity_${TARGET_TYPE} dermatological_toxicity_${TARGET_TYPE} hematological_${TARGET_TYPE} infertility_${TARGET_TYPE} liver_toxicity_${TARGET_TYPE} ototoxicity_${TARGET_TYPE} pulmonary_toxicity_${TARGET_TYPE} renal_toxicity_${TARGET_TYPE} \
+    --show_individual_scores \
+    --save_dir Models/chemprop_${TARGET_TYPE}_${SPLIT_TYPE} \
+    --num_folds 10 \
+    --save_preds \
+    --quiet
+done
+done
+```
+
+Now, train the Chemprop models with fingerprints.
+
+```bash
+for SPLIT_TYPE in cv scaffold_balanced
+do
+for TARGET_TYPE in confident_ternary_rating_0_1 binary_rating_0_1
+do
+for FINGERPRINT_TYPE in morgan rdkit
+do
+chemprop_train \
+    --data_path Data/UniTox-GNN.csv \
+    --dataset_type classification \
+    --smiles_column smiles \
+    --features_path Data/UniTox-GNN-${FINGERPRINT_TYPE}.npz \
     --no_features_scaling \
     --split_type ${SPLIT_TYPE} \
     --target_columns cardio_toxicity_${TARGET_TYPE} dermatological_toxicity_${TARGET_TYPE} hematological_${TARGET_TYPE} infertility_${TARGET_TYPE} liver_toxicity_${TARGET_TYPE} ototoxicity_${TARGET_TYPE} pulmonary_toxicity_${TARGET_TYPE} renal_toxicity_${TARGET_TYPE} \
     --show_individual_scores \
-    --save_dir Models/chemprop_rdkit_${TARGET_TYPE}_${SPLIT_TYPE} \
+    --save_dir Models/chemprop_${FINGERPRINT_TYPE}_${TARGET_TYPE}_${SPLIT_TYPE} \
     --num_folds 10 \
     --save_preds \
     --quiet
+done
+done
+done
+```
+
+Now, train the MLP models.
+
+```bash
+for SPLIT_TYPE in cv scaffold_balanced
+do
+for TARGET_TYPE in confident_ternary_rating_0_1 binary_rating_0_1
+do
+for FINGERPRINT_TYPE in morgan rdkit
+do
+chemprop_train \
+    --data_path Data/UniTox-GNN.csv \
+    --dataset_type classification \
+    --smiles_column smiles \
+    --features_path Data/UniTox-GNN-${FINGERPRINT_TYPE}.npz \
+    --no_features_scaling \
+    --features_only \
+    --split_type ${SPLIT_TYPE} \
+    --target_columns cardio_toxicity_${TARGET_TYPE} dermatological_toxicity_${TARGET_TYPE} hematological_${TARGET_TYPE} infertility_${TARGET_TYPE} liver_toxicity_${TARGET_TYPE} ototoxicity_${TARGET_TYPE} pulmonary_toxicity_${TARGET_TYPE} renal_toxicity_${TARGET_TYPE} \
+    --show_individual_scores \
+    --save_dir Models/mlp_${FINGERPRINT_TYPE}_${TARGET_TYPE}_${SPLIT_TYPE} \
+    --num_folds 10 \
+    --save_preds \
+    --quiet
+done
 done
 done
 ```
@@ -65,9 +121,9 @@ for SPLIT_TYPE in cv scaffold_balanced
 do
 for TARGET_TYPE in confident_ternary_rating_0_1 binary_rating_0_1
 do
-for MODEL_TYPE in random_forest svm
-do
 for FINGERPRINT_TYPE in morgan rdkit
+do
+for MODEL_TYPE in random_forest svm
 do
 sklearn_train \
     --model_type ${MODEL_TYPE} \
