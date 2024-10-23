@@ -5,9 +5,9 @@ UniTox is a unified dataset of 2,418 FDA-approved drugs with toxicity summaries 
 Please note that these toxicity ratings are produce by an AI model and should not be used in place of expert medical advice.
 
 
-## GNN Training
+## Toxicity Prediction Model Training
 
-We trained a graph neural network model called [Chemprop-RDKit](https://github.com/chemprop/chemprop) on a subset of 1,349 small molecule drugs in UniTox to predict the toxicity ratings. Commands for reproducing these results are below.
+We trained a graph neural network model called [Chemprop-RDKit](https://github.com/chemprop/chemprop) along with a multilayer perceptron (MLP), a random forest (RF), and a support vector machine (SVM) on a subset of 1,349 small molecule drugs in UniTox to predict the toxicity ratings. Commands for reproducing these results are below.
 
 First, install the slightly modified version of Chemprop v1.6.1 that supports more flexibility in sklearn models.
 
@@ -30,8 +30,8 @@ Next, compute Morgan and RDKit fingerprints for the drugs using chemfunc version
 for FINGERPRINT_TYPE in morgan rdkit
 do
 chemfunc save_fingerprints \
-    --data_path Data/UniTox-GNN.csv \
-    --save_path Data/UniTox-GNN-${FINGERPRINT_TYPE}.npz \
+    --data_path Data/UniTox-Small-Molecule-Benchmark.csv \
+    --save_path Data/UniTox-Small-Molecule-Benchmark-${FINGERPRINT_TYPE}.npz \
     --smiles_column smiles \
     --fingerprint_type ${FINGERPRINT_TYPE}
 done
@@ -45,7 +45,7 @@ do
 for TARGET_TYPE in confident_ternary_rating_0_1 binary_rating_0_1
 do
 chemprop_train \
-    --data_path Data/UniTox-GNN.csv \
+    --data_path Data/UniTox-Small-Molecule-Benchmark.csv \
     --dataset_type classification \
     --smiles_column smiles \
     --split_type ${SPLIT_TYPE} \
@@ -69,10 +69,10 @@ do
 for FINGERPRINT_TYPE in morgan rdkit
 do
 chemprop_train \
-    --data_path Data/UniTox-GNN.csv \
+    --data_path Data/UniTox-Small-Molecule-Benchmark.csv \
     --dataset_type classification \
     --smiles_column smiles \
-    --features_path Data/UniTox-GNN-${FINGERPRINT_TYPE}.npz \
+    --features_path Data/UniTox-Small-Molecule-Benchmark-${FINGERPRINT_TYPE}.npz \
     --no_features_scaling \
     --split_type ${SPLIT_TYPE} \
     --target_columns cardio_toxicity_${TARGET_TYPE} dermatological_toxicity_${TARGET_TYPE} hematological_${TARGET_TYPE} infertility_${TARGET_TYPE} liver_toxicity_${TARGET_TYPE} ototoxicity_${TARGET_TYPE} pulmonary_toxicity_${TARGET_TYPE} renal_toxicity_${TARGET_TYPE} \
@@ -96,10 +96,10 @@ do
 for FINGERPRINT_TYPE in morgan rdkit
 do
 chemprop_train \
-    --data_path Data/UniTox-GNN.csv \
+    --data_path Data/UniTox-Small-Molecule-Benchmark.csv \
     --dataset_type classification \
     --smiles_column smiles \
-    --features_path Data/UniTox-GNN-${FINGERPRINT_TYPE}.npz \
+    --features_path Data/UniTox-Small-Molecule-Benchmark-${FINGERPRINT_TYPE}.npz \
     --no_features_scaling \
     --features_only \
     --split_type ${SPLIT_TYPE} \
@@ -127,10 +127,10 @@ for MODEL_TYPE in random_forest svm
 do
 sklearn_train \
     --model_type ${MODEL_TYPE} \
-    --data_path Data/UniTox-GNN.csv \
+    --data_path Data/UniTox-Small-Molecule-Benchmark.csv \
     --dataset_type classification \
     --smiles_column smiles \
-    --features_path Data/UniTox-GNN-${FINGERPRINT_TYPE}.npz \
+    --features_path Data/UniTox-Small-Molecule-Benchmark-${FINGERPRINT_TYPE}.npz \
     --no_features_scaling \
     --split_type ${SPLIT_TYPE} \
     --target_columns cardio_toxicity_${TARGET_TYPE} dermatological_toxicity_${TARGET_TYPE} hematological_${TARGET_TYPE} infertility_${TARGET_TYPE} liver_toxicity_${TARGET_TYPE} ototoxicity_${TARGET_TYPE} pulmonary_toxicity_${TARGET_TYPE} renal_toxicity_${TARGET_TYPE} \
