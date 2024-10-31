@@ -1,0 +1,993 @@
+generic_name,reasoning,less_determination,binary_determination,less_determination_score,binary_determination_score,issue_with_summaries,
+50% DEXTROSE,"The drug label for 50% Dextrose Injection, USP does not explicitly mention pulmonary toxicity risks or pulmonary reactions directly associated with the drug itself. However, there are some warnings and precautions that could indirectly relate to pulmonary issues:
+
+1. **Warnings Section:**
+   - ""The intravenous administration of this solution can cause fluid and/or solute overloading resulting in dilution of serum electrolyte concentrations, overhydration, congested states or pulmonary edema.""
+     - **Summary:** The drug itself can cause fluid overload, which may lead to pulmonary edema.
+
+2. **Precautions Section:**
+   - ""Electrolyte deficits, particularly in serum potassium and phosphate, may occur during prolonged use of concentrated dextrose solutions. Blood electrolyte monitoring is essential and fluid and electrolyte imbalances should be corrected.""
+     - **Summary:** The drug itself can cause electrolyte imbalances, which may indirectly affect pulmonary function if not monitored and corrected.
+
+3. **Adverse Reactions Section:**
+   - ""Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia.""
+     - **Summary:** The drug itself can cause hypervolemia, which may indirectly lead to pulmonary complications.
+
+4. **Overdosage Section:**
+   - ""In the event of overhydration or solute overload during therapy, re-evaluate the patient and institute appropriate corrective measures.""
+     - **Summary:** The drug itself can cause overhydration, which may lead to pulmonary edema if not managed properly.
+
+In summary, while the drug label does not directly associate 50% Dextrose Injection, USP with pulmonary toxicity, it does indicate that improper administration or overdosage can lead to conditions such as fluid overload and hypervolemia, which may result in pulmonary edema.",Less,No,1,1,,
+ADEFOVIR DIPIVOXIL,"The provided drug label for HEPSERA (adefovir dipivoxil) does not mention any pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on the following key areas:
+
+1. **Severe Acute Exacerbations of Hepatitis**: The drug may cause severe acute exacerbations of hepatitis upon discontinuation.
+2. **Nephrotoxicity**: Chronic use may result in nephrotoxicity, especially in patients with pre-existing renal dysfunction.
+3. **HIV Resistance**: The drug may lead to HIV resistance in patients with unrecognized or untreated HIV infection.
+4. **Lactic Acidosis and Severe Hepatomegaly with Steatosis**: These conditions, including fatal cases, have been reported with the use of nucleoside analogues.
+
+Since there is no mention of pulmonary toxicity or pulmonary reactions in the drug label, it can be concluded that HEPSERA is not associated with or does not cause any pulmonary risks based on the provided information.",No,No,1,1,,
+ALDESLEUKIN,"### Summary of Pulmonary Toxicity Risks and Pulmonary Reactions for Proleukin (Aldesleukin)
+
+1. **Capillary Leak Syndrome (CLS) and Pulmonary Toxicity:**
+   - **Sentence:** ""Severe and life-threatening capillary leak syndrome (CLS) characterized by hypotension, dyspnea, edema, and hypoalbuminemia can occur with Proleukin, and can result in end organ toxicity including cardiac, respiratory, renal, hepatic toxicity, or death.""
+   - **Summary:** Proleukin is associated with severe and life-threatening CLS, which can result in respiratory toxicity.
+
+2. **Monitoring for CLS:**
+   - **Sentence:** ""Monitor for signs and symptoms of CLS including assessments of vital signs, weight, fluid intake, albumin levels and urine output.""
+   - **Summary:** Proleukin requires monitoring for CLS, which includes respiratory symptoms.
+
+3. **Withholding or Discontinuing Proleukin for CLS:**
+   - **Sentence:** ""Withhold or discontinue Proleukin for failure to maintain organ perfusion as demonstrated by altered mental status, reduced urine output, oxygen saturation <90%, a fall in the systolic blood pressure below 90 mm Hg, or onset of cardiac arrhythmias.""
+   - **Summary:** Proleukin should be withheld or discontinued if respiratory symptoms like reduced oxygen saturation occur.
+
+4. **Neurologic Toxicity and Respiratory Symptoms:**
+   - **Sentence:** ""Proleukin can cause neurologic toxicities including mental status changes, speech difficulties, cortical blindness, limb or gait ataxia, hallucinations, agitation, obtundation, demyelinating polyneuropathy, and coma.""
+   - **Summary:** Proleukin is associated with neurologic toxicities, which can indirectly affect respiratory function.
+
+5. **Serious Infections Including Sepsis:**
+   - **Sentence:** ""Proleukin can cause impaired neutrophil function (reduced chemotaxis) and an increased risk of disseminated infection, including sepsis and bacterial endocarditis.""
+   - **Summary:** Proleukin is associated with an increased risk of serious infections, which can include respiratory infections.
+
+6. **Renal Toxicity and Respiratory Symptoms:**
+   - **Sentence:** ""Serious renal toxicity, including oliguria and renal failure can occur with Proleukin.""
+   - **Summary:** Proleukin is associated with renal toxicity, which can indirectly affect respiratory function.
+
+7. **Immune-mediated Adverse Reactions:**
+   - **Sentence:** ""Exacerbation of pre-existing autoimmune disease or initial presentation of autoimmune and inflammatory disorders has been reported following treatment with Proleukin.""
+   - **Summary:** Proleukin is associated with immune-mediated adverse reactions, which can include respiratory symptoms.
+
+8. **Serious Manifestations of Eosinophilia:**
+   - **Sentence:** ""Serious manifestations of eosinophilia involving eosinophilic infiltration of cardiac and pulmonary tissues can occur following Proleukin.""
+   - **Summary:** Proleukin is associated with serious manifestations of eosinophilia, which can involve pulmonary tissues.
+
+9. **Delayed Adverse Reactions to Iodinated Contrast Media:**
+   - **Sentence:** ""A review of the literature revealed that 12.6% (range 11-28%) of 501 patients treated with various interleukin-2-containing regimens who were subsequently administered radiographic iodinated contrast media experienced acute, atypical adverse reactions.""
+   - **Summary:** Proleukin is associated with delayed adverse reactions to iodinated contrast media, which can include respiratory symptoms.
+
+10. **Infusion-Related Reactions:**
+    - **Sentence:** ""Proleukin can cause fevers, chills, or rigors.""
+    - **Summary:** Proleukin is associated with infusion-related reactions, which can include respiratory symptoms.
+
+11. **Adverse Reactions in Clinical Trials:**
+    - **Sentence:** ""The most common (≥30%) adverse reactions were hypotension, hyperbilirubinemia, dyspnea, rash, diarrhea, oliguria, chills, vomiting, thrombocytopenia, nausea, confusional state, and increased creatinine.""
+    - **Summary:** Proleukin is associated with dyspnea as a common adverse reaction.
+
+12. **Specific Adverse Reactions:**
+    - **Sentence:** ""Respiratory, thoracic, and mediastinal disorders: Dyspnea (43%), Lung disorder (24%), Respiratory disorder (11%), Apnea (<10%), Cough (11%), Rhinitis (10%).""
+    - **Summary:** Proleukin is associated with various respiratory disorders, including dyspnea, lung disorders, respiratory disorders, apnea, cough, and rhinitis.
+
+13. **Postmarketing Experience:**
+    - **Sentence:** ""The following adverse reactions have been identified during post-approval use of Proleukin: pneumonia (bacterial, fungal, viral).""
+    - **Summary:** Proleukin is associated with pneumonia as an adverse reaction identified post-approval.
+
+### Conclusion
+Proleukin (Aldesleukin) is associated with several pulmonary toxicity risks and reactions, including dyspnea, lung disorders, respiratory disorders, apnea, cough, rhinitis, and pneumonia. These risks necessitate careful monitoring and potential dose modifications or discontinuation of the drug based on the severity of the respiratory symptoms.",Most,Yes,1,1,,
+BEDAQUILINE FUMARATE,"The drug label for SIRTURO (bedaquiline) includes several sections that discuss pulmonary toxicity risks and pulmonary reactions. Here is a summary of those parts:
+
+1. **Indications and Usage**:
+   - SIRTURO is indicated for the treatment of pulmonary multi-drug resistant tuberculosis (MDR-TB) in combination with other drugs. This section does not directly associate the drug with pulmonary toxicity risks but indicates its use in treating a pulmonary condition.
+
+2. **Adverse Reactions**:
+   - **Clinical Studies Experience in Adults**:
+     - Hemoptysis (coughing up blood) was reported in 18% of patients treated with SIRTURO compared to 11% in the placebo group. This indicates that the drug itself was associated with an increased incidence of hemoptysis.
+   - **Clinical Studies Experience in Pediatric Patients**:
+     - No specific pulmonary adverse reactions were highlighted in pediatric patients.
+
+3. **Warnings and Precautions**:
+   - **Increased Mortality**:
+     - The increased risk of death in the SIRTURO treatment group compared to the placebo group was noted, but no direct link to pulmonary toxicity was established. The imbalance in deaths was unexplained, and no discernible pattern related to pulmonary reactions was observed.
+   - **QT Prolongation**:
+     - This section discusses the risk of QT prolongation and its potential to cause serious heart rhythm problems, which could indirectly affect pulmonary function due to cardiac-pulmonary interactions. However, the drug itself was not directly associated with pulmonary toxicity in this context.
+
+4. **Clinical Studies**:
+   - **Study 1**:
+     - The study showed that SIRTURO treatment resulted in a decreased time to culture conversion and improved culture conversion rates in patients with pulmonary MDR-TB. This indicates a positive pulmonary outcome associated with the drug.
+   - **Study 3**:
+     - Similar to Study 1, this study showed treatment responses to SIRTURO in patients with pulmonary MDR-TB, indicating positive pulmonary outcomes.
+
+5. **Patient Counseling Information**:
+   - Patients are advised to report any serious side effects, including those related to the lungs, such as hemoptysis. This implies that the drug itself may be associated with pulmonary reactions like hemoptysis.
+
+In summary, the drug label indicates that SIRTURO is associated with an increased incidence of hemoptysis in adults, which is a pulmonary reaction. However, no direct pulmonary toxicity risks are highlighted, and the increased mortality observed in clinical studies was not directly linked to pulmonary toxicity. The drug is used to treat pulmonary MDR-TB, and positive pulmonary outcomes were noted in clinical studies.",Less,No,1,1,,
+BELUMOSUDIL,"The drug label for REZUROCK (belumosudil) does not explicitly mention pulmonary toxicity risks or pulmonary reactions as a primary concern. However, it does list some pulmonary-related adverse reactions observed during clinical trials. Here is a summary of the relevant parts:
+
+1. **Adverse Reactions (Section 6.1)**:
+   - **Dyspnea**: The label mentions that dyspnea (shortness of breath) was observed in 33% of patients, with 5% experiencing Grade 3–4 severity. This indicates that dyspnea was associated with the drug.
+   - **Cough**: Cough was reported in 30% of patients, but none were of Grade 3–4 severity. This indicates that cough was associated with the drug.
+   - **Infections**: The label lists infections as a common adverse reaction, which can include respiratory infections. This indicates that respiratory infections were associated with the drug.
+
+2. **Patient Information**:
+   - **Shortness of Breath**: The patient information section lists shortness of breath as one of the most common side effects. This indicates that shortness of breath was associated with the drug.
+   - **Cough**: Cough is also listed as a common side effect in the patient information section. This indicates that cough was associated with the drug.
+
+In summary, the drug label indicates that REZUROCK is associated with pulmonary-related adverse reactions such as dyspnea and cough, as well as respiratory infections. However, it does not explicitly state that the drug causes pulmonary toxicity.",Less,No,1,1,,
+BEXAROTENE,"The provided drug label for TARGRETIN (bexarotene) does not explicitly mention pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on other serious adverse reactions and precautions, such as birth defects, hyperlipidemia, pancreatitis, hepatotoxicity, hypothyroidism, neutropenia, cataracts, and photosensitivity. 
+
+Since there is no specific mention of pulmonary toxicity or pulmonary reactions in the provided text, it can be concluded that the drug label does not associate TARGRETIN with pulmonary risks or reactions.",No,No,1,1,,
+BOSENTAN,"### Summary of Pulmonary Toxicity Risks and Pulmonary Reactions for TRACLEER (Bosentan)
+
+1. **Pulmonary Veno-Occlusive Disease (PVOD)**
+   - **Sentence:** ""If signs of pulmonary edema occur, consider the possibility of associated pulmonary veno-occlusive disease and consider whether TRACLEER should be discontinued.""
+   - **Summary:** The drug itself is associated with the risk of pulmonary edema, which may indicate PVOD. Discontinuation of TRACLEER should be considered if PVOD is suspected.
+
+2. **Fluid Retention**
+   - **Sentence:** ""Peripheral edema is a known clinical consequence of PAH and worsening PAH and is also a known effect of TRACLEER and other endothelin receptor antagonists.""
+   - **Summary:** The drug itself is associated with fluid retention, which can lead to peripheral edema.
+
+   - **Sentence:** ""In PAH clinical trials with TRACLEER, combined adverse events of fluid retention or edema were reported in 1.7% (placebo-corrected) of patients.""
+   - **Summary:** The drug itself caused fluid retention or edema in 1.7% of patients in clinical trials.
+
+   - **Sentence:** ""In addition, there have been numerous postmarketing reports of fluid retention in patients with pulmonary hypertension occurring within weeks after starting TRACLEER.""
+   - **Summary:** The drug itself is associated with postmarketing reports of fluid retention in patients with pulmonary hypertension.
+
+   - **Sentence:** ""Patients required intervention with a diuretic, fluid management, or hospitalization for decompensating heart failure.""
+   - **Summary:** The drug itself caused fluid retention severe enough to require medical intervention, including diuretics, fluid management, or hospitalization.
+
+   - **Sentence:** ""If clinically significant fluid retention develops, with or without associated weight gain, further evaluation should be undertaken to determine the cause, such as TRACLEER or underlying heart failure, and the possible need for treatment or discontinuation of TRACLEER.""
+   - **Summary:** The drug itself is associated with clinically significant fluid retention, necessitating evaluation to determine if TRACLEER should be discontinued.
+
+3. **Pulmonary Arterial Hypertension (PAH)**
+   - **Sentence:** ""TRACLEER is an endothelin receptor antagonist indicated for the treatment of pulmonary arterial hypertension (PAH) (WHO Group 1).""
+   - **Summary:** The drug itself is used to treat PAH, which is a condition involving high blood pressure in the lungs.
+
+4. **Adverse Reactions**
+   - **Sentence:** ""Common adverse reactions (≥3% more than placebo) for the film-coated tablet are respiratory tract infection and anemia.""
+   - **Summary:** The drug itself is associated with an increased risk of respiratory tract infections.
+
+   - **Sentence:** ""Common adverse reactions (≥15%) for the dispersible tablet are upper respiratory tract infections and pyrexia.""
+   - **Summary:** The drug itself is associated with a high incidence of upper respiratory tract infections.
+
+5. **Clinical Trials Experience**
+   - **Sentence:** ""The adverse drug events that occurred in ≥3% of the TRACLEER-treated patients and were more common on TRACLEER in placebo-controlled trials in PAH at doses of 125 or 250 mg twice daily are shown in Table 3.""
+   - **Summary:** The drug itself caused adverse events, including respiratory tract infections, in more than 3% of patients in clinical trials.
+
+   - **Sentence:** ""Respiratory Tract Infection combines the terms 'Nasopharyngitis', 'Upper Respiratory Tract Infection' and 'Respiratory Tract Infection'.""
+   - **Summary:** The drug itself is associated with various types of respiratory tract infections.
+
+6. **Postmarketing Experience**
+   - **Sentence:** ""The following additional adverse reactions have been reported during the postapproval use of TRACLEER. Because these adverse reactions are reported from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to TRACLEER exposure: Nasal congestion.""
+   - **Summary:** The drug itself is associated with postmarketing reports of nasal congestion, although a direct causal relationship is not definitively established.
+
+### Conclusion
+TRACLEER (Bosentan) is associated with several pulmonary risks and reactions, including pulmonary edema indicative of PVOD, fluid retention leading to peripheral edema, and various respiratory tract infections. These risks necessitate careful monitoring and potential discontinuation of the drug in severe cases.",Most,Yes,2,2,,"* i wouldnt really call pulmonary infections and edema lung toxicity. I could be wrong, but pulm toxicity is like acute or chronic lung injury with usually some fibrosis "
+BROMOCRIPTINE MESYLATE,"### Summary of Pulmonary Toxicity Risks and Pulmonary Reactions for Parlodel (Bromocriptine Mesylate)
+
+1. **Warnings Section:**
+   - **Pleural and Pulmonary Fibrosis:** 
+     - **Sentence:** ""Among patients on Parlodel, particularly on long-term and high-dose treatment, pleural and pericardial effusions, as well as pleural and pulmonary fibrosis and constrictive pericarditis, have been reported.""
+     - **Summary:** Parlodel itself has been associated with pleural and pulmonary fibrosis, particularly in patients on long-term and high-dose treatment.
+
+   - **Unexplained Pleuropulmonary Disorders:**
+     - **Sentence:** ""Patients with unexplained pleuropulmonary disorders should be examined thoroughly and discontinuation of Parlodel therapy should be considered.""
+     - **Summary:** Parlodel itself is associated with pleuropulmonary disorders, and discontinuation should be considered if these disorders are unexplained.
+
+   - **Reversion of Changes:**
+     - **Sentence:** ""In those instances in which Parlodel treatment was terminated, the changes slowly reverted towards normal.""
+     - **Summary:** Pulmonary changes associated with Parlodel itself may revert towards normal upon discontinuation of the drug.
+
+2. **Adverse Reactions from Postmarketing Experience:**
+   - **Pleural Effusion and Pulmonary Fibrosis:**
+     - **Sentence:** ""Pleural effusion, pleural fibrosis, pleurisy, pulmonary fibrosis, dyspnoea.""
+     - **Summary:** Parlodel itself has been associated with pleural effusion, pleural fibrosis, pleurisy, pulmonary fibrosis, and dyspnoea.
+
+3. **General Precautions:**
+   - **Pulmonary Reactions:**
+     - **Sentence:** ""Among patients on Parlodel, particularly on long-term and high-dose treatment, pleural and pericardial effusions, as well as pleural and pulmonary fibrosis and constrictive pericarditis, have been reported.""
+     - **Summary:** Parlodel itself has been associated with pleural and pulmonary fibrosis, particularly in patients on long-term and high-dose treatment.
+
+### Conclusion
+Parlodel (bromocriptine mesylate) has been associated with several pulmonary risks, including pleural effusion, pleural fibrosis, pleurisy, pulmonary fibrosis, and dyspnoea. These risks are particularly noted in patients undergoing long-term and high-dose treatment. Discontinuation of the drug may lead to a reversion of these pulmonary changes.",Most,Yes,,,,
+CALFACTANT,"### Summary of Pulmonary Toxicity Risks and Pulmonary Reactions for Infasurf
+
+1. **Warnings Section:**
+   - **Rapid Improvement in Oxygenation and Lung Compliance:**
+     - **Summary:** The administration of Infasurf often rapidly improves oxygenation and lung compliance.
+     - **Association:** This is a positive effect of the drug itself.
+   - **Transient Episodes During Dosing:**
+     - **Summary:** Transient episodes of reflux of Infasurf into the endotracheal tube, cyanosis, bradycardia, or airway obstruction have occurred during dosing procedures.
+     - **Association:** These events are directly associated with the administration of the drug.
+
+2. **Precautions Section:**
+   - **Transient Episodes Observed More Frequently:**
+     - **Summary:** When repeat dosing was given at fixed 12-hour intervals, transient episodes of cyanosis, bradycardia, reflux of surfactant into the endotracheal tube, and airway obstruction were observed more frequently among Infasurf-treated infants.
+     - **Association:** These adverse events are directly associated with the drug itself.
+   - **Increased Proportion of IVH and PVL:**
+     - **Summary:** An increased proportion of patients with both intraventricular hemorrhage (IVH) and periventricular leukomalacia (PVL) was observed in Infasurf-treated infants.
+     - **Association:** These observations are associated with the drug itself, although they were not linked to increased mortality.
+
+3. **Adverse Reactions Section:**
+   - **Common Adverse Reactions:**
+     - **Summary:** The most common adverse reactions associated with Infasurf dosing procedures include cyanosis (65%), airway obstruction (39%), bradycardia (34%), reflux of surfactant into the endotracheal tube (21%), requirement for manual ventilation (16%), and reintubation (3%).
+     - **Association:** These adverse reactions are directly associated with the drug itself.
+   - **Pulmonary Air Leaks and Pulmonary Interstitial Emphysema:**
+     - **Summary:** The incidence of pulmonary air leaks and pulmonary interstitial emphysema was higher in the Exosurf Neonatal® group compared to the Infasurf group.
+     - **Association:** This indicates that Infasurf may have a lower risk of these specific pulmonary complications compared to Exosurf Neonatal®.
+
+4. **Dosing Precautions Section:**
+   - **Adverse Events During Administration:**
+     - **Summary:** During administration, infants often experience bradycardia, reflux of Infasurf into the endotracheal tube, airway obstruction, cyanosis, dislodgement of the endotracheal tube, or hypoventilation.
+     - **Association:** These events are directly associated with the administration of the drug.
+
+### Conclusion
+The drug label for Infasurf indicates several pulmonary risks and reactions directly associated with the drug itself, including transient episodes of cyanosis, bradycardia, airway obstruction, and reflux of the surfactant into the endotracheal tube. Additionally, there is an increased proportion of IVH and PVL observed in Infasurf-treated infants, although these were not linked to increased mortality. The drug also shows a lower incidence of pulmonary air leaks and pulmonary interstitial emphysema compared to Exosurf Neonatal®.",Less,Yes,3,1,,"*i think the conditions listed are frequent and severe, warranting a most"
+CEFDITOREN PIVOXIL,"The drug label for Cefditoren Pivoxil does not explicitly mention pulmonary toxicity risks or pulmonary reactions directly associated with the drug itself. However, it does include general warnings and precautions that could be relevant to pulmonary health. Here is a summary of the relevant sections:
+
+1. **Warnings**:
+   - **Pseudomembranous colitis**: This condition has been reported with nearly all antibacterial agents, including cefditoren pivoxil. It is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents. This is not directly related to pulmonary toxicity but is a general warning about the drug's potential side effects.
+
+2. **Adverse Events**:
+   - **Clinical Trials**: The label lists various adverse events observed in clinical trials, but none are specifically related to pulmonary toxicity or reactions.
+   - **Cephalosporin Class Adverse Reactions**: This section mentions several adverse reactions associated with cephalosporin class antibiotics, including allergic reactions, anaphylaxis, and serum sickness-like reactions, which could potentially involve pulmonary symptoms. However, these are general class effects and not specifically attributed to cefditoren pivoxil.
+
+3. **Postmarketing Experience**:
+   - **Pneumonia Interstitial and Eosinophilic Pneumonia Acute**: These conditions have been reported during postmarketing experience with cefditoren pivoxil. This indicates that the drug has been associated with these specific pulmonary conditions in some cases.
+
+In summary, while the drug label does not provide extensive details on pulmonary toxicity risks directly caused by cefditoren pivoxil, it does mention that interstitial pneumonia and acute eosinophilic pneumonia have been reported during postmarketing experience, suggesting a potential association with these pulmonary conditions.",Less,Yes,1,1,,
+CEFOTETAN,"The provided drug label for CEFOTAN® (Cefotetan for Injection, USP) does not explicitly mention pulmonary toxicity risks or pulmonary reactions. The label covers a wide range of information, including the drug's description, clinical pharmacology, microbiology, indications and usage, contraindications, warnings, precautions, adverse reactions, overdosage, dosage and administration, and how the drug is supplied. However, there is no specific section or mention of pulmonary toxicity or pulmonary reactions associated with the use of cefotetan.
+
+To summarize:
+
+- **Pulmonary toxicity risks and pulmonary reactions**: The drug label does not discuss any pulmonary toxicity risks or pulmonary reactions associated with CEFOTAN® (Cefotetan for Injection, USP).
+
+If you have any other specific concerns or need information on a different aspect of the drug label, please let me know!",No,No,1,1,,
+CRIZANLIZUMAB,"The drug label for ADAKVEO (crizanlizumab-tmca) does not explicitly mention pulmonary toxicity risks or pulmonary reactions directly associated with the drug itself. However, there are some related points that could be indirectly relevant:
+
+1. **Infusion-Related Reactions**:
+   - **Label Text**: ""Monitor for and advise patients of signs and symptoms of infusion-related reactions, which may include... shortness of breath or wheezing.""
+   - **Summary**: Infusion-related reactions, which can include shortness of breath or wheezing, are associated with the drug administration process but not necessarily caused by the drug itself.
+
+2. **Postmarketing Experience**:
+   - **Label Text**: ""In the postmarketing setting, cases of infusion-related reactions, including severe pain events, have been reported, which required hospitalizations. The majority of these infusion-related reactions occurred during the first and second infusions. The management of pain events has included... oxygen therapy.""
+   - **Summary**: Postmarketing reports include infusion-related reactions that sometimes required oxygen therapy, indicating severe reactions but not directly attributing pulmonary toxicity to the drug itself.
+
+3. **Patient Counseling Information**:
+   - **Label Text**: ""Tell your healthcare provider right away if you get any of the following signs or symptoms of an infusion-related reaction:... shortness of breath or wheezing.""
+   - **Summary**: Patients are advised to report symptoms like shortness of breath or wheezing during infusion-related reactions, which are associated with the drug administration process but not directly caused by the drug itself.
+
+4. **Clinical Studies**:
+   - **Label Text**: ""Patients recruited in the study had complications associated with sickle cell disease and other comorbidities, including a history of acute chest syndrome (18%); pulmonary hypertension (8%)...""
+   - **Summary**: The clinical study included patients with pre-existing pulmonary conditions like acute chest syndrome and pulmonary hypertension, but these conditions are not caused by the drug itself.
+
+In summary, while the drug label mentions pulmonary-related symptoms and conditions in the context of infusion-related reactions and patient comorbidities, it does not directly attribute pulmonary toxicity or reactions to ADAKVEO itself.",Less,No,1,1,,
+DEFIBROTIDE SODIUM,"### Summary of Pulmonary Toxicity Risks and Pulmonary Reactions for DEFITELIO
+
+1. **Indications and Usage**:
+   - DEFITELIO is indicated for the treatment of hepatic veno-occlusive disease (VOD) with renal or pulmonary dysfunction following hematopoietic stem-cell transplantation (HSCT). 
+   - **Association**: The drug is used in patients who already have pulmonary dysfunction as part of their condition.
+
+2. **Warnings and Precautions**:
+   - No specific warnings or precautions directly mention pulmonary toxicity risks or reactions caused by DEFITELIO.
+
+3. **Adverse Reactions**:
+   - **Pulmonary Alveolar Hemorrhage**: Reported in 7% of patients as a serious adverse reaction.
+     - **Association**: This reaction was observed in patients treated with DEFITELIO.
+   - **Pulmonary Hemorrhage**: Reported in 4% of patients, with 2% being Grade 4-5 severity.
+     - **Association**: This reaction was observed in patients treated with DEFITELIO.
+   - **Lung Infiltration**: Reported in 6% of patients, with 3% being Grade 4-5 severity.
+     - **Association**: This reaction was observed in patients treated with DEFITELIO.
+   - **Pneumonia**: Reported in 5% of patients, with 3% being Grade 4-5 severity.
+     - **Association**: This reaction was observed in patients treated with DEFITELIO.
+
+4. **Clinical Trials Experience**:
+   - **Pulmonary Alveolar Hemorrhage**: Led to permanent discontinuation in 5% of patients.
+     - **Association**: This reaction was observed in patients treated with DEFITELIO.
+   - **Pulmonary Hemorrhage**: Led to permanent discontinuation in 3% of patients.
+     - **Association**: This reaction was observed in patients treated with DEFITELIO.
+
+5. **Clinical Studies**:
+   - **Study 1**: Included patients with multi-organ dysfunction, including pulmonary dysfunction.
+     - **Association**: The study involved patients with pre-existing pulmonary dysfunction, not necessarily caused by DEFITELIO.
+   - **Study 2**: Included patients with hepatic VOD and multi-organ dysfunction, including pulmonary dysfunction.
+     - **Association**: The study involved patients with pre-existing pulmonary dysfunction, not necessarily caused by DEFITELIO.
+   - **Study 3**: Evaluated patients with hepatic VOD and renal or pulmonary dysfunction.
+     - **Association**: The study involved patients with pre-existing pulmonary dysfunction, not necessarily caused by DEFITELIO.
+
+### Conclusion
+DEFITELIO is associated with several pulmonary adverse reactions, including pulmonary alveolar hemorrhage, pulmonary hemorrhage, lung infiltration, and pneumonia. These reactions were observed in patients treated with DEFITELIO, indicating a potential risk linked to the drug. However, the drug is also used in patients who already have pulmonary dysfunction as part of their condition, which complicates the direct attribution of these reactions solely to the drug.",Most,Yes,1,1,,
+DEMECLOCYCLINE HYDROCHLORIDE,"The drug label for Demeclocycline Hydrochloride Tablets, USP, mentions pulmonary toxicity risks and pulmonary reactions in the following sections:
+
+1. **Warnings Section:**
+   - ""Pulmonary infiltrates with eosinophilia"" is listed under hypersensitivity reactions. 
+     - **Summary:** This sentence indicates that the drug itself has been associated with pulmonary infiltrates with eosinophilia as a hypersensitivity reaction.
+
+2. **Adverse Reactions Section:**
+   - ""Pulmonary infiltrates with eosinophilia"" is again mentioned under hypersensitivity reactions.
+     - **Summary:** This sentence reiterates that the drug itself has been associated with pulmonary infiltrates with eosinophilia as a hypersensitivity reaction.
+
+In summary, the drug label indicates that Demeclocycline Hydrochloride itself has been associated with pulmonary infiltrates with eosinophilia as a hypersensitivity reaction.",Less,Yes,1,1,,
+DOXAZOSIN MESYLATE,"The drug label for CARDURA XL (doxazosin) does not explicitly mention pulmonary toxicity risks or pulmonary reactions as a primary concern. However, there are a few references to respiratory-related adverse events and conditions:
+
+1. **Adverse Reactions (6.1 Clinical Trials Experience)**:
+   - ""Dyspnea"" (difficulty breathing) was reported in 1.2% of patients treated with CARDURA XL. This indicates that dyspnea was observed in clinical trials, but it does not explicitly state that CARDURA XL caused this condition.
+
+2. **Adverse Reactions (6.2 Postmarketing Experience)**:
+   - ""Bronchospasm aggravated"" was listed as an adverse event identified during post-approval use of doxazosin. This suggests that there have been reports of aggravated bronchospasm in patients taking doxazosin, but it does not confirm a direct causal relationship with CARDURA XL.
+
+In summary, the drug label mentions dyspnea and aggravated bronchospasm as observed adverse events, but it does not provide conclusive evidence that CARDURA XL directly causes these pulmonary conditions.",Less,No,1,1,,
+DRONABINOL,"The provided drug label for SYNDROS (dronabinol) does not explicitly mention pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on neuropsychiatric adverse reactions, hemodynamic instability, interactions with disulfiram and metronidazole, seizures, substance abuse, paradoxical nausea, vomiting, abdominal pain, and toxicity in preterm neonates. 
+
+Here is a summary of the relevant sections that might indirectly relate to pulmonary concerns, though they do not explicitly mention pulmonary toxicity:
+
+1. **Neuropsychiatric Adverse Reactions**:
+   - The drug itself is associated with psychiatric and cognitive effects, which can impair mental and/or physical abilities.
+
+2. **Hemodynamic Instability**:
+   - The drug itself may cause hypotension, hypertension, syncope, or tachycardia, which are cardiovascular effects but not directly related to pulmonary toxicity.
+
+3. **Seizures**:
+   - The drug itself may increase the risk of seizures, which is a neurological effect and not directly related to pulmonary toxicity.
+
+4. **Multiple Substance Abuse**:
+   - The drug itself may be more likely to be abused by patients with a history of substance abuse, which could indirectly affect overall health but is not directly related to pulmonary toxicity.
+
+5. **Paradoxical Nausea, Vomiting, or Abdominal Pain**:
+   - The drug itself may cause new or worsening nausea, vomiting, or abdominal pain, which are gastrointestinal effects and not directly related to pulmonary toxicity.
+
+6. **Toxicity in Preterm Neonates**:
+   - The drug itself contains excipients like dehydrated alcohol and propylene glycol, which may lead to various toxicities in preterm neonates, including CNS depression and cardiac arrhythmias, but not explicitly pulmonary toxicity.
+
+In conclusion, the drug label for SYNDROS does not provide specific information or warnings about pulmonary toxicity risks or pulmonary reactions directly associated with the drug.",No,No,1,1,,
+ERYTHROMYCIN ETHYLSUCCINATE,"The drug label for ERY-PED (erythromycin ethylsuccinate) does not explicitly mention pulmonary toxicity risks or pulmonary reactions directly associated with the drug itself. However, it does discuss several other risks and reactions related to its use. Here is a summary of the relevant sections:
+
+1. **Warnings - QT Prolongation**:
+   - **Summary**: Erythromycin has been associated with prolongation of the QT interval and infrequent cases of arrhythmia, including torsades de pointes, which can be fatal.
+   - **Association**: The drug itself is associated with this risk.
+
+2. **Warnings - Clostridium difficile Associated Diarrhea (CDAD)**:
+   - **Summary**: CDAD has been reported with nearly all antibacterial agents, including Ery-Ped, and may range from mild diarrhea to fatal colitis.
+   - **Association**: The drug itself is associated with this risk.
+
+3. **Precautions - General**:
+   - **Summary**: Prolonged or repeated use of erythromycin may result in an overgrowth of nonsusceptible bacteria or fungi, leading to superinfection.
+   - **Association**: The drug itself is associated with this risk.
+
+4. **Adverse Reactions**:
+   - **Summary**: The most frequent side effects are gastrointestinal, including nausea, vomiting, abdominal pain, diarrhea, and anorexia. There have been reports of hepatitis, hepatic dysfunction, and abnormal liver function test results.
+   - **Association**: The drug itself is associated with these risks.
+
+5. **Adverse Reactions - QT Prolongation and Ventricular Arrhythmias**:
+   - **Summary**: Erythromycin has been associated with QT prolongation and ventricular arrhythmias, including ventricular tachycardia and torsades de pointes.
+   - **Association**: The drug itself is associated with this risk.
+
+6. **Adverse Reactions - Allergic Reactions**:
+   - **Summary**: Allergic reactions ranging from urticaria to anaphylaxis have occurred. Skin reactions ranging from mild eruptions to severe conditions like Stevens-Johnson syndrome and toxic epidermal necrolysis have been reported rarely.
+   - **Association**: The drug itself is associated with these risks.
+
+7. **Adverse Reactions - Hearing Loss**:
+   - **Summary**: There have been isolated reports of reversible hearing loss, chiefly in patients with renal insufficiency and those receiving high doses of erythromycin.
+   - **Association**: The drug itself is associated with this risk.
+
+8. **Adverse Reactions - Other**:
+   - **Summary**: There have been rare reports of pancreatitis and convulsions.
+   - **Association**: The drug itself is associated with these risks.
+
+9. **Drug Interactions**:
+   - **Summary**: Serious adverse reactions have been reported in patients taking erythromycin concomitantly with CYP3A4 substrates, including colchicine toxicity, rhabdomyolysis, and hypotension with calcium channel blockers.
+   - **Association**: The drug itself is associated with these risks when taken with other medications.
+
+In summary, the drug label does not specifically mention pulmonary toxicity or pulmonary reactions directly caused by erythromycin ethylsuccinate. The primary concerns highlighted are related to QT prolongation, gastrointestinal issues, allergic reactions, and interactions with other drugs.",No,No,1,1,,
+FERRIC CITRATE,"The provided drug label for AURYXIA (ferric citrate) does not explicitly mention any pulmonary toxicity risks or pulmonary reactions associated with the drug. The sections of the label that discuss adverse reactions, warnings, and precautions do not include any information about pulmonary toxicity or pulmonary reactions. 
+
+Here is a summary of the relevant sections that were reviewed for pulmonary toxicity risks and reactions:
+
+1. **Adverse Reactions (Section 6.1)**:
+   - The most common adverse reactions listed include discolored feces, diarrhea, constipation, nausea, vomiting, cough, abdominal pain, and hyperkalemia. 
+   - **Summary**: The drug label mentions ""cough"" as an adverse reaction, but it does not specify that AURYXIA itself causes pulmonary toxicity or other pulmonary reactions.
+
+2. **Warnings and Precautions (Section 5)**:
+   - The warnings and precautions focus on iron overload and the risk of overdosage in children due to accidental ingestion.
+   - **Summary**: There is no mention of pulmonary toxicity or pulmonary reactions caused by AURYXIA in this section.
+
+3. **Clinical Trials Experience (Section 6.1)**:
+   - This section provides detailed information on adverse reactions observed during clinical trials, including gastrointestinal issues and hyperkalemia.
+   - **Summary**: Pulmonary toxicity or pulmonary reactions are not discussed as being associated with AURYXIA in the clinical trials experience.
+
+4. **Drug Interactions (Section 7)**:
+   - This section discusses potential interactions with other drugs but does not mention any pulmonary toxicity or reactions.
+   - **Summary**: No pulmonary toxicity or reactions are associated with AURYXIA in the context of drug interactions.
+
+5. **Use in Specific Populations (Section 8)**:
+   - This section addresses the use of AURYXIA in pregnant women, lactating women, pediatric patients, and geriatric patients, but does not mention pulmonary toxicity or reactions.
+   - **Summary**: There is no mention of pulmonary toxicity or reactions associated with AURYXIA in specific populations.
+
+6. **Overdosage (Section 10)**:
+   - This section discusses the potential for iron overload due to overdosage but does not mention pulmonary toxicity or reactions.
+   - **Summary**: Pulmonary toxicity or reactions are not associated with overdosage of AURYXIA.
+
+In conclusion, the drug label for AURYXIA does not provide any information indicating that the drug is associated with or causes pulmonary toxicity or pulmonary reactions. The only related mention is ""cough"" as a common adverse reaction, but it is not specified as a pulmonary toxicity or reaction directly caused by the drug.",No,No,1,1,,
+FRUQUINTINIB,"The drug label for FRUZAQLA (fruquintinib) does not explicitly mention pulmonary toxicity risks or pulmonary reactions as a direct effect of the drug. However, it does discuss infections, which can include respiratory infections. Here is a summary of the relevant sections:
+
+1. **Infections**:
+   - **Label Text**: ""FRUZAQLA can cause an increased risk of infections, including fatal infections. In 781 patients treated with FRUZAQLA across three randomized, placebo-controlled trials, the overall incidence of infections was higher (18% vs. 12%) including for fatal infections (1% vs. 0.3%) as compared to the placebo arms (n=391).""
+   - **Summary**: The drug FRUZAQLA is associated with an increased risk of infections, including fatal infections.
+
+   - **Label Text**: ""In 911 patients with mCRC treated with FRUZAQLA, the most common infections were urinary tract infections (6.8%), upper respiratory tract infections (3.2%) and pneumonia (2.5%); fatal infections included pneumonia (0.4%), sepsis (0.2%), bacterial infection (0.1%), lower respiratory tract infection (0.1%), and septic shock (0.1%).""
+   - **Summary**: The drug FRUZAQLA is associated with upper respiratory tract infections (3.2%) and pneumonia (2.5%), including fatal pneumonia (0.4%) and lower respiratory tract infections (0.1%).
+
+2. **Adverse Reactions**:
+   - **Label Text**: ""Other important adverse reactions (all grades) that occurred in <10% of patients treated with FRUZAQLA included urinary tract infection (4.6%), epistaxis (3.9%), proctalgia (3.5%), pneumonia (2.4%), gastrointestinal hemorrhage (1.5%), gastrointestinal perforation (1.3%), thrombotic microangiopathy (0.2%), and posterior reversible encephalopathy syndrome (0.2%).""
+   - **Summary**: The drug FRUZAQLA is associated with pneumonia (2.4%).
+
+3. **Patient Information**:
+   - **Label Text**: ""The most common infections with FRUZAQLA happened in the urinary tract, nose or throat, and lungs. Tell your healthcare provider if you get any of the following symptoms of infection during treatment: fever, severe cough with or without an increase in mucus (sputum) production, severe sore throat, trouble breathing, burning or pain when you urinate, redness, swelling or pain in any part of the body.""
+   - **Summary**: The drug FRUZAQLA is associated with infections in the nose, throat, and lungs, including symptoms like severe cough and trouble breathing.
+
+In summary, while the drug label does not explicitly state that FRUZAQLA causes pulmonary toxicity, it does indicate that the drug is associated with an increased risk of respiratory infections, including upper respiratory tract infections, pneumonia, and lower respiratory tract infections.",Less,No,1,1,,
+KIT FOR THE PREPARATION OF TECHNETIUM TC 99M MEBROFENIN,"The drug label for the Kit for the Preparation of Technetium Tc 99m Mebrofenin does not specifically mention any pulmonary toxicity risks or pulmonary reactions. The sections of the label that discuss adverse reactions, contraindications, warnings, and precautions do not include any information about pulmonary toxicity or pulmonary reactions associated with the drug. 
+
+Here is a summary of the relevant sections:
+
+1. **Adverse Reactions**:
+   - Urticaria and rash have been rarely reported with the use of Technetium Tc 99m Mebrofenin since market introduction. 
+     - **Summary**: No mention of pulmonary reactions.
+   - Rare cases of chills and nausea have been reported with related compounds.
+     - **Summary**: No mention of pulmonary reactions.
+   - Infrequently, death has been reported in association with the use of this class of agents.
+     - **Summary**: No specific mention of pulmonary reactions or pulmonary toxicity.
+
+2. **Contraindications**:
+   - Hypersensitivity to this compound.
+     - **Summary**: No mention of pulmonary reactions.
+
+3. **Warnings**:
+   - The theoretical possibility of allergic reactions should be considered in patients who receive multiple doses.
+     - **Summary**: No mention of pulmonary reactions.
+
+4. **Precautions**:
+   - General precautions about the use of the drug, including the need for aseptic procedures and minimizing radiation exposure.
+     - **Summary**: No mention of pulmonary reactions.
+
+In conclusion, the drug label does not associate Technetium Tc 99m Mebrofenin with any pulmonary toxicity risks or pulmonary reactions.",No,No,1,1,,
+LANADELUMAB-FLYO,"The drug label for TAKHZYRO® (lanadelumab-flyo) does not mention any pulmonary toxicity risks or pulmonary reactions. The sections of the label that discuss adverse reactions, warnings, and precautions do not include any information about pulmonary issues. Therefore, there is no evidence or indication in the provided drug label that TAKHZYRO itself is associated with or causes pulmonary toxicity risks or pulmonary reactions.",No,No,1,1,,
+LINACLOTIDE,"The provided drug label for LINZESS (linaclotide) does not mention any pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on gastrointestinal effects, such as diarrhea, abdominal pain, and flatulence, as well as the risk of serious dehydration in pediatric patients less than 2 years of age. There are no sections or sentences in the label that discuss pulmonary toxicity risks or pulmonary reactions associated with LINZESS.",No,No,1,1,,
+LOSARTAN POTASSIUM,"The drug label for COZAAR (losartan potassium) does not explicitly mention pulmonary toxicity risks or pulmonary reactions. However, it does list some respiratory-related adverse reactions and conditions. Here is a summary of the relevant parts:
+
+1. **Adverse Reactions (6.1 Clinical Trials Experience)**:
+   - **Upper Respiratory Infection**: The label states that upper respiratory infection occurred in 8% of patients treated with COZAAR compared to 7% in the placebo group. This indicates an association with the drug but does not confirm causation.
+   - **Nasal Congestion**: Nasal congestion occurred in 2% of patients treated with COZAAR compared to 1% in the placebo group. This suggests an association with the drug but does not confirm causation.
+   - **Dyspnea**: Dyspnea (difficulty breathing) is listed as a less common adverse reaction. This indicates an association with the drug but does not confirm causation.
+
+2. **Postmarketing Experience (6.2)**:
+   - **Cough**: Cases of cough, including positive re-challenges, have been reported with the use of losartan in postmarketing experience. This suggests an association with the drug but does not confirm causation.
+
+3. **Patient Information**:
+   - **""Colds"" (Upper Respiratory Infection)**: The most common side effects of COZAAR in people with high blood pressure include ""colds"" (upper respiratory infection). This indicates an association with the drug but does not confirm causation.
+
+In summary, the drug label mentions upper respiratory infections, nasal congestion, dyspnea, and cough as adverse reactions associated with COZAAR. However, it does not explicitly state that the drug causes pulmonary toxicity or pulmonary reactions. The association is noted based on clinical trials and postmarketing experience, but causation is not definitively established.",Less,No,1,1,,
+MARALIXIBAT CHLORIDE,"The drug label for LIVMARLI (maralixibat) does not mention any pulmonary toxicity risks or pulmonary reactions. The provided document focuses on other aspects such as hepatotoxicity, gastrointestinal adverse reactions, fat-soluble vitamin deficiency, and other specific adverse reactions and warnings. There is no information indicating that LIVMARLI is associated with or causes pulmonary toxicity or pulmonary reactions.",No,No,1,1,,
+MARIBAVIR,"The provided drug label for LIVTENCITY (maribavir) does not explicitly mention pulmonary toxicity risks or pulmonary reactions. The sections of the label that discuss adverse reactions, warnings, and precautions do not include any information about pulmonary toxicity or pulmonary reactions associated with the drug. 
+
+Here is a summary of the relevant sections that typically would include such information if it were present:
+
+1. **Warnings and Precautions**:
+   - This section discusses risks such as reduced antiviral activity when coadministered with ganciclovir and valganciclovir, virologic failure during and after treatment, and potential significant drug interactions. There is no mention of pulmonary toxicity or reactions.
+
+2. **Adverse Reactions**:
+   - The most common adverse events listed are taste disturbance, nausea, diarrhea, vomiting, and fatigue. Pulmonary toxicity or reactions are not mentioned.
+
+3. **Clinical Trials Experience**:
+   - This section provides detailed information on adverse events observed during clinical trials, but it does not report any pulmonary toxicity or reactions associated with LIVTENCITY.
+
+4. **Use in Specific Populations**:
+   - This section discusses the use of the drug in various populations, including pregnant women, lactating women, pediatric and geriatric patients, and those with impaired renal or hepatic function. There is no mention of pulmonary toxicity or reactions.
+
+5. **Nonclinical Toxicology**:
+   - This section includes information on carcinogenesis, mutagenesis, and impairment of fertility, but does not mention pulmonary toxicity or reactions.
+
+6. **Clinical Studies**:
+   - This section describes the clinical studies conducted to evaluate the efficacy and safety of LIVTENCITY. There is no mention of pulmonary toxicity or reactions.
+
+In summary, the drug label for LIVTENCITY does not associate the drug with pulmonary toxicity risks or pulmonary reactions. If such risks were present, they would typically be included in the sections mentioned above.",No,No,1,1,,
+MECAMYLAMINE HYDROCHLORIDE,"The drug label for Vecamyl® (Mecamylamine Hydrochloride Tablets, USP) mentions pulmonary toxicity risks and pulmonary reactions in the following sections:
+
+1. **Warnings Section**:
+   - **Sentence**: ""Tremor, choreiform movements, mental aberrations, and convulsions may occur rarely.""
+   - **Summary**: This sentence does not discuss pulmonary risks.
+
+2. **Adverse Reactions Section**:
+   - **Sentence**: ""Respiratory: Interstitial pulmonary edema and fibrosis.""
+   - **Summary**: This sentence states that the drug itself (Mecamylamine HCl) is associated with interstitial pulmonary edema and fibrosis as adverse reactions.
+
+3. **Overdosage Section**:
+   - **Sentence**: ""Signs of overdosage include: hypotension (which may progress to peripheral vascular collapse), postural hypotension, nausea, vomiting, diarrhea, constipation, paralytic ileus, urinary retention, dizziness, anxiety, dry mouth, mydriasis, blurred vision, or palpitations. A rise in intraocular pressure may occur.""
+   - **Summary**: This sentence does not discuss pulmonary risks.
+
+In summary, the drug label specifically associates Mecamylamine HCl with interstitial pulmonary edema and fibrosis as potential adverse reactions.",Most,Yes,1,1,,
+METOPROLOL,"The drug label for Metoprolol Tartrate tablets includes several sections that discuss pulmonary toxicity risks and pulmonary reactions. Here is a summary of those parts:
+
+1. **Warnings and Precautions (5.3 Bronchospastic Disease)**:
+   - **Sentence**: ""Patients with bronchospastic disease, should in general, not receive beta-blockers, including metoprolol tartrate.""
+   - **Summary**: The drug itself is associated with pulmonary risk, as it is generally not recommended for patients with bronchospastic disease.
+   - **Sentence**: ""Because of its relative beta1 cardio-selectivity, however, metoprolol tartrate may be used in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment.""
+   - **Summary**: The drug itself may be cautiously used in certain patients with bronchospastic disease if other treatments are not suitable.
+   - **Sentence**: ""Because beta1-selectivity is not absolute, use the lowest possible dose of metoprolol tartrate.""
+   - **Summary**: The drug itself is associated with pulmonary risk, necessitating the use of the lowest possible dose.
+   - **Sentence**: ""Bronchodilators, including beta2-agonists, should be readily available or administered concomitantly.""
+   - **Summary**: The drug itself is associated with pulmonary risk, requiring the availability or concomitant use of bronchodilators.
+
+2. **Adverse Reactions (6.1 Clinical Trials Experience)**:
+   - **Sentence**: ""Wheezing (bronchospasm) and dyspnea have been reported in about 1% of patients.""
+   - **Summary**: The drug itself caused pulmonary reactions, specifically wheezing and dyspnea, in about 1% of patients.
+   - **Sentence**: ""Rhinitis has also been reported.""
+   - **Summary**: The drug itself caused pulmonary reactions, specifically rhinitis.
+
+3. **Adverse Reactions (6.2 Post-Marketing Experience)**:
+   - **Sentence**: ""Hypersensitive Reactions: Laryngospasm and respiratory distress.""
+   - **Summary**: The drug itself caused pulmonary reactions, specifically laryngospasm and respiratory distress, as part of hypersensitive reactions.
+
+4. **Overdosage (10)**:
+   - **Sentence**: ""Signs and Symptoms – Overdosage of metoprolol tartrate may lead to severe bradycardia, hypotension, and cardiogenic shock. Clinical presentation can also include: atrioventricular block, heart failure, bronchospasm, hypoxia, impairment of consciousness/coma, nausea and vomiting.""
+   - **Summary**: The drug itself is associated with pulmonary risk in the case of overdosage, which can include bronchospasm and hypoxia.
+
+In summary, Metoprolol Tartrate is associated with several pulmonary risks and reactions, including bronchospasm, dyspnea, rhinitis, laryngospasm, and respiratory distress. These risks are particularly noted in patients with bronchospastic disease and in cases of drug overdosage.",Most,Yes,1,1,,
+NALOXONE HCL,"The drug label for KLOXXADO (naloxone hydrochloride) discusses pulmonary toxicity risks and pulmonary reactions in the following sections:
+
+1. **Warnings and Precautions (Section 5.3)**:
+   - **Sentence**: ""Abrupt postoperative reversal of opioid depression after using naloxone hydrochloride may result in nausea, vomiting, sweating, tremulousness, tachycardia, hypotension, hypertension, seizures, ventricular tachycardia and fibrillation, pulmonary edema, and cardiac arrest.""
+     - **Summary**: The drug (naloxone hydrochloride) may cause pulmonary edema as a result of abrupt postoperative reversal of opioid depression.
+   - **Sentence**: ""Death, coma, and encephalopathy have been reported as sequelae of these events.""
+     - **Summary**: The drug (naloxone hydrochloride) has been associated with severe outcomes, including death, coma, and encephalopathy, following the adverse events mentioned, which include pulmonary edema.
+   - **Sentence**: ""These events have primarily occurred in patients who had pre-existing cardiovascular disorders or received other drugs that may have similar adverse cardiovascular effects.""
+     - **Summary**: The pulmonary risk (pulmonary edema) associated with the drug (naloxone hydrochloride) primarily occurs in patients with pre-existing cardiovascular disorders or those on other drugs with similar adverse effects.
+   - **Sentence**: ""Monitor patients with pre-existing cardiac disease or patients who have received medications with potential adverse cardiovascular effects for hypotension, ventricular tachycardia or fibrillation, and pulmonary edema in an appropriate healthcare setting.""
+     - **Summary**: The drug (naloxone hydrochloride) requires monitoring for pulmonary edema in patients with pre-existing cardiac disease or those on medications with potential adverse cardiovascular effects.
+   - **Sentence**: ""It has been suggested that the pathogenesis of pulmonary edema associated with the use of naloxone hydrochloride is similar to neurogenic pulmonary edema, i.e., a centrally mediated massive catecholamine response leading to a dramatic shift of blood volume into the pulmonary vascular bed resulting in increased hydrostatic pressures.""
+     - **Summary**: The drug (naloxone hydrochloride) may cause pulmonary edema through a mechanism similar to neurogenic pulmonary edema, involving a massive catecholamine response and increased hydrostatic pressures.
+
+2. **Adverse Reactions (Section 6.2)**:
+   - **Sentence**: ""The following adverse events have been identified during the post-approval use of naloxone hydrochloride injection in the postoperative setting. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: hypotension, hypertension, ventricular tachycardia and fibrillation, dyspnea, pulmonary edema, and cardiac arrest.""
+     - **Summary**: The drug (naloxone hydrochloride) has been associated with pulmonary edema in post-approval use, although the frequency and causal relationship are uncertain due to voluntary reporting.
+
+In summary, the drug label indicates that naloxone hydrochloride (KLOXXADO) may cause pulmonary edema, particularly in patients with pre-existing cardiovascular conditions or those on other medications with similar adverse effects. The mechanism suggested involves a massive catecholamine response leading to increased hydrostatic pressures in the pulmonary vascular bed.",Most,Yes,1,1,,
+NERATINIB,"Based on the provided drug label for NERLYNX (neratinib), there are no specific sections or sentences that discuss pulmonary toxicity risks or pulmonary reactions associated with this drug. The label primarily focuses on other adverse reactions, such as diarrhea, hepatotoxicity, and embryo-fetal toxicity, but does not mention any pulmonary toxicity or reactions. Therefore, it can be concluded that the drug label does not associate NERLYNX with pulmonary toxicity risks or pulmonary reactions.",No,No,1,1,,
+OMEPRAZOLE MAGNESIUM,"The drug label for PRILOSEC (omeprazole magnesium) mentions pulmonary toxicity risks and pulmonary reactions in the following sections:
+
+1. **Adverse Reactions (Section 6.1 - Clinical Trials Experience with PRILOSEC)**
+   - ""The clinical trial safety profile in pediatric patients who received omeprazole magnesium delayed-release capsules was similar to that in adult patients. Unique to the pediatric population, however, adverse reactions of the respiratory system were frequently reported in the 1 month to <1 year age group, the 1 to <2 year age group, and the 2 to 16 year age group (42%, 75%, and 19%, respectively).""
+     - **Summary**: The drug itself was associated with frequent respiratory system adverse reactions in pediatric patients.
+
+2. **Adverse Reactions (Section 6.3 - Postmarketing Experience)**
+   - ""Respiratory: Epistaxis, pharyngeal pain.""
+     - **Summary**: The drug itself was associated with epistaxis (nosebleeds) and pharyngeal pain as reported in postmarketing experience.
+
+3. **Use in Specific Populations (Section 8.4 - Pediatric Use)**
+   - ""In the pediatric population, adverse reactions of the respiratory system were frequently reported in the entire (1 month to 16 year) age group.""
+     - **Summary**: The drug itself was associated with frequent respiratory system adverse reactions in the pediatric population.
+
+These sections indicate that PRILOSEC has been associated with respiratory system adverse reactions, particularly in pediatric patients, and has been reported to cause epistaxis and pharyngeal pain in postmarketing experience.",Most,Yes,3,3,,*used in adults and not typically associated with pulm fibrosis 
+PALIVIZUMAB,"The drug label for SYNAGIS (palivizumab) does not explicitly mention pulmonary toxicity risks or pulmonary reactions directly associated with the drug itself. However, it does provide information on the drug's use, administration, and potential adverse reactions. Here is a summary of the relevant sections:
+
+1. **Indications and Usage**:
+   - SYNAGIS is indicated for the prevention of serious lower respiratory tract disease caused by respiratory syncytial virus (RSV) in pediatric patients with a history of premature birth, bronchopulmonary dysplasia (BPD), or hemodynamically significant congenital heart disease (CHD). 
+   - **Summary**: The drug is used to prevent serious lower respiratory tract disease caused by RSV, but it does not state that the drug itself causes pulmonary toxicity.
+
+2. **Warnings and Precautions**:
+   - **Hypersensitivity Reactions**: Anaphylaxis and anaphylactic shock, including fatal cases, have been reported. Other severe acute hypersensitivity reactions have also been reported.
+   - **Summary**: Severe hypersensitivity reactions, including respiratory failure, have been reported, but these are not specifically described as pulmonary toxicity caused by the drug.
+
+3. **Adverse Reactions**:
+   - **Clinical Studies Experience**: Fever and rash were reported more frequently among SYNAGIS recipients compared to placebo.
+   - **Summary**: No specific mention of pulmonary toxicity or reactions directly caused by the drug.
+
+4. **Postmarketing Experience**:
+   - **Summary**: Severe thrombocytopenia and injection site reactions are mentioned, but no specific pulmonary toxicity or reactions are noted.
+
+5. **Clinical Pharmacology**:
+   - **Mechanism of Action**: Palivizumab acts by binding the RSV envelope fusion protein and blocking a critical step in the membrane fusion process, preventing cell-to-cell fusion of RSV-infected cells.
+   - **Summary**: The mechanism of action is described, but there is no mention of pulmonary toxicity caused by the drug.
+
+6. **Clinical Studies**:
+   - **Summary**: The clinical studies do not suggest that RSV infection was less severe among children hospitalized with RSV infection who received SYNAGIS compared to those who received placebo. This implies that the drug did not exacerbate pulmonary conditions.
+
+In conclusion, the drug label for SYNAGIS does not provide specific information indicating that the drug itself is associated with or causes pulmonary toxicity or pulmonary reactions. The primary focus is on its use for preventing serious lower respiratory tract disease caused by RSV and the potential for severe hypersensitivity reactions.",No,No,1,1,,
+PHENTERMINE HYDROCHLORIDE,"### Summary of Pulmonary Toxicity Risks and Pulmonary Reactions for Phentermine Hydrochloride Tablets
+
+1. **Primary Pulmonary Hypertension (PPH)**
+   - **Sentence:** ""Primary Pulmonary Hypertension (PPH) – a rare, frequently fatal disease of the lungs – has been reported to occur in patients receiving a combination of phentermine with fenfluramine or dexfenfluramine.""
+     - **Summary:** PPH has been reported in patients using phentermine in combination with fenfluramine or dexfenfluramine. The drug itself was associated with this risk when used in combination with other drugs.
+   - **Sentence:** ""The possibility of an association between PPH and the use of phentermine alone cannot be ruled out; there have been rare cases of PPH in patients who reportedly have taken phentermine alone.""
+     - **Summary:** There have been rare cases of PPH in patients taking phentermine alone, indicating a potential association with the drug itself.
+   - **Sentence:** ""The initial symptom of PPH is usually dyspnea.""
+     - **Summary:** Dyspnea is a symptom of PPH, which may be associated with phentermine use.
+   - **Sentence:** ""Other initial symptoms may include angina pectoris, syncope or lower extremity edema.""
+     - **Summary:** Symptoms such as angina pectoris, syncope, or lower extremity edema may indicate PPH, potentially associated with phentermine use.
+   - **Sentence:** ""Patients should be advised to report immediately any deterioration in exercise tolerance.""
+     - **Summary:** Patients are advised to report any deterioration in exercise tolerance, which may be related to PPH potentially associated with phentermine.
+   - **Sentence:** ""Treatment should be discontinued in patients who develop new, unexplained symptoms of dyspnea, angina pectoris, syncope or lower extremity edema, and patients should be evaluated for the possible presence of pulmonary hypertension.""
+     - **Summary:** Phentermine treatment should be discontinued if patients develop symptoms indicative of PPH, suggesting a potential association with the drug.
+
+2. **Adverse Reactions**
+   - **Sentence:** ""Primary pulmonary hypertension and/or regurgitant cardiac valvular disease, palpitation, tachycardia, elevation of blood pressure, ischemic events.""
+     - **Summary:** PPH is listed as an adverse reaction, indicating it may be associated with phentermine use.
+
+### Conclusion
+Phentermine Hydrochloride Tablets have been associated with the risk of primary pulmonary hypertension (PPH), particularly when used in combination with fenfluramine or dexfenfluramine. There have also been rare cases of PPH reported in patients taking phentermine alone, suggesting a potential association with the drug itself. Symptoms such as dyspnea, angina pectoris, syncope, and lower extremity edema may indicate PPH, and patients are advised to report these symptoms immediately. Treatment should be discontinued if these symptoms develop, and patients should be evaluated for pulmonary hypertension.",Most,Yes,1,1,,
+PHENYLEPHRINE HCI,"### Summary of Pulmonary Toxicity Risks and Pulmonary Reactions for Phenylephrine Hydrochloride Injection
+
+1. **Warnings and Precautions (Section 5.1)**
+   - **Pulmonary Arterial Hypertension**: The drug can exacerbate underlying pulmonary arterial hypertension due to its pressor effects. **(Drug-associated risk)**
+
+2. **Adverse Reactions (Section 6)**
+   - **Pulmonary Edema**: The drug has been associated with pulmonary edema. **(Drug-associated reaction)**
+   - **Rales**: The drug has been associated with rales, which are abnormal lung sounds indicative of fluid in the lungs. **(Drug-associated reaction)**
+
+3. **Patient Counseling Information (Section 17)**
+   - **Pulmonary Edema or Rales**: Patients may experience pulmonary edema or rales as a side effect of the drug. **(Drug-associated reaction)**
+
+### Detailed Summary
+
+1. **Warnings and Precautions (Section 5.1)**
+   - **Pulmonary Arterial Hypertension**: ""Because of its pressor effects, phenylephrine hydrochloride can... increase pulmonary arterial pressure."" This indicates that the drug itself can exacerbate pulmonary arterial hypertension due to its mechanism of action as a pressor agent.
+
+2. **Adverse Reactions (Section 6)**
+   - **Pulmonary Edema**: ""Pulmonary edema"" is listed as an adverse reaction associated with the use of phenylephrine hydrochloride. This suggests that the drug can cause or is linked to the development of pulmonary edema.
+   - **Rales**: ""Rales"" are also listed as an adverse reaction. This indicates that the drug can cause or is linked to the presence of rales, which are abnormal lung sounds often associated with fluid accumulation in the lungs.
+
+3. **Patient Counseling Information (Section 17)**
+   - **Pulmonary Edema or Rales**: ""Patients may experience... pulmonary edema (fluid in the lungs) or rales."" This statement informs patients that the drug can cause these pulmonary reactions, reinforcing the association between the drug and these conditions.
+
+In summary, phenylephrine hydrochloride is associated with pulmonary arterial hypertension, pulmonary edema, and rales, indicating that the drug itself can cause or exacerbate these pulmonary conditions.",Most,Yes,2,2,,*not what you classically think of with pulm toxicity 
+POLYMYXIN B,"The provided drug label for Polymyxin B does not explicitly mention pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on nephrotoxicity, neurotoxicity, and other adverse reactions, but it does not detail any specific risks or reactions related to the pulmonary system. 
+
+Here is a summary of the relevant sections that discuss toxicity and adverse reactions, none of which are directly associated with pulmonary toxicity:
+
+1. **WARNING Section**:
+   - **Neurotoxic Reactions**: The label mentions neurotoxic reactions such as irritability, weakness, drowsiness, ataxia, perioral paresthesia, numbness of the extremities, and blurring of vision. These reactions are associated with high serum levels in patients with impaired renal function and/or nephrotoxicity. The drug itself is associated with these neurotoxic risks.
+   - **Neurotoxicity Leading to Respiratory Paralysis**: The label states that the neurotoxicity of Polymyxin B sulfate can result in respiratory paralysis from neuromuscular blockade, especially when the drug is given soon after anesthesia and/or muscle relaxants. The drug itself is associated with this risk of respiratory paralysis.
+
+2. **ADVERSE REACTIONS Section**:
+   - **Neurotoxic Reactions**: Similar to the warning section, it lists facial flushing, dizziness progressing to ataxia, drowsiness, peripheral paresthesias, apnea due to concurrent use of curariform muscle relaxants, other neurotoxic drugs, or inadvertent overdosage, and signs of meningeal irritation. The drug itself is associated with these neurotoxic risks.
+
+3. **PRECAUTIONS Section**:
+   - **Respiratory Depression**: The label advises avoiding concurrent use of curariform muscle relaxants and other neurotoxic drugs, which may precipitate respiratory depression. If signs of respiratory paralysis appear, respiration should be assisted as required, and the drug discontinued. The drug itself is associated with this risk of respiratory depression when used with other neurotoxic drugs.
+
+In summary, while the drug label for Polymyxin B discusses risks related to neurotoxicity that can lead to respiratory paralysis and depression, it does not specifically address pulmonary toxicity or pulmonary reactions directly caused by the drug.",No,No,1,1,,
+POTASSIUM CHLORIDE,"The provided drug label for Potassium Chloride does not mention any pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on the indications, dosage, administration, contraindications, warnings, precautions, adverse reactions, drug interactions, use in specific populations, overdosage, description, clinical pharmacology, and storage and handling of the drug. 
+
+To summarize:
+
+- **Indications and Usage**: No mention of pulmonary toxicity.
+- **Dosage and Administration**: No mention of pulmonary toxicity.
+- **Dosage Forms and Strengths**: No mention of pulmonary toxicity.
+- **Contraindications**: No mention of pulmonary toxicity.
+- **Warnings and Precautions**: No mention of pulmonary toxicity.
+- **Adverse Reactions**: Lists common adverse reactions such as nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea, but no mention of pulmonary toxicity.
+- **Drug Interactions**: No mention of pulmonary toxicity.
+- **Use in Specific Populations**: No mention of pulmonary toxicity.
+- **Overdosage**: Discusses symptoms and treatment of hyperkalemia but does not mention pulmonary toxicity.
+- **Description**: No mention of pulmonary toxicity.
+- **Clinical Pharmacology**: No mention of pulmonary toxicity.
+- **How Supplied/Storage and Handling**: No mention of pulmonary toxicity.
+
+In conclusion, the drug label for Potassium Chloride does not associate the drug with any pulmonary toxicity risks or pulmonary reactions.",No,No,1,1,,
+PRAMIPEXOLE,"The drug label for Pramipexole Dihydrochloride tablets discusses pulmonary toxicity risks and pulmonary reactions in the following sections:
+
+1. **Warnings and Precautions (Section 5.9 - Events Reported with Dopaminergic Therapy)**
+   - **Fibrotic Complications**: 
+     - ""Cases of retroperitoneal fibrosis, pulmonary infiltrates, pleural effusion, pleural thickening, pericarditis, and cardiac valvulopathy have been reported in patients treated with ergot-derived dopaminergic agents.""
+       - **Summary**: These complications are associated with ergot-derived dopaminergic agents, not specifically with pramipexole.
+     - ""Although these adverse events are believed to be related to the ergoline structure of these compounds, whether other, nonergot-derived dopamine agonists can cause them is unknown.""
+       - **Summary**: It is unknown whether nonergot-derived dopamine agonists like pramipexole can cause these complications.
+     - ""Cases of possible fibrotic complications, including peritoneal fibrosis, pleural fibrosis, and pulmonary fibrosis have been reported in the post marketing experience with pramipexole dihydrochloride tablets.""
+       - **Summary**: Possible fibrotic complications, including pulmonary fibrosis, have been reported with pramipexole.
+     - ""While the evidence is not sufficient to establish a causal relationship between pramipexole dihydrochloride tablets and these fibrotic complications, a contribution of pramipexole dihydrochloride tablets cannot be completely ruled out.""
+       - **Summary**: There is insufficient evidence to establish that pramipexole causes these fibrotic complications, but its contribution cannot be ruled out.
+
+2. **Adverse Reactions (Section 6.2 - Post-Marketing Experience)**
+   - ""In addition to the adverse events reported during clinical trials, the following adverse reactions have been identified during post-approval use of pramipexole dihydrochloride tablets, primarily in Parkinson’s disease patients.""
+     - **Summary**: The following adverse reactions were identified post-approval, but it is not explicitly stated that pramipexole caused them.
+   - ""Similar types of reactions were grouped into a smaller number of standardized categories using the MedDRA terminology: ... respiratory reactions (including dyspnea, pulmonary fibrosis, pleural effusion).""
+     - **Summary**: Respiratory reactions, including pulmonary fibrosis and pleural effusion, have been reported post-approval, but it is not explicitly stated that pramipexole caused them.
+
+In summary, the drug label indicates that pulmonary fibrosis and other fibrotic complications have been reported in association with pramipexole, but there is insufficient evidence to definitively establish a causal relationship. The contribution of pramipexole to these complications cannot be completely ruled out.",Less,Yes,1,1,,
+PRUSSIAN BLUE INSOLUBLE CAPSULES,"The drug label for Radiogardase (prussian blue insoluble) does not mention any pulmonary toxicity risks or pulmonary reactions. The provided information focuses on the treatment of internal contamination with radioactive cesium and/or thallium, dosage and administration, contraindications, warnings and precautions, adverse reactions, drug interactions, use in specific populations, and other relevant pharmacological and clinical details. 
+
+To summarize:
+- **Pulmonary toxicity risks and pulmonary reactions**: There are no mentions or discussions of pulmonary toxicity risks or pulmonary reactions associated with Radiogardase in the provided drug label.",No,No,1,1,,
+RANIBIZUMAB-NUNA,"The provided drug label for BYOOVIZ (ranibizumab-nuna) does not explicitly mention pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on ocular and systemic adverse reactions, contraindications, and warnings related to the administration of the drug. Here is a summary of the relevant sections:
+
+1. **Adverse Reactions (Section 6)**:
+   - The label lists various adverse reactions observed in clinical trials, but none of these are related to pulmonary toxicity or pulmonary reactions. The adverse reactions mentioned include ocular reactions like conjunctival hemorrhage, eye pain, vitreous floaters, and increased intraocular pressure, as well as non-ocular reactions like nasopharyngitis, anemia, nausea, and cough. However, the cough is not explicitly linked to pulmonary toxicity or reactions caused by the drug itself.
+
+2. **Warnings and Precautions (Section 5)**:
+   - The warnings and precautions section discusses risks such as endophthalmitis, retinal detachments, increases in intraocular pressure, and thromboembolic events. There is no mention of pulmonary toxicity or pulmonary reactions associated with the drug.
+
+3. **Clinical Trials Experience (Section 6.2)**:
+   - This section provides detailed data on the adverse reactions observed during clinical trials, but again, there is no mention of pulmonary toxicity or pulmonary reactions caused by the drug.
+
+4. **Postmarketing Experience (Section 6.4)**:
+   - The postmarketing experience section lists adverse reactions identified after the drug was approved, but it does not include any pulmonary toxicity or pulmonary reactions.
+
+5. **Drug Interactions (Section 7)**:
+   - This section does not discuss any interactions that would lead to pulmonary toxicity or reactions.
+
+6. **Use in Specific Populations (Section 8)**:
+   - This section addresses the use of the drug in pregnant women, lactating women, pediatric patients, and geriatric patients, but it does not mention any pulmonary risks or reactions.
+
+In summary, the drug label for BYOOVIZ does not indicate any association or causation of pulmonary toxicity risks or pulmonary reactions by the drug itself. The focus is primarily on ocular and systemic adverse reactions, with no specific mention of pulmonary issues.",No,No,1,1,,
+RIFAMYCIN,"The drug label for AEMCOLO (rifamycin) does not mention any pulmonary toxicity risks or pulmonary reactions. The provided text does not include any sections or sentences that discuss pulmonary toxicity or pulmonary reactions associated with the use of AEMCOLO. The focus of the warnings and precautions is primarily on gastrointestinal issues, such as persistent or worsening diarrhea, Clostridium difficile-associated diarrhea, and the development of drug-resistant bacteria. 
+
+Therefore, based on the provided drug label, there are no documented pulmonary toxicity risks or pulmonary reactions associated with AEMCOLO.",No,No,1,1,,
+RUBIDIUM CHLORIDE RB-82,"The provided drug label for CardioGen-82 (rubidium Rb 82 generator) does not explicitly mention pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on radiation exposure risks, proper handling, and administration protocols, as well as other potential adverse reactions and precautions. 
+
+Here is a summary of the relevant sections that might indirectly relate to pulmonary concerns, but none of these sections directly associate the drug itself with pulmonary toxicity or reactions:
+
+1. **Warnings and Precautions (5.3 Risk Associated with Pharmacologic Stress)**:
+   - **Sentence**: ""Pharmacologic induction of cardiovascular stress may be associated with serious adverse reactions such as myocardial infarction, arrhythmia, hypotension, bronchoconstriction, and cerebrovascular events.""
+   - **Summary**: This sentence indicates that pharmacologic stress agents used in conjunction with the drug may cause bronchoconstriction, but it does not state that the drug itself causes this reaction.
+
+2. **Use in Specific Populations (8.6 Renal Impairment)**:
+   - **Sentence**: ""Reductions in renal function are not anticipated to alter clearance of rubidium Rb 82 chloride injection because Rb 82 decays to stable Kr-82 with a half-life of 75 seconds and Kr-82 is exhaled through the lungs.""
+   - **Summary**: This sentence mentions that Kr-82, a decay product of Rb 82, is exhaled through the lungs, but it does not associate the drug with pulmonary toxicity or reactions.
+
+3. **Clinical Pharmacology (12.3 Pharmacokinetics)**:
+   - **Sentence**: ""With a physical half-life of 75 seconds, Rb 82 is very rapidly converted by radioactive decay into a trace amount of stable Kr-82 gas, which is passively expired by the lungs.""
+   - **Summary**: This sentence describes the exhalation of Kr-82 gas through the lungs but does not link the drug to pulmonary toxicity or reactions.
+
+In conclusion, the drug label does not provide any direct information associating CardioGen-82 with pulmonary toxicity risks or pulmonary reactions. The only mention of the lungs is in the context of exhalation of the decay product Kr-82, and potential bronchoconstriction related to pharmacologic stress agents, not the drug itself.",No,No,1,1,,
+SELINEXOR,"The drug label for XPOVIO (selinexor) does not explicitly mention pulmonary toxicity risks or pulmonary reactions as a primary concern. However, there are a few indirect references to respiratory issues in the context of infections and adverse reactions. Here is a summary of those parts:
+
+1. **Serious Infection**:
+   - ""XPOVIO can cause serious and fatal infections. Most of these infections were not associated with Grade 3 or higher neutropenia.""
+     - **Summary**: XPOVIO itself can cause serious and fatal infections, which may include respiratory infections.
+   - ""In patients with multiple myeloma who received XPOVIO 100 mg once weekly (BOSTON, n=195), 69% of patients experienced any grade of infection. Grade ≥3 infections were reported in 32% of patients, and deaths from infections occurred in 3.1% of patients. The most frequently reported Grade ≥3 infection was pneumonia in 14% of patients, followed by sepsis in 4.1% and upper respiratory tract infection in 3.6% of patients.""
+     - **Summary**: XPOVIO itself was associated with pneumonia and upper respiratory tract infections in patients with multiple myeloma.
+   - ""In patients with multiple myeloma who received XPOVIO 80 mg twice weekly (STORM, n=202), 52% of patients experienced any grade of infection. Grade ≥3 infections were reported in 25% of patients, and deaths from infections occurred in 4% of patients within 30 days of last treatment. Upper respiratory tract infection of any grade occurred in 21%, pneumonia in 13%, and sepsis in 6% of patients. The most frequently reported Grade ≥3 infections were pneumonia in 9% of patients, followed by sepsis in 6%.""
+     - **Summary**: XPOVIO itself was associated with upper respiratory tract infections and pneumonia in patients with multiple myeloma.
+   - ""In patients with DLBCL (SADAL, n=134), 25% of patients experienced Grade 3 or higher infection and 21% had an infection-related serious adverse reaction; 49% developed an infection of any grade, most frequently involving the upper or lower respiratory tract. The most frequently reported Grade ≥3 infections were lower respiratory tract infections in 9% of patients (including pneumonia in 6%), followed by sepsis (6%).""
+     - **Summary**: XPOVIO itself was associated with lower respiratory tract infections, including pneumonia, in patients with DLBCL.
+
+2. **Adverse Reactions**:
+   - ""The most common adverse reactions (≥20%) in patients with multiple myeloma who receive XVd are fatigue, nausea, decreased appetite, diarrhea, peripheral neuropathy, upper respiratory tract infection, weight decreased, cataract, and vomiting.""
+     - **Summary**: XPOVIO itself was associated with upper respiratory tract infections in patients with multiple myeloma.
+   - ""The most common adverse reactions (≥20%) in patients with multiple myeloma who receive Xd are thrombocytopenia, fatigue, nausea, anemia, decreased appetite, weight decreased, diarrhea, vomiting, hyponatremia, neutropenia, leukopenia, constipation, dyspnea, and upper respiratory tract infection.""
+     - **Summary**: XPOVIO itself was associated with upper respiratory tract infections and dyspnea in patients with multiple myeloma.
+   - ""The most common adverse reactions (incidence ≥20%) in patients with DLBCL, excluding laboratory abnormalities, are fatigue, nausea, diarrhea, decreased appetite, weight decreased, constipation, vomiting, and pyrexia.""
+     - **Summary**: No direct mention of pulmonary reactions in this context, but infections were noted elsewhere.
+
+3. **Clinical Trials Experience**:
+   - ""In patients with multiple myeloma who received XPOVIO in combination with bortezomib and dexamethasone (XVd), serious adverse reactions in >3% of patients included pneumonia (14%), sepsis, diarrhea, and vomiting (4% each).""
+     - **Summary**: XPOVIO itself was associated with pneumonia in patients with multiple myeloma.
+   - ""In patients with multiple myeloma who received XPOVIO 80 mg twice weekly (STORM, n=202), upper respiratory tract infection of any grade occurred in 21%, pneumonia in 13%, and sepsis in 6% of patients.""
+     - **Summary**: XPOVIO itself was associated with upper respiratory tract infections and pneumonia in patients with multiple myeloma.
+   - ""In patients with DLBCL (SADAL, n=134), the most frequently reported Grade ≥3 infections were lower respiratory tract infections in 9% of patients (including pneumonia in 6%), followed by sepsis (6%).""
+     - **Summary**: XPOVIO itself was associated with lower respiratory tract infections, including pneumonia, in patients with DLBCL.
+
+In summary, while the drug label does not explicitly focus on pulmonary toxicity, XPOVIO is associated with respiratory infections, including pneumonia and upper respiratory tract infections, in patients with multiple myeloma and DLBCL.",Less,No,1,1,,
+SUCCINYLCHOLINE,"The drug label for Succinylcholine Chloride Injection, USP, does not explicitly mention pulmonary toxicity risks or pulmonary reactions directly associated with the drug itself. However, there are several sections that discuss respiratory-related effects and precautions:
+
+1. **General Warnings**:
+   - **Respiratory Depression and Apnea**: Succinylcholine causes profound muscle relaxation resulting in respiratory depression to the point of apnea. This effect may be prolonged. (The drug itself causes this risk.)
+
+2. **Overdosage**:
+   - **Neuromuscular Blockade Beyond Surgical Needs**: Overdosage with succinylcholine may result in neuromuscular block beyond the time needed for surgery and anesthesia, which may be manifested by skeletal muscle weakness, decreased respiratory reserve, low tidal volume, or apnea. (The drug itself causes this risk.)
+
+3. **Precautions**:
+   - **Prolonged Respiratory Muscle Paralysis or Weakness**: When succinylcholine is given over a prolonged period, the characteristic depolarization block may change to a block resembling a non-depolarizing block, potentially leading to prolonged respiratory muscle paralysis or weakness. (The drug itself causes this risk.)
+
+4. **Pediatric Use**:
+   - **Bradycardia and Asystole**: Intravenous bolus administration of succinylcholine in infants and pediatric patients may result in profound bradycardia or, rarely, asystole. (The drug itself causes this risk.)
+
+5. **Adverse Reactions**:
+   - **Respiratory Depression and Apnea**: Adverse reactions to succinylcholine include profound muscle relaxation resulting in respiratory depression to the point of apnea, which may be prolonged. (The drug itself causes this risk.)
+
+In summary, the drug label indicates that succinylcholine itself is associated with several respiratory-related risks, including respiratory depression, apnea, prolonged respiratory muscle paralysis or weakness, and bradycardia or asystole in pediatric patients.",Most,No,3,1,,
+SUFENTANIL CITRATE,"### Summary of Pulmonary Toxicity Risks and Pulmonary Reactions for Sufentanil Citrate Injection
+
+1. **Life-Threatening Respiratory Depression**:
+   - **Sentence**: ""Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.""
+   - **Summary**: The drug itself is associated with life-threatening respiratory depression.
+
+2. **Management of Respiratory Effects**:
+   - **Sentence**: ""Sufentanil Citrate Injection should be administered only by persons specifically trained in the use of anesthetic drugs and the management of the respiratory effects of potent opioids, including respiration and cardiac resuscitation of patients in the age group being treated.""
+   - **Summary**: The drug itself requires specialized training for managing its respiratory effects.
+
+3. **Postoperative Monitoring**:
+   - **Sentence**: ""Adequate facilities should be available for postoperative monitoring and ventilation of patients administered anesthetic doses of Sufentanil Citrate Injection.""
+   - **Summary**: The drug itself necessitates postoperative monitoring for respiratory depression.
+
+4. **CO2 Retention**:
+   - **Sentence**: ""Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.""
+   - **Summary**: The drug itself can cause CO2 retention, worsening sedation.
+
+5. **Persistent Respiratory Depressant Effect**:
+   - **Sentence**: ""As with other potent opioids, the respiratory depressant effect of Sufentanil Citrate Injection may persist longer than the measured analgesic effect.""
+   - **Summary**: The drug itself has a prolonged respiratory depressant effect.
+
+6. **Chronic Pulmonary Disease**:
+   - **Sentence**: ""Patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of Sufentanil Citrate Injection.""
+   - **Summary**: The drug itself increases the risk of decreased respiratory drive in patients with chronic pulmonary conditions.
+
+7. **Elderly, Cachectic, or Debilitated Patients**:
+   - **Sentence**: ""Elderly, cachectic, or debilitated patients may have altered pharmacokinetics or altered clearance compared to younger, healthier patients resulting in greater risk for respiratory depression.""
+   - **Summary**: The drug itself poses a higher risk of respiratory depression in elderly or debilitated patients.
+
+8. **Sleep-Related Breathing Disorders**:
+   - **Sentence**: ""Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.""
+   - **Summary**: The drug itself can cause sleep-related breathing disorders.
+
+9. **Concomitant Use with CNS Depressants**:
+   - **Sentence**: ""Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Sufentanil Citrate Injection with benzodiazepines or other CNS depressants.""
+   - **Summary**: The drug itself can cause severe respiratory depression when used with CNS depressants.
+
+10. **Pulmonary Arterial Pressure**:
+    - **Sentence**: ""When benzodiazepines or other CNS depressants are used with Sufentanil Citrate Injection, pulmonary arterial pressure may be decreased.""
+    - **Summary**: The drug itself can decrease pulmonary arterial pressure when used with CNS depressants.
+
+11. **Postoperative Analgesia**:
+    - **Sentence**: ""As postoperative analgesia, concomitant use of Sufentanil Citrate Injection can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death.""
+    - **Summary**: The drug itself increases the risk of respiratory depression when used for postoperative analgesia.
+
+12. **Neonatal Respiratory Depression**:
+    - **Sentence**: ""Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.""
+    - **Summary**: The drug itself can cause respiratory depression in neonates when administered to pregnant women.
+
+13. **Neonatal Monitoring**:
+    - **Sentence**: ""Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.""
+    - **Summary**: The drug itself necessitates monitoring neonates for respiratory depression.
+
+14. **Infants Exposed Through Breast Milk**:
+    - **Sentence**: ""Infants exposed to Sufentanil Citrate Injection through breast milk should be monitored for excess sedation and respiratory depression.""
+    - **Summary**: The drug itself can cause respiratory depression in breastfed infants.
+
+15. **Geriatric Use**:
+    - **Sentence**: ""Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.""
+    - **Summary**: The drug itself poses a significant risk of respiratory depression in elderly patients.
+
+16. **Hepatic and Renal Impairment**:
+    - **Sentence**: ""Reduce the dosage as needed and monitor closely for signs of respiratory depression, sedation, and hypotension.""
+    - **Summary**: The drug itself requires dosage adjustment and monitoring for respiratory depression in patients with hepatic or renal impairment.
+
+17. **Overdose**:
+    - **Sentence**: ""Acute overdose with Sufentanil Citrate Injection can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.""
+    - **Summary**: The drug itself can cause severe respiratory depression and pulmonary edema in cases of overdose.
+
+18. **Opioid Antagonists**:
+    - **Sentence**: ""The opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose.""
+    - **Summary**: The drug itself requires opioid antagonists for treating respiratory depression in overdose situations.
+
+19. **Postoperative Respiratory Depression**:
+    - **Sentence**: ""Postoperative observation is essential and postoperative mechanical ventilation may be required at the higher dosage range due to extended postoperative respiratory depression.""
+    - **Summary**: The drug itself may necessitate postoperative mechanical ventilation due to respiratory depression.
+
+In summary, Sufentanil Citrate Injection is associated with significant pulmonary toxicity risks, including life-threatening respiratory depression, CO2 retention, decreased respiratory drive, sleep-related breathing disorders, and pulmonary arterial pressure changes. These risks necessitate careful monitoring, especially in vulnerable populations such as the elderly, patients with chronic pulmonary conditions, and neonates.",Most,Yes,1,1,,
+"SYNTHETIC CONJUGATED ESTROGENS, A","The drug label for Cenestin® (synthetic conjugated estrogens, A) Tablets includes several mentions of pulmonary toxicity risks and pulmonary reactions. Here is a summary of those parts:
+
+1. **Cardiovascular and Other Risks:**
+   - The Women's Health Initiative (WHI) study reported increased risks of pulmonary emboli in postmenopausal women during 5 years of treatment with oral conjugated equine estrogens combined with medroxyprogesterone acetate relative to placebo. 
+     - **Summary:** The drug, when combined with medroxyprogesterone acetate, was associated with an increased risk of pulmonary emboli.
+
+2. **Warnings - Cardiovascular Disorders:**
+   - Estrogen and estrogen/progestin therapy has been associated with an increased risk of venous thrombosis and pulmonary embolism (venous thromboembolism or VTE).
+     - **Summary:** The drug itself, as part of estrogen and estrogen/progestin therapy, was associated with an increased risk of pulmonary embolism.
+
+3. **Clinical Pharmacology - Clinical Studies:**
+   - In the CE/MPA substudy of WHI, a 2-fold greater rate of VTE, including deep venous thrombosis and pulmonary embolism, was observed in women receiving CE/MPA compared to women receiving placebo.
+     - **Summary:** The drug, when combined with medroxyprogesterone acetate, caused a 2-fold increase in the rate of pulmonary embolism.
+
+4. **Warnings - Venous Thromboembolism (VTE):**
+   - In the Women's Health Initiative (WHI) study, an increase in VTE has been observed in women receiving CE compared to placebo.
+     - **Summary:** The drug itself was associated with an increased risk of venous thromboembolism, which includes pulmonary embolism.
+
+5. **Adverse Reactions:**
+   - The adverse reactions section lists pulmonary embolism as one of the cardiovascular adverse reactions reported with estrogen and/or progestin therapy.
+     - **Summary:** The drug itself, as part of estrogen and/or progestin therapy, was associated with pulmonary embolism as an adverse reaction.
+
+In summary, the drug label indicates that Cenestin, particularly when combined with medroxyprogesterone acetate, is associated with an increased risk of pulmonary embolism. This risk is highlighted in multiple sections, including cardiovascular risks, clinical studies, and adverse reactions.",Most,Yes,1,1,,
+TESTOSTERONE ENANTHATE,"The drug label for XYOSTED® (testosterone enanthate) injection does not explicitly mention pulmonary toxicity risks or pulmonary reactions directly associated with the drug itself. However, there are a few related points that could be indirectly connected to pulmonary issues:
+
+1. **Venous Thromboembolism (VTE)**:
+   - **Label Text**: ""Venous thromboembolism (VTE), including deep vein thrombosis (DVT) and pulmonary embolism (PE) have been reported in patients using testosterone products. Evaluate patients with signs or symptoms consistent with DVT or PE (5.5).""
+   - **Summary**: The drug itself has been associated with an increased risk of venous thromboembolism, including pulmonary embolism.
+
+2. **Warnings and Precautions**:
+   - **Label Text**: ""There have been postmarketing reports of venous thromboembolic events, including deep vein thrombosis (DVT) and pulmonary embolism (PE), in patients using testosterone products, such as XYOSTED. Evaluate patients who report symptoms of pain, edema, warmth and erythema in the lower extremity for DVT and those who present with acute shortness of breath for PE. If a venous thromboembolic event is suspected, discontinue treatment with XYOSTED and initiate appropriate workup and management.""
+   - **Summary**: The drug itself has been associated with postmarketing reports of pulmonary embolism, a type of venous thromboembolism.
+
+3. **Adverse Reactions**:
+   - **Label Text**: ""Blood clots in the legs or lungs. Signs and symptoms of a blood clot in your leg can include leg pain, swelling or redness. Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.""
+   - **Summary**: The drug itself has been associated with blood clots in the lungs, which can cause difficulty breathing or chest pain.
+
+4. **Patient Counseling Information**:
+   - **Label Text**: ""Inform patients that treatment with androgens may lead to adverse reactions which include: Breathing disturbances that may reflect obstructive sleep apnea, including those associated with sleep or excessive daytime sleepiness.""
+   - **Summary**: The drug itself may be associated with breathing disturbances, potentially reflecting obstructive sleep apnea.
+
+In summary, the drug label indicates that XYOSTED® is associated with risks of venous thromboembolism, including pulmonary embolism, and may cause breathing disturbances related to obstructive sleep apnea. There are no direct mentions of pulmonary toxicity, but the potential for pulmonary embolism and breathing disturbances are noted.",Less,No,1,1,,
+TIZANIDINE HYDROCHLORIDE,"The provided drug label for Zanaflex (tizanidine hydrochloride) does not explicitly mention pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on other adverse reactions, contraindications, and precautions related to the use of Zanaflex, such as hypotension, liver injury, sedation, hallucinations, and interactions with other drugs. 
+
+Here is a summary of the relevant sections that were reviewed for pulmonary toxicity risks and pulmonary reactions:
+
+1. **Warnings and Precautions**: This section discusses various risks associated with Zanaflex, including hypotension, liver injury, sedation, hallucinations, and hypersensitivity reactions. However, it does not mention any pulmonary toxicity risks or pulmonary reactions.
+
+2. **Adverse Reactions**: The adverse reactions listed include dry mouth, somnolence, asthenia, dizziness, urinary tract infection, constipation, liver function tests abnormal, vomiting, speech disorder, amblyopia, urinary frequency, flu syndrome, SGPT/ALT increased, dyskinesia, nervousness, pharyngitis, and rhinitis. None of these adverse reactions are related to pulmonary toxicity or pulmonary reactions.
+
+3. **Postmarketing Experience**: This section lists additional adverse reactions identified during post-approval use, such as Stevens-Johnson Syndrome, anaphylactic reaction, exfoliative dermatitis, ventricular tachycardia, hepatitis, convulsion, depression, arthralgia, paresthesia, rash, and tremor. Again, there is no mention of pulmonary toxicity or pulmonary reactions.
+
+4. **Use in Specific Populations**: This section discusses the use of Zanaflex in pregnant women, lactating women, pediatric patients, geriatric patients, and patients with impaired renal or hepatic function. It does not mention any pulmonary toxicity risks or pulmonary reactions.
+
+In conclusion, the drug label for Zanaflex does not indicate that the drug itself is associated with or causes pulmonary toxicity risks or pulmonary reactions.",No,No,1,1,,
+TRALOKINUMAB-LDRM,"The provided drug label for ADBRY (tralokinumab-ldrm) does not explicitly mention pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on other types of adverse reactions and precautions, such as hypersensitivity reactions, conjunctivitis, keratitis, and parasitic infections. 
+
+Here is a summary of the key points related to adverse reactions and precautions, none of which specifically mention pulmonary toxicity or pulmonary reactions:
+
+1. **Hypersensitivity Reactions**: The drug label mentions that hypersensitivity reactions, including anaphylaxis and angioedema, have been reported with the use of ADBRY. These reactions are serious and require discontinuation of the drug if they occur. However, these are not specifically pulmonary reactions.
+
+2. **Conjunctivitis and Keratitis**: The label notes that conjunctivitis and keratitis occurred more frequently in subjects who received ADBRY. Patients are advised to report new or worsening eye symptoms to their healthcare provider. These are ocular, not pulmonary, reactions.
+
+3. **Parasitic (Helminth) Infections**: The label advises treating patients with pre-existing helminth infections before initiating ADBRY and discontinuing ADBRY if patients become infected and do not respond to anti-helminth treatment. This is related to parasitic infections, not pulmonary toxicity.
+
+4. **Risk of Infection with Live Vaccines**: The label warns that ADBRY may alter a patient's immunity and increase the risk of infection following the administration of live vaccines. This is an immunological concern, not a pulmonary one.
+
+5. **Adverse Reactions**: The most common adverse reactions listed include upper respiratory tract infections, conjunctivitis, injection site reactions, and eosinophilia. While upper respiratory tract infections are mentioned, they are not described as pulmonary toxicity or severe pulmonary reactions directly caused by ADBRY.
+
+In conclusion, the drug label for ADBRY does not discuss pulmonary toxicity risks or pulmonary reactions associated with the drug. The adverse reactions and precautions mentioned are related to hypersensitivity, ocular issues, parasitic infections, and immunological concerns, but not specifically to pulmonary toxicity.",No,No,1,1,,
+TRIMETHOBENZAMIDE,"The provided drug label for Trimethobenzamide does not explicitly mention pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on the pharmacokinetics, special populations, contraindications, precautions, and potential side effects related to other systems, such as the central nervous system and renal function. 
+
+Here is a summary of the relevant sections that might indirectly relate to pulmonary concerns, although they do not specifically address pulmonary toxicity:
+
+1. **Mechanism of Action**: The mechanism involves the chemoreceptor trigger zone (CTZ) in the medulla oblongata, which is related to emetic impulses. This does not directly relate to pulmonary toxicity.
+
+2. **Pharmacokinetics**: Discusses absorption, bioavailability, and excretion, but does not mention pulmonary effects.
+
+3. **Special Populations**: Focuses on renal impairment, age, gender, and race, with no mention of pulmonary risks.
+
+4. **Contraindications and Precautions**: 
+   - **Hypersensitivity**: Use is contraindicated in patients with known hypersensitivity to trimethobenzamide. This could theoretically include pulmonary reactions, but it is not specified.
+   - **CNS Reactions**: Mentions CNS reactions such as convulsions and coma, but not pulmonary reactions.
+
+5. **Adverse Reactions**: Lists various side effects such as drowsiness, dizziness, and hypotension, but does not include pulmonary toxicity.
+
+6. **General Warnings**: 
+   - **CNS Reactions**: During acute febrile illness, encephalitides, gastroenteritis, dehydration, and electrolyte imbalance, CNS reactions are noted, but no specific mention of pulmonary reactions.
+
+7. **Geriatric Use**: Emphasizes caution in elderly patients due to potential renal impairment, with no mention of pulmonary risks.
+
+8. **Dosage and Administration**: Provides dosage guidelines, particularly for patients with renal impairment, but does not address pulmonary concerns.
+
+In summary, the drug label for Trimethobenzamide does not discuss pulmonary toxicity risks or pulmonary reactions. The focus is on other potential side effects and precautions, particularly related to the central nervous system and renal function.",No,No,1,1,,
+VALSARTAN,"The drug label for Diovan (valsartan) does not explicitly mention pulmonary toxicity risks or pulmonary reactions. The sections of the label that discuss adverse reactions, warnings, and precautions do not include any specific references to pulmonary toxicity or pulmonary reactions associated with the use of Diovan. 
+
+Here is a summary of the relevant sections that might typically include such information, confirming the absence of pulmonary toxicity risks:
+
+1. **Adverse Reactions (Section 6)**:
+   - This section lists various adverse reactions observed in clinical trials and postmarketing experience but does not mention any pulmonary toxicity or pulmonary reactions associated with Diovan.
+
+2. **Warnings and Precautions (Section 5)**:
+   - This section includes warnings about fetal toxicity, hypotension, impaired renal function, and hyperkalemia but does not mention any pulmonary toxicity or pulmonary reactions associated with Diovan.
+
+3. **Postmarketing Experience (Section 6.2)**:
+   - This section lists additional adverse reactions reported postmarketing, such as angioedema, elevated liver enzymes, and rhabdomyolysis, but does not mention any pulmonary toxicity or pulmonary reactions associated with Diovan.
+
+4. **Use in Specific Populations (Section 8)**:
+   - This section discusses the use of Diovan in pregnant women, lactating women, pediatric patients, geriatric patients, and patients with renal or hepatic impairment but does not mention any pulmonary toxicity or pulmonary reactions associated with Diovan.
+
+In conclusion, the drug label for Diovan does not indicate any pulmonary toxicity risks or pulmonary reactions associated with the drug.",No,No,1,1,,
+VARENICLINE TARTRATE,"The provided drug label for CHANTIX (varenicline) does not explicitly discuss pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on the drug's use as an aid to smoking cessation and details various other risks and adverse reactions, such as neuropsychiatric events, cardiovascular events, and interactions with alcohol. 
+
+However, there is a mention of a study involving patients with Chronic Obstructive Pulmonary Disease (COPD):
+
+1. **Section 14.7 Subjects with Chronic Obstructive Pulmonary Disease**:
+   - **Summary**: CHANTIX was evaluated in a randomized, double-blind, placebo-controlled study of subjects aged ≥ 35 years with mild-to-moderate COPD. Subjects treated with CHANTIX had a superior rate of CO-confirmed abstinence during weeks 9 through 12 (41%) compared to subjects treated with placebo (9%) and from week 9 through 52 (19%) compared to subjects treated with placebo (6%).
+   - **Association with Pulmonary Risk**: The study does not indicate that CHANTIX itself caused or was associated with pulmonary toxicity or adverse pulmonary reactions. Instead, it highlights the efficacy of CHANTIX in helping patients with COPD quit smoking.
+
+In summary, the label does not provide information indicating that CHANTIX is associated with or causes pulmonary toxicity or adverse pulmonary reactions. The mention of COPD is in the context of evaluating the drug's efficacy in aiding smoking cessation among patients with this condition.",No,No,1,1,,

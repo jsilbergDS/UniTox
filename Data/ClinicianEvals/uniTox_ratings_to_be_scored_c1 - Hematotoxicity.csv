@@ -1,0 +1,1234 @@
+generic_name,reasoning,less_determination,binary_determination,less_determination_score,binary_determination_score,issue_with_summaries
+0.25% BUPIVACAINE HCL; BUPIVACAINE HYDROCHLORIDE,"The drug label for Bupivacaine Hydrochloride Injection discusses hematological toxicity risks and reactions in the following sections:
+
+1. **Warnings - Methemoglobinemia**:
+   - **Sentence**: ""Cases of methemoglobinemia have been reported in association with local anesthetic use.""
+     - **Summary**: The drug is associated with the risk of methemoglobinemia.
+   - **Sentence**: ""Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.""
+     - **Summary**: The drug is associated with a higher risk of methemoglobinemia in certain susceptible patient groups.
+   - **Sentence**: ""If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.""
+     - **Summary**: The drug requires close monitoring for methemoglobinemia in susceptible patients.
+   - **Sentence**: ""Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.""
+     - **Summary**: The drug can cause methemoglobinemia, which may present with cyanotic skin discoloration and abnormal blood coloration.
+   - **Sentence**: ""Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious CNS and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.""
+     - **Summary**: The drug can cause rising methemoglobin levels, necessitating immediate treatment to prevent severe adverse effects.
+   - **Sentence**: ""Discontinue Bupivacaine Hydrochloride and any other oxidizing agents.""
+     - **Summary**: The drug should be discontinued if methemoglobinemia occurs.
+   - **Sentence**: ""Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.""
+     - **Summary**: The drug may require supportive care for methemoglobinemia.
+   - **Sentence**: ""A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.""
+     - **Summary**: The drug may necessitate advanced treatments for severe methemoglobinemia.
+
+2. **Adverse Reactions - Allergic**:
+   - **Sentence**: ""Allergic-type reactions are rare and may occur as a result of sensitivity to the local anesthetic or to other formulation ingredients, such as the antimicrobial preservative methylparaben contained in multiple-use vials or sulfites in epinephrine-containing solutions.""
+     - **Summary**: The drug itself or its ingredients may cause rare allergic-type reactions.
+
+3. **Precautions - Information for Patients**:
+   - **Sentence**: ""Inform patients that use of local anesthetics may cause methemoglobinemia, a serious condition that must be treated promptly.""
+     - **Summary**: The drug may cause methemoglobinemia, which requires prompt treatment.
+   - **Sentence**: ""Advise patients or caregivers to seek immediate medical attention if they or someone in their care experience the following signs or symptoms: pale, gray, or blue colored skin (cyanosis); headache; rapid heart rate; shortness of breath; lightheadedness; or fatigue.""
+     - **Summary**: The drug may cause symptoms of methemoglobinemia, necessitating immediate medical attention.
+
+4. **Precautions - Clinically Significant Drug Interactions**:
+   - **Sentence**: ""Patients who are administered local anesthetics are at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics.""
+     - **Summary**: The drug increases the risk of methemoglobinemia when used with certain other drugs.
+
+In summary, Bupivacaine Hydrochloride Injection is associated with the risk of methemoglobinemia, particularly in susceptible patient groups, and may cause rare allergic-type reactions. The drug label emphasizes the need for close monitoring and immediate treatment if methemoglobinemia occurs.",Most,Yes,1,1,
+0.9% SODIUM CHLORIDE,"The drug label for 0.9% Sodium Chloride Injection, USP does not explicitly discuss hematological toxicity risks or hematological reactions. However, it does mention some general adverse reactions and precautions that could indirectly relate to hematological concerns. Here is a summary of the relevant parts:
+
+1. **Adverse Reactions**:
+   - ""Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia.""
+     - **Summary**: The drug itself can cause febrile responses, infections at the injection site, venous thrombosis, phlebitis, extravasation, and hypervolemia. These reactions are related to the administration technique and the solution.
+
+2. **Warnings**:
+   - ""The intravenous administration of Sodium Chloride Injection, USP can cause fluid and/or solute overloading resulting in dilution of serum electrolyte concentrations, overhydration, congested states or pulmonary edema.""
+     - **Summary**: The drug itself can cause fluid and solute overloading, leading to dilution of serum electrolyte concentrations, overhydration, congested states, or pulmonary edema. These conditions could potentially affect hematological parameters indirectly.
+
+3. **Pediatric Use**:
+   - ""The infusion of hypotonic fluids (0.45% Sodium Chloride Injection, USP) together with the non-osmotic secretion of ADH may result in hyponatremia in patients with acute volume depletion. Hyponatremia can lead to headache, nausea, seizures, lethargy, coma, cerebral edema and death, therefore acute symptomatic hyponatremic encephalopathy is considered a medical emergency.""
+     - **Summary**: The drug itself, particularly the hypotonic version (0.45% Sodium Chloride Injection, USP), can cause hyponatremia, which can lead to severe symptoms including cerebral edema and death. This is a serious condition that could have hematological implications.
+
+Overall, while the drug label does not directly address hematological toxicity, it does highlight several adverse reactions and conditions that could indirectly impact hematological health.",Less,No,2,1,
+ABACAVIR,"The drug label for Abacavir tablets includes several mentions of hematological toxicity risks and hematological reactions. Here is a summary of those parts:
+
+1. **Warnings and Precautions (5.2 Lactic Acidosis and Severe Hepatomegaly with Steatosis)**:
+   - This section does not directly mention hematological toxicity but discusses severe hepatomegaly with steatosis, which can be related to overall systemic toxicity.
+
+2. **Adverse Reactions (6.1 Clinical Trials Experience in Adult Subjects)**:
+   - **Laboratory Abnormalities**: 
+     - In clinical trials, Grade 3/4 laboratory abnormalities included neutropenia (ANC <750/mm³) in 2% of subjects receiving abacavir plus lamivudine plus efavirenz, and in 4% of subjects receiving zidovudine plus lamivudine plus efavirenz. This indicates that abacavir, in combination with other drugs, was associated with neutropenia.
+     - Anemia (Hgb ≤6.9 gm/dL) was observed in less than 1% of subjects receiving abacavir plus lamivudine plus efavirenz, and in 2% of subjects receiving zidovudine plus lamivudine plus efavirenz. This suggests that abacavir, in combination with other drugs, was associated with anemia.
+     - Thrombocytopenia (Platelets <50,000/mm³) was observed in 1% of subjects receiving abacavir plus lamivudine plus efavirenz, and in less than 1% of subjects receiving zidovudine plus lamivudine plus efavirenz. This indicates that abacavir, in combination with other drugs, was associated with thrombocytopenia.
+     - Leukopenia (WBC ≤1,500/mm³) was observed in less than 1% of subjects receiving abacavir plus lamivudine plus efavirenz, and in 2% of subjects receiving zidovudine plus lamivudine plus efavirenz. This suggests that abacavir, in combination with other drugs, was associated with leukopenia.
+
+3. **Adverse Reactions (6.2 Clinical Trials Experience in Pediatric Subjects)**:
+   - **Laboratory Abnormalities**: 
+     - In pediatric subjects, laboratory abnormalities such as anemia, neutropenia, liver function test abnormalities, and CPK elevations were observed with similar frequencies as in a trial of therapy-naive adults. This indicates that abacavir, in combination with other drugs, was associated with these hematological abnormalities in pediatric subjects.
+
+4. **Postmarketing Experience (6.3)**:
+   - This section does not specifically mention hematological toxicity or reactions.
+
+5. **Clinical Studies (14.1 Adult Trials)**:
+   - **CNA30024**: 
+     - After 48 weeks of therapy, the median CD4+ cell count increases from baseline were 209 cells per mm³ in the group receiving abacavir and 155 cells per mm³ in the zidovudine group. This indicates that abacavir was associated with an increase in CD4+ cell count, which is a positive hematological outcome.
+   - **CNA3005**: 
+     - Through Week 48, an overall mean increase in CD4+ cell count of about 150 cells per mm³ was observed in both treatment arms. This indicates that abacavir was associated with an increase in CD4+ cell count, which is a positive hematological outcome.
+   - **CNA30021**: 
+     - After 48 weeks of therapy, the median CD4+ cell count increases from baseline were 188 cells per mm³ in the group receiving abacavir 600 mg once daily and 200 cells per mm³ in the group receiving abacavir 300 mg twice daily. This indicates that abacavir was associated with an increase in CD4+ cell count, which is a positive hematological outcome.
+
+In summary, the drug label indicates that abacavir, particularly in combination with other antiretroviral agents, is associated with several hematological toxicities, including neutropenia, anemia, thrombocytopenia, and leukopenia. However, it is also associated with positive hematological outcomes, such as increases in CD4+ cell counts.",Less,Yes,1,1,
+"AMOXICILLIN TABLET, FILM COATED","The drug label for amoxicillin discusses hematological toxicity risks and hematological reactions in the following sections:
+
+1. **Section 6.2 Postmarketing or Other Experience:**
+   - **Hemic and Lymphatic Systems:**
+     - ""Anemia, including hemolytic anemia, thrombocytopenia, thrombocytopenic purpura, eosinophilia, leukopenia, and agranulocytosis have been reported.""
+       - **Summary:** Amoxicillin has been associated with various hematological reactions, including anemia (hemolytic anemia), thrombocytopenia, thrombocytopenic purpura, eosinophilia, leukopenia, and agranulocytosis.
+     - ""These reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena.""
+       - **Summary:** The hematological reactions caused by amoxicillin are typically reversible once the drug is discontinued and are thought to be due to hypersensitivity.
+
+In summary, amoxicillin has been associated with several hematological reactions, including anemia, thrombocytopenia, thrombocytopenic purpura, eosinophilia, leukopenia, and agranulocytosis. These reactions are generally reversible upon discontinuation of the drug and are considered to be hypersensitivity phenomena.",Less,Yes,1,1,
+AXITINIB,"### Summary of Hematological Toxicity Risks and Reactions for INLYTA (Axitinib)
+
+1. **Warnings and Precautions:**
+   - **Hemorrhage (5.4):** 
+     - **Controlled Clinical Study:** Hemorrhagic events were reported in 16% of patients receiving INLYTA, with Grade 3/4 events in 1% of patients. Fatal hemorrhage was reported in <1% of patients. **(INLYTA was associated with these hemorrhagic events.)**
+     - **Clinical Trials:** Hemorrhagic events, including fatal events, have been reported. **(INLYTA was associated with these hemorrhagic events.)**
+
+2. **Adverse Reactions:**
+   - **First-Line Advanced RCC (INLYTA in Combination with Avelumab):**
+     - **Fatal Adverse Reactions:** Included sudden cardiac death, stroke, myocarditis, and necrotizing pancreatitis. **(Not directly related to hematological toxicity.)**
+     - **Serious Adverse Reactions:** Included venous thromboembolic disease in 1.6% of patients. **(INLYTA in combination with avelumab was associated with these thromboembolic events.)**
+     - **Permanent Discontinuation:** Due to adverse reactions, including hepatotoxicity and infusion-related reactions. **(Not directly related to hematological toxicity.)**
+     - **Dose Interruptions or Reductions:** Due to adverse reactions, including hepatotoxicity. **(Not directly related to hematological toxicity.)**
+     - **Common Adverse Reactions (≥20%):** Included diarrhea, fatigue, hypertension, musculoskeletal pain, nausea, mucositis, palmar-plantar erythrodysesthesia, dysphonia, decreased appetite, hypothyroidism, rash, hepatotoxicity, cough, dyspnea, abdominal pain, and headache. **(Not directly related to hematological toxicity.)**
+     - **Laboratory Abnormalities:** Included decreased platelet count in 27% of patients (Grade 3–4 in 0.7%) and decreased hemoglobin in 21% of patients (Grade 3–4 in 2.1%). **(INLYTA in combination with avelumab was associated with these hematological abnormalities.)**
+
+   - **First-Line Advanced RCC (INLYTA in Combination with Pembrolizumab):**
+     - **Fatal Adverse Reactions:** Included cardiac arrest, pulmonary embolism, cardiac failure, death due to unknown cause, myasthenia gravis, myocarditis, Fournier's gangrene, plasma cell myeloma, pleural effusion, pneumonitis, and respiratory failure. **(Not directly related to hematological toxicity.)**
+     - **Serious Adverse Reactions:** Included hepatotoxicity, diarrhea, acute kidney injury, dehydration, and pneumonitis. **(Not directly related to hematological toxicity.)**
+     - **Permanent Discontinuation:** Due to adverse reactions, including hepatotoxicity, diarrhea/colitis, acute kidney injury, and cerebrovascular accident. **(Not directly related to hematological toxicity.)**
+     - **Dose Interruptions or Reductions:** Due to adverse reactions, including hepatotoxicity and diarrhea. **(Not directly related to hematological toxicity.)**
+     - **Common Adverse Reactions (≥20%):** Included diarrhea, fatigue/asthenia, hypertension, hepatotoxicity, hypothyroidism, decreased appetite, palmar-plantar erythrodysesthesia, nausea, stomatitis/mucosal inflammation, dysphonia, rash, cough, and constipation. **(Not directly related to hematological toxicity.)**
+     - **Laboratory Abnormalities:** Included lymphopenia in 33% of patients (Grade 3–4 in 11%), anemia in 29% of patients (Grade 3–4 in 2.1%), and thrombocytopenia in 27% of patients (Grade 3–4 in 1.4%). **(INLYTA in combination with pembrolizumab was associated with these hematological abnormalities.)**
+
+   - **Second-Line Advanced RCC (INLYTA as a Single Agent):**
+     - **Common Adverse Reactions (≥20%):** Included diarrhea, hypertension, fatigue, decreased appetite, nausea, dysphonia, palmar-plantar erythrodysesthesia, weight decreased, vomiting, asthenia, and constipation. **(Not directly related to hematological toxicity.)**
+     - **Selected Adverse Reactions (<10%):** Included anemia in 4% of patients. **(INLYTA as a single agent was associated with anemia.)**
+     - **Laboratory Abnormalities:** Included decreased hemoglobin in 35% of patients (Grade 3/4 in <1%), decreased lymphocytes in 33% of patients (Grade 3/4 in 3%), decreased platelets in 15% of patients (Grade 3/4 in <1%), and decreased white blood cells in 11% of patients (Grade 3/4 in 0%). **(INLYTA as a single agent was associated with these hematological abnormalities.)**
+
+3. **Postmarketing Experience:**
+   - **Vascular Disorders:** Included arterial (including aortic) aneurysms, dissections, and rupture. **(Not directly related to hematological toxicity.)**
+
+### Conclusion
+INLYTA (axitinib) is associated with several hematological toxicity risks and reactions, including hemorrhage, decreased platelet count, decreased hemoglobin, lymphopenia, anemia, and thrombocytopenia. These risks are observed both when INLYTA is used as a single agent and in combination with other drugs like avelumab and pembrolizumab.",Most,Yes,1,1,
+BRINCIDOFOVIR,"The drug label for TEMBEXA (brincidofovir) does not explicitly discuss hematological toxicity risks or hematological reactions. The primary focus of the warnings and precautions sections is on hepatic toxicity, gastrointestinal adverse events, embryo-fetal toxicity, carcinogenicity, and male infertility. 
+
+Here is a summary of the relevant sections that might indirectly relate to hematological concerns, but do not explicitly mention hematological toxicity:
+
+1. **Warnings and Precautions**:
+   - **Elevations in Hepatic Transaminases and Bilirubin**: The drug may cause increases in serum transaminases (ALT or AST) and serum bilirubin. This is related to liver function rather than direct hematological toxicity.
+   - **Diarrhea and Other Gastrointestinal Adverse Events**: The drug may cause gastrointestinal issues such as diarrhea, nausea, vomiting, and abdominal pain. These are not directly related to hematological toxicity.
+   - **Embryo-fetal Toxicity**: The drug may cause fetal harm based on animal studies, but this is not directly related to hematological toxicity.
+   - **Carcinogenicity**: The drug is considered a potential human carcinogen, but specific hematological cancers are not mentioned.
+   - **Male Infertility**: The drug may irreversibly impair fertility based on testicular toxicity in animal studies, which is not directly related to hematological toxicity.
+
+2. **Adverse Reactions**:
+   - **Common Adverse Reactions**: The most common adverse reactions include diarrhea, nausea, vomiting, and abdominal pain. These are not hematological reactions.
+   - **Adverse Reactions Leading to Discontinuation**: Some subjects discontinued the drug due to adverse reactions like diarrhea, nausea, vomiting, enteritis, ALT increase, and dyspepsia. These are not hematological reactions.
+   - **Less Common Adverse Reactions**: Clinically significant adverse reactions reported in less than 2% of subjects include peripheral edema, decreased appetite, muscular weakness, dysgeusia, and rash. These are not hematological reactions.
+
+3. **Clinical Trials Experience**:
+   - **Selected Treatment-Emergent Laboratory Values**: Frequencies of selected laboratory abnormalities such as ALT, AST, total bilirubin, and serum creatinine are presented. These are related to liver and kidney function rather than direct hematological toxicity.
+
+4. **Nonclinical Toxicology**:
+   - **Carcinogenesis, Mutagenesis, Impairment of Fertility**: The drug caused various cancers in rats, but specific hematological cancers are not mentioned.
+
+In summary, the drug label for TEMBEXA does not explicitly discuss hematological toxicity risks or hematological reactions. The primary concerns are related to liver function, gastrointestinal issues, potential carcinogenicity, and reproductive toxicity.",No,No,1,1,
+BUFFERED PENICILLIN G POTASSIUM,"### Summary of Hematological Toxicity Risks and Reactions for Buffered Penicillin G Potassium for Injection, USP
+
+1. **Hematologic System Reactions**:
+   - **Neutropenia**: The drug itself is associated with neutropenia, which resolves after penicillin therapy is discontinued.
+   - **Coombs-positive Hemolytic Anemia**: The drug itself can cause Coombs-positive hemolytic anemia, an uncommon reaction that occurs in patients treated with intravenous penicillin G in doses greater than 10 million units/day and who have previously received large doses of the drug.
+   - **Bleeding Diathesis**: The drug itself can cause a bleeding diathesis secondary to platelet dysfunction when administered in large doses.
+
+2. **General Precautions**:
+   - **Periodic Assessment**: The drug itself necessitates periodic assessment of the hematopoietic system during prolonged therapy with high doses of intravenous penicillin G.
+
+3. **Adverse Reactions**:
+   - **Hematologic System**: The drug itself is associated with neutropenia, Coombs-positive hemolytic anemia, and bleeding diathesis as described above.
+
+4. **Overdosage**:
+   - **Dose-Related Toxicity**: The drug itself, when administered in massive doses (40 to 100 million units per day), particularly in patients with severe renal impairment, may cause hematological toxicity, including bleeding diathesis.
+
+### Conclusion
+Buffered Penicillin G Potassium for Injection, USP is associated with several hematological risks and reactions, including neutropenia, Coombs-positive hemolytic anemia, and bleeding diathesis. These reactions are directly linked to the administration of the drug, particularly at high doses or in patients with predisposing conditions. Regular monitoring of the hematopoietic system is recommended during prolonged therapy.",Most,Yes,1,1,
+BUPIVACAINE HYDROCHLORIDE IN DEXTROSE,"### Summary of Hematological Toxicity Risks and Reactions for MARCAINE® SPINAL
+
+1. **Methemoglobinemia Risk**:
+   - **Sentence**: ""Cases of methemoglobinemia have been reported in association with local anesthetic use.""
+   - **Summary**: The drug itself (MARCAINE SPINAL) has been associated with the risk of methemoglobinemia.
+
+2. **Increased Risk with Certain Conditions**:
+   - **Sentence**: ""Although all patients are at risk for methemoglobinemia, patients with glucose 6 phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.""
+   - **Summary**: The drug itself (MARCAINE SPINAL) increases the risk of methemoglobinemia, especially in patients with specific conditions.
+
+3. **Signs and Symptoms of Methemoglobinemia**:
+   - **Sentence**: ""Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.""
+   - **Summary**: The drug itself (MARCAINE SPINAL) can cause methemoglobinemia, which presents with cyanotic skin discoloration and abnormal blood coloration.
+
+4. **Immediate Treatment Required**:
+   - **Sentence**: ""Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious CNS and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.""
+   - **Summary**: The drug itself (MARCAINE SPINAL) can cause methemoglobinemia, necessitating immediate treatment to prevent severe adverse effects.
+
+5. **Management of Methemoglobinemia**:
+   - **Sentence**: ""Discontinue MARCAINE SPINAL and any other oxidizing agents. Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration. A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.""
+   - **Summary**: The drug itself (MARCAINE SPINAL) should be discontinued if methemoglobinemia occurs, and treatment may include supportive care or more intensive interventions.
+
+6. **Drug Interactions Leading to Methemoglobinemia**:
+   - **Sentence**: ""Patients who are administered MARCAINE SPINAL are at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics.""
+   - **Summary**: The drug itself (MARCAINE SPINAL) increases the risk of methemoglobinemia when used with certain other drugs.
+
+7. **Examples of Drugs Associated with Methemoglobinemia**:
+   - **Sentence**: ""Examples of Drugs Associated with Methemoglobinemia: Nitrates/Nitrites, Local anesthetics, Antineoplastic agents, Antibiotics, Antimalarials, Anticonvulsants, Other drugs.""
+   - **Summary**: The drug itself (MARCAINE SPINAL) can increase the risk of methemoglobinemia when used with specific classes of drugs.
+
+8. **Conditions Precluding Use of Spinal Anesthesia**:
+   - **Sentence**: ""Hematological disorders predisposing to coagulopathies or patients on anticoagulant therapy. Trauma to a blood vessel during the conduct of spinal anesthesia may, in some instances, result in uncontrollable CNS hemorrhage, soft tissue hemorrhage, or development of a hematoma.""
+   - **Summary**: The drug itself (MARCAINE SPINAL) should be used cautiously in patients with hematological disorders or on anticoagulant therapy due to the risk of hemorrhage or hematoma.
+
+### Conclusion
+MARCAINE SPINAL is associated with hematological risks, particularly methemoglobinemia, and should be used with caution in patients with certain predisposing conditions or when used concurrently with specific drugs. Immediate treatment is required if methemoglobinemia occurs, and the drug should be discontinued in such cases.",Most,Yes,1,1,
+BUROSUMAB,"The drug label for CRYSVITA (burosumab-twza) does not explicitly mention hematological toxicity risks or hematological reactions. The sections on adverse reactions, clinical trials experience, and postmarketing experience do not list any hematological issues directly associated with the drug. The primary focus of the adverse reactions includes hypersensitivity, hyperphosphatemia, injection site reactions, and other non-hematological issues such as restless legs syndrome and spinal stenosis. 
+
+Therefore, based on the provided drug label, there are no documented hematological toxicity risks or hematological reactions associated with CRYSVITA.",No,No,1,1,
+"CHLORHEXIDINE GLUCONATE, 0.12% ORAL RINSE","The drug label for Chlorhexidine Gluconate, 0.12% Oral Rinse Solution does not explicitly mention any hematological toxicity risks or hematological reactions. The label primarily focuses on the antimicrobial activity, pharmacokinetics, indications, contraindications, warnings, precautions, adverse reactions, and dosage and administration of the drug. 
+
+Here is a summary of the relevant sections that might indirectly relate to hematological concerns, although none specifically address hematological toxicity or reactions:
+
+1. **Clinical Pharmacology**: Discusses the antimicrobial activity and pharmacokinetics of the drug, but does not mention any hematological risks or reactions.
+
+2. **Indication**: States the drug is indicated for the treatment of gingivitis, but does not mention hematological risks.
+
+3. **Contraindications**: Notes that the drug should not be used by persons hypersensitive to chlorhexidine gluconate or other formula ingredients, but does not mention hematological reactions.
+
+4. **Warnings**: Mentions an increase in supragingival calculus and potential allergic reactions, including anaphylaxis, but does not mention hematological toxicity.
+
+5. **Precautions**: Discusses staining of oral surfaces, alteration in taste perception, and use during pregnancy and nursing, but does not mention hematological risks.
+
+6. **Adverse Reactions**: Lists common side effects such as staining of teeth, calculus formation, and alteration in taste perception. It also mentions oral irritation and local allergy-type symptoms, but does not mention hematological reactions.
+
+7. **Overdosage**: Describes potential gastric distress and signs of alcohol intoxication in case of ingestion, but does not mention hematological toxicity.
+
+8. **Dosage and Administration**: Provides instructions for use but does not mention hematological risks.
+
+In summary, the drug label does not associate Chlorhexidine Gluconate, 0.12% Oral Rinse Solution with any hematological toxicity risks or hematological reactions.",No,No,1,1,
+CHLORZOXAZONE,"The drug label for Chlorzoxazone does not explicitly mention hematological toxicity risks or hematological reactions. However, it does discuss various adverse reactions and precautions, which can be summarized as follows:
+
+1. **Adverse Reactions**:
+   - ""Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment.""
+     - **Summary**: The drug itself was associated with rare instances of allergic-type skin rashes, petechiae, or ecchymoses.
+
+2. **Warnings and Precautions**:
+   - There is no specific mention of hematological toxicity risks or reactions in the warnings and precautions sections.
+
+3. **Overdosage**:
+   - The overdosage section does not mention hematological toxicity risks or reactions.
+
+In summary, the only mention related to hematological reactions is the rare development of petechiae or ecchymoses, which are associated with the drug itself. There are no other explicit mentions of hematological toxicity risks or reactions in the provided drug label.",Less,No,1,1,
+CIPROFLOXACIN,"The provided drug label for Cetraxal (Ciprofloxacin otic solution) 0.2% does not mention any hematological toxicity risks or hematological reactions. The label primarily focuses on the indications, dosage, administration, contraindications, warnings, precautions, adverse reactions, and specific population usage related to the otic use of the drug. 
+
+To summarize:
+- **Indications and Usage**: No mention of hematological toxicity.
+- **Dosage and Administration**: No mention of hematological toxicity.
+- **Dosage Forms and Strengths**: No mention of hematological toxicity.
+- **Contraindications**: No mention of hematological toxicity.
+- **Warnings and Precautions**: No mention of hematological toxicity.
+- **Adverse Reactions**: Lists common adverse reactions such as application site pain, ear pruritus, fungal ear superinfection, and headache, but no hematological reactions.
+- **Use in Specific Populations**: No mention of hematological toxicity.
+- **Description**: No mention of hematological toxicity.
+- **Clinical Pharmacology**: No mention of hematological toxicity.
+- **Non-Clinical Toxicology**: No mention of hematological toxicity.
+- **Clinical Studies**: No mention of hematological toxicity.
+- **How Supplied/Storage and Handling**: No mention of hematological toxicity.
+- **Patient Counseling Information**: No mention of hematological toxicity.
+
+Therefore, based on the provided drug label, Cetraxal is not associated with or reported to cause any hematological toxicity risks or hematological reactions.",No,No,1,1,
+CLOMIPRAMINE HYDROCHLORIDE,"### Summary of Hematological Toxicity Risks and Reactions for Clomipramine Hydrochloride Capsules
+
+1. **Hematologic Changes**:
+   - **No severe hematologic toxicity in premarketing experience**: The drug itself was not associated with severe hematologic toxicity during premarketing.
+   - **Postmarketing reports of leukopenia, agranulocytosis, thrombocytopenia, anemia, and pancytopenia**: The drug itself was associated with these hematological reactions in postmarketing reports.
+   - **Recommendation for leukocyte and differential blood counts**: The drug itself necessitates monitoring blood counts in patients who develop fever and sore throat during treatment.
+
+2. **Adverse Reactions**:
+   - **Purpura (3%)**: The drug itself was associated with this reaction in clinical trials.
+   - **Anemia (2%)**: The drug itself was associated with this reaction in clinical trials.
+
+3. **Other Events Observed During Premarketing Evaluation**:
+   - **Infrequent: Lymphadenopathy**: The drug itself was associated with this reaction.
+   - **Rare: Leukemoid reaction, lymphoma-like disorder, marrow depression**: The drug itself was associated with these rare reactions.
+
+4. **Postmarketing Experience**:
+   - **Immune System Disorders: Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)**: The drug itself was associated with this reaction.
+   - **Metabolism and Nutrition Disorders: Hyponatremia**: The drug itself was associated with this reaction.
+   - **Endocrine Disorders: Syndrome of inappropriate antidiuretic hormone secretion (SIADH)**: The drug itself was associated with this reaction.
+
+### Conclusion
+Clomipramine Hydrochloride Capsules have been associated with various hematological risks and reactions, including leukopenia, agranulocytosis, thrombocytopenia, anemia, pancytopenia, purpura, lymphadenopathy, leukemoid reaction, lymphoma-like disorder, and marrow depression. These associations were observed in both premarketing and postmarketing experiences, necessitating careful monitoring of blood counts in patients undergoing treatment.",Most,Yes,1,1,
+COAGULATION FACTOR VIIA RECOMBINANT HUMAN,"### Summary of Hematological Toxicity Risks and Hematological Reactions for SEVENFACT
+
+1. **Thrombosis Warning**:
+   - **Sentence**: ""Serious arterial and venous thrombotic events may occur following administration of SEVENFACT.""
+   - **Summary**: SEVENFACT is associated with the risk of serious arterial and venous thrombotic events.
+
+2. **Patient Monitoring**:
+   - **Sentence**: ""Monitor patients for signs or symptoms of activation of the coagulation system and for thrombosis.""
+   - **Summary**: Patients receiving SEVENFACT should be monitored for signs of coagulation system activation and thrombosis, indicating a potential risk associated with the drug.
+
+3. **Risk Factors for Thrombosis**:
+   - **Sentence**: ""Patients with hemophilia A or B with inhibitors who have other risk factors for thrombosis may be at increased risk of serious arterial and venous thrombotic events.""
+   - **Summary**: SEVENFACT may increase the risk of serious thrombotic events in patients with additional risk factors.
+
+4. **Clinical Trials and Thrombosis**:
+   - **Sentence**: ""There is limited information about the safety of SEVENFACT in patients with a history of arterial or venous thromboembolic disease, because such patients were excluded from SEVENFACT trials.""
+   - **Summary**: The safety of SEVENFACT in patients with a history of thromboembolic disease is not well-established, indicating a potential risk.
+
+5. **Thrombotic Reactions in Clinical Trials**:
+   - **Sentence**: ""Serious arterial and venous thrombotic reactions can occur with SEVENFACT. Such reactions have been reported in clinical trials and post-marketing surveillance with a similar class of products.""
+   - **Summary**: SEVENFACT is associated with serious thrombotic reactions, as observed in clinical trials and post-marketing surveillance of similar products.
+
+6. **Increased Risk of Thromboembolic Events**:
+   - **Sentence**: ""The following patients may have increased risk of thromboembolic events with use of SEVENFACT: History of congenital or acquired hemophilia receiving concomitant treatment with aPCC/PCC (activated or non-activated prothrombin complex) or other hemostatic agents.""
+   - **Summary**: SEVENFACT may increase the risk of thromboembolic events in patients with a history of hemophilia receiving other hemostatic treatments.
+
+7. **Monitoring for Thrombosis**:
+   - **Sentence**: ""Monitor patients who receive SEVENFACT for the development of signs and symptoms of activation of the coagulation system or thrombosis.""
+   - **Summary**: Patients on SEVENFACT should be monitored for coagulation activation and thrombosis, indicating a potential risk associated with the drug.
+
+8. **Neutralizing Antibodies**:
+   - **Sentence**: ""Neutralizing antibodies may occur with the use of SEVENFACT.""
+   - **Summary**: SEVENFACT may cause the development of neutralizing antibodies, which can affect its efficacy.
+
+9. **Clinical Trials and Neutralizing Antibodies**:
+   - **Sentence**: ""In the studies performed, no patients tested positive for neutralizing antibodies.""
+   - **Summary**: In clinical trials, SEVENFACT was not associated with the development of neutralizing antibodies.
+
+10. **Laboratory Tests**:
+    - **Sentence**: ""Laboratory coagulation parameters (PT/INR, aPTT, FVII:C) do not correlate with clinical response to SEVENFACT treatment.""
+    - **Summary**: SEVENFACT's effectiveness is not reliably predicted by standard coagulation tests, indicating a potential complexity in monitoring its hematological effects.
+
+11. **Adverse Reactions**:
+    - **Sentence**: ""The most common adverse reactions (incidence ≥1%) reported in clinical trials for SEVENFACT were headache, dizziness, infusion-site discomfort, infusion-site hematoma, infusion-related reaction, and fever.""
+    - **Summary**: SEVENFACT is associated with infusion-site hematoma and infusion-related reactions, which are hematological in nature.
+
+12. **Drug Interactions**:
+    - **Sentence**: ""Clinical experience with pharmacologic use of FVIIa-containing products indicates an elevated risk of serious thrombotic events when used simultaneously with activated prothrombin complex concentrates.""
+    - **Summary**: SEVENFACT, when used with activated prothrombin complex concentrates, is associated with an elevated risk of serious thrombotic events.
+
+13. **Overdosage**:
+    - **Sentence**: ""Doses greater than 900 mcg/kg per 24 hours may be associated with an increased risk of thromboembolic events.""
+    - **Summary**: Overdosage of SEVENFACT is associated with an increased risk of thromboembolic events.
+
+14. **Clinical Studies**:
+    - **Sentence**: ""The proportion of mild or moderate bleeding events with hemostatic efficacy at 12 hours was 82% in the 75 mcg/kg dose regimen group and was 91% in the 225 mcg/kg dose regimen group.""
+    - **Summary**: SEVENFACT is effective in controlling mild to moderate bleeding events, indicating its hemostatic efficacy.
+
+15. **Patient Counseling Information**:
+    - **Sentence**: ""Advise patients about the signs of thrombosis and to seek medical help if the following occur: New-onset swelling and pain in the limbs or abdomen, new-onset chest pain, shortness of breath, loss of sensation or motor power, or altered consciousness or speech.""
+    - **Summary**: Patients on SEVENFACT should be aware of the signs of thrombosis, indicating a potential risk associated with the drug.
+
+### Conclusion
+SEVENFACT is associated with several hematological risks, primarily related to thrombotic events and the potential development of neutralizing antibodies. Patients should be closely monitored for signs of thrombosis and other hematological reactions during treatment.",Most,Yes,1,1,
+CORTICORELIN OVINE TRIFLUTATE,"The drug label for ACTHREL® (corticorelin ovine triflutate for injection) does not explicitly mention hematological toxicity risks or hematological reactions. The label primarily focuses on the pharmacodynamics, pharmacokinetics, indications, usage, contraindications, precautions, adverse reactions, and administration of the drug. 
+
+Here is a summary of the relevant sections that might indirectly relate to hematological concerns, although they do not specifically address hematological toxicity:
+
+1. **Adverse Reactions**:
+   - Hypersensitivity reactions have been reported, including urticaria, flushing, dyspnea, wheezing, and angioedema. These reactions are not specifically hematological but are immune responses that could potentially involve hematological components.
+   - Higher doses (>3 mcg/kg) are associated with more prolonged flushing, tachycardia, hypotension, dyspnea, and ""chest compression"" or tightness. These are cardiovascular and respiratory reactions, not directly hematological.
+
+2. **Precautions**:
+   - The severity of adverse effects appears to be dose-dependent, with higher doses associated with transient tachycardia, decreased blood pressure, loss of consciousness, and asystole. These are cardiovascular effects, not hematological.
+   - Hypersensitivity reactions include urticaria and angioedema, which involve immune responses but are not specifically hematological toxicity.
+
+3. **Drug Interactions**:
+   - The use of heparin solution to maintain i.v. cannula patency during the corticorelin test is not recommended due to a possible interaction that may cause a major hypotensive reaction. This interaction is more related to cardiovascular effects rather than hematological toxicity.
+
+4. **Contraindications**:
+   - ACTHREL is contraindicated in patients with a history of hypersensitivity reaction to ovine corticorelin or any of its excipients. Hypersensitivity reactions can involve various systems, including hematological components, but the label does not specify hematological toxicity.
+
+In summary, the drug label does not provide specific information on hematological toxicity risks or reactions directly caused by ACTHREL®. The adverse reactions and precautions mentioned are primarily related to hypersensitivity, cardiovascular, and respiratory effects.",No,No,1,1,
+CRIZOTINIB,"### Summary of Hematological Toxicity Risks and Reactions for XALKORI (Crizotinib)
+
+#### Warnings and Precautions
+1. **Hematologic Adverse Reactions in Pediatric and Young Adult Patients with ALCL or Pediatric Patients with IMT**:
+   - **XALKORI can cause severe hematologic toxicities** in pediatric and young adult patients with ALCL or pediatric patients with IMT. (The drug itself is associated with this risk.)
+
+#### Adverse Reactions
+1. **Clinical Trials Experience**:
+   - **Neutropenia, lymphopenia, and thrombocytopenia** were common Grade 3–4 laboratory abnormalities (≥15%) in patients with ALCL. (The drug itself is associated with these reactions.)
+   - **Neutropenia** was the most common Grade 3 or 4 laboratory abnormality (>15%) in pediatric patients with IMT. (The drug itself is associated with this reaction.)
+
+2. **Relapsed or Refractory, Systemic ALK-Positive ALCL - Study ADVL0912**:
+   - **Neutropenia** occurred in 100% of patients with ALCL, with 77% experiencing Grade 3–4 neutropenia. (The drug itself is associated with this reaction.)
+   - **Lymphopenia** occurred in 58% of patients with ALCL, with 38% experiencing Grade 3–4 lymphopenia. (The drug itself is associated with this reaction.)
+   - **Thrombocytopenia** occurred in 38% of patients with ALCL, with 19% experiencing Grade 3–4 thrombocytopenia. (The drug itself is associated with this reaction.)
+   - **Anemia** occurred in 54% of patients with ALCL, with 3.8% experiencing Grade 3–4 anemia. (The drug itself is associated with this reaction.)
+
+3. **Unresectable, Recurrent, or Refractory ALK-Positive IMT - Study ADVL0912**:
+   - **Neutropenia** occurred in 64% of pediatric patients with IMT, with 36% experiencing Grade 3–4 neutropenia. (The drug itself is associated with this reaction.)
+
+#### Dosage Modifications for Adverse Reactions
+1. **Recommended Dosage Modifications for Hematologic Adverse Reactions for Adult Patients with NSCLC or IMT**:
+   - **Grade 3 hematologic adverse reactions**: Withhold until recovery to Grade 2 or less, then resume at the same dosage. (The drug itself is associated with this reaction.)
+   - **Grade 4 hematologic adverse reactions**: Withhold until recovery to Grade 2 or less, then resume at the next lower dosage. (The drug itself is associated with this reaction.)
+
+2. **Recommended Dosage Modifications for Hematologic Adverse Reactions in Pediatric and Young Adult Patients with ALCL or Pediatric Patients with IMT**:
+   - **Absolute Neutrophil Count (ANC) less than 0.5 x 10^9/L**: Withhold until recovery to ANC greater than 1.0 x 10^9/L, then resume at the next lower dosage. (The drug itself is associated with this reaction.)
+   - **Platelet Count 25 to 50 x 10^9/L with concurrent bleeding**: Withhold until recovery to platelet count greater than 50 x 10^9/L and bleeding resolves, then resume at the same dosage. (The drug itself is associated with this reaction.)
+   - **Platelet Count less than 25 x 10^9/L**: Withhold until recovery to platelet count greater than 50 x 10^9/L, then resume at the next lower dosage. (The drug itself is associated with this reaction.)
+   - **Anemia (Hemoglobin less than 8 g/dL)**: Withhold until recovery to hemoglobin 8 g/dL or more, then resume at the same dosage. (The drug itself is associated with this reaction.)
+   - **Life-threatening anemia**: Withhold until recovery to hemoglobin 8 g/dL or more, then resume at the next lower dosage. (The drug itself is associated with this reaction.)
+
+#### Patient Counseling Information
+1. **Hematologic Toxicity**:
+   - Inform patients to immediately report symptoms of hematologic toxicity. (The drug itself is associated with this risk.)
+
+### Conclusion
+XALKORI (crizotinib) is associated with several hematological toxicity risks and reactions, including neutropenia, lymphopenia, thrombocytopenia, and anemia. These adverse reactions are significant in both adult and pediatric populations, particularly in patients with ALCL and IMT. The drug label provides detailed guidance on monitoring, managing, and modifying dosages in response to these hematological adverse reactions.",Most,Yes,1,1,
+DACOMITINIB,"The drug label for VIZIMPRO (dacomitinib) includes information on hematological toxicity risks and reactions in the following sections:
+
+1. **Adverse Reactions (6.1 Clinical Trials Experience)**:
+   - The label mentions that anemia and lymphopenia were observed as laboratory abnormalities worsening from baseline in more than 20% of patients in the ARCHER 1050 clinical trial. Specifically:
+     - **Anemia**: 44% of patients experienced anemia, with 0.9% experiencing Grade 3 or 4 anemia. This indicates that the drug itself was associated with causing anemia.
+     - **Lymphopenia**: 42% of patients experienced lymphopenia, with 6% experiencing Grade 3 or 4 lymphopenia. This indicates that the drug itself was associated with causing lymphopenia.
+
+2. **Table 4. Laboratory Abnormalities Worsening from Baseline in >20% of Patients in ARCHER 1050**:
+   - This table provides detailed percentages of patients experiencing hematological abnormalities:
+     - **Anemia**: 44% of patients experienced anemia, with 0.9% experiencing Grade 3 or 4 anemia. This confirms that the drug itself was associated with causing anemia.
+     - **Lymphopenia**: 42% of patients experienced lymphopenia, with 6% experiencing Grade 3 or 4 lymphopenia. This confirms that the drug itself was associated with causing lymphopenia.
+
+In summary, the drug VIZIMPRO (dacomitinib) was associated with causing hematological risks, specifically anemia and lymphopenia, in patients during clinical trials.",Most,Yes,1,1,
+DEFIBROTIDE SODIUM,"### Summary of Hematological Toxicity Risks and Reactions for DEFITELIO
+
+1. **Hemorrhage Risk**:
+   - **Sentence**: ""DEFITELIO increased the activity of fibrinolytic enzymes in vitro, and it may increase the risk of bleeding in patients with VOD after hematopoietic stem-cell transplantation (HSCT).""
+   - **Summary**: DEFITELIO itself may increase the risk of bleeding in patients with VOD after HSCT.
+
+2. **Monitoring for Bleeding**:
+   - **Sentence**: ""Do not initiate DEFITELIO in patients with active bleeding. Monitor patients for signs of bleeding.""
+   - **Summary**: DEFITELIO itself should not be initiated in patients with active bleeding, and patients on DEFITELIO should be monitored for signs of bleeding.
+
+3. **Discontinuation Due to Bleeding**:
+   - **Sentence**: ""If patients on DEFITELIO develop bleeding, discontinue DEFITELIO, treat the underlying cause, and provide supportive care until the bleeding has stopped.""
+   - **Summary**: DEFITELIO itself should be discontinued if bleeding develops in patients.
+
+4. **Concomitant Use with Anticoagulants**:
+   - **Sentence**: ""Concomitant use of DEFITELIO and a systemic anticoagulant or fibrinolytic therapy (not including use for routine maintenance or reopening of central venous lines) may increase the risk of bleeding.""
+   - **Summary**: DEFITELIO itself, when used with systemic anticoagulants or fibrinolytic therapy, may increase the risk of bleeding.
+
+5. **Adverse Reactions Leading to Discontinuation**:
+   - **Sentence**: ""Adverse reactions leading to permanent discontinuation included pulmonary alveolar hemorrhage in 5 (5%) patients; pulmonary hemorrhage, hypotension, catheter site hemorrhage, and multi-organ failure, each in 3 (3%) patients; and cerebral hemorrhage and sepsis, each in 2 (2%) patients.""
+   - **Summary**: DEFITELIO itself was associated with adverse reactions leading to permanent discontinuation, including various types of hemorrhage.
+
+6. **Common Adverse Reactions**:
+   - **Sentence**: ""The most common adverse reactions (incidence ≥10% and independent of causality) were hypotension, diarrhea, vomiting, nausea, and epistaxis.""
+   - **Summary**: DEFITELIO itself was associated with common adverse reactions, including epistaxis (nosebleeds).
+
+7. **Serious Adverse Reactions**:
+   - **Sentence**: ""The most common serious adverse reactions (incidence ≥5% and independent of causality) were hypotension (11%) and pulmonary alveolar hemorrhage (7%).""
+   - **Summary**: DEFITELIO itself was associated with serious adverse reactions, including pulmonary alveolar hemorrhage.
+
+8. **Hemorrhage Events**:
+   - **Sentence**: ""Hemorrhage events of any type and any grade were reported for 104 (59%) of the patients, and the events were grade 4-5 in 35 (20%).""
+   - **Summary**: DEFITELIO itself was associated with hemorrhage events of various types and grades in a significant proportion of patients.
+
+9. **Drug Interactions**:
+   - **Sentence**: ""DEFITELIO may enhance the pharmacodynamic activity of antithrombotic/fibrinolytic drugs such as heparin or alteplase.""
+   - **Summary**: DEFITELIO itself may enhance the activity of antithrombotic/fibrinolytic drugs, increasing the risk of bleeding.
+
+10. **Clinical Trials Experience**:
+    - **Sentence**: ""The safety of DEFITELIO was determined in 176 adult and pediatric patients with hepatic VOD with pulmonary and/or renal dysfunction following HSCT who were treated with DEFITELIO 6.25 mg/kg every 6 hours.""
+    - **Summary**: DEFITELIO itself was evaluated for safety in clinical trials involving patients with hepatic VOD and associated dysfunctions.
+
+11. **Adverse Reactions in Clinical Trials**:
+    - **Sentence**: ""The most common adverse reactions (incidence ≥10% and independent of causality) were hypotension, diarrhea, vomiting, nausea, and epistaxis.""
+    - **Summary**: DEFITELIO itself was associated with common adverse reactions, including epistaxis, in clinical trials.
+
+12. **Serious Adverse Reactions in Clinical Trials**:
+    - **Sentence**: ""The most common serious adverse reactions (incidence ≥5% and independent of causality) were hypotension (11%) and pulmonary alveolar hemorrhage (7%).""
+    - **Summary**: DEFITELIO itself was associated with serious adverse reactions, including pulmonary alveolar hemorrhage, in clinical trials.
+
+13. **Hemorrhage Events in Clinical Trials**:
+    - **Sentence**: ""Hemorrhage events of any type and any grade were reported for 104 (59%) of the patients, and the events were grade 4-5 in 35 (20%).""
+    - **Summary**: DEFITELIO itself was associated with hemorrhage events of various types and grades in clinical trials.
+
+### Conclusion
+DEFITELIO is associated with an increased risk of bleeding and various hemorrhagic events. It should be used with caution, particularly in patients with active bleeding or those receiving anticoagulant or fibrinolytic therapy. Monitoring for signs of bleeding is essential, and discontinuation may be necessary if significant bleeding occurs.",Most,Yes,1,1,
+DESLORATADINE,"The provided drug label for CLARINEX (desloratadine) does not explicitly mention hematological toxicity risks or hematological reactions. The label primarily focuses on the drug's indications, dosage, contraindications, warnings, adverse reactions, and pharmacokinetics, but it does not include any specific information about hematological toxicity or reactions.
+
+To summarize:
+
+1. **Contraindications**: The label mentions hypersensitivity to desloratadine or any of its ingredients but does not mention hematological toxicity.
+2. **Warnings and Precautions**: The label discusses hypersensitivity reactions such as rash, pruritus, urticaria, edema, dyspnea, and anaphylaxis but does not mention hematological reactions.
+3. **Adverse Reactions**: The label lists common adverse reactions like pharyngitis, dry mouth, myalgia, fatigue, somnolence, and dysmenorrhea but does not include hematological reactions.
+4. **Clinical Trials Experience**: The label provides data on adverse events from clinical trials but does not report any hematological toxicity or reactions.
+5. **Post-Marketing Experience**: The label mentions adverse events reported during the marketing of desloratadine, such as tachycardia, palpitations, dyspnea, rash, pruritus, psychomotor hyperactivity, movement disorders, seizures, hypersensitivity reactions, elevated liver enzymes, hepatitis, and increased appetite, but does not include hematological reactions.
+
+In conclusion, the drug label for CLARINEX does not associate the drug with hematological toxicity risks or hematological reactions.",No,No,1,1,
+DILTIAZEM HCI,"The drug label for Diltiazem HCI for Injection does not explicitly mention hematological toxicity risks or reactions directly associated with the drug itself. However, it does list some hematological reactions observed with oral diltiazem, which may also be relevant for the injectable form. Here is a summary of the relevant parts:
+
+1. **Adverse Reactions (Oral Diltiazem)**
+   - **Leukopenia**: This condition, characterized by a reduced white blood cell count, has been associated with oral diltiazem.
+   - **Thrombocytopenia**: This condition, characterized by a reduced platelet count, has also been associated with oral diltiazem.
+   - **Hemolytic Anemia**: This condition, characterized by the destruction of red blood cells, has been associated with oral diltiazem.
+
+These reactions were observed with oral diltiazem and may occur with the injectable form, although they were not specifically noted in the clinical trials for the injectable form.",Less,Yes,1,1,
+DIMERCAPROL,"### Summary of Hematological Toxicity Risks and Reactions for Dimercaprol Injection, USP
+
+1. **Warnings Section:**
+   - **Sentence:** ""A transient reduction of the percentage of polymorphonuclear leukocytes may also be observed.""
+   - **Summary:** The drug itself is associated with a temporary decrease in the percentage of polymorphonuclear leukocytes.
+
+2. **Adverse Reactions Section:**
+   - **Sentence:** ""One of the most consistent responses to Dimercaprol Injection USP is a rise in blood pressure accompanied by tachycardia.""
+   - **Summary:** This sentence does not discuss hematological toxicity.
+   - **Sentence:** ""This rise is roughly proportional to the dose administered.""
+   - **Summary:** This sentence does not discuss hematological toxicity.
+   - **Sentence:** ""Doses larger than those recommended may cause other transitory signs and symptoms in approximate order of frequency as follows: (1) nausea and, in some instance, vomiting; (2) headache; (3) a burning sensation in the lips, mouth and throat; (4) a feeling of constriction, even pain, in the throat, chest, or hands; (5) conjunctivitis, lacrimation, blepharal spasm, rhinorrhea, and salivation; (6) tingling of the hands; (7) a burning sensation in the penis; (8) sweating of the forehead, hands and other areas; (9) abdominal pain; and (10) occasional appearance of painful sterile abscesses.""
+   - **Summary:** This sentence does not discuss hematological toxicity.
+
+### Conclusion
+The drug label for Dimercaprol Injection, USP, specifically mentions a transient reduction in the percentage of polymorphonuclear leukocytes as a hematological reaction associated with the drug. No other hematological toxicity risks or reactions are discussed in the provided sections of the drug label.",Less,Yes,1,1,
+ESKETAMINE HYDROCHLORIDE,"The provided drug label for SPRAVATO (esketamine) nasal spray does not explicitly mention hematological toxicity risks or hematological reactions. The label primarily focuses on other types of risks and adverse reactions, such as sedation, dissociation, respiratory depression, abuse and misuse, suicidal thoughts and behaviors, increases in blood pressure, cognitive impairment, and bladder problems. 
+
+To summarize, there are no sections in the provided drug label that discuss hematological toxicity risks or hematological reactions associated with SPRAVATO.",No,No,1,1,
+FLAVOXATE HYDROCHLORIDE,"The drug label for Flavoxate Hydrochloride Tablets 100 mg mentions hematological toxicity risks and reactions in the following sections:
+
+1. **Adverse Reactions:**
+   - **Hematologic:**
+     - ""Leukopenia (one case which was reversible upon discontinuation of the drug).""
+       - **Summary:** The drug was associated with leukopenia, but this condition was reversible upon discontinuation of the drug.
+
+2. **Allergic:**
+   - ""Urticaria and other dermatoses, eosinophilia and hyperpyrexia.""
+     - **Summary:** The drug was associated with eosinophilia, which is an increase in the number of eosinophils in the blood, indicating a hematological reaction.
+
+In summary, the drug label indicates that Flavoxate Hydrochloride has been associated with leukopenia and eosinophilia as hematological reactions.",Less,Yes,1,1,
+FLUDEOXYGLUCOSE F-18,"The drug label for Fludeoxyglucose F 18 Injection, USP does not explicitly discuss hematological toxicity risks or hematological reactions. The primary focus of the warnings and precautions sections is on radiation risks, blood glucose abnormalities, and hypersensitivity reactions. Here is a summary of the relevant sections:
+
+1. **Warnings and Precautions:**
+   - **Radiation Risks:** The label mentions that radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients. This is a general radiation risk and not specific to hematological toxicity. The drug itself is associated with this risk due to its radioactive nature.
+   - **Blood Glucose Abnormalities:** Suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. This is related to the drug's interaction with glucose metabolism but does not indicate hematological toxicity.
+
+2. **Adverse Reactions:**
+   - **Hypersensitivity Reactions:** The label notes that hypersensitivity reactions with pruritus, edema, and rash have been reported. Emergency resuscitation equipment and personnel should be immediately available. These reactions are not hematological in nature and are associated with the drug.
+
+3. **Use in Specific Populations:**
+   - **Pregnancy Category C:** The label advises considering alternative diagnostic tests in pregnant women due to the lack of data on fetal harm. This is a precautionary measure and not specific to hematological toxicity.
+   - **Nursing Mothers:** The label suggests using alternatives to breastfeeding for at least 10 half-lives of radioactive decay if the drug is administered to a breastfeeding woman. This is to prevent radiation exposure to the infant and is not related to hematological toxicity.
+   - **Pediatric Use:** The safety and effectiveness of the drug in pediatric patients with epilepsy are established, but not in oncology or cardiology settings. This section does not mention hematological toxicity.
+
+4. **Clinical Pharmacology:**
+   - **Mechanism of Action:** The drug is a glucose analog that concentrates in cells relying on glucose for energy. This section explains the drug's function and does not mention hematological toxicity.
+
+5. **Nonclinical Toxicology:**
+   - **Carcinogenesis, Mutagenesis, Impairment of Fertility:** Animal studies have not been performed to evaluate the drug's carcinogenic potential, mutagenic potential, or effects on fertility. This section does not provide information on hematological toxicity.
+
+In summary, the drug label does not discuss hematological toxicity risks or hematological reactions specifically associated with Fludeoxyglucose F 18 Injection, USP. The primary concerns are related to radiation exposure, blood glucose abnormalities, and hypersensitivity reactions.",No,No,1,1,
+FLUPHENAZINE DECANOATE,"### Summary of Hematological Toxicity Risks and Reactions for Fluphenazine Decanoate Injection
+
+1. **Leukopenia, Neutropenia, and Agranulocytosis:**
+   - **Sentence:** ""In clinical trial and postmarketing experience, events of leukopenia/neutropenia and agranulocytosis have been reported temporally related to antipsychotic agents.""
+   - **Summary:** The drug has been associated with leukopenia, neutropenia, and agranulocytosis based on clinical trials and postmarketing data.
+
+2. **Risk Factors for Leukopenia/Neutropenia:**
+   - **Sentence:** ""Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia.""
+   - **Summary:** The drug may pose a higher risk of leukopenia/neutropenia in patients with pre-existing low WBC or a history of drug-induced leukopenia/neutropenia.
+
+3. **Monitoring and Discontinuation:**
+   - **Sentence:** ""Patients with a pre-existing low WBC or a history of drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue Fluphenazine Decanoate Injection at the first sign of a decline in WBC in the absence of other causative factors.""
+   - **Summary:** The drug requires frequent CBC monitoring in at-risk patients and discontinuation if WBC declines.
+
+4. **Monitoring for Infection:**
+   - **Sentence:** ""Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.""
+   - **Summary:** The drug necessitates careful monitoring for infection in patients with neutropenia.
+
+5. **Severe Neutropenia:**
+   - **Sentence:** ""Patients with severe neutropenia (absolute neutrophil count <1,000/mm³) should discontinue Fluphenazine Decanoate Injection and have their WBC followed until recovery.""
+   - **Summary:** The drug should be discontinued in patients with severe neutropenia.
+
+6. **Routine Blood Counts:**
+   - **Sentence:** ""Routine blood counts are advisable during therapy since blood dyscrasias including leukopenia, agranulocytosis, thrombocytopenic or nonthrombocytopenic purpura, eosinophilia, and pancytopenia have been observed with phenothiazine derivatives.""
+   - **Summary:** The drug is associated with various blood dyscrasias, necessitating routine blood counts during therapy.
+
+7. **Symptoms of Blood Dyscrasias:**
+   - **Sentence:** ""Furthermore, if any soreness of the mouth, gums, or throat, or any symptoms of upper respiratory infection occur and confirmatory leukocyte count indicates cellular depression, therapy should be discontinued and other appropriate measures instituted immediately.""
+   - **Summary:** The drug should be discontinued if symptoms of blood dyscrasias and cellular depression are confirmed.
+
+### Conclusion
+Fluphenazine Decanoate Injection is associated with several hematological risks, including leukopenia, neutropenia, agranulocytosis, thrombocytopenic or nonthrombocytopenic purpura, eosinophilia, and pancytopenia. Routine blood monitoring is recommended, and the drug should be discontinued if significant hematological abnormalities are detected.",Most,Yes,1,1,
+GLOFITAMAB,"### Summary of Hematological Toxicity Risks and Reactions for COLUMVI
+
+1. **Adverse Reactions (Section 6.1)**
+   - **Neutropenia**: COLUMVI was associated with decreased neutrophil counts. Grade 3 or 4 neutrophil decrease occurred in 26% of patients, with Grade 4 neutrophil decrease in 9% of patients.
+   - **Lymphocyte Count Decreased**: COLUMVI was associated with decreased lymphocyte counts in 90% of patients, with 83% experiencing Grade 3 or 4 decreases.
+   - **Platelets Decreased**: COLUMVI was associated with decreased platelet counts in 56% of patients, with 8% experiencing Grade 3 or 4 decreases.
+   - **Hemoglobin Decreased**: COLUMVI was associated with decreased hemoglobin levels in 72% of patients, with 8% experiencing Grade 3 or 4 decreases.
+
+2. **Dosage Modifications for Adverse Reactions (Section 2.4)**
+   - **Neutropenia**: If the absolute neutrophil count is less than 0.5 × 10^9/L, COLUMVI should be withheld until the count is 0.5 × 10^9/L or higher.
+   - **Thrombocytopenia**: If the platelet count is less than 50 × 10^9/L, COLUMVI should be withheld until the count is 50 × 10^9/L or higher.
+
+3. **Clinical Trials Experience (Section 6.1)**
+   - **Febrile Neutropenia**: COLUMVI was associated with febrile neutropenia in 3.4% of patients.
+   - **Laboratory Abnormalities**: COLUMVI was associated with several hematological laboratory abnormalities, including decreased lymphocyte counts, decreased hemoglobin, decreased neutrophil counts, and decreased platelet counts.
+
+4. **Warnings and Precautions (Section 5.3)**
+   - **Serious Infections**: COLUMVI can cause serious or fatal infections, and febrile neutropenia was reported in 3.4% of patients.
+
+### Conclusion
+COLUMVI is associated with several hematological toxicities, including neutropenia, lymphocyte count decrease, thrombocytopenia, and hemoglobin decrease. These adverse reactions necessitate careful monitoring and potential dosage modifications to manage the risks effectively.",Most,Yes,1,1,
+GUSELKUMAB,"The drug label for TREMFYA (guselkumab) includes the following information related to hematological toxicity risks and hematological reactions:
+
+1. **Neutrophil Count Decreased**:
+   - **Psoriatic Arthritis Clinical Trials**: In the 24-week placebo-controlled period, combined across two studies, neutrophil count decreased occurred in 0.3% of subjects in the TREMFYA q8w group and 1.6% of subjects in the TREMFYA q4w group compared to 0% of subjects in the placebo group. The majority of events of neutrophil count decreased were mild, transient, not associated with infection, and did not lead to discontinuation.
+     - **Summary**: The drug itself was associated with a decrease in neutrophil count, but these events were generally mild and transient.
+
+2. **Elevated Liver Enzymes**:
+   - **Plaque Psoriasis Clinical Trials**: Elevated liver enzymes were reported more frequently in the TREMFYA group (2.6%) than in the placebo group (1.9%). Of the 21 subjects who were reported to have elevated liver enzymes in the TREMFYA group, all events except one were mild to moderate in severity and none of the events led to discontinuation of TREMFYA.
+     - **Summary**: The drug itself was associated with elevated liver enzymes, which is a hematological reaction, but these events were generally mild to moderate.
+
+3. **General Infections**:
+   - **Clinical Trials**: Infections occurred in 23% of subjects in the TREMFYA group compared to 21% of subjects in the placebo group. The most common infections were upper respiratory infections, gastroenteritis, tinea infections, and herpes simplex infections; all cases were mild to moderate in severity and did not lead to discontinuation of TREMFYA.
+     - **Summary**: The drug itself was associated with an increased risk of infections, which can be related to hematological toxicity, but these infections were generally mild to moderate.
+
+4. **Hypersensitivity Reactions**:
+   - **Postmarketing Experience**: Hypersensitivity, including anaphylaxis, has been reported. Some cases required hospitalization.
+     - **Summary**: The drug itself was associated with hypersensitivity reactions, including anaphylaxis, which can be considered a hematological reaction.
+
+In summary, TREMFYA is associated with certain hematological risks, including decreased neutrophil count, elevated liver enzymes, increased risk of infections, and hypersensitivity reactions. These events were generally mild to moderate and did not typically lead to discontinuation of the drug.",Less,Yes,1,1,
+IMATINIB,"### Summary of Hematological Toxicity Risks and Reactions for Imatinib Mesylate Tablets
+
+1. **Warnings and Precautions (Section 5.2)**
+   - **Sentence:** ""Treatment with imatinib mesylate is associated with anemia, neutropenia, and thrombocytopenia.""
+   - **Summary:** The drug itself is associated with anemia, neutropenia, and thrombocytopenia.
+
+   - **Sentence:** ""Perform complete blood counts weekly for the first month, biweekly for the second month, and periodically thereafter as clinically indicated.""
+   - **Summary:** Regular blood count monitoring is recommended due to the drug's association with hematological toxicity.
+
+   - **Sentence:** ""In CML, the occurrence of these cytopenias is dependent on the stage of disease and is more frequent in patients with accelerated phase CML or blast crisis than in patients with chronic phase CML.""
+   - **Summary:** The drug's association with cytopenias varies with the stage of CML, being more frequent in advanced stages.
+
+   - **Sentence:** ""In pediatric CML patients the most frequent toxicities observed were Grade 3 or 4 cytopenias, including neutropenia, thrombocytopenia and anemia.""
+   - **Summary:** The drug itself caused Grade 3 or 4 cytopenias in pediatric CML patients.
+
+2. **Adverse Reactions (Section 6.1)**
+   - **Sentence:** ""The following serious adverse reactions are described elsewhere in the labeling: Hematologic Toxicity.""
+   - **Summary:** Hematologic toxicity is a serious adverse reaction associated with the drug.
+
+   - **Sentence:** ""Cytopenias, and particularly neutropenia and thrombocytopenia, were a consistent finding in all studies, with a higher frequency at doses greater than or equal to 750 mg (Phase 1 study).""
+   - **Summary:** The drug itself consistently caused cytopenias, especially neutropenia and thrombocytopenia, at higher doses.
+
+   - **Sentence:** ""The occurrence of cytopenias in CML patients was also dependent on the stage of the disease.""
+   - **Summary:** The drug's association with cytopenias varies with the stage of CML.
+
+   - **Sentence:** ""In patients with newly diagnosed CML, cytopenias were less frequent than in the other CML patients.""
+   - **Summary:** The drug caused fewer cytopenias in newly diagnosed CML patients compared to those in advanced stages.
+
+   - **Sentence:** ""The frequency of Grade 3 or 4 neutropenia and thrombocytopenia was between 2- and 3-fold higher in blast crisis and accelerated phase compared to chronic phase.""
+   - **Summary:** The drug caused more frequent Grade 3 or 4 neutropenia and thrombocytopenia in advanced stages of CML.
+
+   - **Sentence:** ""These reactions can usually be managed with either a reduction of the dose or an interruption of treatment with imatinib mesylate, but may require permanent discontinuation of treatment.""
+   - **Summary:** The drug's hematological toxicities can often be managed by dose adjustment or treatment interruption.
+
+3. **Dose Adjustment for Hematologic Adverse Reactions (Section 2.14)**
+   - **Sentence:** ""Dose reduction or treatment interruptions for severe neutropenia and thrombocytopenia are recommended.""
+   - **Summary:** The drug itself necessitates dose reduction or treatment interruption for severe neutropenia and thrombocytopenia.
+
+4. **Adverse Reactions in Pediatric Population (Section 6.1)**
+   - **Sentence:** ""The incidence of Grade 3/4 events across all types of adverse reactions was 75%; the events with the highest Grade 3/4 incidence in CML pediatric patients were mainly related to myelosuppression.""
+   - **Summary:** The drug itself caused a high incidence of Grade 3/4 myelosuppression in pediatric CML patients.
+
+5. **Adverse Reactions in Other Subpopulations (Section 6.1)**
+   - **Sentence:** ""In women there was an increase in the frequency of neutropenia.""
+   - **Summary:** The drug itself caused an increased frequency of neutropenia in women.
+
+6. **Acute Lymphoblastic Leukemia (Section 14.3)**
+   - **Sentence:** ""The most frequently reported drug-related adverse reactions reported in the Ph+ ALL studies were mild nausea and vomiting, diarrhea, myalgia, muscle cramps and rash.""
+   - **Summary:** The drug itself caused mild nausea, vomiting, diarrhea, myalgia, muscle cramps, and rash in Ph+ ALL studies.
+
+7. **Hematologic and Biochemistry Laboratory Abnormalities (Section 6.1)**
+   - **Sentence:** ""Severe elevation of transaminases or bilirubin occurred in approximately 5% of CML patients.""
+   - **Summary:** The drug itself caused severe elevation of transaminases or bilirubin in approximately 5% of CML patients.
+
+8. **Adverse Reactions from Multiple Clinical Trials (Section 6.1)**
+   - **Sentence:** ""Hematologic and Biochemistry Laboratory Abnormalities: Cytopenias, and particularly neutropenia and thrombocytopenia, were a consistent finding in all studies.""
+   - **Summary:** The drug itself consistently caused cytopenias, particularly neutropenia and thrombocytopenia, in all studies.
+
+### Conclusion
+Imatinib mesylate tablets are consistently associated with hematological toxicities, including anemia, neutropenia, and thrombocytopenia, across various patient populations and stages of disease. These toxicities are dose-dependent and more frequent in advanced stages of CML. Regular monitoring and dose adjustments are recommended to manage these adverse reactions.",Most,Yes,1,1,
+IODINATED I-125 ALBUMIN,"The drug label for JEANATOPE (iodinated I 125 albumin) does not explicitly mention any hematological toxicity risks or hematological reactions directly associated with the drug itself. Here is a summary of the relevant sections:
+
+1. **Adverse Reactions**:
+   - The label lists ""Hypersensitivity"" under immune system disorders as an identified adverse reaction. However, it does not specify any hematological reactions or toxicity directly caused by JEANATOPE.
+
+2. **Warnings**:
+   - The label mentions ""aseptic meningitis and pyrogenic reactions"" following cisternography with JEANATOPE, but these are not hematological reactions and the drug is not approved for cisternography.
+
+3. **Precautions**:
+   - The label advises minimizing radiation exposure to patients and healthcare providers, but this is a general precaution for all radiopharmaceuticals and not specific to hematological toxicity.
+
+4. **Pregnancy and Nursing Mothers**:
+   - The label discusses the potential for iodine-125 to cross the placenta and affect fetal thyroid function, and the presence of iodine-125 in human milk, but does not mention hematological risks.
+
+5. **Pediatric and Geriatric Use**:
+   - The label states that safety and effectiveness in pediatric patients have not been established and that there is insufficient data to determine if elderly patients respond differently, but does not mention hematological risks.
+
+In summary, the drug label does not provide any specific information indicating that JEANATOPE is associated with or causes hematological toxicity or reactions.",No,No,1,1,
+ISOSORBIDE MONONITRATE,"The drug label for Isosorbide Mononitrate Extended-Release Tablets, USP, mentions hematological toxicity risks and reactions in the following sections:
+
+1. **Overdosage - Methemoglobinemia**:
+   - **Sentence**: ""Methemoglobinemia has been reported in patients receiving other organic nitrates, and it probably could also occur as a side effect of isosorbide mononitrate.""
+     - **Summary**: Methemoglobinemia has been associated with other organic nitrates and could potentially occur with isosorbide mononitrate.
+   - **Sentence**: ""Certainly nitrate ions liberated during metabolism of isosorbide mononitrate can oxidize hemoglobin into methemoglobin.""
+     - **Summary**: The drug itself can cause methemoglobinemia by oxidizing hemoglobin into methemoglobin.
+   - **Sentence**: ""Even in patients totally without cytochrome b5 reductase activity, however, and even assuming that the nitrate moiety of isosorbide mononitrate is quantitatively applied to oxidation of hemoglobin, about 2 mg/kg of isosorbide mononitrate should be required before any of these patients manifest clinically significant (≥10%) methemoglobinemia.""
+     - **Summary**: The drug itself requires a specific dose to cause clinically significant methemoglobinemia in patients without cytochrome b5 reductase activity.
+   - **Sentence**: ""In patients with normal reductase function, significant production of methemoglobin should require even larger doses of isosorbide mononitrate.""
+     - **Summary**: The drug itself requires larger doses to cause significant methemoglobinemia in patients with normal reductase function.
+   - **Sentence**: ""In one study in which 36 patients received 2 to 4 weeks of continuous nitroglycerin therapy at 3.1 to 4.4 mg/hr (equivalent, in total administered dose of nitrate ions, to 7.8 to 11.1 mg of isosorbide mononitrate per hour), the average methemoglobin level measured was 0.2%; this was comparable to that observed in parallel patients who received placebo.""
+     - **Summary**: The drug itself did not cause significant methemoglobinemia in a study, as levels were comparable to placebo.
+   - **Sentence**: ""Not with standing these observations, there are case reports of significant methemoglobinemia in association with moderate overdoses of organic nitrates.""
+     - **Summary**: Moderate overdoses of organic nitrates, including isosorbide mononitrate, have been associated with significant methemoglobinemia.
+   - **Sentence**: ""None of the affected patients had been thought to be unusually susceptible.""
+     - **Summary**: The drug itself caused methemoglobinemia in patients not thought to be unusually susceptible.
+
+2. **Adverse Reactions - Red Blood Cell Disorder**:
+   - **Sentence**: ""Hypochromic anemia.""
+     - **Summary**: The drug itself has been associated with hypochromic anemia.
+
+In summary, the drug label indicates that isosorbide mononitrate can potentially cause methemoglobinemia and hypochromic anemia. Methemoglobinemia is a risk particularly in cases of overdose or in patients with certain enzyme deficiencies, while hypochromic anemia is listed as an adverse reaction.",Less,Yes,1,1,
+LIFITEGRAST,"The drug label for Xiidra (lifitegrast ophthalmic solution) does not explicitly mention hematological toxicity risks or hematological reactions. The sections of the label that discuss adverse reactions, clinical trials experience, and postmarketing experience do not include any references to hematological issues. The focus is primarily on ocular and systemic reactions such as instillation-site irritation, dysgeusia, decreased visual acuity, and hypersensitivity reactions.
+
+Here is a summary of the relevant sections:
+
+1. **Adverse Reactions (Section 6)**:
+   - **Clinical Trials Experience (6.1)**: The most common adverse reactions were instillation-site irritation, dysgeusia, and decreased visual acuity. Other reactions included blurred vision, conjunctival hyperemia, eye irritation, headache, increased lacrimation, eye discharge, eye discomfort, eye pruritus, and sinusitis. No hematological reactions were mentioned.
+   - **Postmarketing Experience (6.2)**: Rare serious cases of hypersensitivity, including anaphylactic reaction, bronchospasm, respiratory distress, pharyngeal edema, swollen tongue, urticaria, allergic conjunctivitis, dyspnea, angioedema, and allergic dermatitis were reported. Eye swelling and rash were also reported. No hematological reactions were mentioned.
+
+2. **Nonclinical Toxicology (Section 13)**:
+   - **Carcinogenesis, Mutagenesis, Impairment of Fertility (13.1)**: Lifitegrast was not mutagenic in the in vitro Ames assay and not clastogenic in the in vivo mouse micronucleus assay. In an in vitro chromosomal aberration assay using mammalian cells, lifitegrast was positive at the highest concentration tested, without metabolic activation. No hematological toxicity was mentioned.
+
+In conclusion, the drug label for Xiidra does not associate the drug with hematological toxicity risks or hematological reactions. The adverse reactions and nonclinical toxicology sections do not mention any hematological issues related to the use of Xiidra.",No,No,1,1,
+LOFEXIDINE HYDROCHLORIDE,"The drug label for LUCEMYRA (lofexidine) does not explicitly discuss hematological toxicity risks or hematological reactions. The provided label focuses on various other risks and adverse reactions, such as hypotension, bradycardia, syncope, QT prolongation, CNS depression, and opioid overdose risk after discontinuation. It also details the drug's pharmacokinetics, interactions, and specific population considerations, but there is no mention of hematological toxicity or reactions associated with LUCEMYRA.
+
+Therefore, based on the provided drug label, there are no hematological toxicity risks or reactions associated with LUCEMYRA.",No,No,1,1,
+MEROPENEM,"### Summary of Hematological Toxicity Risks and Hematological Reactions for Meropenem for Injection
+
+1. **Thrombocytopenia in Patients with Renal Dysfunction (Section 5.8)**
+   - **Summary:** Thrombocytopenia has been observed in patients with renal impairment.
+   - **Association:** The drug itself was associated with thrombocytopenia in patients with renal dysfunction.
+
+2. **Hematologic Laboratory Abnormalities (Section 6.1)**
+   - **Summary:** Laboratory abnormalities in hematologic parameters were observed in greater than 0.2% of patients treated with meropenem for injection. These included increased platelets, increased eosinophils, decreased platelets, decreased hemoglobin, decreased hematocrit, decreased white blood cell (WBC) count, shortened prothrombin time, and shortened partial thromboplastin time.
+   - **Association:** The drug itself was associated with these hematologic laboratory abnormalities.
+
+3. **Post-marketing Experience (Section 6.2)**
+   - **Summary:** Post-marketing reports identified hematological reactions such as agranulocytosis, neutropenia, leukopenia, a positive direct or indirect Coombs test, and hemolytic anemia.
+   - **Association:** The drug itself was associated with these hematological reactions based on post-marketing reports.
+
+### Detailed Breakdown
+
+1. **Thrombocytopenia in Patients with Renal Dysfunction (Section 5.8)**
+   - **Text:** ""In patients with renal dysfunction, thrombocytopenia has been observed but no clinical bleeding reported.""
+   - **Summary:** Thrombocytopenia has been observed in patients with renal impairment.
+   - **Association:** The drug itself was associated with thrombocytopenia in patients with renal dysfunction.
+
+2. **Hematologic Laboratory Abnormalities (Section 6.1)**
+   - **Text:** ""Laboratory abnormalities that occurred in greater than 0.2% of the meropenem for injection-treated patients were as follows: increased platelets, increased eosinophils, decreased platelets, decreased hemoglobin, decreased hematocrit, decreased white blood cell (WBC), shortened prothrombin time and shortened partial thromboplastin time, leukocytosis, hypokalemia.""
+   - **Summary:** Laboratory abnormalities in hematologic parameters were observed in greater than 0.2% of patients treated with meropenem for injection. These included increased platelets, increased eosinophils, decreased platelets, decreased hemoglobin, decreased hematocrit, decreased white blood cell (WBC) count, shortened prothrombin time, and shortened partial thromboplastin time.
+   - **Association:** The drug itself was associated with these hematologic laboratory abnormalities.
+
+3. **Post-marketing Experience (Section 6.2)**
+   - **Text:** ""Worldwide post-marketing adverse reactions not otherwise listed under the Clinical Trials Experience subsection and reported as possibly, probably, or definitely drug related are listed within each body system in order of decreasing severity. Blood and Lymphatic System Disorders: agranulocytosis, neutropenia, and leukopenia; a positive direct or indirect Coombs test, and hemolytic anemia.""
+   - **Summary:** Post-marketing reports identified hematological reactions such as agranulocytosis, neutropenia, leukopenia, a positive direct or indirect Coombs test, and hemolytic anemia.
+   - **Association:** The drug itself was associated with these hematological reactions based on post-marketing reports.",Most,Yes,1,1,
+NIMODIPINE,"The provided drug label for NYMALIZE (nimodipine) does not explicitly mention hematological toxicity risks or hematological reactions. The label primarily focuses on the drug's indications, dosage, administration, contraindications, warnings, precautions, adverse reactions, drug interactions, and use in specific populations. 
+
+Here is a summary of the relevant sections that might indirectly relate to hematological concerns, although they do not specifically address hematological toxicity:
+
+1. **Adverse Reactions (Section 6.1)**:
+   - The most common adverse reactions reported were hypotension, headache, nausea, and bradycardia. 
+   - **Summary**: No hematological toxicity or reactions were associated with the drug itself in this section.
+
+2. **Warnings and Precautions (Section 5)**:
+   - **Hypotension (5.1)**: Blood pressure should be carefully monitored during treatment.
+   - **Possible Increased Risk of Adverse Reactions in Patients with Cirrhosis (5.2)**: Patients with cirrhosis are at higher risk of adverse reactions due to increased plasma levels of nimodipine.
+   - **Possible Increased Risk of Hypotension with Strong CYP3A4 Inhibitors (5.3)**: Concomitant use with strong CYP3A4 inhibitors should generally be avoided due to the risk of significant hypotension.
+   - **Possible Reduced Efficacy with Strong CYP3A4 Inducers (5.4)**: Concomitant use with strong CYP3A4 inducers should generally be avoided as it may reduce the efficacy of nimodipine.
+   - **Summary**: No hematological toxicity or reactions were associated with the drug itself in this section.
+
+3. **Drug Interactions (Section 7)**:
+   - **Blood Pressure Lowering Drugs (7.1)**: Nimodipine may increase the blood pressure-lowering effect of concomitantly administered antihypertensives.
+   - **CYP3A4 Inhibitors (7.2)**: Nimodipine plasma concentration can be significantly increased with strong CYP3A4 inhibitors, increasing the risk of hypotension.
+   - **CYP3A4 Inducers (7.3)**: Nimodipine plasma concentration and efficacy may be significantly reduced with strong CYP3A4 inducers.
+   - **Summary**: No hematological toxicity or reactions were associated with the drug itself in this section.
+
+4. **Use in Specific Populations (Section 8)**:
+   - **Pregnancy (8.1)**: Based on animal data, nimodipine may cause fetal harm.
+   - **Lactation (8.2)**: Nimodipine has been detected in human milk.
+   - **Pediatric Use (8.4)**: Safety and effectiveness in pediatric patients have not been established.
+   - **Geriatric Use (8.5)**: Dosing in elderly patients should be cautious due to the greater frequency of decreased hepatic, renal, or cardiac function.
+   - **Summary**: No hematological toxicity or reactions were associated with the drug itself in this section.
+
+5. **Clinical Studies (Section 14)**:
+   - The clinical studies section discusses the efficacy of nimodipine in reducing the severity of neurological deficits resulting from vasospasm in patients with subarachnoid hemorrhage.
+   - **Summary**: No hematological toxicity or reactions were associated with the drug itself in this section.
+
+In conclusion, the drug label for NYMALIZE does not provide any information indicating that the drug itself is associated with or causes hematological toxicity risks or hematological reactions.",No,No,1,1,
+NIVOLUMAB,"### Summary of Hematological Toxicity Risks and Reactions for OPDIVO (Nivolumab)
+
+#### Hematological Toxicity Risks and Reactions
+
+1. **Immune-Mediated Adverse Reactions:**
+   - **Blood and Lymphatic System Disorders:**
+     - **Hemophagocytic Lymphohistiocytosis (HLH):** The drug itself has been associated with HLH, including fatal cases.
+     - **Autoimmune Hemolytic Anemia:** The drug itself has been associated with autoimmune hemolytic anemia, including fatal cases.
+
+2. **Adverse Reactions in Clinical Trials:**
+   - **Classical Hodgkin Lymphoma (cHL):**
+     - **Hematology:**
+       - **Lymphopenia:** The drug itself was associated with lymphopenia in 32% of patients, with 11% experiencing Grade 3-4 severity.
+       - **Anemia:** The drug itself was associated with anemia in 26% of patients, with 2.6% experiencing Grade 3-4 severity.
+       - **Thrombocytopenia:** The drug itself was associated with thrombocytopenia in 37% of patients, with 3% experiencing Grade 3-4 severity.
+       - **Leukopenia:** The drug itself was associated with leukopenia in 38% of patients, with 4.5% experiencing Grade 3-4 severity.
+
+   - **Recurrent or Metastatic Squamous Cell Carcinoma of the Head and Neck (SCCHN):**
+     - **Hematology:**
+       - **Increased Alkaline Phosphatase:** The drug itself was associated with increased alkaline phosphatase in ≥10% of patients.
+       - **Increased Amylase:** The drug itself was associated with increased amylase in ≥10% of patients.
+       - **Hypercalcemia:** The drug itself was associated with hypercalcemia in ≥10% of patients.
+       - **Hyperkalemia:** The drug itself was associated with hyperkalemia in ≥10% of patients.
+       - **Increased TSH:** The drug itself was associated with increased TSH in ≥10% of patients.
+
+   - **Adjuvant Treatment of Urothelial Carcinoma (UC):**
+     - **Hematology:**
+       - **Lymphopenia:** The drug itself was associated with lymphopenia in 33% of patients, with 2.9% experiencing Grade 3-4 severity.
+       - **Anemia:** The drug itself was associated with anemia in 30% of patients, with 1.4% experiencing Grade 3-4 severity.
+       - **Neutropenia:** The drug itself was associated with neutropenia in 11% of patients, with 0.6% experiencing Grade 3-4 severity.
+
+   - **First-line Treatment of Unresectable or Metastatic UC:**
+     - **Hematology:**
+       - **Anemia:** The drug itself was associated with anemia in 88% of patients, with 21% experiencing Grade 3-4 severity.
+       - **Neutropenia:** The drug itself was associated with neutropenia in 82% of patients, with 35% experiencing Grade 3-4 severity.
+       - **Lymphopenia:** The drug itself was associated with lymphopenia in 71% of patients, with 17% experiencing Grade 3-4 severity.
+       - **Thrombocytopenia:** The drug itself was associated with thrombocytopenia in 60% of patients, with 13% experiencing Grade 3-4 severity.
+
+   - **Previously Treated Advanced or Metastatic UC:**
+     - **Hematology:**
+       - **Lymphopenia:** The drug itself was associated with lymphopenia in 42% of patients, with 9% experiencing Grade 3-4 severity.
+       - **Anemia:** The drug itself was associated with anemia in 40% of patients, with 7% experiencing Grade 3-4 severity.
+       - **Thrombocytopenia:** The drug itself was associated with thrombocytopenia in 15% of patients, with 2.4% experiencing Grade 3-4 severity.
+       - **Leukopenia:** The drug itself was associated with leukopenia in 11% of patients, with 0% experiencing Grade 3-4 severity.
+
+   - **MSI-H or dMMR Metastatic Colorectal Cancer:**
+     - **Hematology:**
+       - **Anemia:** The drug itself was associated with anemia in 50% of patients, with 7% experiencing Grade 3-4 severity.
+       - **Lymphopenia:** The drug itself was associated with lymphopenia in 36% of patients, with 7% experiencing Grade 3-4 severity.
+       - **Neutropenia:** The drug itself was associated with neutropenia in 20% of patients, with 4.3% experiencing Grade 3-4 severity.
+       - **Thrombocytopenia:** The drug itself was associated with thrombocytopenia in 16% of patients, with 1.4% experiencing Grade 3-4 severity.
+
+   - **Hepatocellular Carcinoma:**
+     - **Hematology:**
+       - **Lymphopenia:** The drug itself was associated with lymphopenia in 53% of patients, with 13% experiencing Grade 3-4 severity.
+       - **Anemia:** The drug itself was associated with anemia in 43% of patients, with 4.3% experiencing Grade 3-4 severity.
+       - **Neutropenia:** The drug itself was associated with neutropenia in 43% of patients, with 9% experiencing Grade 3-4 severity.
+       - **Leukopenia:** The drug itself was associated with leukopenia in 40% of patients, with 2.1% experiencing Grade 3-4 severity.
+       - **Thrombocytopenia:** The drug itself was associated with thrombocytopenia in 34% of patients, with 4.3% experiencing Grade 3-4 severity.
+
+   - **Esophageal Cancer:**
+     - **Hematology:**
+       - **Lymphopenia:** The drug itself was associated with lymphopenia in 44% of patients, with 17% experiencing Grade 3-4 severity.
+       - **Anemia:** The drug itself was associated with anemia in 27% of patients, with 0.8% experiencing Grade 3-4 severity.
+       - **Neutropenia:** The drug itself was associated with neutropenia in 24% of patients, with 1.5% experiencing Grade 3-4 severity.
+
+   - **First-line Treatment of Unresectable Advanced or Metastatic ESCC:**
+     - **Hematology:**
+       - **Anemia:** The drug itself was associated with anemia in 81% of patients, with 21% experiencing Grade 3-4 severity.
+       - **Lymphopenia:** The drug itself was associated with lymphopenia in 67% of patients, with 23% experiencing Grade 3-4 severity.
+       - **Neutropenia:** The drug itself was associated with neutropenia in 61% of patients, with 18% experiencing Grade 3-4 severity.
+       - **Leukopenia:** The drug itself was associated with leukopenia in 53% of patients, with 11% experiencing Grade 3-4 severity.
+       - **Thrombocytopenia:** The drug itself was associated with thrombocytopenia in 43% of patients, with 3.3% experiencing Grade 3-4 severity.
+
+   - **Previously Treated Unresectable Advanced, Recurrent or Metastatic ESCC:**
+     - **Hematology:**
+       - **Lymphopenia:** The drug itself was associated with lymphopenia in 46% of patients, with 19% experiencing Grade 3-4 severity.
+       - **Anemia:** The drug itself was associated with anemia in 42% of patients, with 9% experiencing Grade 3-4 severity.
+       - **Leukopenia:** The drug itself was associated with leukopenia in 11% of patients, with 0.5% experiencing Grade 3-4 severity.
+
+   - **Gastric Cancer, Gastroesophageal Junction Cancer, and Esophageal Adenocarcinoma:**
+     - **Hematology:**
+       - **Neutropenia:** The drug itself was associated with neutropenia in 73% of patients, with 29% experiencing Grade 3-4 severity.
+       - **Leukopenia:** The drug itself was associated with leukopenia in 69% of patients, with 12% experiencing Grade 3-4 severity.
+       - **Thrombocytopenia:** The drug itself was associated with thrombocytopenia in 68% of patients, with 7% experiencing Grade 3-4 severity.
+       - **Anemia:** The drug itself was associated with anemia in 59% of patients, with 14% experiencing Grade 3-4 severity.
+       - **Lymphopenia:** The drug itself was associated with lymphopenia in 59% of patients, with 12% experiencing Grade 3-4 severity.
+
+#### Postmarketing Experience:
+- **Complications of OPD",Most,Yes,1,1,
+OXYMORPHONE HYDROCHLORIDE,"The provided drug label for OPANA (oxymorphone hydrochloride) does not explicitly mention hematological toxicity risks or hematological reactions. The label primarily focuses on the drug's indications, dosage, administration, contraindications, warnings, precautions, adverse reactions, drug interactions, use in specific populations, drug abuse and dependence, overdosage, and clinical pharmacology.
+
+However, for completeness, here is a summary of the relevant sections that might indirectly relate to hematological concerns:
+
+1. **Adverse Reactions (Section 6.1)**:
+   - The label lists various adverse reactions observed in clinical trials, but none are specifically hematological in nature. The common adverse reactions include nausea, pyrexia, somnolence, vomiting, pruritus, headache, dizziness, constipation, and confusion. These reactions are associated with the drug itself.
+
+2. **Drug Interactions (Section 7.1)**:
+   - The label mentions that the concomitant use of OPANA with other CNS depressants can produce additive CNS depressant effects, including hypoventilation, hypotension, profound sedation, coma, and death. This is related to the drug itself but does not specifically mention hematological toxicity.
+
+3. **Use in Specific Populations (Section 8.1)**:
+   - The label discusses the potential risks of using OPANA during pregnancy, including possible fetal harm based on animal data. It mentions decreased fetal and pup weights, an increase in stillbirth, and a decrease in postnatal pup survival. These effects are associated with the drug itself but are not specifically hematological.
+
+4. **Nonclinical Toxicology (Section 13.1)**:
+   - The label includes information on carcinogenesis, mutagenesis, and impairment of fertility. It mentions that oxymorphone hydrochloride tested positive in both the rat and mouse in vivo micronucleus assays, indicating an increase in micronucleated polychromatic erythrocytes. This suggests a potential genotoxic effect associated with the drug itself, which could be considered a hematological concern.
+
+In summary, while the label does not explicitly discuss hematological toxicity risks or reactions, it does mention a potential genotoxic effect (increase in micronucleated polychromatic erythrocytes) in nonclinical studies, which is associated with the drug itself.",Less,Yes,1,1,
+PARATHYROID HORMONE,"The drug label for NATPARA does not explicitly discuss hematological toxicity risks or hematological reactions. The primary focus of the warnings and precautions sections is on the potential risk of osteosarcoma, hypercalcemia, hypocalcemia, digoxin toxicity, and hypersensitivity reactions. 
+
+Here is a summary of the relevant sections that might indirectly relate to hematological concerns, although they do not specifically mention hematological toxicity or reactions:
+
+1. **Warnings and Precautions:**
+   - **Potential Risk of Osteosarcoma:** NATPARA is associated with an increased risk of osteosarcoma in animal studies, and this risk cannot be excluded in humans.
+   - **Hypercalcemia:** NATPARA can cause severe hypercalcemia, which requires monitoring and management.
+   - **Hypocalcemia:** Severe hypocalcemia can occur if NATPARA is interrupted or discontinued abruptly.
+   - **Risk of Digoxin Toxicity:** Hypercalcemia due to NATPARA can increase the risk of digoxin toxicity.
+   - **Hypersensitivity:** NATPARA has been associated with hypersensitivity reactions, including anaphylaxis, dyspnea, angioedema, urticaria, and rash.
+
+2. **Adverse Reactions:**
+   - **Clinical Trials:** The most common adverse reactions associated with NATPARA include paresthesia, hypocalcemia, headache, hypercalcemia, nausea, hypoesthesia, diarrhea, vomiting, arthralgia, hypercalciuria, and pain in extremity. There is no mention of hematological toxicity or reactions.
+   - **Immunogenicity:** NATPARA may trigger the development of antibodies, but this is not directly related to hematological toxicity.
+
+3. **Postmarketing Experience:**
+   - **Hypersensitivity Reactions:** Post-approval use of NATPARA has identified hypersensitivity reactions, including anaphylaxis, dyspnea, angioedema, urticaria, and rash. These are not hematological reactions.
+
+In summary, the drug label for NATPARA does not provide information on hematological toxicity risks or hematological reactions directly associated with the drug. The primary concerns are related to bone cancer risk, calcium level abnormalities, digoxin toxicity, and hypersensitivity reactions.",No,No,1,1,
+PERPHENAZINE,"### Summary of Hematological Toxicity Risks and Reactions for Perphenazine
+
+1. **Leukopenia, Neutropenia, and Agranulocytosis:**
+   - **Association/Cause:** Events of leukopenia, neutropenia, and agranulocytosis have been reported in clinical trials and postmarketing experience with antipsychotic agents, including perphenazine.
+   - **Details:** Patients with preexisting low white blood cell count (WBC) or a history of drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy. Perphenazine should be discontinued at the first sign of a decline in WBC in the absence of other causative factors. Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur. Patients with severe neutropenia (absolute neutrophil count <1000/mm³) should discontinue perphenazine and have their WBC followed until recovery.
+
+2. **Hematological Effects:**
+   - **Association/Cause:** Perphenazine has been associated with agranulocytosis, eosinophilia, leukopenia, hemolytic anemia, thrombocytopenic purpura, and pancytopenia.
+   - **Details:** Most cases of agranulocytosis have occurred between the fourth and tenth weeks of therapy. Patients should be watched closely, especially during that period, for the sudden appearance of sore throat or signs of infection. If white blood cell and differential cell counts show significant cellular depression, the drug should be discontinued and appropriate therapy started. However, a slightly lowered white count is not in itself an indication to discontinue the drug.
+
+### Conclusion
+Perphenazine is associated with several hematological risks, including leukopenia, neutropenia, agranulocytosis, eosinophilia, hemolytic anemia, thrombocytopenic purpura, and pancytopenia. Monitoring of blood counts is essential, and discontinuation of the drug is recommended if significant hematological abnormalities are detected.",Most,Yes,1,1,
+PLERIXAFOR,"### Summary of Hematological Toxicity Risks and Hematological Reactions for Mozobil (Plerixafor)
+
+1. **Hematologic Effects:**
+   - **Increased Circulating Leukocytes:** Mozobil, in conjunction with filgrastim, increases circulating leukocytes. This effect is directly associated with the drug.
+   - **Decreased Platelet Counts:** Thrombocytopenia (decreased platelet counts) has been observed in patients receiving Mozobil. This effect is directly associated with the drug.
+
+2. **Potential for Tumor Cell Mobilization:**
+   - **Tumor Cell Release:** When used in combination with filgrastim for HSC mobilization, Mozobil may release tumor cells from the marrow, which could be collected in the leukapheresis product. This potential risk is directly associated with the drug.
+
+3. **Splenic Enlargement and Rupture:**
+   - **Splenic Effects:** Cases of splenic enlargement and/or rupture have been reported following the administration of Mozobil in conjunction with filgrastim. This effect is directly associated with the drug.
+
+4. **Clinical Trials Experience:**
+   - **Leukocytosis:** In clinical trials, white blood cell counts of 100,000/mcL or greater were observed in 7% of patients receiving Mozobil, compared to 1% of patients receiving placebo. This effect is directly associated with the drug.
+   - **Thrombocytopenia:** Thrombocytopenia was observed in patients receiving Mozobil. This effect is directly associated with the drug.
+
+5. **Postmarketing Experience:**
+   - **Splenomegaly and Splenic Rupture:** Postmarketing reports include cases of splenomegaly and splenic rupture. This effect is directly associated with the drug.
+
+### Conclusion
+Mozobil (plerixafor) is associated with several hematological risks, including increased circulating leukocytes, decreased platelet counts, potential tumor cell mobilization, and splenic enlargement or rupture. These effects have been observed in clinical trials and postmarketing reports, indicating a direct association with the drug.",Most,Yes,1,1,
+PRALSETINIB,"### Summary of Hematological Toxicity Risks and Reactions for GAVRETO (pralsetinib)
+
+1. **Warnings and Precautions: Hemorrhagic Events**
+   - **Sentence:** ""Serious, including fatal, hemorrhagic events can occur with GAVRETO.""
+   - **Summary:** GAVRETO is associated with serious and potentially fatal hemorrhagic events.
+
+2. **Adverse Reactions: Clinical Trials Experience**
+   - **Sentence:** ""The most common Grade 3-4 laboratory abnormalities (≥ 2%) were decreased lymphocytes, decreased neutrophils, decreased hemoglobin, decreased phosphate, decreased leukocytes, decreased sodium, increased aspartate aminotransferase (AST), increased alanine aminotransferase (ALT), decreased calcium (corrected), decreased platelets, increased alkaline phosphatase, increased potassium, decreased potassium and increased bilirubin.""
+   - **Summary:** GAVRETO is associated with Grade 3-4 hematological laboratory abnormalities, including decreased lymphocytes, neutrophils, hemoglobin, leukocytes, and platelets.
+
+3. **RET Fusion-Positive Non-Small Cell Lung Cancer: Adverse Reactions**
+   - **Sentence:** ""The most common Grade 3-4 laboratory abnormalities (≥ 2%) were decreased lymphocytes, decreased neutrophils, decreased hemoglobin, decreased phosphate, decreased leukocytes, decreased sodium, increased aspartate aminotransferase (AST), increased alanine aminotransferase (ALT), decreased calcium (corrected), decreased platelets, increased alkaline phosphatase, increased potassium, decreased potassium and increased bilirubin.""
+   - **Summary:** In patients with RET fusion-positive NSCLC, GAVRETO is associated with Grade 3-4 hematological laboratory abnormalities, including decreased lymphocytes, neutrophils, hemoglobin, leukocytes, and platelets.
+
+4. **RET Fusion-Positive Non-Small Cell Lung Cancer: Adverse Reactions (Table 6)**
+   - **Sentence:** ""Select Laboratory Abnormalities (≥ 20%) Worsening from Baseline in RET Fusion-Positive NSCLC Patients Who Received GAVRETO in ARROW.""
+   - **Summary:** GAVRETO is associated with worsening hematological laboratory abnormalities in patients with RET fusion-positive NSCLC.
+
+5. **RET-altered Thyroid Cancer: Adverse Reactions**
+   - **Sentence:** ""The most common Grade 3-4 laboratory abnormalities (≥ 2%) were decreased lymphocytes, decreased neutrophils, decreased hemoglobin, decreased phosphate, decreased leukocytes, decreased sodium, increased aspartate aminotransferase (AST), increased alanine aminotransferase (ALT), decreased calcium (corrected), decreased platelets, increased alkaline phosphatase, increased potassium, decreased potassium and increased bilirubin.""
+   - **Summary:** In patients with RET-altered thyroid cancer, GAVRETO is associated with Grade 3-4 hematological laboratory abnormalities, including decreased lymphocytes, neutrophils, hemoglobin, leukocytes, and platelets.
+
+6. **RET-altered Thyroid Cancer: Adverse Reactions (Table 8)**
+   - **Sentence:** ""Select Laboratory Abnormalities (≥ 20%) Worsening from Baseline in RET-altered Thyroid Cancer Patients Who Received GAVRETO in ARROW.""
+   - **Summary:** GAVRETO is associated with worsening hematological laboratory abnormalities in patients with RET-altered thyroid cancer.
+
+7. **Patient Counseling Information: Hemorrhagic Events**
+   - **Sentence:** ""Advise patients that GAVRETO may increase the risk for bleeding and to contact their healthcare provider if they experience any signs or symptoms of bleeding.""
+   - **Summary:** GAVRETO is associated with an increased risk of bleeding, and patients should be advised to contact their healthcare provider if they experience any signs or symptoms of bleeding.
+
+8. **Patient Information: Bleeding Problems**
+   - **Sentence:** ""GAVRETO can cause bleeding which can be serious and cause death.""
+   - **Summary:** GAVRETO is associated with serious and potentially fatal bleeding problems.
+
+9. **Patient Information: Common Severe Abnormal Blood Test Results**
+   - **Sentence:** ""The most common severe abnormal blood test results with GAVRETO include decreased white blood cell, red blood cell, and platelet counts.""
+   - **Summary:** GAVRETO is associated with severe abnormal blood test results, including decreased white blood cell, red blood cell, and platelet counts.
+
+### Conclusion
+GAVRETO (pralsetinib) is associated with several hematological toxicity risks and reactions, including serious and potentially fatal hemorrhagic events, and various Grade 3-4 laboratory abnormalities such as decreased lymphocytes, neutrophils, hemoglobin, leukocytes, and platelets. Patients should be advised of these risks and monitored accordingly.",Most,Yes,1,1,
+RESLIZUMAB,"The drug label for CINQAIR (reslizumab) includes several sections that discuss hematological toxicity risks and hematological reactions. Here is a summary of those parts:
+
+1. **Section 5.5 - Parasitic (Helminth) Infection:**
+   - ""Eosinophils may be involved in the immunological response to some helminth infections.""
+     - **Summary:** The drug itself (CINQAIR) may affect eosinophils, which are involved in the immune response to helminth infections.
+   - ""It is unknown if CINQAIR will influence the immune response against parasitic infections.""
+     - **Summary:** It is not known whether CINQAIR itself influences the immune response to parasitic infections.
+   - ""Treat patients with pre-existing helminth infections before initiating CINQAIR.""
+     - **Summary:** Patients should be treated for helminth infections before starting CINQAIR, implying a precaution due to potential hematological effects.
+   - ""If patients become infected while receiving treatment with CINQAIR and do not respond to anti-helminth treatment, discontinue treatment with CINQAIR until infection resolves.""
+     - **Summary:** If patients on CINQAIR develop helminth infections that do not respond to treatment, CINQAIR should be discontinued, indicating a potential hematological risk associated with the drug.
+
+2. **Section 6.1 - Clinical Trials Experience:**
+   - ""Elevated baseline creatine phosphokinase (CPK) was more frequent in patients randomized to CINQAIR (14%) versus placebo (9%).""
+     - **Summary:** CINQAIR itself was associated with a higher frequency of elevated baseline CPK levels compared to placebo.
+   - ""Transient CPK elevations in patients with normal baseline CPK values were observed more frequently with CINQAIR (20%) versus placebo (18%) during routine laboratory assessments.""
+     - **Summary:** CINQAIR itself was associated with more frequent transient CPK elevations compared to placebo.
+   - ""CPK elevations >10 x ULN, regardless of baseline CPK value, were 0.8% in the CINQAIR group compared to 0.4% in the placebo group.""
+     - **Summary:** CINQAIR itself was associated with a higher incidence of significant CPK elevations compared to placebo.
+   - ""CPK elevations >10 x ULN were asymptomatic and did not lead to treatment discontinuation.""
+     - **Summary:** Although CINQAIR itself was associated with significant CPK elevations, these were asymptomatic and did not result in discontinuation of the drug.
+
+3. **Section 12.2 - Pharmacodynamics:**
+   - ""In clinical studies with CINQAIR 3 mg/kg, reductions in blood eosinophil counts were observed following the first dose and maintained through 52 weeks of treatment with no signs of tachyphylaxis.""
+     - **Summary:** CINQAIR itself caused reductions in blood eosinophil counts, which were sustained over the treatment period.
+   - ""Mean eosinophil counts were 696 cells/mcL (n=245) and 624 cells/mcL (n=244) at baseline, and were 55 cells/mcL (92% reduction, n=212) and 496 cells/mcL (21% reduction, n=212) at the Week 52 visit for the CINQAIR and placebo treatment groups, respectively.""
+     - **Summary:** CINQAIR itself caused a significant reduction in mean eosinophil counts compared to placebo.
+   - ""Early eosinophil reduction was apparent in a subset of patients who had blood eosinophil counts assessed at days 2-3: 220 cells/mcL and 610/mcL for CINQAIR (n=35) and placebo (n=32), respectively.""
+     - **Summary:** CINQAIR itself caused early reductions in eosinophil counts compared to placebo.
+   - ""Eosinophils returned towards baseline in those CINQAIR-treated patients who completed a 90-day follow-up assessment (n=35, 480 cells/mcL), approximately 120 days after the last dose of CINQAIR.""
+     - **Summary:** Eosinophil counts returned towards baseline after discontinuation of CINQAIR, indicating the drug's effect on eosinophil levels is reversible.
+
+In summary, CINQAIR is associated with hematological risks, particularly related to eosinophil counts and creatine phosphokinase (CPK) levels. The drug causes significant reductions in eosinophil counts and is associated with elevated CPK levels, which are important considerations for its use and monitoring.",Most,Yes,1,1,
+ROSUVASTATIN CALCIUM; ROSUVASTATIN CALCIUN,"The drug label for Rosuvastatin Calcium discusses hematological toxicity risks and hematological reactions in the following sections:
+
+1. **Section 6.2 Postmarketing Experience**:
+   - **Thrombocytopenia**: The label mentions that thrombocytopenia has been identified during postapproval use of rosuvastatin. This indicates that the drug itself has been associated with this hematological reaction.
+
+2. **Section 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility**:
+   - **Spermatidic Giant Cells**: In testicles of dogs treated with rosuvastatin at 30 mg/kg/day for one month, spermatidic giant cells were seen. This suggests that the drug itself caused this hematological reaction in animal studies.
+   - **Spermatidic Giant Cells in Monkeys**: Spermatidic giant cells were observed in monkeys after 6-month treatment at 30 mg/kg/day in addition to vacuolation of seminiferous tubular epithelium. This indicates that the drug itself caused these hematological reactions in animal studies.
+
+These sections highlight that rosuvastatin has been associated with specific hematological reactions, including thrombocytopenia in humans and spermatidic giant cells in animal studies.",Less,Yes,1,1,
+RUXOLITINIB,"### Summary of Hematological Toxicity Risks and Reactions for OPZELURA (Ruxolitinib) Cream
+
+1. **Thrombocytopenia, Anemia, and Neutropenia:**
+   - **Sentence:** ""Thrombocytopenia, anemia, and neutropenia were reported in the clinical trials with OPZELURA.""
+   - **Summary:** The drug itself was associated with thrombocytopenia, anemia, and neutropenia in clinical trials.
+
+2. **Warnings and Precautions (Section 5.6):**
+   - **Sentence:** ""Thrombocytopenia, anemia, and neutropenia were reported in the clinical trials with OPZELURA.""
+   - **Summary:** The drug itself was associated with thrombocytopenia, anemia, and neutropenia in clinical trials.
+   - **Sentence:** ""Consider the benefits and risks for individual patients who have a known history of these events prior to initiating therapy with OPZELURA.""
+   - **Summary:** The drug itself necessitates a risk-benefit analysis for patients with a history of thrombocytopenia, anemia, or neutropenia.
+   - **Sentence:** ""Perform CBC monitoring as clinically indicated.""
+   - **Summary:** The drug itself requires CBC monitoring due to the risk of hematological toxicity.
+   - **Sentence:** ""If signs and/or symptoms of clinically significant thrombocytopenia, anemia, and neutropenia occur, patients should discontinue OPZELURA.""
+   - **Summary:** The drug itself should be discontinued if significant hematological toxicity occurs.
+
+3. **Adverse Reactions (Section 6.1):**
+   - **Sentence:** ""Adverse reactions that occurred in TRuE-AD1 and TRuE-AD2 in < 1% of subjects in the OPZELURA group and none in the vehicle group were: neutropenia...""
+   - **Summary:** The drug itself was associated with neutropenia in less than 1% of subjects in clinical trials.
+
+4. **Medication Guide:**
+   - **Sentence:** ""Low blood cell counts. OPZELURA may cause low platelet counts (thrombocytopenia), low red blood cell counts (anemia), and low white blood cell counts (neutropenia).""
+   - **Summary:** The drug itself may cause thrombocytopenia, anemia, and neutropenia.
+   - **Sentence:** ""If needed, your healthcare provider will do a blood test to check your blood cell counts during your treatment with OPZELURA and may stop your treatment if signs or symptoms of low blood cell counts happen.""
+   - **Summary:** The drug itself may necessitate blood tests and potential discontinuation if hematological toxicity occurs.
+
+### Conclusion
+OPZELURA (ruxolitinib) cream is associated with hematological toxicity risks, including thrombocytopenia, anemia, and neutropenia. These risks were observed in clinical trials and necessitate careful monitoring and potential discontinuation of the drug if significant hematological reactions occur.",Most,Yes,1,1,
+SELUMETINIB,"### Summary of Hematological Toxicity Risks and Reactions for KOSELUGO (Selumetinib)
+
+1. **Warnings and Precautions:**
+   - **Increased Creatine Phosphokinase (CPK):** KOSELUGO can cause increased CPK levels, which is a hematological reaction. This increase can lead to rhabdomyolysis or other causes. The drug itself is associated with this risk.
+
+2. **Adverse Reactions:**
+   - **Clinical Trials Experience:**
+     - **Decreased Hemoglobin:** In clinical trials, KOSELUGO was associated with decreased hemoglobin levels in 41% of patients, with 4% experiencing Grade 3 severity.
+     - **Decreased Neutrophils:** KOSELUGO was associated with decreased neutrophil levels in 33% of patients, with 4% experiencing Grade 3 severity.
+     - **Decreased Lymphocytes:** KOSELUGO was associated with decreased lymphocyte levels in 20% of patients, with 2% experiencing Grade 3 severity.
+
+3. **Laboratory Abnormalities:**
+   - **Select Laboratory Abnormalities (≥ 15%) Worsening from Baseline:**
+     - **Decreased Hemoglobin:** KOSELUGO was associated with decreased hemoglobin levels in 41% of patients, with 4% experiencing Grade 3 severity.
+     - **Decreased Neutrophils:** KOSELUGO was associated with decreased neutrophil levels in 33% of patients, with 4% experiencing Grade 3 severity.
+     - **Decreased Lymphocytes:** KOSELUGO was associated with decreased lymphocyte levels in 20% of patients, with 2% experiencing Grade 3 severity.
+
+### Conclusion
+KOSELUGO (selumetinib) is associated with several hematological risks and reactions, including increased CPK levels, decreased hemoglobin, decreased neutrophils, and decreased lymphocytes. These reactions were observed in clinical trials and are directly linked to the administration of the drug.",Most,Yes,1,1,
+SUMATRIPTAN SUCCINATE U-D,"The provided drug label for Sumatriptan tablets does not explicitly discuss hematological toxicity risks or hematological reactions. The label primarily focuses on cardiovascular, neurological, and other systemic risks and adverse reactions. Here is a summary of the relevant sections that might indirectly relate to hematological concerns, though they do not explicitly mention hematological toxicity:
+
+1. **Warnings and Precautions (5.5 Other Vasospasm Reactions)**:
+   - Sumatriptan tablets may cause non-coronary vasospastic reactions, such as peripheral vascular ischemia. This indicates that the drug itself is associated with vasospastic reactions, which could potentially affect blood flow but does not directly state hematological toxicity.
+
+2. **Adverse Reactions (6.1 Clinical Trials Experience)**:
+   - The label lists various adverse reactions observed in clinical trials, such as paresthesia, chest pain, and vertigo. These reactions are associated with the drug itself but do not specifically mention hematological toxicity.
+
+3. **Adverse Reactions (6.2 Postmarketing Experience)**:
+   - The label mentions hypotension and palpitations as cardiovascular adverse reactions reported post-approval. These reactions are associated with the drug itself but do not directly indicate hematological toxicity.
+
+4. **Drug Interactions (7.1 Ergot-Containing Drugs)**:
+   - The label advises against the use of ergot-containing drugs within 24 hours of taking sumatriptan due to the risk of prolonged vasospastic reactions. This interaction is associated with the drug itself but does not directly mention hematological toxicity.
+
+5. **Use in Specific Populations (8.1 Pregnancy)**:
+   - The label discusses potential risks to the fetus based on animal data, including embryolethality and fetal abnormalities. These risks are associated with the drug itself but do not specifically mention hematological toxicity.
+
+6. **Nonclinical Toxicology (13.2 Animal Toxicology and/or Pharmacology)**:
+   - The label mentions that dogs receiving oral sumatriptan developed corneal opacities and defects in the corneal epithelium. This toxicity is associated with the drug itself but does not directly indicate hematological toxicity.
+
+In summary, the drug label for Sumatriptan tablets does not explicitly discuss hematological toxicity risks or reactions. The mentioned adverse effects and precautions are primarily related to cardiovascular, neurological, and other systemic reactions.",No,No,1,1,
+TAFENOQUINE SUCCINATE,"### Summary of Hematological Toxicity Risks and Reactions for KRINTAFEL (Tafenoquine)
+
+1. **Hemolytic Anemia Risk**:
+   - **Sentence**: ""Hemolytic Anemia: G6PD testing must be performed before prescribing KRINTAFEL due to the risk of hemolytic anemia.""
+   - **Summary**: KRINTAFEL is associated with a risk of hemolytic anemia, necessitating G6PD testing before prescription.
+
+2. **G6PD Deficiency Contraindication**:
+   - **Sentence**: ""KRINTAFEL is contraindicated in patients with G6PD deficiency or unknown G6PD status due to the risk of hemolytic anemia.""
+   - **Summary**: KRINTAFEL is contraindicated in patients with G6PD deficiency or unknown status because it can cause hemolytic anemia.
+
+3. **Monitoring for Hemolysis**:
+   - **Sentence**: ""Monitor patients for clinical signs or symptoms of hemolysis.""
+   - **Summary**: Patients taking KRINTAFEL should be monitored for signs of hemolysis, indicating the drug can cause this condition.
+
+4. **Hemolytic Anemia in Pregnancy**:
+   - **Sentence**: ""KRINTAFEL may cause hemolytic anemia when administered to a pregnant woman with a G6PD-deficient fetus.""
+   - **Summary**: KRINTAFEL can cause hemolytic anemia in a G6PD-deficient fetus if administered to a pregnant woman.
+
+5. **Breastfeeding Contraindication**:
+   - **Sentence**: ""KRINTAFEL is contraindicated in breastfeeding women when the infant is found to be G6PD deficient or if G6PD status is unknown.""
+   - **Summary**: KRINTAFEL is contraindicated in breastfeeding women with G6PD-deficient infants or unknown G6PD status because it can cause hemolytic anemia in the infant.
+
+6. **Clinical Trials Hemoglobin Decline**:
+   - **Sentence**: ""In clinical trials, declines in hemoglobin levels were reported in some G6PD-normal patients.""
+   - **Summary**: KRINTAFEL was associated with declines in hemoglobin levels in some G6PD-normal patients during clinical trials.
+
+7. **Adverse Reactions - Hemoglobin**:
+   - **Sentence**: ""Common adverse reactions (≥5%) were dizziness, nausea, vomiting, headache, and decreased hemoglobin.""
+   - **Summary**: KRINTAFEL commonly caused decreased hemoglobin as an adverse reaction.
+
+8. **Overdosage**:
+   - **Sentence**: ""Hemoglobin decline and methemoglobinemia may be encountered in an overdose with KRINTAFEL.""
+   - **Summary**: Overdose of KRINTAFEL may cause a decline in hemoglobin levels.
+
+9. **Patient Counseling Information**:
+   - **Sentence**: ""Advise patients to seek medical attention if signs of hemolysis occur.""
+   - **Summary**: Patients should be advised that KRINTAFEL can cause hemolysis and to seek medical attention if symptoms appear.
+
+10. **Patient Information Leaflet**:
+    - **Sentence**: ""KRINTAFEL can cause a breakdown of red blood cells (hemolysis) in people with G6PD deficiency.""
+    - **Summary**: KRINTAFEL can cause hemolysis in individuals with G6PD deficiency.
+
+11. **Patient Information Leaflet - Hemolytic Anemia Symptoms**:
+    - **Sentence**: ""Contact your healthcare provider if you develop signs of hemolytic anemia, which include darkening of the lips or urine, dizziness, confusion, feeling tired, light-headedness, or shortness of breath.""
+    - **Summary**: Patients should be aware that KRINTAFEL can cause hemolytic anemia and seek medical advice if symptoms occur.
+
+### Conclusion
+KRINTAFEL (tafenoquine) is associated with significant hematological toxicity risks, particularly hemolytic anemia, especially in patients with G6PD deficiency. It is crucial to perform G6PD testing before prescribing the drug and to monitor patients for signs of hemolysis. The drug can also cause declines in hemoglobin levels and is contraindicated in certain populations due to these risks.",Most,Yes,1,1,
+TECHNETIUM TC 99M MERTIATIDE,"The drug label for the Kit for the Preparation of Technetium Tc 99m Mertiatide does not explicitly mention hematological toxicity risks or hematological reactions. The sections on adverse reactions, warnings, and precautions do not list any hematological issues. The adverse reactions reported include tachycardia, nausea, vomiting, shaking chills, fever, seizure, wheezing, dyspnea, itching, rash, and elevation in blood pressure, but none of these are hematological in nature. Additionally, the warnings and precautions focus on radiation risks rather than hematological toxicity. Therefore, there is no information in the provided drug label that associates the drug with hematological toxicity risks or reactions.",No,No,1,1,
+TETRACYCLINE HYDROCHLORIDE,"### Summary of Hematological Toxicity Risks and Reactions for Tetracycline Hydrochloride Capsules
+
+1. **Antianabolic Action**:
+   - **Sentence**: ""The antianabolic action of the tetracyclines may cause an increase in BUN.""
+   - **Summary**: The drug itself is associated with an increase in blood urea nitrogen (BUN) due to its antianabolic action.
+
+2. **Laboratory Monitoring for Long-Term Therapy**:
+   - **Sentence**: ""In long-term therapy, perform periodic laboratory evaluation of organ systems, including hematopoietic, renal and hepatic studies.""
+   - **Summary**: The drug itself necessitates periodic hematopoietic evaluations during long-term therapy to monitor for potential hematological toxicity.
+
+3. **Adverse Reactions - Blood**:
+   - **Sentence**: ""Blood: hemolytic anemia, thrombocytopenia, thrombocytopenic purpura, neutropenia and eosinophilia have been reported.""
+   - **Summary**: The drug itself has been associated with causing hemolytic anemia, thrombocytopenia, thrombocytopenic purpura, neutropenia, and eosinophilia.
+
+4. **Warnings - Laboratory Monitoring for Long-Term Therapy**:
+   - **Sentence**: ""In long-term therapy, perform periodic laboratory evaluation of organ systems, including hematopoietic, renal and hepatic studies.""
+   - **Summary**: The drug itself requires periodic hematopoietic evaluations during long-term therapy to monitor for potential hematological toxicity.
+
+### Conclusion
+Tetracycline Hydrochloride Capsules are associated with several hematological risks and reactions, including hemolytic anemia, thrombocytopenia, thrombocytopenic purpura, neutropenia, and eosinophilia. Periodic hematopoietic evaluations are recommended during long-term therapy to monitor for these potential adverse effects.",Most,Yes,1,1,
+TISOTUMAB VEDOTIN,"### Summary of Hematological Toxicity Risks and Reactions for TIVDAK
+
+1. **Adverse Reactions Section (6.1)**
+   - **Hematological Reactions:**
+     - **Decreased Hemoglobin:** The drug TIVDAK was associated with decreased hemoglobin levels in patients. This was one of the most common adverse reactions, occurring in ≥25% of patients.
+     - **Neutrophils Decreased:** The drug TIVDAK was associated with decreased neutrophil levels in patients. This was observed in 16% of patients in the innovaTV 301 study and 21% in the innovaTV 204 study.
+     - **Activated Partial Thromboplastin Time Prolonged:** The drug TIVDAK was associated with prolonged activated partial thromboplastin time in patients. This was observed in 16% of patients in the innovaTV 301 study and 26% in the innovaTV 204 study.
+
+2. **Clinical Trials Experience (innovaTV 301)**
+   - **Hematological Laboratory Abnormalities:**
+     - **Hemoglobin Decreased:** The drug TIVDAK was associated with decreased hemoglobin levels in 41% of patients, with 7% experiencing Grade 3 or 4 severity.
+     - **Neutrophils Decreased:** The drug TIVDAK was associated with decreased neutrophil levels in 16% of patients, with 3.3% experiencing Grade 3 or 4 severity.
+     - **Activated Partial Thromboplastin Time Prolonged:** The drug TIVDAK was associated with prolonged activated partial thromboplastin time in 16% of patients, with 1.9% experiencing Grade 3 or 4 severity.
+
+3. **Clinical Trials Experience (innovaTV 204)**
+   - **Hematological Laboratory Abnormalities:**
+     - **Hemoglobin Decreased:** The drug TIVDAK was associated with decreased hemoglobin levels in 52% of patients, with 7% experiencing Grade 3 or 4 severity.
+     - **Neutrophils Decreased:** The drug TIVDAK was associated with decreased neutrophil levels in 21% of patients, with 3% experiencing Grade 3 or 4 severity.
+     - **Activated Partial Thromboplastin Time Prolonged:** The drug TIVDAK was associated with prolonged activated partial thromboplastin time in 26% of patients, with 2% experiencing Grade 3 or 4 severity.
+
+### Conclusion
+The drug TIVDAK is associated with several hematological toxicity risks and reactions, including decreased hemoglobin and neutrophil levels, as well as prolonged activated partial thromboplastin time. These reactions were observed in clinical trials and were among the common adverse reactions experienced by patients.",Most,Yes,1,1,
+VORTIOXETINE,"### Summary of Hematological Toxicity Risks and Reactions for TRINTELLIX (Vortioxetine)
+
+1. **Increased Risk of Bleeding**:
+   - **Sentence**: ""The use of drugs that interfere with serotonin reuptake inhibition, including TRINTELLIX, may increase the risk of bleeding events.""
+   - **Summary**: TRINTELLIX itself is associated with an increased risk of bleeding events.
+
+2. **Concomitant Use with Antiplatelet or Anticoagulant Drugs**:
+   - **Sentence**: ""Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), warfarin, and other anticoagulants may add to this risk.""
+   - **Summary**: The risk of bleeding associated with TRINTELLIX is increased when used with other antiplatelet or anticoagulant drugs.
+
+3. **Case Reports and Epidemiological Studies**:
+   - **Sentence**: ""Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.""
+   - **Summary**: TRINTELLIX, as a drug that interferes with serotonin reuptake, is associated with gastrointestinal bleeding based on case reports and studies.
+
+4. **Postpartum Hemorrhage**:
+   - **Sentence**: ""Based on data from the published observational studies, exposure to SSRIs or SNRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage.""
+   - **Summary**: TRINTELLIX, as an SSRI/SNRI, is associated with an increased risk of postpartum hemorrhage when used in the month before delivery.
+
+5. **Bleeding Events Range**:
+   - **Sentence**: ""Bleeding events related to drugs that inhibit serotonin reuptake have ranged from ecchymosis, hematoma, epistaxis, and petechiae to life-threatening hemorrhages.""
+   - **Summary**: TRINTELLIX, as a serotonin reuptake inhibitor, is associated with a range of bleeding events from minor to life-threatening.
+
+6. **Informing Patients**:
+   - **Sentence**: ""Inform patients about the increased risk of bleeding when TRINTELLIX is coadministered with NSAIDs, aspirin, or other drugs that affect coagulation or bleeding.""
+   - **Summary**: Patients should be informed that TRINTELLIX is associated with an increased risk of bleeding, especially when taken with other drugs affecting coagulation.
+
+7. **Monitoring Coagulation Indices**:
+   - **Sentence**: ""For patients taking warfarin, carefully monitor coagulation indices when initiating, titrating, or discontinuing TRINTELLIX.""
+   - **Summary**: TRINTELLIX is associated with an increased risk of bleeding, necessitating careful monitoring of coagulation indices in patients taking warfarin.
+
+8. **Drug Interactions**:
+   - **Sentence**: ""Concomitant use of TRINTELLIX with an antiplatelet or anticoagulant drug may potentiate the risk of bleeding.""
+   - **Summary**: TRINTELLIX is associated with an increased risk of bleeding when used with antiplatelet or anticoagulant drugs.
+
+9. **Monitoring for Hemostasis**:
+   - **Sentence**: ""Patients receiving other drugs that interfere with hemostasis should be carefully monitored when TRINTELLIX is initiated or discontinued.""
+   - **Summary**: TRINTELLIX is associated with an increased risk of bleeding, requiring careful monitoring when used with other drugs that interfere with hemostasis.
+
+10. **Patient Counseling Information**:
+    - **Sentence**: ""Inform patients about the concomitant use of TRINTELLIX with NSAIDs, aspirin, warfarin, or other drugs that affect coagulation because combined use has been associated with an increased risk of bleeding.""
+    - **Summary**: TRINTELLIX is associated with an increased risk of bleeding, especially when used with NSAIDs, aspirin, warfarin, or other coagulation-affecting drugs.
+
+### Conclusion
+TRINTELLIX (vortioxetine) is associated with an increased risk of various bleeding events, particularly when used in combination with other drugs that affect coagulation, such as NSAIDs, aspirin, and warfarin. This risk includes gastrointestinal bleeding, postpartum hemorrhage, and other bleeding events ranging from minor to life-threatening. Patients should be informed and monitored carefully for these risks.",Most,Yes,1,1,

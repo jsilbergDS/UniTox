@@ -1,0 +1,828 @@
+generic_name,reasoning,less_determination,binary_determination,less_determination_score,binary_determination_score
+NITROFURANTOIN (MACROCRYSTALS),"The drug label for Nitrofurantoin Capsules, USP (Macrocrystals) discusses infertility risks in the section titled ""Carcinogenesis, Mutagenesis, Impairment of Fertility."" Here is a summary of the relevant parts:
+ 
+
+ 1. **Temporary Spermatogenic Arrest in Rats:**
+  - **Summary:** The administration of high doses of nitrofurantoin to rats causes temporary spermatogenic arrest.
+  - **Association/Cause:** The drug itself was associated with this effect, as it was observed in rats administered high doses of nitrofurantoin.
+ 
+
+ 2. **Reversibility of Spermatogenic Arrest:**
+  - **Summary:** This spermatogenic arrest is reversible on discontinuing the drug.
+  - **Association/Cause:** The drug itself caused the spermatogenic arrest, but the effect was reversible upon stopping the drug.
+ 
+
+ 3. **Spermatogenic Arrest in Healthy Human Males:**
+  - **Summary:** Doses of 10 mg/kg/day or greater in healthy human males may, in certain unpredictable instances, produce a slight to moderate spermatogenic arrest with a decrease in sperm count.
+  - **Association/Cause:** The drug itself was associated with this risk, as it was observed in human males taking higher doses of nitrofurantoin.
+ 
+
+ In summary, the drug label indicates that nitrofurantoin itself is associated with temporary spermatogenic arrest in both rats and humans, with the effect being reversible upon discontinuation of the drug.",Less,Yes,1,1
+ENFORTUMAB VEDOTIN,"The drug label for PADCEV discusses infertility risks in several sections. Here is a summary of those parts, clearly stating whether the drug itself was associated with or caused the infertility risk:
+ 
+
+ 1. **Section 8.3 Females and Males of Reproductive Potential:**
+  - **Infertility:**
+  - **Females:** ""Based on findings in animal studies with MMAE-containing antibody-drug conjugates (ADCs), PADCEV may impair female fertility. The effect on fertility is reversible."" 
+  - **Summary:** The drug itself (PADCEV) may impair female fertility based on animal studies, but this effect is reversible.
+  - **Males:** ""Based on findings from animal studies, PADCEV may impair male fertility.""
+  - **Summary:** The drug itself (PADCEV) may impair male fertility based on animal studies.
+ 
+
+ 2. **Section 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility:**
+  - ""Fertility studies with enfortumab vedotin-ejfv or MMAE have not been conducted. However, results of repeat-dose toxicity studies indicate the potential for enfortumab vedotin-ejfv to impair female and male reproductive function and fertility.""
+  - **Summary:** The drug itself (PADCEV) has the potential to impair both female and male reproductive function and fertility based on repeat-dose toxicity studies.
+  - ""In repeat-dose toxicology studies conducted in rats for up to 13 weeks, doses ≥2 mg/kg enfortumab vedotin-ejfv (at exposures similar to the exposures at the recommended human dose) resulted in decreases in testes and epididymis weights, seminiferous tubule degeneration, spermatid/spermatocyte depletion in the testes and cell debris, sperm granuloma and hypospermia/abnormal spermatids in the epididymis. Findings in the testes and epididymis did not reverse by the end of the recovery period.""
+  - **Summary:** The drug itself (PADCEV) caused decreases in testes and epididymis weights, seminiferous tubule degeneration, and other adverse effects on male reproductive organs in rats, and these effects did not reverse after the recovery period.
+  - ""MMAE-containing ADCs have been associated with adverse ovarian effects when administered to sexually immature animals. Adverse effects included decrease in, or absence of, secondary and tertiary ovarian follicles after weekly administration to cynomolgus monkeys in studies of 4-week duration. These effects showed a trend towards recovery 6 weeks after the end of dosing; no changes were observed in primordial follicles.""
+  - **Summary:** The drug itself (PADCEV), as part of MMAE-containing ADCs, was associated with adverse ovarian effects in sexually immature animals, but these effects showed a trend towards recovery after dosing ended.
+ 
+
+ 3. **Section 17 Patient Counseling Information:**
+  - ""PADCEV may cause fertility problems in females and males, which may affect the ability to have children. Talk to your healthcare provider if you have concerns about fertility.""
+  - **Summary:** The drug itself (PADCEV) may cause fertility problems in both females and males, potentially affecting their ability to have children.
+ 
+
+ In summary, PADCEV itself is associated with or causes infertility risks in both females and males based on animal studies and repeat-dose toxicity studies. These effects include impairments in reproductive function and fertility, with some effects being potentially reversible.",Most,Yes,1,1
+MOMETASONE,"The drug label for Mometasone Furoate Nasal Spray discusses infertility risks in the following sections:
+ 
+
+ 1. **Section 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility:**
+  - **Sentence:** ""In reproductive studies in rats, impairment of fertility was not produced by subcutaneous doses up to 15 mcg/kg (less than the MRDID in adults on a mcg/m2 basis).""
+  - **Summary:** The drug itself was not associated with or did not cause infertility at the tested doses in rats.
+ 
+
+ This is the only part of the drug label that discusses infertility risks. The study mentioned indicates that Mometasone Furoate did not impair fertility in rats at the tested doses.",No,No,1,1
+DELAFLOXACIN MEGLUMINE,"The drug label for BAXDELA (delafloxacin) includes the following information related to infertility risks:
+ 
+
+ 1. **Section 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility:**
+  - ""Delafloxacin did not affect the fertility of male and female rats up to the highest intravenous dose tested (120 mg/kg/day); female rats were dosed 2 weeks prior to mating and through gestation day 7 and male rats were treated for 28 days prior to mating and beyond for a total of 58-59 days.""
+  - **Summary:** The drug itself was not associated with or did not cause infertility in male and female rats at the highest dose tested.
+ 
+
+ 2. **Section 8.1 Pregnancy:**
+  - ""When delafloxacin (as the N-methyl glucamine salt) was administered orally to rats during the period of organogenesis, no malformations or fetal death were observed at up to 7 times the estimated clinical exposure based on AUC.""
+  - **Summary:** The drug itself was not associated with or did not cause infertility or fetal malformations in rats at high exposure levels.
+ 
+
+ 3. **Section 8.1 Pregnancy (continued):**
+  - ""When rats were dosed intravenously in late pregnancy and through lactation, there were no adverse effects on offspring at exposures approximating the clinical intravenous (IV) exposure based on AUC.""
+  - **Summary:** The drug itself was not associated with or did not cause adverse effects on offspring, implying no infertility risk.
+ 
+
+ 4. **Section 8.1 Pregnancy (continued):**
+  - ""Effects on pups at that dose included increased mortality during lactation, small stature, and lower body weights, but no changes in learning and memory, sensory function, locomotor activity, developmental landmarks, or reproductive performance were reported.""
+  - **Summary:** The drug itself was not associated with or did not cause changes in reproductive performance, indicating no infertility risk.
+ 
+
+ In summary, the drug label indicates that BAXDELA (delafloxacin) was not associated with or did not cause infertility in the animal studies conducted.",No,No,1,1
+TIVOZANIB,"The drug label for FOTIVDA (tivozanib) discusses infertility risks in several sections. Here is a summary of those parts, clearly stating whether the drug itself was associated with or caused the infertility risk:
+ 
+
+ 1. **Section 8.3 Females and Males of Reproductive Potential:**
+  - **Infertility:** ""Based on findings in animal studies, FOTIVDA can impair fertility in females and males of reproductive potential.""
+  - **Summary:** The drug itself (FOTIVDA) was associated with infertility risks based on animal studies.
+ 
+
+ 2. **Section 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility:**
+  - ""In animal studies assessing mating and fertility parameters, oral doses ≥ 0.03 mg/kg/day (0.2 times the maximum recommended clinical dose on a mg/m2 basis) in rats were associated with increased epididymis and testis weights, and doses ≥ 0.3 mg/kg/day (2 times the maximum recommended clinical dose on a mg/m2 basis) reduced mating and produced infertility.""
+  - **Summary:** The drug itself (FOTIVDA) caused infertility in animal studies at certain doses.
+  - ""An increase in embryo lethality was noted at doses ≥ 0.1 mg/kg/day (0.7 times the maximum recommended clinical dose on a mg/m2 basis).""
+  - **Summary:** The drug itself (FOTIVDA) was associated with increased embryo lethality, which is related to fertility issues, in animal studies at certain doses.
+ 
+
+ 3. **Section 17 Patient Counseling Information:**
+  - ""Advise males and females of reproductive potential that FOTIVDA can impair fertility.""
+  - **Summary:** The drug itself (FOTIVDA) was associated with infertility risks, and patients should be advised accordingly.
+ 
+
+ 4. **Patient Information Leaflet:**
+  - ""FOTIVDA may cause fertility problems in males and females, which may affect your ability to have a child. Talk to your healthcare provider if this is a concern for you.""
+  - **Summary:** The drug itself (FOTIVDA) was associated with fertility problems in both males and females.
+ 
+
+ In summary, the drug label consistently indicates that FOTIVDA (tivozanib) itself is associated with or causes infertility risks based on findings from animal studies and advises patients of reproductive potential to be aware of these risks.",Most,Yes,1,1
+NORTRIPTYLINE HYDROCHLORIDE,"The drug label for Pamelor (nortriptyline HCl) does not explicitly discuss infertility risks. The sections of the label cover a wide range of topics, including indications, contraindications, warnings, precautions, adverse reactions, and dosage information, but there is no mention of infertility risks associated with the drug itself.
+ 
+
+ Here is a summary of the relevant sections that might indirectly relate to reproductive health, but none of these explicitly state that the drug causes or is associated with infertility:
+ 
+
+ 1. **Use in Pregnancy**:
+  - ""Safe use of Pamelor during pregnancy and lactation has not been established; therefore, when the drug is administered to pregnant patients, nursing mothers, or women of childbearing potential, the potential benefits must be weighed against the possible hazards.""
+  - **Summary**: This statement does not mention infertility but advises caution in pregnant or nursing women due to unknown safety.
+ 
+
+ 2. **Endocrine Effects**:
+  - ""Gynecomastia in the male, breast enlargement and galactorrhea in the female; increased or decreased libido, impotence; testicular swelling; elevation or depression of blood sugar levels; syndrome of inappropriate ADH (antidiuretic hormone) secretion.""
+  - **Summary**: This section lists various endocrine effects, including changes in libido and impotence, but does not directly link these effects to infertility.
+ 
+
+ 3. **Adverse Reactions**:
+  - ""Gynecomastia in the male, breast enlargement and galactorrhea in the female; increased or decreased libido, impotence; testicular swelling.""
+  - **Summary**: Similar to the endocrine effects, this section mentions changes in libido and impotence but does not explicitly state that these lead to infertility.
+ 
+
+ 4. **Precautions**:
+  - ""Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking nortriptyline hydrochloride.""
+  - **Summary**: This general precaution does not mention infertility.
+ 
+
+ In conclusion, the drug label for Pamelor does not provide any information indicating that the drug itself is associated with or causes infertility. The label advises caution in pregnant or nursing women and lists some endocrine effects, but none of these are explicitly linked to infertility.",Less,No,1,1
+IODINATED I-125 ALBUMIN,"The drug label for JEANATOPE includes a section on ""Carcinogenesis, Mutagenesis, Impairment of Fertility,"" which discusses infertility risks. Here is a summary of the relevant parts:
+ 
+
+ 1. **Sentence:** ""No long-term animal studies have been performed to evaluate carcinogenic potential or whether iodinated I 125 albumin affects fertility in males or females.""
+  - **Summary:** The drug itself has not been studied for its potential to cause infertility in males or females, as no long-term animal studies have been conducted.
+ 
+
+ 2. **Sentence:** ""There are no data on iodinated I 125 albumin use in pregnant women to evaluate for a drug-associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes.""
+  - **Summary:** The drug itself has not been associated with or shown to cause infertility risks in pregnant women, as there are no data available to evaluate such risks.
+ 
+
+ In summary, the drug label indicates that there is no available data or studies to determine whether JEANATOPE (iodinated I 125 albumin) is associated with or causes infertility risks.",No,No,1,1
+CLOPIDOGREL BISULPHATE,"The drug label for Clopidogrel does not explicitly discuss infertility risks. However, it does mention the following related to fertility:
+ 
+
+ 1. **Nonclinical Toxicology (Section 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility)**:
+  - **Sentence**: ""Clopidogrel was found to have no effect on fertility of male and female rats treated prior to pairing and throughout gestation at oral doses up to 400 mg/kg per day (52 times the recommended human dose on a mg/m2 basis).""
+  - **Summary**: Clopidogrel itself was not associated with or did not cause infertility in male and female rats at doses significantly higher than the recommended human dose.
+ 
+
+ In summary, the drug label indicates that Clopidogrel was not associated with or did not cause infertility in animal studies. There is no mention of infertility risks in humans.",No,No,1,1
+ALISKIREN,"The drug label for Aliskiren tablets includes the following information related to infertility risks:
+ 
+
+ 1. **Section 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility**:
+  - **Sentence**: ""Fertility of male and female rats was unaffected at doses of up to 250 mg aliskiren/kg/day (8 times the MRHD of 300 mg aliskiren tablets/60 kg on a mg/m2 basis).""
+  - **Summary**: The drug itself was not associated with or did not cause infertility risks in male and female rats at doses up to 250 mg/kg/day.
+ 
+
+ In summary, the drug label indicates that Aliskiren did not affect fertility in animal studies at the tested doses. There is no evidence from the provided information that the drug itself is associated with or causes infertility risks.",No,No,1,1
+CLOBETASOL PROPIONATE,"The drug label discusses infertility risks in the section titled ""13 NONCLINICAL TOXICOLOGY,"" specifically under ""13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility."" Here is a summary of the relevant parts:
+ 
+
+ 1. **Impairment of Fertility in Rats**:
+  - **Sentence**: ""Fertility studies in the rat following subcutaneous administration at dosage levels up to 50 µg/kg/day revealed that the females exhibited an increase in the number of resorbed embryos and a decrease in the number of living fetuses at the highest dose.""
+  - **Summary**: The drug, clobetasol propionate, was associated with infertility risks in female rats, as it caused an increase in resorbed embryos and a decrease in the number of living fetuses at high doses.
+ 
+
+ 2. **Comparison to Human Dose**:
+  - **Sentence**: ""This dose is approximately 10 times the recommended human ophthalmic dose of Clobetasol Propionate Ophthalmic Suspension 0.05% (0.83 μg/kg/day), estimated based on body surface area and assuming 100% systemic absorption.""
+  - **Summary**: The infertility effects observed in rats were at doses approximately 10 times higher than the recommended human ophthalmic dose, suggesting that the drug itself caused the infertility risk at these higher doses.
+ 
+
+ 3. **Systemic Levels Following Topical Administration**:
+  - **Sentence**: ""Note that systemic levels of clobetasol propionate following topical ocular administration are minimal.""
+  - **Summary**: The drug itself is unlikely to cause infertility risks in humans when used as directed for topical ocular administration, as systemic absorption is minimal.
+ 
+
+ In summary, the drug clobetasol propionate was associated with infertility risks in animal studies at high doses, but these effects are unlikely to occur in humans at the recommended ophthalmic dose due to minimal systemic absorption.",Less,Yes,1,1
+METOPROLOL SUCCINATE ER,"The drug label for Metoprolol Succinate ER discusses infertility risks in the following sections:
+ 
+
+ 1. **Section 8.3 Females and Males of Reproductive Potential:**
+  - **Sentence:** ""Based on the published literature, beta-blockers (including metoprolol) may cause erectile dysfunction and inhibit sperm motility.""
+  - **Summary:** The drug itself (metoprolol) is associated with causing erectile dysfunction and inhibiting sperm motility, which are factors that can contribute to infertility.
+ 
+
+ 2. **Sentence:** ""No evidence of impaired fertility due to metoprolol was observed in rats [see NONCLINICAL TOXICOLOGY (13.1)].""
+  - **Summary:** The drug itself (metoprolol) was not associated with causing impaired fertility in animal studies (rats).
+ 
+
+ In summary, while metoprolol may cause erectile dysfunction and inhibit sperm motility in humans, which can contribute to infertility, animal studies did not show evidence of impaired fertility due to metoprolol.",Less,Yes,1,1
+PILOCARPINE HYDROCHLORIDE OPHTHALMIC SOLUTION,"The drug label for Pilocarpine Hydrochloride Ophthalmic Solution includes a section on nonclinical toxicology that discusses potential risks related to carcinogenesis, mutagenesis, and impairment of fertility. Here is a summary of the relevant parts:
+ 
+
+ 1. **Section 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility:**
+  - **Sentence:** ""There have been no long-term studies done using pilocarpine hydrochloride in animals to evaluate carcinogenic potential.""
+  - **Summary:** The drug itself has not been studied for long-term carcinogenic potential, so no conclusions can be drawn about its association with or causation of infertility risk.
+ 
+
+ This is the only part of the drug label that touches on the topic of fertility. The label does not provide specific information indicating that Pilocarpine Hydrochloride Ophthalmic Solution is associated with or causes infertility risks.",No,No,1,1
+DACOMITINIB,"The drug label for VIZIMPRO (dacomitinib) includes information on infertility risks in the following sections:
+ 
+
+ 1. **Section 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility**:
+  - **Sentence**: ""Daily oral administration of dacomitinib at doses ≥ 0.5 mg/kg/day to female rats (approximately 0.14 times the exposure based on AUC at the 45 mg human dose) resulted in reversible epithelial atrophy in the cervix and vagina.""
+  - **Summary**: The drug itself (dacomitinib) was associated with reversible epithelial atrophy in the cervix and vagina in female rats.
+  - **Sentence**: ""Oral administration of dacomitinib at 2 mg/kg/day to male rats (approximately 0.6 times the human exposure based on AUC at the 45 mg clinical dose) resulted in reversible decreased secretion in the prostate gland.""
+  - **Summary**: The drug itself (dacomitinib) caused reversible decreased secretion in the prostate gland in male rats.
+ 
+
+ In summary, the drug dacomitinib was associated with reversible epithelial atrophy in the cervix and vagina in female rats and caused reversible decreased secretion in the prostate gland in male rats, indicating potential infertility risks.",Less,Yes,1,1
+GLUCAGON HYDROCHLORIDE,"The drug label for GlucaGen includes a section on nonclinical toxicology that addresses the potential for carcinogenesis, mutagenesis, and impairment of fertility. Here is a summary of the parts discussing infertility risks:
+ 
+
+ 1. **Impairment of Fertility**:
+  - **Sentence**: ""Glucagon was not tested in animal fertility studies.""
+  - **Summary**: The drug itself was not tested for infertility risks in animal studies, so no direct association or causation with infertility can be established from this statement.
+  
+  - **Sentence**: ""Studies in rats have shown that pancreatic glucagon does not cause impaired fertility.""
+  - **Summary**: The drug itself, specifically pancreatic glucagon, was not associated with or did not cause infertility in rat studies.
+ 
+
+ In summary, the drug label indicates that GlucaGen itself was not tested for infertility risks in animal fertility studies, but related studies with pancreatic glucagon showed no evidence of causing impaired fertility in rats.",No,No,1,1
+ASFOTASE ALFA,"The drug label for STRENSIQ (asfotase alfa) includes the following information related to infertility risks:
+ 
+
+ 1. **Section 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility:**
+  - ""Long-term studies in animals to evaluate carcinogenic potential or studies to evaluate mutagenic potential have not been performed with asfotase alfa.""
+  - **Summary:** No long-term studies have been conducted to evaluate the carcinogenic or mutagenic potential of the drug. The drug itself was not associated with or caused infertility risk in this statement.
+  - ""Asfotase alfa at intravenous doses up to 50 mg/kg/day administered daily in pregnant rats (approximately 21 times the human AUC of 65486 ng.h/mL at 2 mg/kg dose administered three times weekly for a 50 kg individual) was found to have no adverse effect on fertility and reproductive performance of male and female rats.""
+  - **Summary:** The drug was not associated with or caused infertility risk in animal studies, as it showed no adverse effect on fertility and reproductive performance in male and female rats.
+ 
+
+ In summary, the drug label indicates that STRENSIQ (asfotase alfa) was not associated with or caused infertility risks based on the animal studies conducted.",No,No,1,1
+PEMIGATINIB,"The drug label for PEMAZYRE (pemigatinib) includes the following information related to infertility risks:
+ 
+
+ 1. **Section 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility:**
+  - ""Dedicated fertility studies with pemigatinib have not been conducted.""
+  - **Summary:** No specific studies on fertility have been conducted with the drug itself.
+  - ""Oral administration of pemigatinib did not result in any dose-related findings likely to result in impaired fertility in male and female reproductive organs.""
+  - **Summary:** The drug itself was not associated with or did not cause infertility based on the available data from oral administration studies.
+ 
+
+ In summary, the drug label indicates that while dedicated fertility studies have not been conducted, available data from oral administration studies suggest that pemigatinib itself did not result in findings likely to cause infertility in male and female reproductive organs.",Less,No,1,1
+MEXILETINE HYDROCHLORIDE,"The drug label for Mexiletine Hydrochloride Capsules, USP, includes a section on ""Carcinogenesis, Mutagenesis, Impairment of Fertility."" Here is a summary of the parts that discuss infertility risks:
+ 
+
+ 1. **Sentence:** ""Mexiletine did not impair fertility in the rat.""
+  - **Summary:** The drug itself was not associated with or did not cause infertility in rats.
+ 
+
+ 2. **Sentence:** ""Reproduction studies performed with mexiletine in rats, mice and rabbits at doses up to four times the maximum human oral dose (24 mg/kg in a 50 kg patient) revealed no evidence of teratogenicity or impaired fertility but did show an increase in fetal resorption.""
+  - **Summary:** The drug itself was not associated with or did not cause infertility in rats, mice, and rabbits, although it did show an increase in fetal resorption.
+ 
+
+ In summary, the drug label indicates that Mexiletine Hydrochloride was not associated with or did not cause infertility in animal studies.",No,No,1,1
+TROFINETIDE,"The drug label for DAYBUE (trofinetide) includes information on infertility risks in the section titled ""13 NONCLINICAL TOXICOLOGY,"" specifically under ""13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility."" Here is a summary of the relevant parts:
+ 
+
+ 1. **Impairment of Fertility**:
+  - **Sentence**: ""Oral administration of trofinetide (0, 150, 450, or 1000 mg/kg twice daily; 0, 300, 900, or 2000 mg/kg/day) to male and female rats prior to and throughout mating and continuing in females through gestation day 7 resulted in no adverse effects on fertility or reproductive function.""
+  - **Summary**: The drug itself was not associated with or did not cause infertility risks in the tested animals.
+ 
+
+ In summary, the drug label indicates that trofinetide was not associated with or did not cause infertility risks based on the animal studies conducted.",No,No,1,1
+ALENDRONATE SODIUM TABLET,"The drug label for Alendronate Sodium Tablets discusses infertility risks in the following sections:
+ 
+
+ 1. **Nonclinical Toxicology - Carcinogenesis, Mutagenesis, Impairment of Fertility (Section 13.1):**
+  - **Sentence:** ""Alendronate had no effect on fertility (male or female) in rats at oral doses up to 5 mg/kg/day (approximately 1 times the 40 mg clinical daily dose based on surface area, mg/m2).""
+  - **Summary:** The drug itself was not associated with or did not cause infertility risks in rats at the tested doses.
+ 
+
+ 2. **Nonclinical Toxicology - Animal Toxicology and/or Pharmacology (Section 13.2):**
+  - **Sentence:** ""The relative inhibitory activities on bone resorption and mineralization of alendronate and etidronate were compared in the Schenk assay, which is based on histological examination of the epiphyses of growing rats.""
+  - **Summary:** This sentence does not discuss infertility risks directly but rather focuses on the drug's effects on bone resorption and mineralization.
+ 
+
+ In summary, the drug label indicates that Alendronate Sodium Tablets were not associated with or did not cause infertility risks in animal studies at the tested doses.",No,No,1,1
+TOFERSEN,"The drug label for QALSODY (tofersen) discusses infertility risks in the section titled ""13 NONCLINICAL TOXICOLOGY,"" specifically under ""13.1. Carcinogenesis, Mutagenesis, Impairment of Fertility."" Here is a summary of the relevant parts:
+ 
+
+ 1. **Study Overview**: 
+  - ""In a study to assess effects on fertility and reproductive function, tofersen (0, 3, 10, 30 mg/kg) was administered every other day to male and female mice prior to and during mating and continuing in females to gestation day (GD) 7.""
+  - **Summary**: This sentence describes the design of the study but does not state whether the drug itself was associated with or caused infertility risks.
+ 
+
+ 2. **Adverse Effects on Male Reproductive Organs**:
+  - ""Adverse effects on male reproductive organs (seminiferous tubular degeneration, seminiferous tubule dilatation, spermatid retention, apoptosis of epithelial cells, increased cellular debris in the testes, and hypospermia in the epididymis) were observed at the highest dose tested.""
+  - **Summary**: This sentence states that the drug itself was associated with adverse effects on male reproductive organs at the highest dose tested.
+ 
+
+ 3. **Functional Endpoints**:
+  - ""However, there were no adverse effects on functional endpoints.""
+  - **Summary**: This sentence states that the drug itself was not associated with or did not cause adverse effects on functional endpoints related to fertility.
+ 
+
+ 4. **Plasma Exposure**:
+  - ""Plasma exposure at the no-effect dose (10 mg/kg) for adverse effects on male reproductive organs was approximately 2 times that in humans at the recommended human dose of 100 mg.""
+  - **Summary**: This sentence provides context on the plasma exposure levels but does not state whether the drug itself was associated with or caused infertility risks.
+ 
+
+ In summary, the drug label indicates that QALSODY (tofersen) was associated with adverse effects on male reproductive organs at the highest dose tested in mice, but it did not cause adverse effects on functional endpoints related to fertility.",Less,No,1,1
+CIPAGLUCOSIDASE ALFA-ATGA,"The drug label for POMBILITI™ (cipaglucosidase alfa-atga) discusses infertility risks in several sections. Here is a summary of each relevant part, clearly indicating whether the drug itself was associated with or caused the infertility risk:
+ 
+
+ 1. **Section 8.3 Females and Males of Reproductive Potential:**
+  - **Females:**
+  - ""Based on preimplantation loss observed in female rats treated with intravenous cipaglucosidase alfa-atga (400 mg/kg) in combination with oral miglustat (60 mg/kg) every other day for 14 days prior to mating, and continuing through GD 7, POMBILITI in combination with Opfolda may impair human female fertility.""
+  - **Summary:** The combination of cipaglucosidase alfa-atga and miglustat was associated with preimplantation loss in female rats, suggesting a potential risk of impaired fertility in humans.
+  - ""A NOAEL for the combination was not identified. The LOAEL margins are 21-fold and 4-fold the MRHD for POMBILITI and Opfolda, respectively.""
+  - **Summary:** No observed adverse effect level (NOAEL) was identified for the combination, indicating that the combination of drugs may pose a risk to fertility.
+  - ""It is not known whether this preimplantation loss in female rats would be sustained if dosing with the combination were discontinued prior to mating.""
+  - **Summary:** The sustained effect of preimplantation loss due to the combination of drugs is unknown.
+ 
+
+  - **Males:**
+  - ""Based on reversible increases in preimplantation loss in male rats treated with the combination every other day for 28 days prior to mating, POMBILITI in combination with Opfolda may impair human male fertility.""
+  - **Summary:** The combination of cipaglucosidase alfa-atga and miglustat was associated with reversible preimplantation loss in male rats, suggesting a potential risk of impaired fertility in humans.
+  - ""A NOAEL for the combination was not identified. The LOAEL margins are 21-fold and 4-fold the MRHD for POMBILITI and Opfolda, respectively.""
+  - **Summary:** No observed adverse effect level (NOAEL) was identified for the combination, indicating that the combination of drugs may pose a risk to fertility.
+ 
+
+ 2. **Section 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility:**
+  - ""In a fertility study in rats, cipaglucosidase alfa-atga (75, 150, or 400 mg/kg) was administered intravenously to male and female rats every other day. Dosing in males was initiated 28 days prior to cohabitation with untreated females. Dosing in females was initiated 14 days prior to cohabitation with untreated males and continued through GD 7.""
+  - **Summary:** The study involved administering cipaglucosidase alfa-atga to rats to assess fertility.
+  - ""There was no effect on male or female rat fertility in any experimental group.""
+  - **Summary:** Cipaglucosidase alfa-atga alone did not affect fertility in male or female rats.
+  - ""Treatment of male rats with the combination was associated with increased preimplantation loss that was reversible.""
+  - **Summary:** The combination of cipaglucosidase alfa-atga and miglustat was associated with reversible preimplantation loss in male rats.
+  - ""Treatment of female rats with the combination, or with miglustat alone, resulted in preimplantation loss; whether this would be reversible if treatment were discontinued prior to cohabitation is unknown.""
+  - **Summary:** The combination of cipaglucosidase alfa-atga and miglustat, or miglustat alone, was associated with preimplantation loss in female rats, with unknown reversibility.
+ 
+
+ In summary, the infertility risks discussed in the drug label are primarily associated with the combination of cipaglucosidase alfa-atga and miglustat (Opfolda), rather than cipaglucosidase alfa-atga alone. The combination was linked to preimplantation loss in both male and female rats, suggesting potential risks to human fertility.",Less,Yes,1,1
+FUTIBATINIB,"The drug label for LYTGOBI (futibatinib) does not explicitly discuss infertility risks. However, it does mention reproductive toxicity and related precautions. Here is a summary of the relevant sections:
+ 
+
+ 1. **Section 5.3 Embryo-Fetal Toxicity:**
+  - **Summary:** This section states that LYTGOBI can cause fetal harm when administered to a pregnant woman based on findings in animal studies and its mechanism of action.
+  - **Infertility Risk:** The drug itself is associated with causing fetal harm but does not explicitly mention infertility.
+ 
+
+ 2. **Section 8.1 Pregnancy:**
+  - **Summary:** This section reiterates that LYTGOBI can cause fetal harm or loss of pregnancy when administered to a pregnant woman, based on animal studies.
+  - **Infertility Risk:** The drug itself is associated with causing fetal harm but does not explicitly mention infertility.
+ 
+
+ 3. **Section 8.3 Females and Males of Reproductive Potential:**
+  - **Summary:** This section advises females of reproductive potential to use effective contraception during treatment and for 1 week after the last dose. It also advises males with female partners of reproductive potential to use effective contraception during treatment and for 1 week after the last dose.
+  - **Infertility Risk:** The drug itself is associated with the need for contraception to prevent fetal harm but does not explicitly mention infertility.
+ 
+
+ 4. **Section 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility:**
+  - **Summary:** This section states that dedicated fertility studies with futibatinib have not been conducted.
+  - **Infertility Risk:** The drug itself has not been studied for its effects on fertility, so no direct association with infertility is mentioned.
+ 
+
+ In summary, the drug label for LYTGOBI (futibatinib) does not explicitly discuss infertility risks. It primarily focuses on the potential for fetal harm and the need for effective contraception during treatment. The absence of dedicated fertility studies means that the drug's impact on fertility is not clearly defined.",Less,No,2,1
+INDOCYANINE GREEN,"The drug label for SPY AGENT GREEN does not explicitly discuss infertility risks. Here is a summary of the relevant sections that might indirectly relate to reproductive health, but none of these sections directly associate the drug with infertility risks:
+ 
+
+ 1. **Pregnancy (8.1)**:
+  - **Summary**: There are no adequate and well-controlled studies of SPY AGENT GREEN in pregnant women. Available data from a very small number of scientific literature studies with indocyanine green use in pregnant women over several decades have not reported any drug-associated risks for major birth defects, miscarriage, or adverse maternal or fetal outcomes. Data from one small study in which indocyanine green was administered intravenously to pregnant women during labor suggest there is no placental transfer of the drug. Animal reproduction studies have not been conducted with indocyanine green.
+  - **Infertility Risk**: The drug itself was not associated with or caused infertility risk.
+ 
+
+ 2. **Lactation (8.2)**:
+  - **Summary**: Seventeen cases of indocyanine green use in lactating women have been reported in the scientific literature with no adverse events observed in the breastfed infant. However, there are no data on the presence of indocyanine green in human milk or the effects on milk production. Therefore, the developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for SPY AGENT GREEN and any potential adverse effects on the breastfed infant from SPY AGENT GREEN or from the underlying maternal condition.
+  - **Infertility Risk**: The drug itself was not associated with or caused infertility risk.
+ 
+
+ 3. **Pediatric Use (8.4)**:
+  - **Summary**: Use of SPY AGENT GREEN for visualization of vessels, blood flow, and tissue perfusion has been established in pediatric patients aged 1 month and older. Pediatric use is supported by published data in 49 pediatric patients who received indocyanine green for assessment of blood flow and tissue perfusion in cardiovascular, vascular, plastic, micro- and reconstructive surgical procedures, and by clinical trials in adults. No overall differences in safety or effectiveness have been observed between pediatric patients and adults. The dose range was similar to the effective dose range in adults. The use of SPY AGENT GREEN for visualization of vessels, blood flow, and tissue perfusion has not been established in pediatric patients aged less than 1 month.
+  - **Infertility Risk**: The drug itself was not associated with or caused infertility risk.
+ 
+
+ 4. **Geriatric Use (8.5)**:
+  - **Summary**: Of the total number of patients in clinical studies of SPY AGENT GREEN in visualization of vessels, blood flow, and tissue perfusion, 7% were 65 and over, while 1% were 75 and over. Of the total number of patients in clinical studies of SPY AGENT GREEN in visualization of lymph nodes and lymphatic vessels during lymphatic mapping of cervical and uterine cancer, 9% were 65 and over, while 2% were 75 and over. Of the total number of patients in clinical studies of SPY AGENT GREEN in visualization of lymph nodes and lymphatic vessels during lymphatic mapping of breast cancer, 38% were 65 and over, while 8% were 75 and over. No overall differences in safety or effectiveness were observed between these patients and younger patients, and other reported clinical experience has not identified differences in responses between elderly and younger patients. Clinical studies of SPY AGENT GREEN in visualization of extrahepatic biliary ducts did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients. Other reported clinical experience has not identified differences in responses between elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+  - **Infertility Risk**: The drug itself was not associated with or caused infertility risk.
+ 
+
+ In summary, the drug label for SPY AGENT GREEN does not mention any risks of infertility associated with the drug.",No,No,1,1
+TRAZODONE HYDROCHLORIDE,"The drug label for Trazodone Hydrochloride tablets includes a section on nonclinical toxicology that discusses the potential impact on fertility. Here is a summary of the relevant parts:
+ 
+
+ 1. **Impairment of Fertility**:
+  - **Sentence**: ""Trazodone has no effect on fertility in rats at doses up to 7.3 times the MRHD in adults on mg/m2 basis in adolescents.""
+  - **Summary**: The drug itself was not associated with or did not cause infertility in rats at doses up to 7.3 times the maximum recommended human dose (MRHD).
+ 
+
+ Overall, the drug label indicates that Trazodone Hydrochloride was not associated with or did not cause infertility in the animal studies conducted.",No,No,1,1
+DOPAMINE HCI,"The drug label for Dopamine HCl Injection, USP does not explicitly discuss infertility risks. However, it does mention potential reproductive and developmental effects in the context of pregnancy and animal studies. Here is a summary of the relevant parts:
+ 
+
+ 1. **Pregnancy: Teratogenic Effects**:
+  - **Sentence**: ""Animal studies have revealed no evidence of teratogenic effects due to dopamine.""
+  - **Summary**: The drug itself was not associated with teratogenic effects in animal studies.
+  - **Sentence**: ""However, in one study, administration of dopamine HCl to pregnant rats resulted in a decreased survival rate of the newborn and a potential for cataract formation in the survivors.""
+  - **Summary**: The drug itself was associated with decreased survival rate of newborns and potential cataract formation in animal studies.
+  - **Sentence**: ""There are no adequate and well-controlled studies in pregnant women and it is not known if dopamine crosses the placental barrier.""
+  - **Summary**: The drug itself has not been studied adequately in pregnant women, so its effects on human pregnancy are unknown.
+ 
+
+ 2. **Nursing Mothers**:
+  - **Sentence**: ""It is not known whether this drug is excreted in human milk.""
+  - **Summary**: It is unknown if the drug itself is excreted in human milk.
+ 
+
+ 3. **Pediatric Use**:
+  - **Sentence**: ""Safety and effectiveness in children have not been established.""
+  - **Summary**: The drug itself has not been established as safe or effective in children.
+ 
+
+ None of these sections directly address infertility risks. The primary focus is on potential developmental and reproductive effects observed in animal studies and the lack of adequate human studies.",Less,No,1,1
+OCRELIZUMAB,"The drug label for OCREVUS (ocrelizumab) does not explicitly discuss infertility risks in humans. However, it does provide some relevant information from animal studies and general reproductive health considerations. Here is a summary of the parts that touch on these aspects:
+ 
+
+ 1. **Nonclinical Toxicology (Section 13.1)**
+  - **Summary**: No effects on reproductive organs were observed in male monkeys administered ocrelizumab, and there were no effects on the estrus cycle in female monkeys.
+  - **Infertility Risk**: The drug itself was not associated with or caused infertility risk in the animal studies conducted.
+ 
+
+ 2. **Use in Specific Populations (Section 8.1 - Pregnancy)**
+  - **Summary**: The label mentions that ocrelizumab is a humanized monoclonal antibody and immunoglobulins are known to cross the placental barrier. There are no adequate data on the developmental risk associated with the use of OCREVUS in pregnant women.
+  - **Infertility Risk**: This section does not discuss infertility risks directly but focuses on potential developmental risks during pregnancy.
+ 
+
+ 3. **Use in Specific Populations (Section 8.3 - Females and Males of Reproductive Potential)**
+  - **Summary**: Women of childbearing potential should use effective contraception while receiving OCREVUS and for 6 months after the last infusion.
+  - **Infertility Risk**: This section advises on contraception but does not indicate that the drug itself is associated with or causes infertility.
+ 
+
+ 4. **Nonclinical Toxicology (Section 13.1 - Carcinogenesis, Mutagenesis, Impairment of Fertility)**
+  - **Summary**: No studies have been performed to assess the mutagenic potential of OCREVUS. As an antibody, OCREVUS is not expected to interact directly with DNA.
+  - **Infertility Risk**: The drug itself was not associated with or caused infertility risk based on the available nonclinical data.
+ 
+
+ In summary, the drug label does not provide evidence that OCREVUS is associated with or causes infertility risks based on the available animal studies and nonclinical data. The label primarily focuses on the need for contraception and potential developmental risks during pregnancy rather than direct infertility risks.",No,No,1,1
+NEXTERONE (AMIODARONE HCI),"The drug label for NEXTERONE (amiodarone HCl) Premixed Injection discusses infertility risks in the following sections:
+ 
+
+ 1. **Section 8.1 Pregnancy - Nonteratogenic Effects:**
+  - **Sentence:** ""Very high concentrations of amiodarone and desethylamiodarone may be found in testes.""
+  - **Summary:** The drug itself (amiodarone and its metabolite desethylamiodarone) may accumulate in the testes at very high concentrations.
+  - **Sentence:** ""An elevated follicle-stimulating hormone and luteinizing hormone levels, suggestive of testicular dysfunction, have been reported in men on long-term amiodarone treatment.""
+  - **Summary:** The drug itself (amiodarone) has been associated with elevated hormone levels indicative of testicular dysfunction in men undergoing long-term treatment.
+ 
+
+ 2. **Section 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility:**
+  - **Sentence:** ""No fertility studies were conducted with intravenous administration of amiodarone.""
+  - **Summary:** There is no information on whether the drug itself (amiodarone) affects fertility when administered intravenously.
+  - **Sentence:** ""However, in a study in which amiodarone HCl was orally administered to male and female rats, beginning 9 weeks prior to mating, reduced fertility was observed at a dose level of 90 mg/kg/day (approximately 1.4 times the maximum recommended human maintenance dose of 600 mg/day).""
+  - **Summary:** The drug itself (amiodarone) caused reduced fertility in rats when administered orally at a specific dose level.
+ 
+
+ In summary, the drug label indicates that amiodarone and its metabolite can accumulate in the testes and are associated with testicular dysfunction in men on long-term treatment. Additionally, oral administration of amiodarone in rats has been shown to reduce fertility. No fertility studies have been conducted with intravenous administration of amiodarone.",Most,Yes,1,1
+MAGNESIUM SULFATE HEPTAHYDRATE,"The drug label for Magnesium Sulfate Injection, USP does not explicitly discuss infertility risks. However, it does mention potential fetal harm and other adverse effects related to prolonged use during pregnancy. Here is a summary of the relevant sections that could indirectly relate to reproductive health:
+ 
+
+ 1. **Warnings - Fetal Harm**:
+  - **Sentence**: ""Continuous administration of magnesium sulfate beyond 5 to 7 days to pregnant women can lead to hypocalcemia and bone abnormalities in the developing fetus.""
+  - **Summary**: The drug itself is associated with fetal harm, including hypocalcemia and bone abnormalities, when administered continuously for more than 5 to 7 days during pregnancy.
+ 
+
+ 2. **Warnings - Fetal Harm**:
+  - **Sentence**: ""These bone abnormalities include skeletal demineralization and osteopenia. In addition, cases of neonatal fracture have been reported.""
+  - **Summary**: The drug itself is associated with skeletal demineralization, osteopenia, and neonatal fractures when used for prolonged periods during pregnancy.
+ 
+
+ 3. **Warnings - Fetal Harm**:
+  - **Sentence**: ""The shortest duration of treatment that can lead to fetal harm is not known.""
+  - **Summary**: The drug itself has an uncertain minimum duration of use that can cause fetal harm.
+ 
+
+ 4. **Warnings - Fetal Harm**:
+  - **Sentence**: ""Magnesium sulfate should be used during pregnancy only if clearly needed.""
+  - **Summary**: The drug itself should be used cautiously during pregnancy due to potential risks.
+ 
+
+ 5. **Warnings - Fetal Harm**:
+  - **Sentence**: ""If magnesium sulfate is given for treatment of preterm labor, the woman should be informed that the efficacy and safety of such use have not been established and that use of magnesium sulfate beyond 5 to 7 days may cause fetal abnormalities.""
+  - **Summary**: The drug itself may cause fetal abnormalities when used for preterm labor treatment beyond 5 to 7 days, and its safety and efficacy for this use are not established.
+ 
+
+ 6. **Pregnancy - Teratogenic Effects**:
+  - **Sentence**: ""Magnesium sulfate can cause fetal abnormalities when administered beyond 5 to 7 days to pregnant women.""
+  - **Summary**: The drug itself is associated with causing fetal abnormalities when used for more than 5 to 7 days during pregnancy.
+ 
+
+ 7. **Pregnancy - Teratogenic Effects**:
+  - **Sentence**: ""There are retrospective epidemiological studies and case reports documenting fetal abnormalities such as hypocalcemia, skeletal demineralization, osteopenia and other skeletal abnormalities with continuous maternal administration of magnesium sulfate for more than 5 to 7 days.""
+  - **Summary**: The drug itself is associated with fetal abnormalities, including hypocalcemia, skeletal demineralization, and osteopenia, based on studies and case reports.
+ 
+
+ 8. **Pregnancy - Nonteratogenic Effects**:
+  - **Sentence**: ""When administered by continuous IV infusion (especially for more than 24 hours preceding delivery) to control convulsions in a toxemic woman, the newborn may show signs of magnesium toxicity, including neuromuscular or respiratory depression.""
+  - **Summary**: The drug itself is associated with magnesium toxicity in newborns, including neuromuscular or respiratory depression, when administered continuously before delivery.
+ 
+
+ In summary, while the drug label does not directly address infertility risks, it does highlight significant potential fetal harm and adverse effects related to prolonged use during pregnancy. These effects include skeletal abnormalities, hypocalcemia, and magnesium toxicity in newborns.",Less,No,1,1
+FLUDEOXYGLUCOSE F-18,"The drug label for Fludeoxyglucose F 18 Injection, USP includes the following information related to infertility risks:
+ 
+
+ 1. **Section 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility:**
+  - **Sentence:** ""Animal studies have not been performed to evaluate the Fludeoxyglucose F18 Injection carcinogenic potential, mutagenic potential or effects on fertility.""
+  - **Summary:** This sentence states that no animal studies have been conducted to evaluate whether Fludeoxyglucose F 18 Injection itself is associated with or causes infertility risks.
+ 
+
+ In summary, the drug label does not provide specific information indicating that Fludeoxyglucose F 18 Injection is associated with or causes infertility risks. It only mentions that the effects on fertility have not been evaluated in animal studies.",No,No,1,1
+OLOPATADINE HYDROCHLORIDE,"The drug label for PATANASE® Nasal Spray discusses infertility risks in the section titled ""13 NONCLINICAL TOXICOLOGY"" under ""13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility."" Here is a summary of the relevant parts:
+ 
+
+ 1. **Sentence:** ""Olopatadine administered orally to male and female rats at dose of 400 mg/kg/day, (approximately 680 times the MRHD for adults on a mg/m2 basis) resulted in a decrease in the fertility index and reduced implantation rate.""
+  - **Summary:** The drug (olopatadine) was associated with a decrease in fertility index and reduced implantation rate in rats at high doses.
+ 
+
+ 2. **Sentence:** ""No effects on fertility were observed at dose of 50 mg/kg/day (approximately 85 times the MRHD for adults on a mg/m2 basis).""
+  - **Summary:** The drug (olopatadine) did not cause infertility at lower doses in rats.
+ 
+
+ In summary, high doses of olopatadine were associated with decreased fertility and reduced implantation rates in animal studies, but no infertility effects were observed at lower doses.",Less,Yes,1,1
+CYCLOSERINE,"The drug label for Cycloserine Capsules USP, 250 mg, includes a section on ""Carcinogenesis, Mutagenicity, and Impairment of Fertility"" that discusses infertility risks. Here is a summary of the relevant parts:
+ 
+
+ 1. **Studies have not been performed to determine potential for carcinogenicity.**
+  - **Summary:** No studies have been conducted to assess whether the drug itself is associated with or causes cancer.
+ 
+
+ 2. **The Ames test and unscheduled DNA repair test were negative.**
+  - **Summary:** The drug itself was not associated with mutagenicity based on these tests.
+ 
+
+ 3. **A study in 2 generations of rats showed no impairment of fertility relative to controls for the first mating but somewhat lower fertility in the second mating.**
+  - **Summary:** The drug itself was not associated with infertility in the first generation of rats but caused somewhat lower fertility in the second generation.
+ 
+
+ In summary, the drug label indicates that Cycloserine itself was not associated with infertility in the first generation of rats but caused somewhat lower fertility in the second generation.",Less,Yes,1,1
+POMALIDOMIDE,"The drug label for POMALYST (pomalidomide) includes information about infertility risks in the following sections:
+ 
+
+ 1. **Section 8.3: Females and Males of Reproductive Potential**
+  - **Infertility**: ""Based on findings in animals, female fertility may be compromised by treatment with POMALYST [see Nonclinical Toxicology (13.1)].""
+  - **Summary**: This sentence states that the drug itself (POMALYST) was associated with a potential risk of compromised female fertility based on animal studies.
+ 
+
+ 2. **Section 13.1: Carcinogenesis, Mutagenesis, Impairment of Fertility**
+  - ""In a fertility and early embryonic development study in rats, drug-treated males were mated with untreated or treated females. Pomalidomide was administered to males and females at doses of 25 to 1000 mg/kg/day. When treated males were mated with treated females, there was an increase in post-implantation loss and a decrease in mean number of viable embryos at all dose levels.""
+  - **Summary**: This sentence indicates that the drug itself (POMALYST) caused an increase in post-implantation loss and a decrease in the number of viable embryos when both male and female rats were treated with the drug.
+  - ""There were no other effects on reproductive functions or the number of pregnancies.""
+  - **Summary**: This sentence clarifies that aside from the increased post-implantation loss and decreased viable embryos, the drug itself (POMALYST) did not cause other reproductive function issues or affect the number of pregnancies.
+  - ""The lowest dose tested in animals resulted in an exposure (AUC) approximately 100-fold of the exposure in patients at the recommended dose of 4 mg/day.""
+  - **Summary**: This sentence provides context on the dosage used in the animal studies, indicating that the drug itself (POMALYST) was tested at significantly higher exposure levels than the recommended human dose.
+  - ""When treated males in this study were mated with untreated females, all uterine parameters were comparable to the controls. Based on these results, the observed effects were attributed to the treatment of females.""
+  - **Summary**: This sentence indicates that the drug itself (POMALYST) did not affect uterine parameters when only males were treated, suggesting that the infertility effects were primarily due to the treatment of females.
+ 
+
+ In summary, the drug label indicates that POMALYST (pomalidomide) itself is associated with potential infertility risks, particularly in females, based on animal studies. The drug caused increased post-implantation loss and decreased viable embryos when both male and female rats were treated, but did not affect other reproductive functions or the number of pregnancies.",Most,Yes,1,1
+RAXIBACUMAB,"The drug label for Raxibacumab includes a section on nonclinical toxicology that discusses infertility risks. Here is a summary of the relevant parts:
+ 
+
+ 1. **Section 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility:**
+  - **Sentence:** ""Carcinogenicity, genotoxicity, and fertility studies have not been conducted with raxibacumab.""
+  - **Summary:** This sentence states that no studies have been conducted to determine if Raxibacumab itself is associated with or causes infertility risks.
+ 
+
+ In summary, the drug label does not provide any information indicating that Raxibacumab is associated with or causes infertility risks, as no fertility studies have been conducted.",No,No,1,1
+TEPOTINIB HYDROCHLORIDE,"The drug label for TEPMETKO (tepotinib) includes information about infertility risks in the following sections:
+ 
+
+ 1. **Section 8.1 Pregnancy**:
+  - **Summary**: This section discusses the potential for TEPMETKO to cause fetal harm based on animal studies and its mechanism of action. It does not directly address infertility risks but highlights the drug's teratogenic effects.
+  - **Drug Association**: The drug itself is associated with causing fetal harm, but infertility risks are not explicitly mentioned here.
+ 
+
+ 2. **Section 8.3 Females and Males of Reproductive Potential**:
+  - **Summary**: This section states that based on animal data, TEPMETKO can cause malformations at doses less than the human exposure based on AUC at the 450 mg clinical dose.
+  - **Drug Association**: The drug itself is associated with causing malformations, but it does not explicitly mention infertility risks.
+ 
+
+ 3. **Section 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility**:
+  - **Summary**: This section states that fertility studies of tepotinib have not been performed. It also mentions that there were no morphological changes in male or female reproductive organs in repeat-dose toxicity studies in dogs.
+  - **Drug Association**: The drug itself was not associated with causing infertility risks, as no morphological changes in reproductive organs were observed in animal studies.
+ 
+
+ In summary, the drug label does not provide direct evidence or statements associating TEPMETKO with infertility risks. The sections discussing reproductive potential and toxicity studies do not indicate that the drug causes infertility.",No,No,1,1
+TESTOSTERONE CYPIONATE,"### Summary of Infertility Risks Associated with Testosterone Cypionate Injection
+ 
+
+ 1. **Section 5.7: Potential for Adverse Effects on Spermatogenesis**
+  - **Summary**: Large doses of exogenous androgens, including Testosterone Cypionate Injection, may suppress spermatogenesis through feedback inhibition of pituitary follicle-stimulating hormone (FSH), potentially leading to adverse effects on semen parameters, including sperm count.
+  - **Association**: The drug itself is associated with the risk of infertility due to its potential to suppress spermatogenesis.
+ 
+
+ 2. **Section 8.3: Females and Males of Reproductive Potential - Infertility**
+  - **Summary**: During treatment with large doses of exogenous androgens, including Testosterone Cypionate Injection, spermatogenesis may be suppressed through feedback inhibition of the hypothalamic-pituitary-testicular axis. Reduced fertility is observed in some men taking testosterone replacement therapy, and the impact on fertility may be irreversible.
+  - **Association**: The drug itself is associated with the risk of infertility due to its potential to suppress spermatogenesis and reduce fertility.
+ 
+
+ 3. **Section 9.2: Abuse - Abuse-Related Adverse Reactions**
+  - **Summary**: Testicular atrophy, subfertility, and infertility have been reported in men who abuse anabolic androgenic steroids, including testosterone.
+  - **Association**: The drug itself is associated with the risk of infertility when abused, leading to testicular atrophy and subfertility.
+ 
+
+ 4. **Section 17: Patient Counseling Information - Testosterone Cypionate Injection may lower your sperm count**
+  - **Summary**: Patients are advised that Testosterone Cypionate Injection may lower their sperm count.
+  - **Association**: The drug itself is associated with the risk of infertility due to its potential to lower sperm count.
+ 
+
+ ### Conclusion
+ Testosterone Cypionate Injection is associated with infertility risks primarily due to its potential to suppress spermatogenesis, reduce sperm count, and cause testicular atrophy, especially when used in large doses or abused.",Most,Yes,1,1
+SETMELANOTIDE,"The drug label for IMCIVREE (setmelanotide) includes a section on nonclinical toxicology that discusses the potential effects of the drug on fertility. Here is a summary of the relevant parts:
+ 
+
+ 1. **Nonclinical Toxicology - Carcinogenesis, Mutagenesis, Impairment of Fertility (Section 13.1):**
+  - **Sentence:** ""There were no effects on the fertility of male rats subcutaneously administered up to 3.0 mg/kg/day setmelanotide, which represents 9 times the MRHD of 3 mg, based on AUC.""
+  - **Summary:** The drug itself was not associated with or did not cause infertility in male rats at doses up to 3.0 mg/kg/day.
+  - **Sentence:** ""No effects on the fertility of female rats were observed with subcutaneous administration up to 5 mg/kg/day setmelanotide, which represents 11 times the MRHD of 3 mg, based on AUC.""
+  - **Summary:** The drug itself was not associated with or did not cause infertility in female rats at doses up to 5 mg/kg/day.
+ 
+
+ In summary, the drug label indicates that IMCIVREE (setmelanotide) was not associated with or did not cause infertility in both male and female rats at the tested doses.",No,No,1,1
+AVANAFIL,"The drug label for STENDRA (avanafil) discusses infertility risks in the following sections:
+ 
+
+ 1. **Section 8.3 - Females and Males of Reproductive Potential:**
+  - **Infertility:** 
+  - ""There have been no studies evaluating the effect of STENDRA on fertility in men."" 
+  - **Summary:** No direct studies have been conducted to evaluate whether STENDRA itself affects fertility in men.
+  - ""Based on studies in animals, decreased fertility, abnormal sperm motility and morphology, and altered estrous cycles were observed in rats.""
+  - **Summary:** Animal studies (not human studies) indicated that STENDRA itself was associated with decreased fertility, abnormal sperm motility and morphology, and altered estrous cycles in rats.
+  - ""The abnormal sperm findings were reversible at the end of a 9-week drug-free period.""
+  - **Summary:** The infertility risks (abnormal sperm findings) caused by STENDRA itself in animal studies were reversible after a 9-week period without the drug.
+ 
+
+ 2. **Section 13.1 - Carcinogenesis, Mutagenesis, and Impairment of Fertility:**
+  - **Impairment of Fertility:**
+  - ""In a rat fertility and early embryonic development study administered 100, 300, or 1000 mg/kg/day for 28 days prior to pairing and continued until euthanasia for males, and 14 days prior to pairing to gestation day 7 for females, a decrease in fertility, no or reduced sperm motility, altered estrous cycles, and an increased percentage of abnormal sperm (broken sperm with detached heads) occurred at exposures in males approximately 11 times the human exposure at a dose of 200 mg.""
+  - **Summary:** In animal studies, STENDRA itself was associated with decreased fertility, reduced sperm motility, altered estrous cycles, and increased abnormal sperm at high exposure levels.
+  - ""The altered sperm effects were reversible at the end of a 9-week drug-free period.""
+  - **Summary:** The infertility risks (altered sperm effects) caused by STENDRA itself in animal studies were reversible after a 9-week period without the drug.
+  - ""Systemic exposure at the NOAEL (300 mg/kg/day) was comparable to the human AUC at the MRHD of 200 mg.""
+  - **Summary:** The No Observed Adverse Effect Level (NOAEL) in animal studies was comparable to the maximum recommended human dose, suggesting that the observed infertility risks were dose-dependent and occurred at higher exposures.
+ 
+
+ In summary, the drug label indicates that STENDRA itself was associated with infertility risks in animal studies, including decreased fertility, abnormal sperm motility and morphology, and altered estrous cycles. These effects were reversible after a period without the drug. No direct studies have been conducted to evaluate the effect of STENDRA on fertility in humans.",Most,Yes,1,1
+VANCOMYCIN HYDROCHLORIDE,"The drug label for Vancomycin Injection, USP does not explicitly discuss infertility risks. There are no sections or sentences within the provided drug label that mention infertility or reproductive risks directly associated with the use of vancomycin. The label does cover a wide range of other potential adverse effects, precautions, and contraindications, but infertility is not mentioned among them. Therefore, based on the provided information, vancomycin itself is not associated with or reported to cause infertility risks.",No,No,1,1
+HYDROCORTISONE,"The drug label for ALKINDI SPRINKLE (hydrocortisone) mentions infertility risks in the following sections:
+ 
+
+ 1. **Section 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility:**
+  - **Sentence:** ""Corticosteroids have been shown to impair fertility in male rats.""
+  - **Summary:** This sentence indicates that corticosteroids, the class of drugs to which hydrocortisone belongs, have been associated with impaired fertility in male rats. It does not specifically state that ALKINDI SPRINKLE itself was tested for this effect, but it implies a potential risk based on the class of drugs.
+ 
+
+ 2. **Section 6.2 Postmarketing Experience:**
+  - **Sentence:** ""Reproductive: Alteration in motility and number of spermatozoa.""
+  - **Summary:** This sentence suggests that corticosteroids, including hydrocortisone, have been associated with changes in sperm motility and count, which could impact fertility. It does not specifically state that ALKINDI SPRINKLE caused these effects but includes hydrocortisone as part of the broader category of corticosteroids.
+ 
+
+ In summary, the drug label indicates that corticosteroids, including hydrocortisone, have been associated with infertility risks such as impaired fertility in male rats and alterations in sperm motility and count. However, it does not specifically state that ALKINDI SPRINKLE itself was directly tested for these effects.",Less,Yes,1,1
+SILODOSIN,"The drug label for RAPAFLO (silodosin) discusses infertility risks in the following sections:
+ 
+
+ 1. **Section 8.3 - Females and Males of Reproductive Potential:**
+  - **Sentence:** ""Possible effects on male fertility could be observed based on findings in rats at exposures that were at least two times higher than at the MRHD (based on AUC).""
+  - **Summary:** The drug itself was associated with possible effects on male fertility in rats at high exposures.
+  - **Sentence:** ""These findings may be reversible, and the clinical relevance is unknown.""
+  - **Summary:** The drug itself caused reversible fertility effects in rats, but the relevance to humans is unknown.
+ 
+
+ 2. **Section 13.1 - Carcinogenesis, Mutagenesis, and Impairment of Fertility:**
+  - **Sentence:** ""Treatment of male rats with silodosin for 15 days resulted in decreased fertility at the high dose of 20 mg/kg/day (about 2 times the exposure at the MRHD based on AUC) which was reversible following a two-week recovery period.""
+  - **Summary:** The drug itself caused decreased fertility in male rats at high doses, which was reversible.
+  - **Sentence:** ""No effect was observed at 6 mg/kg/day.""
+  - **Summary:** The drug itself did not cause fertility effects in male rats at lower doses.
+  - **Sentence:** ""The clinical relevance of this finding is not known.""
+  - **Summary:** The relevance of the drug's fertility effects in rats to humans is unknown.
+  - **Sentence:** ""In a fertility study in female rats, the high dose of 20 mg/kg/day (about 1 to 4 times the exposure at the MRHD based on AUC) resulted in estrus cycle changes, but no effect on fertility.""
+  - **Summary:** The drug itself caused changes in the estrus cycle in female rats at high doses but did not affect fertility.
+  - **Sentence:** ""No effect on the estrus cycle was observed at 6 mg/kg/day.""
+  - **Summary:** The drug itself did not cause estrus cycle changes in female rats at lower doses.
+  - **Sentence:** ""In a male rat fertility study, sperm viability and count were significantly lower after administration of 600 mg/kg/day (about 65 times the exposure at the MRHD based on AUC) for one month.""
+  - **Summary:** The drug itself caused significant reductions in sperm viability and count in male rats at very high doses.
+  - **Sentence:** ""Histopathological examination of infertile males revealed changes in the testes and epididymides at 200 mg/kg/day (about 30 times the exposure at the MRHD based on AUC).""
+  - **Summary:** The drug itself caused changes in the testes and epididymides in male rats at high doses.
+ 
+
+ In summary, the drug label indicates that RAPAFLO (silodosin) was associated with or caused infertility risks in animal studies, particularly at high doses. The clinical relevance of these findings to humans is unknown.",Most,Yes,1,1
+FROVATRIPTAN SUCCINATE,"The drug label for frovatriptan succinate tablets discusses infertility risks in the section titled ""13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility."" Here is a summary of the relevant parts:
+ 
+
+ 1. **Male and female rats were dosed orally with frovatriptan prior to and during mating and in females up to implantation, at doses of 100, 500, and 1000 mg/kg/day (equivalent to approximately 130, 650, and 1300 times the MRHD on a mg/m2 basis).**
+  - **Summary:** The drug itself was administered to rats at various doses to study its effects on fertility.
+ 
+
+ 2. **At all dose levels, there was an increase in the number of females that mated on the first day of pairing compared to control animals.**
+  - **Summary:** The drug itself was associated with an increase in the number of females that mated on the first day of pairing.
+ 
+
+ 3. **This occurred in conjunction with a prolongation of the estrous cycle.**
+  - **Summary:** The drug itself caused a prolongation of the estrous cycle in female rats.
+ 
+
+ 4. **In addition, females had a decreased mean number of corpora lutea, and consequently a lower number of live fetuses per litter, which suggested a partial impairment of ovulation.**
+  - **Summary:** The drug itself was associated with a decreased number of corpora lutea and a lower number of live fetuses per litter, suggesting partial impairment of ovulation.
+ 
+
+ 5. **There were no other fertility-related effects.**
+  - **Summary:** The drug itself did not cause any other fertility-related effects beyond those mentioned.
+ 
+
+ In summary, the drug frovatriptan succinate was associated with several infertility risks in animal studies, including an increase in mating on the first day, prolongation of the estrous cycle, decreased number of corpora lutea, and a lower number of live fetuses per litter, suggesting partial impairment of ovulation. No other fertility-related effects were observed.",Most,Yes,1,1
+INTERFERON ALFA-N3,"The provided drug label for Alferon (interferon alfa-n3) does not contain any information or sentences discussing infertility risks. The label primarily includes information about the storage conditions for the drug, specifying that it should be stored at 2º to 8ºC (36º to 46ºF), should not be frozen, and should not be shaken. There are no mentions of infertility risks or associations with infertility in the provided text.",No,No,1,1
+LUTETIUM LU 177 DOTATATE,"### Summary of Infertility Risks for LUTATHERA
+ 
+
+ 1. **Section 5.9 - Risk of Infertility:**
+  - **Sentence:** ""LUTATHERA may cause infertility in males and females.""
+  - **Summary:** The drug itself is associated with the risk of causing infertility in both males and females.
+  - **Sentence:** ""The recommended cumulative dose of 29.6 GBq of LUTATHERA results in a radiation absorbed dose to the testes and ovaries within the range where temporary or permanent infertility can be expected following external beam radiotherapy.""
+  - **Summary:** The drug itself, at the recommended cumulative dose, is associated with a radiation dose that can cause temporary or permanent infertility.
+ 
+
+ 2. **Section 8.3 - Females and Males of Reproductive Potential:**
+  - **Sentence:** ""The recommended cumulative dose of 29.6 GBq of LUTATHERA results in a radiation absorbed dose to the testes and ovaries within the range where temporary or permanent infertility can be expected following external beam radiotherapy.""
+  - **Summary:** The drug itself, at the recommended cumulative dose, is associated with a radiation dose that can cause temporary or permanent infertility.
+ 
+
+ 3. **Section 17 - Patient Counseling Information:**
+  - **Sentence:** ""Advise female and male patients that LUTATHERA may impair fertility.""
+  - **Summary:** The drug itself is associated with the risk of impairing fertility in both female and male patients.
+ 
+
+ ### Conclusion
+ LUTATHERA is associated with the risk of causing infertility in both males and females due to the radiation absorbed dose to the testes and ovaries at the recommended cumulative dose. This risk includes the potential for both temporary and permanent infertility.",Most,Yes,1,1
+LURASIDONE HYDROCHLORIDE,"The drug label for LATUDA (lurasidone hydrochloride) discusses infertility risks in the following sections:
+ 
+
+ 1. **Section 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility:**
+  - **Estrus cycle irregularities:** ""Estrus cycle irregularities were seen in rats orally administered lurasidone at 1.5, 15 and 150 mg/kg/day for 15 consecutive days prior to mating, during the mating period, and through gestation day 7."" 
+  - **Summary:** The drug itself was associated with estrus cycle irregularities in rats.
+  - **Fertility reduction:** ""Fertility was reduced only at the highest dose, which was reversible after a 14 day drug-free period.""
+  - **Summary:** The drug itself caused a reduction in fertility at high doses, but this effect was reversible.
+  - **No-effect dose for reduced fertility:** ""The no-effect dose for reduced fertility was approximately equal to the MRHD based on mg/m2.""
+  - **Summary:** The drug itself did not cause reduced fertility at doses approximately equal to the maximum recommended human dose (MRHD).
+  - **Male fertility:** ""Lurasidone had no effect on fertility in male rats treated orally for 64 consecutive days prior to mating and during the mating period at doses up to 9 times the MRHD based on mg/m2.""
+  - **Summary:** The drug itself was not associated with infertility in male rats at doses up to 9 times the MRHD.
+ 
+
+ 2. **Section 8.4 Pediatric Use:**
+  - **Juvenile animal studies:** ""Adverse effects were seen on growth, physical and neurobehavioral development at doses as low as 0.2 times the MRHD based on mg/m2.""
+  - **Summary:** The drug itself was associated with adverse effects on growth, physical, and neurobehavioral development in juvenile animals.
+  - **Reproductive parameters:** ""However, there were no changes at any dose level in reproductive parameters (fertility, conception indices, spermatogenesis, estrous cycle, gestation length, parturition, number of pups born).""
+  - **Summary:** The drug itself was not associated with changes in reproductive parameters at any dose level.
+ 
+
+ In summary, LATUDA was associated with estrus cycle irregularities and reduced fertility at high doses in female rats, but these effects were reversible. The drug did not cause infertility in male rats or affect reproductive parameters in juvenile animal studies.",Less,Yes,1,1
+AMINOLEVULINIC ACID HYDROCHLORIDE,"The drug label for AMELUZ does not explicitly discuss infertility risks. However, it does mention the following related points under the section ""13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility"":
+ 
+
+ 1. **Animal fertility studies have not been conducted with aminolevulinic acid because of the negligible systemic absorption of aminolevulinic acid in humans following topical administration of AMELUZ under maximal clinical use conditions.**
+  - **Summary:** The drug itself was not associated with or caused infertility risk because no animal fertility studies were conducted due to the negligible systemic absorption in humans.
+ 
+
+ In conclusion, the drug label does not provide any information indicating that AMELUZ is associated with or causes infertility risks.",No,No,1,1
+ZANUBRUTINIB,"The drug label for BRUKINSA (zanubrutinib) discusses infertility risks in the following sections:
+ 
+
+ 1. **Section 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility**:
+  - **Sentence**: ""A combined male and female fertility and early embryonic development study was conducted in rats at oral zanubrutinib doses of 30 to 300 mg/kg/day.""
+  - **Summary**: This sentence introduces a study on fertility and early embryonic development in rats using zanubrutinib.
+  - **Sentence**: ""Male rats were dosed 4 weeks prior to mating and through mating and female rats were dosed 2 weeks prior to mating and to gestation day 7.""
+  - **Summary**: This sentence describes the dosing regimen for male and female rats in the study.
+  - **Sentence**: ""No effect on male or female fertility was noted at lower doses, but at the highest dose tested, morphological abnormalities in sperm and increased postimplantation loss were noted.""
+  - **Summary**: Zanubrutinib at the highest dose tested caused morphological abnormalities in sperm and increased postimplantation loss, indicating a potential risk of infertility at high doses.
+  - **Sentence**: ""The high dose of 300 mg/kg/day is approximately 10 times the human recommended dose, based on body surface area.""
+  - **Summary**: The dose that caused infertility-related issues in rats is significantly higher than the recommended human dose.
+ 
+
+ In summary, the drug label indicates that zanubrutinib itself was associated with infertility risks at high doses in animal studies, specifically causing morphological abnormalities in sperm and increased postimplantation loss in rats. However, no effects on fertility were noted at lower doses.",Less,Yes,1,1
+LEVETIRACETAM INJECTION,"The drug label for Levetiracetam in Sodium Chloride Injection discusses infertility risks in the section titled ""13 NONCLINICAL TOXICOLOGY,"" specifically under ""13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility."" Here is a summary of the relevant parts:
+ 
+
+ 1. **Impairment of Fertility**:
+  - **Sentence**: ""No adverse effects on male or female fertility or reproductive performance were observed in rats at oral doses up to 1,800 mg/kg/day, which were associated with plasma exposures (AUC) up to approximately 6 times that in humans at the maximum recommended human dose (MRHD).""
+  - **Summary**: The drug itself was **not associated with or did not cause** infertility risks in animal studies, as no adverse effects on fertility or reproductive performance were observed in rats at doses significantly higher than those used in humans.
+ 
+
+ In conclusion, the drug label indicates that Levetiracetam in Sodium Chloride Injection was not associated with or did not cause infertility risks based on the animal studies conducted.",No,No,1,1
+TECHNETIUM TC 99M SULFUR COLLOID,"The drug label for the Kit for the Preparation of Technetium Tc 99m Sulfur Colloid Injection does not provide specific information or warnings about infertility risks. Here is a summary of the relevant sections that discuss reproductive toxicity:
+ 
+
+ 1. **Section 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility:**
+  - ""Animal studies to evaluate the carcinogenicity, mutagenesis, or reproductive toxicity potentials of Technetium Tc 99m Sulfur Colloid have not been conducted.""
+  - **Summary:** This sentence states that no animal studies have been conducted to evaluate the reproductive toxicity, including infertility risks, of the drug. Therefore, it does not confirm whether the drug itself is associated with or causes infertility risks.
+ 
+
+ Overall, the drug label does not provide any direct information or evidence that the drug itself is associated with or causes infertility risks.",No,No,1,1
+MOGAMULIZUMAB-KPKC,"The drug label for POTELIGEO (mogamulizumab-kpkc) does not provide specific information indicating that the drug itself is associated with or causes infertility risks. Here is a summary of the relevant sections:
+ 
+
+ 1. **Section 13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility:**
+  - ""No specific studies have been conducted to evaluate potential effects of POTELIGEO on fertility.""
+  - **Summary:** No studies have been conducted to determine if POTELIGEO affects fertility. The drug itself is not stated to be associated with or cause infertility.
+  - ""No mogamulizumab-kpkc-related toxic effects in the male and female reproductive organs were observed in sexually mature monkeys in repeat-dose toxicology studies up to 26 weeks in duration.""
+  - **Summary:** In animal studies, no toxic effects on reproductive organs were observed. The drug itself is not associated with or causing infertility based on these studies.
+ 
+
+ Overall, the drug label does not indicate that POTELIGEO is associated with or causes infertility risks.",No,No,1,1
+TERBUTALINE SULFATE,"The drug label for Terbutaline Sulfate Injection, USP, includes a section on ""Carcinogenesis, Mutagenesis, Impairment of Fertility,"" which discusses the potential risks related to infertility. Here is a summary of the relevant parts:
+ 
+
+ 1. **Sentence:**
+  ""Reproduction studies in rats using terbutaline sulfate demonstrated no impairment of fertility at oral doses up to 50 mg/kg (approximately 810 times the maximum recommended daily sc dose for adults on a mg/m² basis).""
+  - **Summary:** The drug itself was not associated with or did not cause infertility in rats at high doses.
+ 
+
+ 2. **Sentence:**
+  ""The mutagenicity potential of terbutaline sulfate has not been determined.""
+  - **Summary:** The drug itself has an undetermined risk regarding mutagenicity, which could potentially relate to infertility, but no direct association or causation is stated.
+ 
+
+ In summary, the drug label indicates that terbutaline sulfate did not cause infertility in animal studies at high doses, and the mutagenicity potential, which could indirectly relate to infertility, has not been determined.",No,No,1,1

@@ -1,0 +1,1090 @@
+generic_name,reasoning,less_determination,binary_determination,less_determination_score,binary_determination_score
+SULFADIAZINE,"The provided drug label for sulfadiazine does not explicitly mention pulmonary toxicity risks or pulmonary reactions. The label discusses various adverse reactions, contraindications, and precautions, but there is no specific mention of pulmonary toxicity or pulmonary reactions associated with the drug itself. 
+ 
+
+ To summarize:
+ - There are no sentences in the drug label that discuss pulmonary toxicity risks or pulmonary reactions for sulfadiazine.",No,No,1,1
+DARIFENACIN HYDROBROMIDE,"The provided drug label for Darifenacin extended-release tablets does not contain any sentences that discuss pulmonary toxicity risks or pulmonary reactions. Therefore, there are no associations or causations of pulmonary risks mentioned for this drug.",No,No,1,1
+SONIDEGIB,"The provided drug label for ODOMZO (sonidegib) does not mention any pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on embryo-fetal toxicity, musculoskeletal adverse reactions, and other side effects such as muscle spasms, alopecia, dysgeusia, fatigue, nausea, and more. There is no information indicating that ODOMZO is associated with or causes pulmonary toxicity or pulmonary reactions.",No,No,1,1
+GLUCAGON HYDROCHLORIDE,"The provided drug label for GlucaGen does not mention any pulmonary toxicity risks or pulmonary reactions. The label primarily discusses the drug's indications, administration, contraindications, warnings, precautions, adverse reactions, drug interactions, and specific population usage, but it does not include any information related to pulmonary toxicity or pulmonary reactions. Therefore, there are no sentences to summarize regarding pulmonary risks associated with GlucaGen.",No,No,1,2
+TETRAKIS(2-METHOXYISOBUTYLISOCYANIDE)COPPER(I) TETRAFLUOROBORATE,"The drug label for CARDIOLITE® does not explicitly mention pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on the indications, usage, dosage, administration, preparation, and other safety information related to the myocardial and breast imaging uses of Technetium Tc99m Sestamibi. 
+ 
+
+ However, it does mention that pharmacologic induction of cardiovascular stress may be associated with serious adverse events, including bronchoconstriction, which is a pulmonary reaction. Here is the relevant information summarized:
+ 
+
+ 1. **Pharmacologic induction of cardiovascular stress may be associated with serious adverse events such as myocardial infarction, arrhythmia, hypotension, bronchoconstriction, and cerebrovascular events.**
+  - **Summary:** The drug label states that pharmacologic stress, which may be used in conjunction with CARDIOLITE®, can be associated with bronchoconstriction. This indicates a potential pulmonary reaction, but it is related to the stress induction process rather than the drug itself.
+ 
+
+ 2. **Caution should be used when pharmacologic stress is selected as an alternative to exercise; it should be used when indicated and in accordance with the pharmacologic stress agent's labeling.**
+  - **Summary:** The label advises caution when using pharmacologic stress, which can cause bronchoconstriction. This again points to a pulmonary reaction associated with the stress agent, not directly with CARDIOLITE®.
+ 
+
+ In summary, the drug label does not directly associate CARDIOLITE® with pulmonary toxicity or reactions. The mention of bronchoconstriction is related to the pharmacologic stress agents used in conjunction with the imaging procedure, not the drug itself.",Less,No,1,1
+THALIDOMIDE,"Here is a summary of all the sentences from the drug label that discuss pulmonary toxicity risks and pulmonary reactions for THALOMID (thalidomide):
+ 
+
+ 1. **Venous Thromboembolism Risk**:
+  - **Sentence**: ""The use of THALOMID in multiple myeloma results in an increased risk of venous thromboembolism, such as deep venous thrombosis and pulmonary embolism.""
+  - **Summary**: THALOMID itself is associated with an increased risk of pulmonary embolism in multiple myeloma patients.
+ 
+
+ 2. **Clinical Trial Data on Venous Thromboembolism**:
+  - **Sentence**: ""In one controlled trial, the rate of venous thromboembolism was 22.5% in patients receiving THALOMID in combination with dexamethasone compared to 4.9% in patients receiving dexamethasone alone (p = 0.002).""
+  - **Summary**: THALOMID, when used in combination with dexamethasone, was associated with a higher rate of venous thromboembolism, including pulmonary embolism.
+ 
+
+ 3. **Adverse Reactions in Multiple Myeloma Clinical Trials**:
+  - **Sentence**: ""The adverse reactions most often reported by patients treated with THALOMID/dexamethasone were constipation, peripheral edema, tremor, asthenia, dizziness and fatigue.""
+  - **Summary**: This sentence does not directly mention pulmonary reactions.
+ 
+
+ 4. **Pulmonary Adverse Reactions in Clinical Trials**:
+  - **Sentence**: ""Pulmonary embolism was reported in 7% of patients in the THALOMID/dexamethasone arm compared to 2% in the placebo/dexamethasone arm.""
+  - **Summary**: THALOMID, in combination with dexamethasone, was associated with a higher incidence of pulmonary embolism.
+ 
+
+ 5. **Postmarketing Experience**:
+  - **Sentence**: ""Severe infections (e.g., fatal sepsis including septic shock), viral infections (including varicella zoster virus, cytomegalovirus, and hepatitis B virus reactivation) and progressive multifocal leukoencephalopathy (PML).""
+  - **Summary**: This sentence does not directly mention pulmonary reactions.
+ 
+
+ 6. **Other Adverse Reactions in HIV-seropositive Patients**:
+  - **Sentence**: ""Respiratory System: Apnea, bronchitis, lung disorder, lung edema, pneumonia (including Pneumocystis carinii pneumonia), rhinitis.""
+  - **Summary**: THALOMID was associated with various pulmonary reactions, including apnea, bronchitis, lung disorder, lung edema, and pneumonia.
+ 
+
+ 7. **Warnings and Precautions**:
+  - **Sentence**: ""Patients and physicians should be observant for the signs and symptoms of thromboembolism. Advise patients to seek immediate medical care if they develop symptoms such as shortness of breath, chest pain, or arm or leg swelling.""
+  - **Summary**: THALOMID is associated with thromboembolism, and patients should be vigilant for symptoms like shortness of breath, which could indicate a pulmonary embolism.
+ 
+
+ 8. **Patient Counseling Information**:
+  - **Sentence**: ""Inform patients of the potential risk of developing venous thromboembolism (such as DVT and PE), ischemic heart disease (including myocardial infarction), and stroke, and discuss the need for appropriate prophylactic treatment.""
+  - **Summary**: THALOMID is associated with the risk of developing pulmonary embolism (PE).
+ 
+
+ In summary, THALOMID is associated with an increased risk of pulmonary embolism, particularly when used in combination with dexamethasone. It is also associated with other pulmonary reactions such as apnea, bronchitis, lung disorder, lung edema, and pneumonia in HIV-seropositive patients.",Most,Yes,1,1
+METHYLENE BLUE,"The provided drug label for PROVAYBLUE (methylene blue) does not explicitly mention pulmonary toxicity risks or pulmonary reactions directly associated with the drug itself. However, there are some general adverse reactions and warnings that could indirectly relate to pulmonary issues. Here is a summary of the relevant information:
+ 
+
+ 1. **General Adverse Reactions**:
+  - ""Respiratory, thoracic and mediastinal disorders: nasal congestion, oropharyngeal pain, rhinorrhea, sneezing"" (Section 6.1).
+  - **Summary**: These are general adverse reactions reported with methylene blue class products, but they do not specifically indicate pulmonary toxicity or severe pulmonary reactions directly caused by PROVAYBLUE.
+ 
+
+ 2. **Overdosage**:
+  - ""Hypotension, wheezing and reduced oxygenation have been reported in patients who received methylene blue class products in single doses of 3 mg/kg or more"" (Section 10).
+  - **Summary**: Wheezing and reduced oxygenation are mentioned as potential effects of overdosage with methylene blue class products, indicating a possible pulmonary reaction at high doses, but not specifically linked to standard therapeutic use of PROVAYBLUE.
+ 
+
+ 3. **Clinical Studies**:
+  - ""Prior to treatment with PROVAYBLUE, 16 of the 23 (70%) of patients had a respiratory rate exceeding the upper limit of normal (≥ 20 bpm). Of these, 10 of the 16 (63%) experienced a normalization of respiratory rate within 2 hours post ProvayBlue infusion"" (Section 14.1).
+  - **Summary**: This sentence discusses the normalization of respiratory rates in patients treated with PROVAYBLUE, suggesting an improvement in respiratory function rather than a risk of pulmonary toxicity.
+ 
+
+ In conclusion, the drug label does not provide specific sentences that directly associate PROVAYBLUE with pulmonary toxicity risks or severe pulmonary reactions under normal therapeutic conditions. The mention of wheezing and reduced oxygenation is related to overdosage scenarios, not standard use.",No,No,1,1
+CEFACLOR,"The provided drug label for Cefaclor does not explicitly mention any pulmonary toxicity risks or pulmonary reactions associated with the drug. The label discusses various adverse reactions, contraindications, and precautions, but none of these sections specifically address pulmonary toxicity or pulmonary reactions. Therefore, there are no sentences to summarize regarding pulmonary risks or reactions for Cefaclor.",No,No,1,1
+METYROSINE,The drug label for DEMSER (metyrosine) does not mention any pulmonary toxicity risks or pulmonary reactions. There are no sentences in the provided drug label that discuss pulmonary toxicity risks or pulmonary reactions associated with the use of DEMSER.,No,No,1,1
+PHENDIMETRAZINE,"Here is a summary of all the sentences from the drug label that discuss pulmonary toxicity risks and pulmonary reactions for Phendimetrazine tartrate:
+ 
+
+ 1. **Sentence:** ""In a case-control epidemiological study, the use of anorectic agents, including phendimetrazine tartrate, was associated with an increased risk of developing pulmonary hypertension, a rare, but often fatal disorder.""
+  - **Summary:** The drug itself (phendimetrazine tartrate) was associated with an increased risk of developing pulmonary hypertension.
+ 
+
+ 2. **Sentence:** ""The use of anorectic agents for longer than three months was associated with a 23-fold increase in the risk of developing pulmonary hypertension.""
+  - **Summary:** The drug itself (phendimetrazine tartrate), when used for longer than three months, was associated with a significantly increased risk of developing pulmonary hypertension.
+ 
+
+ 3. **Sentence:** ""Increased risk of pulmonary hypertension with repeated courses of therapy cannot be excluded.""
+  - **Summary:** The drug itself (phendimetrazine tartrate) may have an increased risk of pulmonary hypertension with repeated courses of therapy.
+ 
+
+ 4. **Sentence:** ""The onset or aggravation of exertional dyspnea, or unexplained symptoms of angina pectoris, syncope, or lower extremity edema suggest the possibility of occurrence of pulmonary hypertension.""
+  - **Summary:** The drug itself (phendimetrazine tartrate) may cause symptoms that suggest the possibility of pulmonary hypertension.
+ 
+
+ 5. **Sentence:** ""Under these circumstances, phendimetrazine tartrate should be immediately discontinued, and the patient should be evaluated for the possible presence of pulmonary hypertension.""
+  - **Summary:** The drug itself (phendimetrazine tartrate) should be discontinued if symptoms suggesting pulmonary hypertension occur, and the patient should be evaluated for this condition.
+ 
+
+ 6. **Sentence:** ""The potential risk of possible serious adverse effects such as valvular heart disease and pulmonary hypertension should be assessed carefully against the potential benefit of weight loss.""
+  - **Summary:** The drug itself (phendimetrazine tartrate) has a potential risk of causing serious adverse effects, including pulmonary hypertension, which should be weighed against its benefits.
+ 
+
+ 7. **Sentence:** ""Phendimetrazine tartrate is not recommended in patients with known heart murmur or valvular heart disease.""
+  - **Summary:** The drug itself (phendimetrazine tartrate) is not recommended for patients with known heart conditions due to the potential risk of pulmonary hypertension.
+ 
+
+ These sentences collectively indicate that phendimetrazine tartrate is associated with an increased risk of developing pulmonary hypertension, especially with prolonged or repeated use, and that this risk should be carefully considered in the context of its use for weight loss.",Most,Yes,1,1
+MOSUNETUZUMAB,"The drug label for LUNSUMIO (mosunetuzumab-axgb) does not explicitly mention pulmonary toxicity risks or pulmonary reactions directly associated with the drug itself. However, there are a few references to respiratory symptoms in the context of other adverse reactions:
+ 
+
+ 1. **Cytokine Release Syndrome (CRS)**:
+  - **Sentence**: ""Clinical signs and symptoms of CRS included, but were not limited to, fever, chills, hypotension, tachycardia, hypoxia, and headache.""
+  - **Summary**: CRS, which can be caused by LUNSUMIO, includes hypoxia as a symptom. Hypoxia is a condition where there is a deficiency in the amount of oxygen reaching the tissues, which can be related to pulmonary function.
+ 
+
+ 2. **Tumor Flare**:
+  - **Sentence**: ""Manifestations included new or worsening pleural effusions, localized pain and swelling at the sites of lymphoma lesions, and tumor inflammation.""
+  - **Summary**: Tumor flare, which can be caused by LUNSUMIO, includes pleural effusions as a manifestation. Pleural effusion is the buildup of excess fluid between the layers of the pleura outside the lungs, which is a pulmonary reaction.
+ 
+
+ 3. **Medication Guide**:
+  - **Sentence**: ""Tell your healthcare provider if you develop any of these signs or symptoms of tumor flare during your treatment with LUNSUMIO: tender or swollen lymph nodes, chest pain, cough, trouble breathing, and pain or swelling at the site of the tumor.""
+  - **Summary**: The Medication Guide advises patients to report symptoms of tumor flare, including chest pain, cough, and trouble breathing. These symptoms can be associated with pulmonary reactions, and tumor flare can be caused by LUNSUMIO.
+ 
+
+ In summary, while the drug label does not explicitly state that LUNSUMIO directly causes pulmonary toxicity, it does indicate that certain adverse reactions associated with the drug, such as CRS and tumor flare, can include pulmonary-related symptoms like hypoxia, pleural effusions, chest pain, cough, and trouble breathing.",Less,No,1,1
+ELOTUZUMAB,"The drug label for EMPLICITI (elotuzumab) does not explicitly mention pulmonary toxicity risks or pulmonary reactions directly associated with the drug itself. However, there are references to respiratory-related adverse events in the context of clinical trials and treatment regimens. Here is a summary of the relevant sentences:
+ 
+
+ 1. **Infusion Reactions**:
+  - ""The most common symptoms of an infusion reaction included fever, chills, and hypertension. Bradycardia and hypotension also developed during infusions.""
+  - **Summary**: This sentence does not directly associate EMPLICITI with pulmonary toxicity but mentions infusion reactions, which can include symptoms like fever and chills that might indirectly affect respiratory function.
+ 
+
+ 2. **ELOQUENT-2 Trial**:
+  - ""The most frequent serious adverse reactions in the EMPLICITI arm compared to the control arm were: pneumonia (15% vs. 11%), pyrexia (7% vs. 5%), respiratory tract infection (3.1% vs. 1.3%), anemia (2.8% vs. 1.9%), pulmonary embolism (3.1% vs. 2.5%), and acute renal failure (2.5% vs. 1.9%).""
+  - **Summary**: This sentence indicates that pneumonia, respiratory tract infections, and pulmonary embolism were more frequent in the EMPLICITI arm, suggesting an association with these pulmonary risks.
+ 
+
+ 3. **ELOQUENT-3 Trial**:
+  - ""The most frequent serious adverse reactions in the EMPLICITI arm compared to the control arm were: pneumonia (13% vs. 11%) and respiratory tract infection (7% vs. 3.6%).""
+  - **Summary**: This sentence indicates that pneumonia and respiratory tract infections were more frequent in the EMPLICITI arm, suggesting an association with these pulmonary risks.
+ 
+
+ 4. **Patient Information**:
+  - ""People with multiple myeloma who receive EMPLICITI with REVLIMID and dexamethasone or EMPLICITI with POMALYST and dexamethasone may develop infections that can be serious. Tell your healthcare provider right away if you have any signs and symptoms of an infection, including: fever, flu-like symptoms, cough, shortness of breath, burning with urination, a painful skin rash.""
+  - **Summary**: This sentence advises patients to report symptoms such as cough and shortness of breath, which are respiratory-related, but it does not directly attribute these symptoms to EMPLICITI itself.
+ 
+
+ In summary, while the drug label does not explicitly state that EMPLICITI causes pulmonary toxicity, it does indicate an association with increased risks of pneumonia, respiratory tract infections, and pulmonary embolism in clinical trials. Additionally, patients are advised to report respiratory symptoms, which could be indicative of underlying infections or reactions.",Most,Yes,1,1
+NEPAFENAC,"The provided drug label for ILEVRO® (nepafenac ophthalmic suspension) does not mention any pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on the ophthalmic use of the drug, its indications, dosage, administration, contraindications, warnings, precautions, adverse reactions, and other relevant information related to its use in treating pain and inflammation associated with cataract surgery. There are no sentences in the label that discuss pulmonary toxicity risks or pulmonary reactions associated with this drug.",No,No,1,1
+DRONEDARONE,"Here is a summary of all the sentences from the drug label that discuss pulmonary toxicity risks and pulmonary reactions for MULTAQ (dronedarone):
+ 
+
+ 1. **Sentence:** ""Cases of interstitial lung disease including pneumonitis and pulmonary fibrosis have been reported in patients treated with MULTAQ in the postmarketing setting.""
+  - **Summary:** The drug itself (MULTAQ) was associated with cases of interstitial lung disease, including pneumonitis and pulmonary fibrosis, as reported in the postmarketing setting.
+ 
+
+ 2. **Sentence:** ""Onset of dyspnea or non-productive cough may be related to pulmonary toxicity and patients should be carefully evaluated clinically.""
+  - **Summary:** The drug itself (MULTAQ) may cause dyspnea or a non-productive cough, which could be related to pulmonary toxicity.
+ 
+
+ 3. **Sentence:** ""If pulmonary toxicity is confirmed, MULTAQ should be discontinued.""
+  - **Summary:** If pulmonary toxicity is confirmed, it is recommended to discontinue the drug itself (MULTAQ).
+ 
+
+ 4. **Sentence:** ""Interstitial lung disease including pneumonitis and pulmonary fibrosis have been reported in patients treated with MULTAQ in the postmarketing setting.""
+  - **Summary:** The drug itself (MULTAQ) was associated with interstitial lung disease, including pneumonitis and pulmonary fibrosis, as reported in the postmarketing setting.
+ 
+
+ 5. **Sentence:** ""MULTAQ may cause serious side effects, including: Inflammation of the lungs, including scarring and thickening.""
+  - **Summary:** The drug itself (MULTAQ) may cause serious side effects, including inflammation of the lungs, scarring, and thickening.
+ 
+
+ 6. **Sentence:** ""Call your healthcare provider if you develop shortness of breath or a dry cough during treatment with MULTAQ.""
+  - **Summary:** The drug itself (MULTAQ) may cause shortness of breath or a dry cough, and patients are advised to contact their healthcare provider if these symptoms develop.
+ 
+
+ In summary, MULTAQ (dronedarone) is associated with pulmonary toxicity risks, including interstitial lung disease, pneumonitis, pulmonary fibrosis, inflammation of the lungs, scarring, and thickening. Patients are advised to be vigilant for symptoms such as dyspnea and non-productive cough, and to discontinue the drug if pulmonary toxicity is confirmed.",Most,Yes,1,1
+BENAZEPRIL HYDROCHLORIDE,"The drug label for Lotensin (benazepril hydrochloride) does not explicitly mention pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on other types of adverse reactions, such as angioedema, renal impairment, hypotension, hyperkalemia, and hepatic failure. 
+ 
+
+ Here is a summary of the relevant sections that might indirectly relate to pulmonary issues, but none of these explicitly state that the drug itself is associated with or causes pulmonary toxicity:
+ 
+
+ 1. **Angioedema and Anaphylactoid Reactions**:
+  - ""Angioedema of the face, extremities, lips, tongue, glottis, and/or larynx including some fatal reactions, have occurred in patients treated with Lotensin."" 
+  - **Summary**: This indicates that Lotensin can cause angioedema, which may involve the larynx and potentially lead to airway obstruction, but it does not directly mention pulmonary toxicity.
+ 
+
+ 2. **Other Adverse Reactions**:
+  - ""Other: Fatigue, asthma, bronchitis, dyspnea, sinusitis, urinary tract infection, frequent urination, infection, arthritis, impotence, alopecia, arthralgia, myalgia, asthenia, sweating.""
+  - **Summary**: This lists dyspnea (difficulty breathing) and asthma as adverse reactions, but it does not specify that these are caused by pulmonary toxicity directly related to Lotensin.
+ 
+
+ In conclusion, the drug label does not provide specific information on pulmonary toxicity risks or reactions directly caused by Lotensin. The closest related adverse reactions mentioned are angioedema involving the larynx and general respiratory issues like dyspnea and asthma, but these are not explicitly linked to pulmonary toxicity.",No,No,1,1
+SUCCIMER,"The drug label for NEPHROSCAN™ does not explicitly mention any pulmonary toxicity risks or pulmonary reactions. The provided text does not include any sentences that discuss pulmonary toxicity or reactions associated with the drug. Therefore, there are no statements to summarize regarding pulmonary risks or reactions for this drug.",No,No,1,1
+REMIFENTANIL HYDROCHLORIDE,"Here is a summary of all the sentences from the drug label that discuss pulmonary toxicity risks and pulmonary reactions for Ultiva (remifentanil hydrochloride):
+ 
+
+ 1. **Life-Threatening Respiratory Depression**:
+  - **Sentence**: ""Serious, life-threatening, or fatal respiratory depression may occur with use of ULTIVA, especially during initiation or following a dosage increase.""
+  - **Summary**: The drug itself is associated with the risk of serious, life-threatening, or fatal respiratory depression.
+ 
+
+ 2. **Risks from Use as Postoperative Analgesia with Concomitant Benzodiazepines or Other CNS Depressants**:
+  - **Sentence**: ""Hypotension, profound sedation, respiratory depression, coma, and death may result from the concomitant use of ULTIVA with benzodiazepines and/or other CNS depressants, including alcohol.""
+  - **Summary**: The drug itself, when used with benzodiazepines or other CNS depressants, is associated with the risk of respiratory depression.
+ 
+
+ 3. **Respiration**:
+  - **Sentence**: ""ULTIVA depresses respiration in a dose-related fashion.""
+  - **Summary**: The drug itself is associated with dose-related respiratory depression.
+ 
+
+ 4. **Respiration**:
+  - **Sentence**: ""Unlike other fentanyl analogs, the duration of action of ULTIVA at a given dose does not increase with increasing duration of administration, due to lack of drug accumulation.""
+  - **Summary**: The drug itself does not cause prolonged respiratory depression with increasing duration of administration.
+ 
+
+ 5. **Respiration**:
+  - **Sentence**: ""When ULTIVA and alfentanil were dosed to equal levels of respiratory depression, recovery of respiratory drive after 3-hour infusions was more rapid and less variable with ULTIVA.""
+  - **Summary**: The drug itself is associated with respiratory depression, but recovery is more rapid compared to alfentanil.
+ 
+
+ 6. **Respiration**:
+  - **Sentence**: ""Spontaneous respiration occurs at blood concentrations of 4 to 5 ng/mL in the absence of other anesthetic agents; for example, after discontinuation of a 0.25 mcg/kg/min infusion of remifentanil, these blood concentrations would be reached in 2 to 4 minutes.""
+  - **Summary**: The drug itself allows for the return of spontaneous respiration after discontinuation.
+ 
+
+ 7. **Respiration**:
+  - **Sentence**: ""In patients undergoing general anesthesia, the rate of respiratory recovery depends upon the concurrent anesthetic; N2O < propofol < isoflurane.""
+  - **Summary**: The drug itself is associated with respiratory recovery rates that vary depending on the concurrent anesthetic used.
+ 
+
+ 8. **Respiration**:
+  - **Sentence**: ""There was no case of remifentanil-induced delayed respiratory depression occurring more than 30 minutes after discontinuation of remifentanil.""
+  - **Summary**: The drug itself is not associated with delayed respiratory depression beyond 30 minutes after discontinuation.
+ 
+
+ 9. **Respiration**:
+  - **Sentence**: ""In a double-blind, randomized study, administration of morphine sulfate (0.15 mg/kg) intravenously 20 minutes before the anticipated end of surgery to 98 patients did not delay recovery of respiratory drive in patients undergoing major surgery with remifentanil-propofol total IV anesthesia.""
+  - **Summary**: The drug itself, when used with morphine sulfate, does not delay recovery of respiratory drive.
+ 
+
+ 10. **Respiration**:
+  - **Sentence**: ""In patients receiving ULTIVA and nitrous oxide anesthesia, cerebrovascular reactivity to carbon dioxide remained intact.""
+  - **Summary**: The drug itself does not impair cerebrovascular reactivity to carbon dioxide.
+ 
+
+ 11. **Respiration**:
+  - **Sentence**: ""In humans, no epileptiform activity was seen on the EEG (n = 44) at remifentanil doses up to 8 mcg/kg/min.""
+  - **Summary**: The drug itself does not cause epileptiform activity at doses up to 8 mcg/kg/min.
+ 
+
+ 12. **Respiration**:
+  - **Sentence**: ""The pharmacodynamics of ULTIVA (ventilatory response to hypercarbia) are unaltered in patients with end stage renal disease (creatinine clearance < 10 mL/min).""
+  - **Summary**: The drug itself does not alter the ventilatory response to hypercarbia in patients with end-stage renal disease.
+ 
+
+ 13. **Respiration**:
+  - **Sentence**: ""The pharmacodynamics of ULTIVA (ventilatory response to hypercarbia) are unaltered in patients with severe hepatic dysfunction awaiting liver transplant.""
+  - **Summary**: The drug itself does not alter the ventilatory response to hypercarbia in patients with severe hepatic dysfunction.
+ 
+
+ 14. **Respiration**:
+  - **Sentence**: ""In the ULTIVA group, median time from discontinuation of anesthesia to spontaneous purposeful movement was 6.5 minutes (range, 1 to 13 minutes) and median time to extubation was 8.5 minutes (range, 1 to 14 minutes).""
+  - **Summary**: The drug itself allows for a rapid return to spontaneous purposeful movement and extubation after discontinuation.
+ 
+
+ 15. **Respiration**:
+  - **Sentence**: ""No pediatric patients receiving ULTIVA required naloxone during the immediate postoperative recovery period.""
+  - **Summary**: The drug itself did not necessitate the use of naloxone for respiratory depression in pediatric patients during the immediate postoperative recovery period.
+ 
+
+ 16. **Respiration**:
+  - **Sentence**: ""In the dose-finding studies, the use of bolus doses of ULTIVA and incremental infusion rate increases ≥ 0.05 mcg/kg/min led to respiratory depression and muscle rigidity.""
+  - **Summary**: The drug itself, when administered in bolus doses or with incremental infusion rate increases, is associated with respiratory depression and muscle rigidity.
+ 
+
+ 17. **Respiration**:
+  - **Sentence**: ""In two efficacy studies, ULTIVA 0.1 mcg/kg/min was started immediately after discontinuing anesthesia. Incremental infusion rate increases of 0.025 mcg/kg/min every 5 minutes were given to treat moderate to severe postoperative pain.""
+  - **Summary**: The drug itself, when administered at 0.1 mcg/kg/min with incremental increases, is used to manage postoperative pain but is associated with respiratory depression.
+ 
+
+ 18. **Respiration**:
+  - **Sentence**: ""In Study 1, 50% decreases in infusion rate were made if respiratory rate decreased below 12 breaths/min and in Study 2, the same decreases were made if respiratory rate was below 8 breaths/min.""
+  - **Summary**: The drug itself requires careful monitoring and adjustment to prevent respiratory depression.
+ 
+
+ 19. **Respiration**:
+  - **Sentence**: ""With this difference in criteria for infusion rate decrease, the incidence of respiratory depression was lower in Study 1 (4%) than in Study 2 (12%).""
+  - **Summary**: The drug itself is associated with a variable incidence of respiratory depression depending on the criteria for infusion rate adjustment.
+ 
+
+ 20. **Respiration**:
+  - **Sentence**: ""In both studies, ULTIVA provided effective analgesia (no or mild pain with respiratory rate ≥ 8 breaths/min) in approximately 60% of patients at mean final infusion rates of 0.1 to 0.125 mcg/kg/min.""
+  - **Summary**: The drug itself provides effective analgesia while maintaining an adequate respiratory rate in most patients.
+ 
+
+ 21. **Respiration**:
+  - **Sentence**: ""Respiratory depression occurred in 12% of patients receiving ULTIVA compared to 4% of morphine patients.""
+  - **Summary**: The drug itself is associated with a higher incidence of respiratory depression compared to morphine.
+ 
+
+ 22. **Respiration**:
+  - **Sentence**: ""For patients who received ULTIVA, morphine sulfate (0.15 mg/kg) was administered in divided doses 5 and 10 minutes before discontinuing ULTIVA.""
+  - **Summary**: The drug itself requires careful management with morphine sulfate to prevent respiratory depression.
+ 
+
+ 23. **Respiration**:
+  - **Sentence**: ""Within 30 minutes after discontinuation of ULTIVA, the percentage of patients with effective analgesia decreased to 34%.""
+  - **Summary**: The drug itself has a rapid offset of analgesic effect, necessitating alternative analgesics to maintain pain control without causing respiratory depression.
+ 
+
+ 24. **Respiration**:
+  - **Sentence**: ""Titration of ULTIVA resulted in prompt resolution of respiratory depression (median 3 minutes, range 0 to 6 minutes).""
+  - **Summary**: The drug itself allows for rapid resolution of respiratory depression with appropriate titration.
+ 
+
+ 25. **Respiration**:
+  - **Sentence**: ""The final mean infusion rate of ULTIVA was 0.12 mcg/kg/min (range 0.03 to 0.3) for the group receiving ULTIVA alone and 0.07 mcg/kg/min (range 0.02 to 0.2) for the group receiving ULTIVA/midazolam.""
+  - **Summary**: The drug itself, when titrated appropriately, can be managed to minimize respiratory depression.
+ 
+
+ 26. **Respiration**:
+  - **Sentence",Less,No,3,3
+FLUCYTOSINE,"The drug label for ANCOBON (flucytosine) mentions pulmonary toxicity risks and pulmonary reactions in the following sentences:
+ 
+
+ 1. **""Limited trials in pulmonary infections justify the use of flucytosine.""**
+  - **Summary:** This sentence indicates that flucytosine has been used in limited trials for pulmonary infections, but it does not associate the drug with causing pulmonary toxicity.
+ 
+
+ 2. **""Cryptococcus: Meningitis and pulmonary infections have been treated effectively.""**
+  - **Summary:** This sentence states that flucytosine has been effective in treating pulmonary infections caused by Cryptococcus, without associating the drug with causing pulmonary toxicity.
+ 
+
+ 3. **""Respiratory: Respiratory arrest, chest pain, dyspnea.""**
+  - **Summary:** This sentence lists respiratory arrest, chest pain, and dyspnea as adverse reactions that have occurred during treatment with ANCOBON, indicating that the drug itself is associated with these pulmonary risks.
+ 
+
+ In summary, the drug label mentions that flucytosine has been used effectively in treating pulmonary infections but also lists respiratory arrest, chest pain, and dyspnea as potential adverse reactions associated with the drug.",Most,Yes,2,2
+BIVALIRUDIN,"The drug label for Bivalirudin RTU Injection mentions pulmonary toxicity risks and pulmonary reactions in the following context:
+ 
+
+ 1. **Postmarketing Experience**:
+  - **Sentence**: ""The following adverse reactions have been identified during post-approval use of bivalirudin: fatal bleeding; hypersensitivity and allergic reactions including reports of anaphylaxis; lack of anticoagulant effect; thrombus formation during PCI with and without intracoronary brachytherapy, including reports of fatal outcomes; pulmonary hemorrhage; cardiac tamponade; and INR increased.""
+  - **Summary**: Pulmonary hemorrhage has been identified as an adverse reaction during post-approval use of bivalirudin. This indicates that the drug itself has been associated with pulmonary hemorrhage.
+ 
+
+ No other sentences in the drug label discuss pulmonary toxicity risks or pulmonary reactions.",Less,Yes,1,1
+CROFELEMER,"The drug label for MYTESI (crofelemer) does not mention any pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on the drug's indication for non-infectious diarrhea in HIV/AIDS patients on anti-retroviral therapy, dosage and administration, contraindications, warnings and precautions, adverse reactions, drug interactions, use in specific populations, and clinical pharmacology. There are no sentences in the provided drug label that discuss pulmonary toxicity risks or pulmonary reactions associated with MYTESI.",No,No,1,1
+ATENOLOL,"Here is a summary of all the sentences from the drug label that discuss pulmonary toxicity risks and pulmonary reactions for Tenormin (atenolol):
+ 
+
+ 1. **""TENORMIN is a beta1-selective (cardioselective) beta-adrenergic receptor blocking agent without membrane stabilizing or intrinsic sympathomimetic (partial agonist) activities. This preferential effect is not absolute, however, and at higher doses, TENORMIN inhibits beta2-adrenoreceptors, chiefly located in the bronchial and vascular musculature.""**
+  - **Summary:** At higher doses, Tenormin inhibits beta2-adrenoreceptors, which are located in the bronchial musculature, potentially affecting pulmonary function.
+ 
+
+ 2. **""In asthmatic patients, a dose of TENORMIN producing a greater effect on resting heart rate than propranolol resulted in much less increase in airway resistance.""**
+  - **Summary:** In asthmatic patients, Tenormin caused less increase in airway resistance compared to propranolol, indicating a relatively lower pulmonary risk.
+ 
+
+ 3. **""In a placebo controlled comparison of approximately equipotent oral doses of several beta-blockers, TENORMIN produced a significantly smaller decrease of FEV1 than nonselective beta-blockers such as propranolol and, unlike those agents, did not inhibit bronchodilation in response to isoproterenol.""**
+  - **Summary:** Tenormin caused a smaller decrease in FEV1 and did not inhibit bronchodilation, suggesting a lower pulmonary risk compared to nonselective beta-blockers.
+ 
+
+ 4. **""PATIENTS WITH BRONCHOSPASTIC DISEASE SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS. Because of its relative beta1 selectivity, however, TENORMIN may be used with caution in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment.""**
+  - **Summary:** Tenormin may be used with caution in patients with bronchospastic disease due to its relative beta1 selectivity, indicating a potential pulmonary risk.
+ 
+
+ 5. **""Since beta1 selectivity is not absolute, the lowest possible dose of TENORMIN should be used with therapy initiated at 50 mg and a beta2-stimulating agent (bronchodilator) should be made available.""**
+  - **Summary:** Due to the non-absolute beta1 selectivity of Tenormin, there is a potential pulmonary risk, and a bronchodilator should be available.
+ 
+
+ 6. **""Wheeziness: 0% (TENORMIN) vs. 0% (placebo) in US studies; 3% (TENORMIN) vs. 3% (placebo) in foreign + US studies.""**
+  - **Summary:** Wheeziness was reported in 3% of patients taking Tenormin, similar to the placebo group, indicating a potential but not increased pulmonary risk.
+ 
+
+ 7. **""Bronchospasm: 1.2% (TENORMIN) vs. 0.9% (control) in a study of 477 patients.""**
+  - **Summary:** Bronchospasm occurred in 1.2% of patients taking Tenormin, slightly higher than the control group, indicating a potential pulmonary risk.
+ 
+
+ 8. **""Bronchospasm: 1 (0.01%) (I.V. Atenolol) vs. 50 (0.62%) (Oral Partial Dose) in the ISIS-1 trial.""**
+  - **Summary:** Bronchospasm was reported in 0.01% of patients receiving intravenous Tenormin and 0.62% of those on an oral partial dose, indicating a potential pulmonary risk.
+ 
+
+ In summary, Tenormin (atenolol) has been associated with some pulmonary risks, particularly at higher doses or in patients with pre-existing bronchospastic diseases. The drug may cause bronchospasm and wheeziness, although these effects are generally less pronounced compared to nonselective beta-blockers. Caution is advised when using Tenormin in patients with pulmonary conditions, and a bronchodilator should be available.",Less,Yes,1,1
+"ADENOSINE INJECTION, SOLUTION","1. **Sentence:** ""Adenosine injection is a respiratory stimulant (probably through activation of carotid body chemoreceptors) and intravenous administration in man has been shown to increase minute ventilation (Ve) and reduce arterial PCO2 causing respiratory alkalosis.""
+  - **Summary:** Adenosine injection is associated with increased minute ventilation and reduced arterial PCO2, leading to respiratory alkalosis.
+ 
+
+ 2. **Sentence:** ""Adenosine administered by inhalation has been reported to cause bronchoconstriction in asthmatic patients, presumably due to mast cell degranulation and histamine release.""
+  - **Summary:** Adenosine administered by inhalation is associated with causing bronchoconstriction in asthmatic patients.
+ 
+
+ 3. **Sentence:** ""These effects have not been observed in normal subjects.""
+  - **Summary:** Adenosine has not been associated with bronchoconstriction in normal subjects.
+ 
+
+ 4. **Sentence:** ""Adenosine injection has been administered to a limited number of patients with asthma and mild to moderate exacerbation of their symptoms has been reported.""
+  - **Summary:** Adenosine injection is associated with mild to moderate exacerbation of asthma symptoms in a limited number of patients.
+ 
+
+ 5. **Sentence:** ""Respiratory compromise has occurred during adenosine infusion in patients with obstructive pulmonary disease.""
+  - **Summary:** Adenosine infusion is associated with respiratory compromise in patients with obstructive pulmonary disease.
+ 
+
+ 6. **Sentence:** ""Adenosine injection should be used with caution in patients with obstructive lung disease not associated with bronchoconstriction (e.g., emphysema, bronchitis, etc.) and should be avoided in patients with bronchoconstriction or bronchospasm (e.g., asthma).""
+  - **Summary:** Adenosine injection is associated with risks in patients with obstructive lung disease and should be avoided in those with bronchoconstriction or bronchospasm.
+ 
+
+ 7. **Sentence:** ""Adenosine injection should be discontinued in any patient who develops severe respiratory difficulties.""
+  - **Summary:** Adenosine injection is associated with severe respiratory difficulties, warranting discontinuation of the drug.
+ 
+
+ 8. **Sentence:** ""Bronchospasm.""
+  - **Summary:** Adenosine injection is associated with bronchospasm as an adverse event reported from marketing experience.",Most,Yes,1,1
+AMPICILLIN INJECTION,"The drug label for Ampicillin does not explicitly mention any pulmonary toxicity risks or pulmonary reactions associated with the drug itself. The label primarily focuses on hypersensitivity reactions, gastrointestinal issues, and other systemic effects. There are no sentences in the provided drug label that discuss pulmonary toxicity risks or pulmonary reactions directly related to the use of Ampicillin.",No,No,1,1
+CEFIXIME,"The drug label for SUPRAX® (cefixime) does not explicitly mention any pulmonary toxicity risks or pulmonary reactions associated with the drug. The label primarily focuses on hypersensitivity reactions, gastrointestinal issues, and other systemic effects. There are no sentences in the provided drug label that discuss pulmonary toxicity risks or pulmonary reactions directly related to the use of SUPRAX® (cefixime).",No,No,1,1
+EDARAVONE,"The drug label for RADICAVA and RADICAVA ORS does not explicitly mention pulmonary toxicity risks or pulmonary reactions directly associated with the drug itself. However, it does mention respiratory-related adverse reactions observed during clinical trials. Here is a summary of the relevant information:
+ 
+
+ 1. **Clinical Trials Experience (Section 6.1)**:
+  - **Sentence**: ""Respiratory failure, respiratory disorder, hypoxia occurred in 6% of RADICAVA-treated patients and 4% of placebo patients.""
+  - **Summary**: This sentence indicates that respiratory failure, respiratory disorder, and hypoxia were observed in 6% of patients treated with RADICAVA, compared to 4% in the placebo group. It does not explicitly state that RADICAVA caused these reactions, but it does suggest an association.
+ 
+
+ No other sections of the drug label explicitly discuss pulmonary toxicity risks or pulmonary reactions directly associated with RADICAVA or RADICAVA ORS.",Less,No,1,1
+TOBRAMYCIN OPHTHALMIC SOLUTION,"The provided drug label for Tobramycin Ophthalmic Solution USP, 0.3% does not contain any sentences that discuss pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on the ophthalmic use of the drug, its indications, contraindications, warnings, precautions, adverse reactions, dosage, and administration. There is no mention of pulmonary toxicity or pulmonary reactions associated with the use of this ophthalmic solution.",No,No,1,1
+TOPOTECAN HYDROCHLORIDE,"Here is a summary of all the sentences from the drug label that discuss pulmonary toxicity risks and pulmonary reactions for HYCAMTIN (topotecan):
+ 
+
+ 1. **Interstitial Lung Disease (ILD): Fatal cases have occurred. Permanently discontinue if ILD confirmed. (5.2)**
+  - **Summary:** The drug itself is associated with fatal cases of Interstitial Lung Disease (ILD). If ILD is confirmed, the drug should be permanently discontinued.
+ 
+
+ 2. **Interstitial lung disease (ILD), including fatalities, can occur with HYCAMTIN. Underlying risk factors include history of ILD, pulmonary fibrosis, lung cancer, thoracic radiation, and use of pneumotoxic drugs or colony stimulating factors. Monitor for pulmonary symptoms indicative of ILD. Permanently discontinue HYCAMTIN for injection if ILD is confirmed.**
+  - **Summary:** The drug itself can cause ILD, including fatal cases. Risk factors include a history of ILD, pulmonary fibrosis, lung cancer, thoracic radiation, and use of pneumotoxic drugs or colony-stimulating factors. Pulmonary symptoms should be monitored, and the drug should be permanently discontinued if ILD is confirmed.
+ 
+
+ 3. **Pulmonary: interstitial lung disease**
+  - **Summary:** The drug itself is associated with interstitial lung disease as a pulmonary reaction.
+ 
+
+ 4. **Inform patients of the risks of severe ILD. Advise patients to contact their healthcare provider immediately to report new or worsening respiratory symptoms (see Warnings and Precautions (5.2)).**
+  - **Summary:** The drug itself poses a risk of severe ILD. Patients should be advised to contact their healthcare provider immediately if they experience new or worsening respiratory symptoms.
+ 
+
+ These sentences indicate that HYCAMTIN is associated with significant pulmonary toxicity risks, specifically interstitial lung disease (ILD), which can be severe and even fatal.",Most,Yes,1,1
+TECHNETIUM TC-99M,"The drug label for Ultra-Technekow™ V4 (Technetium Tc 99m Generator) does not contain any sentences that specifically discuss pulmonary toxicity risks or pulmonary reactions. The label provides detailed information on the product's description, clinical pharmacology, indications, usage, contraindications, warnings, precautions, adverse reactions, dosage, administration, radiation dosimetry, and how the product is supplied and stored. However, there is no mention of pulmonary toxicity or pulmonary reactions associated with the use of this drug.",No,No,1,1
+BUPRENORPHINE HYDROCHLORIDE,"Here is a summary of all the sentences from the drug label that discuss pulmonary toxicity risks and pulmonary reactions for BELBUCA, along with an indication of whether the drug itself was associated with or caused the pulmonary risk:
+ 
+
+ 1. **""Serious, life-threatening, or fatal respiratory depression may occur, especially during initiation or following a dosage increase.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 2. **""Accidental exposure to BELBUCA, especially in children, can result in fatal overdose of buprenorphine.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 3. **""Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk when used with other CNS depressants.
+ 
+
+ 4. **""Life-Threatening Respiratory Depression: Serious, life-threatening, or fatal respiratory depression may occur with use of BELBUCA, especially during initiation or following a dosage increase.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 5. **""Misuse or abuse of BELBUCA by chewing, swallowing, snorting, or injecting buprenorphine extracted from the buccal film will result in the uncontrolled delivery of buprenorphine and pose a significant risk of overdose and death.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 6. **""Accidental exposure of even one dose of BELBUCA, especially in children, can result in a fatal overdose of buprenorphine.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 7. **""Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk when used with other CNS depressants.
+ 
+
+ 8. **""Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated Patients: Regularly evaluate, particularly during initiation and titration.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 9. **""The use of BELBUCA in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 10. **""BELBUCA-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive, including apnea, even at recommended dosages of BELBUCA.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 11. **""Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients as they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 12. **""Regularly evaluate patients, particularly when initiating and titrating BELBUCA and when BELBUCA is given concomitantly with other drugs that depress respiration.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 13. **""Opioid antagonists, such as naloxone, are specific antidotes to respiratory depression resulting from opioid overdose. However, naloxone may not be effective in reversing any respiratory depression produced by buprenorphine.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 14. **""Buprenorphine produces respiratory depression by direct action on brain stem respiratory centers.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 15. **""Opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 16. **""Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 17. **""Opioids have been shown to have a variety of effects on components of the immune system in in vitro and animal models.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 18. **""The minimum effective analgesic concentration of buprenorphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 19. **""There is a relationship between increasing buprenorphine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 20. **""In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 21. **""In patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be periodically assessed for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 22. **""In patients with known or suspected mucositis, reduce the starting dosage and titration incremental dosage by half compared to patients without mucositis.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 23. **""In patients with severe hepatic impairment, reduce the starting dose and reduce the titration dose by half that of patients with normal liver function.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 24. **""In patients with known or suspected mucositis, reduce the starting and incremental dose by half that of patients without mucositis.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 25. **""In patients with severe hepatic impairment, reduce the starting and incremental dose by half that of patients with normal liver function.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 26. **""In patients with known or suspected mucositis, reduce the starting and incremental dose by half that of patients without mucositis.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 27. **""In patients with severe hepatic impairment, reduce the starting and incremental dose by half that of patients with normal liver function.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 28. **""In patients with known or suspected mucositis, reduce the starting and incremental dose by half that of patients without mucositis.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 29. **""In patients with severe hepatic impairment, reduce the starting and incremental dose by half that of patients with normal liver function.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 30. **""In patients with known or suspected mucositis, reduce the starting and incremental dose by half that of patients without mucositis.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 31. **""In patients with severe hepatic impairment, reduce the starting and incremental dose by half that of patients with normal liver function.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 32. **""In patients with known or suspected mucositis, reduce the starting and incremental dose by half that of patients without mucositis.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 33. **""In patients with severe hepatic impairment, reduce the starting and incremental dose by half that of patients with normal liver function.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 34. **""In patients with known or suspected mucositis, reduce the starting and incremental dose by half that of patients without mucositis.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 35. **""In patients with severe hepatic impairment, reduce the starting and incremental dose by half that of patients with normal liver function.""**
+  - **Association:** The drug itself (BELBUCA) is associated with this risk.
+ 
+
+ 36. **""In patients with known or suspected mucositis, reduce the starting",Most,Yes,1,1
+GIVINOSTAT,"The provided drug label for DUVYZAT (givinostat) does not contain any sentences that discuss pulmonary toxicity risks or pulmonary reactions. The label focuses on other adverse reactions and precautions, such as hematological changes, increased triglycerides, gastrointestinal disturbances, and QTc prolongation, but it does not mention any pulmonary toxicity or pulmonary reactions associated with the drug.",No,No,1,1
+RIVASTIGMINE,"The drug label for EXELON PATCH (rivastigmine transdermal system) includes the following information regarding pulmonary toxicity risks and pulmonary reactions:
+ 
+
+ 1. **Pulmonary Effects**:
+  - **Sentence**: ""Drugs that increase cholinergic activity, including EXELON PATCH, should be used with care in patients with a history of asthma or obstructive pulmonary disease.""
+  - **Summary**: The drug itself (EXELON PATCH) is associated with pulmonary risks and should be used cautiously in patients with a history of asthma or obstructive pulmonary disease.
+ 
+
+ This is the only sentence in the drug label that discusses pulmonary toxicity risks and pulmonary reactions. It indicates that EXELON PATCH, due to its cholinergic activity, may pose risks for patients with pre-existing pulmonary conditions.",Less,Yes,1,1
+C1 ESTERASE INHIBITOR RECOMBINANT,"The drug label for RUCONEST does not explicitly mention any pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on hypersensitivity reactions, thromboembolic events, and other adverse reactions such as headache, nausea, and diarrhea. There is no specific information provided about pulmonary toxicity or pulmonary reactions associated with the use of RUCONEST.",No,No,1,1
+POZELIMAB,"The provided drug label for VEOPOZ (pozelimab-bbfg) does not mention any pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on the risks of serious meningococcal infections, other bacterial infections, systemic hypersensitivity reactions, and immune complex formation. It also provides detailed information on dosage, administration, contraindications, warnings, precautions, adverse reactions, and other clinical and pharmacological details. 
+ 
+
+ Since there are no sentences discussing pulmonary toxicity risks or pulmonary reactions, it can be concluded that the drug label does not associate VEOPOZ with any pulmonary risks or reactions.",No,No,1,1
+LAMOTIRIGINE,"The provided drug label for Lamotrigine extended-release tablets does not contain any sentences that discuss pulmonary toxicity risks or pulmonary reactions. The label primarily lists the drug's name, manufacturer, ingredients, physical characteristics, and packaging information. There is no mention of pulmonary risks or reactions associated with the drug in the provided text.",No,No,1,1
+PEMETREXED,"Here is a summary of all the sentences from the drug label that discuss pulmonary toxicity risks and pulmonary reactions for PEMFEXY, clearly stating whether the drug itself was associated with or caused the pulmonary risk:
+ 
+
+ 1. **Interstitial Pneumonitis:**
+  - **Sentence:** ""Interstitial Pneumonitis: Withhold for acute onset of new or progressive unexplained pulmonary symptoms. Permanently discontinue if pneumonitis is confirmed.""
+  - **Summary:** PEMFEXY is associated with the risk of interstitial pneumonitis, and treatment should be withheld if new or worsening pulmonary symptoms occur. If pneumonitis is confirmed, PEMFEXY should be permanently discontinued.
+ 
+
+ 2. **Interstitial Pneumonitis (Warnings and Precautions):**
+  - **Sentence:** ""Serious interstitial pneumonitis, including fatal cases, can occur with pemetrexed.""
+  - **Summary:** PEMFEXY can cause serious and potentially fatal interstitial pneumonitis.
+ 
+
+ 3. **Radiation Recall:**
+  - **Sentence:** ""Radiation Recall: Can occur in patients who received radiation weeks to years previously; permanently discontinue for signs of radiation recall.""
+  - **Summary:** PEMFEXY is associated with the risk of radiation recall, a condition that can occur in patients who have previously received radiation therapy. Treatment should be permanently discontinued if signs of radiation recall appear.
+ 
+
+ 4. **Radiation Recall (Warnings and Precautions):**
+  - **Sentence:** ""Radiation recall can occur with pemetrexed in patients who have received radiation weeks to years previously.""
+  - **Summary:** PEMFEXY can cause radiation recall in patients who have previously undergone radiation therapy.
+ 
+
+ 5. **Lung Problems (Patient Information):**
+  - **Sentence:** ""PEMFEXY can cause serious lung problems that can lead to death. Tell your healthcare provider right away if you get any new or worsening symptoms of shortness of breath, cough, or fever.""
+  - **Summary:** PEMFEXY can cause serious and potentially fatal lung problems. Patients should report any new or worsening pulmonary symptoms to their healthcare provider immediately.
+ 
+
+ 6. **Radiation Recall (Patient Information):**
+  - **Sentence:** ""Radiation recall is a skin reaction that can happen in people who have received radiation treatment in the past and are treated with PEMFEXY.""
+  - **Summary:** PEMFEXY can cause radiation recall, a skin reaction in patients who have previously received radiation therapy.
+ 
+
+ In summary, PEMFEXY is associated with serious pulmonary risks, including interstitial pneumonitis and radiation recall, both of which can be potentially fatal. Patients should be closely monitored for any new or worsening pulmonary symptoms, and treatment should be adjusted or discontinued as necessary.",Most,Yes,1,1
+LORAZEPAM,"Here is a summary of all the sentences from the drug label that discuss pulmonary toxicity risks and pulmonary reactions for Lorazepam Injection, USP:
+ 
+
+ 1. **Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with respiratory depression when used with opioids.
+ 
+
+ 2. **The most important risk associated with the use of Lorazepam Injection in status epilepticus is respiratory depression.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with respiratory depression.
+ 
+
+ 3. **Extreme caution must be used when administering Lorazepam Injection to elderly patients, very ill patients, or to patients with limited pulmonary reserve because of the possibility that hypoventilation and/or hypoxic cardiac arrest may occur.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with hypoventilation and hypoxic cardiac arrest in patients with limited pulmonary reserve.
+ 
+
+ 4. **Five patients (5/446) who underwent regional anesthesia were observed to have airway obstruction.**
+  - **Summary:** The drug itself (Lorazepam Injection) was associated with airway obstruction in these patients.
+ 
+
+ 5. **There have been rare reports of significant respiratory depression, stupor and/or hypotension with the concomitant use of loxapine and lorazepam.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with respiratory depression when used with loxapine.
+ 
+
+ 6. **Apnea, coma, bradycardia, arrhythmia, heart arrest, and death have been reported with the concomitant use of haloperidol and lorazepam.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with apnea when used with haloperidol.
+ 
+
+ 7. **The most frequent adverse drug event reported with injectable lorazepam is central-nervous-system depression.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with central-nervous-system depression, which can include respiratory depression.
+ 
+
+ 8. **Hypertension (0.1%) and hypotension (0.1%) have occasionally been observed after patients have received injectable lorazepam.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with hypotension, which can indirectly affect pulmonary function.
+ 
+
+ 9. **In more serious examples, symptoms may include ataxia, hypotonia, hypotension, hypnosis, stages one (1) to three (3) coma, and, very rarely, death.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with severe central-nervous-system depression, which can include respiratory depression leading to death.
+ 
+
+ 10. **The benzodiazepine antagonist flumazenil may be used in hospitalized patients as an adjunct to, not as a substitute for, proper management of benzodiazepine overdose.**
+  - **Summary:** The drug itself (Lorazepam Injection) can cause severe respiratory depression in overdose situations, requiring the use of flumazenil.
+ 
+
+ 11. **The prescriber should be aware of a risk of seizure in association with flumazenil treatment, particularly in long-term benzodiazepine users and in cyclic antidepressant overdose.**
+  - **Summary:** The drug itself (Lorazepam Injection) can cause severe respiratory depression in overdose situations, requiring careful management.
+ 
+
+ 12. **The use of benzodiazepines, like Lorazepam Injection, is ordinarily only an initial step of a complex and sustained intervention which may require additional interventions, (e.g., concomitant intravenous administration of phenytoin).**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with respiratory depression, requiring additional interventions.
+ 
+
+ 13. **The most important adverse clinical event caused by the use of Lorazepam Injection is respiratory depression.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with respiratory depression.
+ 
+
+ 14. **The adverse clinical events most commonly observed with the use of Lorazepam Injection in clinical trials evaluating its use in status epilepticus were hypotension, somnolence, and respiratory failure.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with respiratory failure.
+ 
+
+ 15. **In two studies, patients who completed the course of treatment for status epilepticus were permitted to be reenrolled and to receive treatment for a second status episode, given that there was a sufficient interval between the two episodes.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with respiratory depression in the context of status epilepticus treatment.
+ 
+
+ 16. **The overall adverse experience profile for lorazepam was similar between women and men.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with respiratory depression across different demographics.
+ 
+
+ 17. **The most frequent adverse drug event reported with injectable lorazepam is central-nervous-system depression.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with central-nervous-system depression, which can include respiratory depression.
+ 
+
+ 18. **The incidence varied from one study to another, depending on the dosage, route of administration, use of other central-nervous-system depressants, and the investigator’s opinion concerning the degree and duration of desired sedation.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with respiratory depression, influenced by various factors.
+ 
+
+ 19. **Excessive sleepiness and drowsiness were the most common consequences of CNS depression.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with central-nervous-system depression, which can include respiratory depression.
+ 
+
+ 20. **This interfered with patient cooperation in approximately 6% (25/446) of patients undergoing regional anesthesia, causing difficulty in assessing levels of anesthesia.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with respiratory depression, affecting patient cooperation.
+ 
+
+ 21. **Patients over 50 years of age had a higher incidence of excessive sleepiness or drowsiness when compared with those under 50 (21/106 versus 24/245) when lorazepam was given intravenously.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with respiratory depression, particularly in older patients.
+ 
+
+ 22. **On rare occasion (3/1580) the patient was unable to give personal identification in the operating room on arrival, and one patient fell when attempting premature ambulation in the postoperative period.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with respiratory depression, affecting patient mobility.
+ 
+
+ 23. **Symptoms such as restlessness, confusion, depression, crying, sobbing, and delirium occurred in about 1.3% (20/1580).**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with central-nervous-system depression, which can include respiratory depression.
+ 
+
+ 24. **Hallucinations were present in about 1% (14/1580) of patients and were visual and self-limiting.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with central-nervous-system depression, which can include respiratory depression.
+ 
+
+ 25. **An occasional patient complained of dizziness, diplopia and/or blurred vision.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with central-nervous-system depression, which can include respiratory depression.
+ 
+
+ 26. **Depressed hearing was infrequently reported during the peak-effect period.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with central-nervous-system depression, which can include respiratory depression.
+ 
+
+ 27. **An occasional patient had a prolonged recovery room stay, either because of excessive sleepiness or because of some form of inappropriate behavior.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with central-nervous-system depression, which can include respiratory depression.
+ 
+
+ 28. **The latter was seen most commonly when scopolamine was given concomitantly as a premedicant.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with respiratory depression when used with scopolamine.
+ 
+
+ 29. **Limited information derived from patients who were discharged the day after receiving injectable lorazepam showed one patient complained of some unsteadiness of gait and a reduced ability to perform complex mental functions.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with central-nervous-system depression, which can include respiratory depression.
+ 
+
+ 30. **Enhanced sensitivity to alcoholic beverages has been reported more than 24 hours after receiving injectable lorazepam, similar to experience with other benzodiazepines.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with respiratory depression when used with alcohol.
+ 
+
+ 31. **Intramuscular injection of lorazepam has resulted in pain at the injection site, a sensation of burning, or observed redness in the same area in a very variable incidence from one study to another.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with local reactions, not directly related to pulmonary toxicity.
+ 
+
+ 32. **The overall incidence of pain and burning in patients was about 17% (146/859) in the immediate postinjection period and about 1.4% (12/859) at the 24-hour observation time.**
+  - **Summary:** The drug itself (Lorazepam Injection) is associated with local reactions, not directly related to pulmonary toxicity.
+ 
+
+ 33. **Re",Most,Yes,1,1
+BUPROPION,"The provided drug label for Bupropion Hydrochloride Extended-Release Tablets (XL) does not contain any sentences that discuss pulmonary toxicity risks or pulmonary reactions. The label primarily lists the drug's name, manufacturer, ingredients, physical description, and packaging information. There is no mention of pulmonary risks or reactions associated with the drug in the provided text.",No,No,1,1
+APREPITANT,"The provided drug label for CINVANTI (aprepitant) does not explicitly mention any pulmonary toxicity risks or pulmonary reactions associated with the drug itself. The label primarily focuses on the prevention of nausea and vomiting associated with chemotherapy, dosage and administration guidelines, contraindications, warnings and precautions, adverse reactions, drug interactions, and specific population use. 
+ 
+
+ Here is a summary of the relevant sections that were reviewed for any mention of pulmonary toxicity or reactions:
+ 
+
+ 1. **Warnings and Precautions**: This section discusses hypersensitivity reactions, including anaphylaxis, but does not specifically mention pulmonary toxicity or reactions.
+ 2. **Adverse Reactions**: The adverse reactions listed include fatigue, diarrhea, neutropenia, asthenia, anemia, peripheral neuropathy, leukopenia, dyspepsia, urinary tract infection, pain in extremity, headache, and infusion-site reactions. There is no mention of pulmonary toxicity or reactions.
+ 3. **Clinical Trials Experience**: This section details the adverse reactions observed in clinical trials but does not mention any pulmonary toxicity or reactions.
+ 4. **Postmarketing Experience**: This section lists adverse reactions identified during post-approval use, including skin and subcutaneous tissue disorders, immune system disorders, and nervous system disorders, but does not mention pulmonary toxicity or reactions.
+ 5. **Drug Interactions**: This section discusses the effects of aprepitant on the pharmacokinetics of other drugs and vice versa but does not mention any pulmonary toxicity or reactions.
+ 6. **Use in Specific Populations**: This section provides information on the use of CINVANTI in pregnant women, lactating women, pediatric patients, geriatric patients, and patients with hepatic or renal impairment, but does not mention pulmonary toxicity or reactions.
+ 
+
+ In conclusion, the drug label for CINVANTI does not associate the drug with any pulmonary toxicity risks or pulmonary reactions.",No,No,1,1
+POTASSIUM ACETATE,"The provided drug label for Potassium Acetate Injection, USP does not contain any sentences that specifically discuss pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on the drug's indications, usage, contraindications, warnings, precautions, adverse reactions, dosage, and administration, but it does not mention any pulmonary toxicity or reactions associated with the drug. Therefore, there are no sentences to summarize regarding pulmonary risks or reactions for this drug.",No,No,1,1
+TECLISTAMAB,"The drug label for TECVAYLI does not explicitly mention pulmonary toxicity risks or pulmonary reactions directly associated with the drug itself. However, it does discuss related symptoms and conditions that could indirectly affect pulmonary function. Here is a summary of the relevant information:
+ 
+
+ 1. **Cytokine Release Syndrome (CRS) Symptoms**:
+  - **Sentence**: ""Clinical signs and symptoms of CRS included, but were not limited to, fever, hypoxia, chills, hypotension, sinus tachycardia, headache, and elevated liver enzymes (aspartate aminotransferase and alanine aminotransferase elevation).""
+  - **Summary**: CRS, which can be caused by TECVAYLI, includes hypoxia as a symptom, indicating potential pulmonary involvement.
+ 
+
+ 2. **Management of CRS**:
+  - **Sentence**: ""Evaluate and treat other causes of fever, hypoxia, and hypotension.""
+  - **Summary**: Hypoxia, a condition that can affect pulmonary function, should be evaluated and treated in patients experiencing CRS due to TECVAYLI.
+ 
+
+ 3. **Recommendations for Management of Cytokine Release Syndrome**:
+  - **Sentence**: ""Evaluate and treat other causes of fever, hypoxia, and hypotension.""
+  - **Summary**: Hypoxia, which can be a pulmonary issue, should be managed in patients with CRS caused by TECVAYLI.
+ 
+
+ 4. **Recommendations for Management of Immune Effector Cell-Associated Neurotoxicity Syndrome (ICANS)**:
+  - **Sentence**: ""Monitor neurologic symptoms and consider consultation with neurologist and other specialists for further evaluation and management, including consideration for starting non-sedating, anti-seizure medicines for seizure prophylaxis.""
+  - **Summary**: While this sentence does not directly mention pulmonary toxicity, it implies the need for comprehensive management, which could include addressing pulmonary symptoms if they arise.
+ 
+
+ 5. **General Adverse Reactions**:
+  - **Sentence**: ""The most common adverse reactions (≥20%) were pyrexia, CRS, musculoskeletal pain, injection site reaction, fatigue, upper respiratory tract infection, nausea, headache, pneumonia, and diarrhea.""
+  - **Summary**: Pneumonia, a pulmonary condition, is listed as a common adverse reaction, indicating that TECVAYLI may be associated with pulmonary infections.
+ 
+
+ 6. **Infections**:
+  - **Sentence**: ""TECVAYLI can cause severe, life-threatening, or fatal infections. In patients who received TECVAYLI at the recommended dose in the clinical trial, serious infections, including opportunistic infections, occurred in 30% of patients, with Grade 3 or 4 infections in 35%, and fatal infections in 4.2%.""
+  - **Summary**: TECVAYLI can cause severe infections, including pneumonia, which is a pulmonary infection.
+ 
+
+ 7. **Specific Adverse Reactions**:
+  - **Sentence**: ""Upper respiratory tract infections and pneumonia are common with TECVAYLI. TECVAYLI can cause bacterial and viral infections that are severe, life-threatening, or that may lead to death.""
+  - **Summary**: TECVAYLI is associated with upper respiratory tract infections and pneumonia, indicating a risk of pulmonary infections.
+ 
+
+ 8. **Monitoring for Infections**:
+  - **Sentence**: ""Your healthcare provider will monitor you for signs and symptoms of infection before and during treatment with TECVAYLI.""
+  - **Summary**: Patients on TECVAYLI will be monitored for infections, including those affecting the pulmonary system.
+ 
+
+ In summary, while the drug label does not explicitly state that TECVAYLI causes pulmonary toxicity, it does indicate that the drug can lead to conditions such as hypoxia and pneumonia, which are related to pulmonary function.",Less,No,1,1
+BENZPHETAMINE HYDROCHLORIDE,"1. **Sentence:** ""In a case-control epidemiological study, the use of anorectic agents was associated with an increased risk of developing pulmonary hypertension, a rare, but often fatal disorder.""
+  - **Summary:** The use of anorectic agents (not specifically benzphetamine) was associated with an increased risk of developing pulmonary hypertension.
+ 
+
+ 2. **Sentence:** ""The use of anorectic agents for longer than three months was associated with a 23-fold increase in the risk of developing pulmonary hypertension.""
+  - **Summary:** The use of anorectic agents (not specifically benzphetamine) for longer than three months was associated with a significantly increased risk of developing pulmonary hypertension.
+ 
+
+ 3. **Sentence:** ""Increased risk of pulmonary hypertension with repeated courses of therapy cannot be excluded.""
+  - **Summary:** The increased risk of pulmonary hypertension with repeated courses of anorectic therapy (not specifically benzphetamine) cannot be excluded.
+ 
+
+ 4. **Sentence:** ""It should be noted that benzphetamine was not specifically studied in this case-control study.""
+  - **Summary:** Benzphetamine itself was not specifically studied in the case-control study that found an increased risk of pulmonary hypertension with anorectic agents.
+ 
+
+ 5. **Sentence:** ""The onset or aggravation of exertional dyspnea, or unexplained symptoms of angina pectoris, syncope, or lower extremity edema suggest the possibility of occurrence of pulmonary hypertension.""
+  - **Summary:** Symptoms such as exertional dyspnea, angina pectoris, syncope, or lower extremity edema may suggest the occurrence of pulmonary hypertension, but it does not specifically state that benzphetamine causes these symptoms.
+ 
+
+ 6. **Sentence:** ""Under these circumstances, Benzphetamine hydrochloride tablets should be immediately discontinued, and the patient should be evaluated for the possible presence of pulmonary hypertension.""
+  - **Summary:** If symptoms suggesting pulmonary hypertension occur, benzphetamine hydrochloride tablets should be discontinued, implying a precautionary measure rather than a direct causation.
+ 
+
+ 7. **Sentence:** ""The potential risk of possible serious adverse effects such as valvular heart disease and pulmonary hypertension should be assessed carefully against the potential benefit of weight loss.""
+  - **Summary:** The potential risk of serious adverse effects, including pulmonary hypertension, should be assessed when considering benzphetamine, but it does not state that benzphetamine directly causes these effects.
+ 
+
+ 8. **Sentence:** ""Benzphetamine hydrochloride tablets are not recommended in patients with known heart murmur or valvular heart disease.""
+  - **Summary:** Benzphetamine is not recommended for patients with known heart murmur or valvular heart disease, suggesting caution due to potential risks, but not directly stating that benzphetamine causes pulmonary hypertension.",Most,No,1,1
+TOFACITINIB,"Here is a summary of all the sentences from the drug label that discuss pulmonary toxicity risks and pulmonary reactions for XELJANZ (tofacitinib):
+ 
+
+ 1. **""Increased risk of serious bacterial, fungal, viral, and opportunistic infections leading to hospitalization or death, including tuberculosis (TB).""**
+  - **Summary:** The drug is associated with an increased risk of serious infections, including TB, which can affect the lungs.
+ 
+
+ 2. **""Interrupt treatment with XELJANZ/XELJANZ XR/XELJANZ Oral Solution if serious infection occurs until the infection is controlled.""**
+  - **Summary:** The drug should be interrupted if a serious infection, potentially affecting the lungs, occurs.
+ 
+
+ 3. **""Test for latent TB before and during therapy; treat latent TB prior to use. Monitor all patients for active TB during treatment, even patients with initial negative latent TB test.""**
+  - **Summary:** The drug requires monitoring for TB, a pulmonary infection, before and during treatment.
+ 
+
+ 4. **""Patients treated with XELJANZ/XELJANZ XR/XELJANZ Oral Solution are at increased risk for developing serious infections that may lead to hospitalization or death.""**
+  - **Summary:** The drug is associated with an increased risk of serious infections, which can include pulmonary infections.
+ 
+
+ 5. **""Reported infections include: Active tuberculosis, which may present with pulmonary or extrapulmonary disease.""**
+  - **Summary:** The drug is associated with active TB, which can affect the lungs.
+ 
+
+ 6. **""Patients should be closely monitored for the development of signs and symptoms of infection during and after treatment with XELJANZ/XELJANZ XR/XELJANZ Oral Solution, including the possible development of tuberculosis in patients who tested negative for latent tuberculosis infection prior to initiating therapy.""**
+  - **Summary:** The drug requires close monitoring for infections, including TB, which can affect the lungs.
+ 
+
+ 7. **""Caution is also recommended in patients with a history of chronic lung disease, or in those who develop interstitial lung disease, as they may be more prone to infections.""**
+  - **Summary:** The drug should be used with caution in patients with chronic lung disease or interstitial lung disease, as they may be more prone to infections.
+ 
+
+ 8. **""In the UC population, XELJANZ treatment with 10 mg twice daily was associated with greater risk of serious infections compared to 5 mg twice daily. Additionally, opportunistic herpes zoster infections (including meningoencephalitis, ophthalmologic, and disseminated cutaneous) were seen in patients who were treated with XELJANZ 10 mg twice daily.""**
+  - **Summary:** The drug, at a higher dose, is associated with a greater risk of serious infections, which can include pulmonary infections.
+ 
+
+ 9. **""In the long-term safety population, the pattern and incidence of confirmed decreases in ANC remained consistent with what was seen in the placebo-controlled clinical trials.""**
+  - **Summary:** The drug's long-term safety data includes monitoring for infections, which can affect the lungs.
+ 
+
+ 10. **""In the long-term extension study, malignancies (including solid cancers, lymphomas and NMSC) were observed in patients treated with XELJANZ 5 mg and 10 mg twice daily.""**
+  - **Summary:** The drug is associated with an increased risk of malignancies, which can include lung cancer.
+ 
+
+ 11. **""In a long-term extension study in patients with UC, five cases of pulmonary embolism were reported in patients taking XELJANZ 10 mg twice daily, including one death in a patient with advanced cancer.""**
+  - **Summary:** The drug, at a higher dose, is associated with cases of pulmonary embolism.
+ 
+
+ 12. **""Promptly evaluate patients with symptoms of thrombosis and discontinue XELJANZ/XELJANZ XR/XELJANZ Oral Solution in patients with symptoms of thrombosis.""**
+  - **Summary:** The drug should be discontinued if symptoms of thrombosis, including pulmonary embolism, occur.
+ 
+
+ 13. **""Avoid XELJANZ/XELJANZ XR/XELJANZ Oral Solution in patients that may be at increased risk of thrombosis.""**
+  - **Summary:** The drug should be avoided in patients at increased risk of thrombosis, which can include pulmonary embolism.
+ 
+
+ 14. **""In RA Safety Study 1, RA patients who were 50 years of age and older with at least one cardiovascular risk factor treated with XELJANZ 5 mg twice daily or XELJANZ 10 mg twice daily had a higher rate of major adverse cardiovascular events (MACE) defined as cardiovascular death, non-fatal myocardial infarction (MI), and non-fatal stroke, compared to those treated with TNF blockers.""**
+  - **Summary:** The drug is associated with a higher rate of major adverse cardiovascular events, which can include pulmonary complications.
+ 
+
+ 15. **""Thrombosis, including pulmonary embolism (PE), deep venous thrombosis (DVT), and arterial thrombosis, have occurred in patients treated with XELJANZ and other Janus kinase (JAK) inhibitors used to treat inflammatory conditions.""**
+  - **Summary:** The drug is associated with thrombosis, including pulmonary embolism.
+ 
+
+ 16. **""Many of these events were serious and some resulted in death.""**
+  - **Summary:** The drug is associated with serious thrombotic events, including pulmonary embolism, which can be fatal.
+ 
+
+ 17. **""In a long-term extension study in patients with UC, five cases of pulmonary embolism were reported in patients taking XELJANZ 10 mg twice daily, including one death in a patient with advanced cancer.""**
+  - **Summary:** The drug, at a higher dose, is associated with cases of pulmonary embolism, including fatal cases.
+ 
+
+ 18. **""Promptly evaluate patients with symptoms of thrombosis and discontinue XELJANZ/XELJANZ XR/XELJANZ Oral Solution in patients with symptoms of thrombosis.""**
+  - **Summary:** The drug should be discontinued if symptoms of thrombosis, including pulmonary embolism, occur.
+ 
+
+ 19. **""Avoid XELJANZ/XELJANZ XR/XELJANZ Oral Solution in patients that may be at increased risk of thrombosis.""**
+  - **Summary:** The drug should be avoided in patients at increased risk of thrombosis, which can include pulmonary embolism.
+ 
+
+ 20. **""In RA Safety Study 1, RA patients who were 50 years of age and older with at least one cardiovascular risk factor treated with XELJANZ at both 5 mg or 10 mg twice daily compared to TNF blockers in RA Safety Study 1 had an observed increase in incidence of these events.""**
+  - **Summary:** The drug is associated with an increased incidence of thrombotic events, including pulmonary embolism.
+ 
+
+ 21. **""The incidence rate of DVT per 100 patient-years was 0.22 for XELJANZ 5 mg twice a day, 0.28 for XELJANZ 10 mg twice a day, and 0.16 for TNF blockers.""**
+  - **Summary:** The drug is associated with an increased incidence of DVT, which can lead to pulmonary embolism.
+ 
+
+ 22. **""The incidence rate of PE per 100 patient-years was 0.18 for XELJANZ 5 mg twice a day, 0.49 for XELJANZ 10 mg twice a day, and 0.05 for TNF blockers.""**
+  - **Summary:** The drug is associated with an increased incidence of pulmonary embolism.
+ 
+
+ 23. **""A XELJANZ/XELJANZ Oral Solution 10 mg twice daily (or a XELJANZ XR 22 mg once daily) dosage is not recommended for the treatment of RA, PsA, or AS.""**
+  - **Summary:** The higher dose of the drug is not recommended due to associated risks, including pulmonary embolism.
+ 
+
+ 24. **""In a long-term extension study in patients with UC, five cases of pulmonary embolism were reported in patients taking XELJANZ 10 mg twice daily, including one death in a patient with advanced cancer.""**
+  - **Summary:** The drug, at a higher dose, is associated with cases of pulmonary embolism, including fatal cases.
+ 
+
+ 25. **""Promptly evaluate patients with symptoms of thrombosis and discontinue XELJANZ/XELJANZ XR/XELJANZ Oral Solution in patients with symptoms of thrombosis.""**
+  - **Summary:** The drug should be discontinued if symptoms of thrombosis, including pulmonary embolism, occur.
+ 
+
+ 26. **""Avoid XELJANZ/XELJANZ XR/XELJANZ Oral Solution in patients that may be at increased risk of thrombosis.""**
+  - **Summary:** The drug should be avoided in patients at increased risk of thrombosis, which can include pulmonary embolism.
+ 
+
+ 27. **""In RA Safety Study 1, RA patients who were 50 years of age and older with at least one cardiovascular risk factor treated with XELJANZ at both 5 mg or 10 mg twice daily compared to TNF blockers in RA Safety Study 1 had an observed increase in incidence of these events.""**
+  - **Summary:** The drug is associated with an increased incidence of thrombotic events, including pulmonary embolism.
+ 
+
+ 28. **""The incidence rate of DVT per 100 patient-years was 0.22 for XELJANZ 5 mg twice a day, 0.28 for XELJANZ 10 mg twice a day, and 0.16 for TNF blockers.""**
+  - **Summary:** The drug is associated with an increased incidence of",Most,Yes,1,1
+HEPARIN SODIUM,"The provided drug label for Heparin Sodium Injection does not explicitly mention pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on the indications, dosage, administration, contraindications, warnings, precautions, adverse reactions, and other relevant information about the drug. 
+ 
+
+ Here is a summary of the key points from the label, with a focus on any potential pulmonary-related information:
+ 
+
+ 1. **Indications and Usage**: Heparin Sodium Injection is indicated for the prophylaxis and treatment of venous thrombosis and pulmonary embolism, among other conditions. This indicates that the drug is used to treat pulmonary embolism but does not suggest that the drug itself causes pulmonary toxicity.
+ 
+
+ 2. **Warnings and Precautions**: The label includes warnings about hemorrhage, heparin-induced thrombocytopenia, and other conditions but does not specifically mention pulmonary toxicity or reactions caused by the drug.
+ 
+
+ 3. **Adverse Reactions**: The adverse reactions section lists hemorrhage, thrombocytopenia, and hypersensitivity reactions but does not mention any specific pulmonary toxicity or reactions associated with Heparin Sodium Injection.
+ 
+
+ 4. **Contraindications**: The contraindications section does not mention any pulmonary-related conditions that would contraindicate the use of Heparin Sodium Injection.
+ 
+
+ Based on the provided drug label, there are no sentences that discuss pulmonary toxicity risks or pulmonary reactions directly associated with Heparin Sodium Injection. The drug is used to treat conditions like pulmonary embolism, but there is no indication that it causes pulmonary toxicity.",No,No,1,1
+LEVOPHED(R) NOREPINEPHRINE BITARTRATE,"The drug label for LEVOPHED (Norepinephrine Bitartrate Injection, USP) does not explicitly mention pulmonary toxicity risks or pulmonary reactions directly associated with the drug itself. However, there are a few references to respiratory-related issues in the context of its administration and potential side effects:
+ 
+
+ 1. **Respiratory System: Respiratory difficulty.**
+  - **Summary:** The drug label mentions that respiratory difficulty can occur as a reaction. It does not explicitly state that the drug itself causes this reaction, but it is listed as a potential adverse effect.
+ 
+
+ 2. **The same type of cardiac arrhythmias may result from the use of LEVOPHED in patients with profound hypoxia or hypercarbia.**
+  - **Summary:** This sentence indicates that LEVOPHED may exacerbate cardiac arrhythmias in patients who already have profound hypoxia (low oxygen levels) or hypercarbia (high carbon dioxide levels). It implies that the drug can have adverse effects in patients with pre-existing respiratory conditions but does not state that the drug itself causes these conditions.
+ 
+
+ In summary, the drug label does not directly associate LEVOPHED with causing pulmonary toxicity or reactions but does mention respiratory difficulty as a potential adverse reaction and highlights the need for caution in patients with pre-existing respiratory conditions like hypoxia or hypercarbia.",Less,No,1,1
+CYCLOBENZAPRINE; CYCLOBENZAPRINE HYDROCHLORIDE,"The drug label for Cyclobenzaprine Hydrochloride does not explicitly mention any pulmonary toxicity risks or pulmonary reactions directly associated with the drug itself. The label primarily focuses on other adverse reactions, pharmacokinetics, contraindications, and drug interactions. 
+ 
+
+ Here is a summary of the relevant sections:
+ 
+
+ 1. **General Adverse Reactions**: The label lists various adverse reactions but does not specifically mention any pulmonary toxicity or pulmonary reactions directly caused by Cyclobenzaprine Hydrochloride.
+ 
+
+ 2. **Causal Relationship Unknown**: Under this section, ""dyspnea"" (difficulty breathing) is mentioned as a reported reaction. However, it is noted that a causal relationship could not be established, meaning it is unclear whether Cyclobenzaprine Hydrochloride itself caused this pulmonary reaction.
+ 
+
+ 3. **Overdose Manifestations**: The label mentions that signs and symptoms of toxicity may develop rapidly after an overdose, including ""respiratory depression."" This indicates that in the context of an overdose, Cyclobenzaprine Hydrochloride could potentially cause respiratory issues, but this is not a common reaction under normal usage.
+ 
+
+ In summary, the drug label does not provide specific evidence that Cyclobenzaprine Hydrochloride is associated with or causes pulmonary toxicity under normal usage conditions. The mention of dyspnea and respiratory depression is either in the context of uncertain causality or overdose situations.",Less,No,1,1
+DALTEPARIN SODIUM,"The provided drug label for FRAGMIN (dalteparin sodium) does not explicitly mention pulmonary toxicity risks or pulmonary reactions. The label primarily focuses on the risks of hemorrhage, spinal/epidural hematomas, thrombocytopenia, and other adverse reactions such as injection site reactions and allergic responses. 
+ 
+
+ Here is a summary of the relevant sections that might indirectly relate to pulmonary issues:
+ 
+
+ 1. **Warnings and Precautions (5.1)**: Discusses the risk of hemorrhage, including spinal/epidural hematomas, but does not specifically mention pulmonary toxicity or reactions.
+ 2. **Adverse Reactions (6.1)**: Lists common adverse reactions such as bleeding, thrombocytopenia, and injection site reactions, but does not mention pulmonary toxicity or reactions.
+ 3. **Clinical Trials Experience (6.1)**: Summarizes bleeding reactions and other adverse events observed in clinical trials, including major bleeding reactions and elevations of serum transaminases, but does not mention pulmonary toxicity or reactions.
+ 4. **Postmarketing Experience (6.2)**: Mentions adverse reactions identified during postapproval use, such as osteoporosis and skin necrosis, but does not mention pulmonary toxicity or reactions.
+ 
+
+ Since the label does not provide specific information on pulmonary toxicity risks or pulmonary reactions associated with FRAGMIN, it can be concluded that the drug itself is not explicitly associated with or reported to cause pulmonary toxicity or reactions based on the provided information.",No,No,1,1
+ETHOSUXIMIDE,"The drug label for Zarontin (ethosuximide) does not explicitly mention pulmonary toxicity risks or pulmonary reactions. The provided text discusses various other risks and side effects associated with the drug, including blood dyscrasias, drug-induced immune thrombocytopenia, effects on liver and kidneys, systemic lupus erythematosus, suicidal behavior and ideation, serious dermatologic reactions, drug reaction with eosinophilia and systemic symptoms (DRESS), and usage in pregnancy. However, there is no specific mention of pulmonary toxicity or pulmonary reactions directly associated with ethosuximide in the provided text.",No,No,1,1
+DOXEPIN HCL,"The provided drug label for Doxepin HCL does not explicitly mention any pulmonary toxicity risks or pulmonary reactions associated with the drug. The label primarily focuses on the following aspects:
+ 
+
+ 1. **Suicidality and Antidepressant Drugs**: Discusses the increased risk of suicidal thinking and behavior in certain age groups.
+ 2. **Mechanism of Action**: Describes the hypothesized mechanism of action of doxepin.
+ 3. **Indications and Usage**: Lists the conditions for which doxepin is recommended.
+ 4. **Contraindications**: Specifies conditions under which doxepin should not be used.
+ 5. **Warnings and Precautions**: Includes warnings about clinical worsening and suicide risk, angle-closure glaucoma, and the need for careful monitoring.
+ 6. **Drug Interactions**: Details interactions with other drugs, particularly those metabolized by cytochrome P450 2D6.
+ 7. **Adverse Reactions**: Lists various side effects, including anticholinergic effects, central nervous system effects, cardiovascular effects, allergic reactions, hematologic effects, gastrointestinal effects, endocrine effects, and other miscellaneous effects.
+ 8. **Overdosage**: Provides information on the management of overdose.
+ 9. **Dosage and Administration**: Recommends dosages for different severities of illness.
+ 10. **Storage and Handling**: Specifies storage conditions and packaging information.
+ 
+
+ Since there are no sentences in the drug label that discuss pulmonary toxicity risks or pulmonary reactions, there is no information to summarize regarding the drug itself being associated with or causing pulmonary risks.",No,No,1,1
+TERAZOSIN HYDROCHLORIDE,"The provided drug label for Terazosin Capsules, USP does not contain any sentences that specifically discuss pulmonary toxicity risks or pulmonary reactions. The label includes detailed information on the drug's indications, pharmacodynamics, pharmacokinetics, adverse reactions, and other safety considerations, but it does not mention any pulmonary toxicity or pulmonary reactions associated with the use of Terazosin. Therefore, there are no sentences to summarize regarding pulmonary risks or reactions for this drug.",No,No,1,1
+METFORMIN HYDROCHLORIDE TABLET,"The drug label for Metformin Hydrochloride tablets does not explicitly mention pulmonary toxicity risks or pulmonary reactions. The primary focus of the warnings and precautions is on lactic acidosis, renal impairment, vitamin B12 deficiency, and hypoglycemia, among other concerns. 
+ 
+
+ Here is a summary of the relevant sections that might indirectly relate to pulmonary issues, but none of these explicitly state that the drug itself causes pulmonary toxicity:
+ 
+
+ 1. **Lactic Acidosis**: The label mentions that metformin-associated lactic acidosis can result in respiratory distress among other symptoms. However, it does not state that metformin directly causes pulmonary toxicity. Instead, respiratory distress is a symptom of the broader condition of lactic acidosis, which is a serious side effect of metformin in certain high-risk patients.
+ 
+
+ 2. **Hypoxic States**: The label notes that several postmarketing cases of metformin-associated lactic acidosis occurred in the setting of acute congestive heart failure, which can be associated with hypoxemia (low blood oxygen levels). Again, this does not indicate that metformin directly causes pulmonary toxicity but highlights that patients with conditions leading to hypoxia are at increased risk for lactic acidosis when taking metformin.
+ 
+
+ 3. **General Supportive Measures**: In cases of suspected lactic acidosis, the label advises immediate discontinuation of metformin and the institution of general supportive measures in a hospital setting, which may include addressing respiratory distress. This is a response to a severe side effect rather than a direct pulmonary toxicity caused by the drug.
+ 
+
+ In summary, the drug label does not directly associate metformin with causing pulmonary toxicity or specific pulmonary reactions. The mention of respiratory distress is in the context of lactic acidosis, a serious condition that can arise in certain high-risk patients taking metformin.",No,No,1,1
